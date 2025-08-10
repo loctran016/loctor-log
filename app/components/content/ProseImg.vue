@@ -28,7 +28,7 @@
           :src="src"
           :alt="alt"
           densities="x1 x2"
-          class="m-10 w-full max-h-4/5 max-w-4/5"
+          class="m-10 max-lg:w-full max-h-4/5 max-w-4/5"
         />
       </div>
     </Transition>
