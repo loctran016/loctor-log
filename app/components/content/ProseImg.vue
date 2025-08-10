@@ -27,10 +27,8 @@
         <NuxtImg
           :src="src"
           :alt="alt"
-          width="6000"
-          sizes="sm:600px md:800px lg:1600px xl:6000px"
           densities="x1 x2"
-          class="m-10"
+          class="m-10 w-full"
         />
       </div>
     </Transition>
