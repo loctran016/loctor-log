@@ -68,7 +68,7 @@ Có 3 loại kháng nguyên:
 
 Tế bào T không thể trực tiếp nhận diện kháng nguyên, vì vậy cần có tế bào APC:
 
-![alt text](/y2/mddc/6-nhandien-kn.png)
+![Cách Lymp T nhận diện KN](/y2/mddc/6-nhandien-kn.png)
 
 Tế bào APC là các tế bào có chức năng bắt giữ vi sinh vật và các kháng nguyên (nội - ngoại), xử lí, và trình diện KN với Lymphocyte T để kích thích, tăng sản, biệt hoá tế bào lympho:
 
@@ -78,16 +78,75 @@ Tế bào APC là các tế bào có chức năng bắt giữ vi sinh vật và 
 
 ![Bắt giữ epitope](/y2/mddc/6-1.png)
 
-![APCs](/y2/mddc/6-apcs.png)
-
 ### Các loại tế bào trình diện kháng nguyên
+
+Tóm lược đặc tính của APCs:
+
+![Bảng chia đặc tính các APCs](/y2/mddc/6-dactinh-apcs.png)
+
+Các chức năng, vai trò quan trọng nhất của từng APC:
+
+![Vai trò quan trọng của APCs](/y2/mddc/6-vaitro-apcs.png)
 
 ### Bắt giữ và xử lý kháng nguyên
 
+APCs bắt giữ các tế bào lạ hay KN thông qua thực bào (phagocytosis) đối với KN hữu hình/ẩm bào đối với KN hoà tan. Sau đó tạo thành các hốc thực bào (phagosome) + lysosome -> phagolysosome có nhiều men tiêu hoá, xử lý virus, vi khuẩn thành các mảnh KN
+
+Khi bắt gặp các VSV: APCs sẽ tiết ra các cytokinin như TNF hay interleukin - MD bẩm sinh
+
+![APCs bắt giữ và xử lý kháng nguyên](/y2/mddc/6-apcs.png)
+
 ## Nhóm phù hợp mô MHC lớp 1 và MHC lớp 2
 
-## Trình diện kháng nguyên bởi tế bào lympho T
+Các peptide KN sau khi được APCs xử lí sẽ được gắn lên trên các MHC trên màng, qua đó trình diện cho Lymp T
 
-### Trình diện kháng nguyên nội sinh qua MHC lớp 1
+![Mô hình một thụ thể của tế bào T dành cho kháng nguyên nhận diện phức hợp peptide được trình diện bởi MHC text](/y2/mddc/6-apcs-kn-t.png)
 
-### Trình diện kháng nguyên ngoại sinh qua MHC lớp 2
+Đặc tính quan trọng của MHC:
+
+- Phức hợp gene MHC có vai trò quan trọng trong quá trình cấy ghép mô: locus MHC giống nhau thì dung nạp, không thì thải loại.
+- MHC trình diện các KN cho **Lymp T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác -> ghép cùng loài vẫn có nguy cơ thải loại
+- Ở người, MHC được gọi là **HLA** (KN bạch cầu của người), là các cụm gen trên *NST số 6*
+- Locus MHC có hai nhóm gene rất **đa kiểu hình** là các gene MHC lớp I và lớp II, lần lượt mã hoá cho MHC lớp I và lớp II
+
+## Trình diện KN cho tế bào lympho T
+
+![Trình diện KN nội sinh - lớp I và ngoại sinh - lớp II](/y2/mddc/6-tdkn-noi-ngoai.png)
+
+![Trình diện KN - MHC I & II cho Lymp T](/y2/mddc/6-tdkn-t.png)
+
+### Trình diện KN nội sinh MHC I với T gây độc
+
+KN nội sinh: các peptide của virus, vi khuẩn được tổng hợp trong TB, **TB ung thư**:
+
+1. Được thái hoá nhờ proteasome thành các đoạn *peptide 9aa*
+2. Chuyển đến **LNC**, liên kết với *rãnh trình diện KN* (giữa domain ⍺1 và ⍺2) của MHC I
+3. Chuyển đến **Golgi** để glycosyl hoá chuỗi ⍺
+4. Gắn lên trên bề mặt TB và trình diện cho **TB T *CD8+ (T gây độc)***
+5. T gây độc tiết **perforin** ly giải TB nhiễm
+
+### Trình diện KN ngoại sinh MHC II với T giúp đỡ
+
+KN ngoại sinh: các protein ngoại sinh, virus, vi khuẩn chết:
+
+1. Bắt giữ nhờ thực bào/ẩm bào vào các *phagosome*
+2. Lysosome hoà màng với phagosome tạo thành **phagolysosome**
+3. Các proteinase cắt thành các đoạn **13-34 aa**
+4. Ở **LNC**, chuỗi *bất biến Li* LK để che chắn rãnh trình diện KN (giữa domen ⍺1 và 𝛽1)
+5. MHC II đi đến **Golgi** để glycosyl hoá ⍺1 và 𝛽1
+6. MHC II đi đến **phagolysosome** có pH thấp nên chuỗi Li tách ra, MHC II gắn peptide KN
+7. Gắn lên trên bề mặt TB và trình diện cho **TB T CD4+ *(T giúp đỡ)***
+
+### Tóm tắt & So sánh
+
+Tóm tắt lại cả 2 con đường:
+
+![Tóm tắt MHC I & II](/y2/mddc/6-tomtat-mhc-i-ii.png)
+
+So sánh cả 2 con đường:
+
+![So sánh MHC I & II](/y2/mddc/6-sosanh-mhc-i-ii.png)
+
+Trình diện chéo: các TB bị nhiễm khuẩn/virus nội bào hay bị ung thư **không có khả năng trình diện KN**, bị **thực bào bởi TB tua gai**, sẽ trình diện MHC I cho T gây độc, bên cạnh trình diện MHC II cho T giúp đỡ
+
+![Trình diện chéo](/y2/mddc/6-trinhdien-cheo.png)
