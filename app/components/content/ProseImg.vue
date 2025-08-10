@@ -18,7 +18,7 @@
     >
       <div
         v-if="showLightbox"
-        class="z-10 fixed top-4 bottom-4 left-4 right-4
+        class="z-10 fixed bottom-0 right-0 top-0 left-0
                bg-black max-h-4/5 max-w-4/5 bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
                duration-300 md:p-8"
@@ -30,6 +30,7 @@
           width="6000"
           sizes="sm:600px md:800px lg:1600px xl:6000px"
           densities="x1 x2"
+          class="m-10"
         />
       </div>
     </Transition>
