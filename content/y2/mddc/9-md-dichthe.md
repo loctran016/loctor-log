@@ -1,5 +1,5 @@
 ---
-title: Bài 9 - Miễn dịch Dịch thể
+title: Bài 9 - Kháng thể và Miễn dịch dịch thể
 date: 2025-08-06
 ---
 
@@ -21,7 +21,7 @@ Cuộn lại thành các domain, chia thành:
 
 - Vùng biến đổi (V - variable): **V**L và **V**H thay đổi 1 - 2 chuỗi để thay
 
-* Vùng hằng định (C): H và C khác nhau ở vùng này
+- Vùng hằng định (C): H và C khác nhau ở vùng này
 
 ### Các lớp kháng thể
 

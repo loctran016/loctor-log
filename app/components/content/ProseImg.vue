@@ -19,7 +19,7 @@
       <div
         v-if="showLightbox"
         class="z-10 fixed bottom-0 right-0 top-0 left-0
-               bg-black max-h-4/5 max-w-4/5 bg-opacity-50 flex items-center
+               bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
                duration-300 md:p-8"
         @click.stop="() => (showLightbox = !showLightbox)"
@@ -28,7 +28,7 @@
           :src="src"
           :alt="alt"
           densities="x1 x2"
-          class="m-10 w-full"
+          class="m-10 w-full max-h-4/5 max-w-4/5"
         />
       </div>
     </Transition>
