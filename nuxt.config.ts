@@ -35,7 +35,9 @@ export default defineNuxtConfig({
     experimental: { sqliteConnector: "native" },
     build: {
       markdown: {
-        remarkPlugins: {},
+            remarkPlugins: {
+            'remark-gfm': {},
+        },
         rehypePlugins: {},
         toc: {
           depth: 3, // include h3 headings

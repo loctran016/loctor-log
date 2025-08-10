@@ -9,7 +9,7 @@
       sizes="sm:600px md:800px"
       densities="x1 x2"
     />
-    <p class="text-sm text-center -translate-y-4">{{ alt }}</p>
+    <figcaption class="text-sm text-center -translate-y-4">{{ alt }}</figcaption>
   </div>
   <Teleport to="body">
     <Transition
