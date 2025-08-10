@@ -1,7 +1,7 @@
 <template>
   <div class="md:-mx-8 lg:-mx-16">
     <NuxtImg
-      class="rounded-md shadow-lg w-full"
+      class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
       :src="src"
       :alt="alt"
       @click.stop="() => (showLightbox = !showLightbox)"
@@ -9,7 +9,7 @@
       sizes="sm:600px md:800px"
       densities="x1 x2"
     />
-    <p class="text-sm text-center -mt-2">{{ alt }}</p>
+    <p class="text-sm text-center -translate-y-4">{{ alt }}</p>
   </div>
   <Teleport to="body">
     <Transition
