@@ -26,7 +26,7 @@ useSeoMeta({
 <template>
     <h2 class="text-2xl  dark:text-gray-200 cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-10"><NuxtLink :to="`/${year}`">{{ String(year).toUpperCase() }}</NuxtLink> / <span class="text-slate-900 dark:text-white">{{ subjects?.data[`${subject}`]?.name }}</span></h2>
 
-    <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 items-center">
+    <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto my-2 items-center">
       <li v-for="post in posts" :key="post.id" class="">
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer">
               <h3 class="font-[Montserrat] font-bold lg:text-lg mt-2 flex-grow">

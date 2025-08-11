@@ -29,6 +29,7 @@
           :alt="alt"
           densities="x1 x2"
           class="m-10 max-lg:w-full max-h-4/5 max-w-4/5 scale-150"
+          ref="el" :style="style"
         />
       </div>
     </Transition>
@@ -36,8 +37,19 @@
 </template>
 
 <script setup lang="ts">
+import { useDraggable } from '@vueuse/core'
 import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 
+import { useTemplateRef } from 'vue'
+
+const el = useTemplateRef<HTMLElement>('el')
+
+const { x, y, style } = useDraggable(el, {
+  preventDefault: true,
+  // with `preventDefault: true`
+  // you can disable the native behavior (e.g., for img)
+  // and control the drag-and-drop, preventing the browser interference.
+})
 const props = defineProps({
   src: {
     type: String,
