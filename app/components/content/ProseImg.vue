@@ -9,7 +9,7 @@
       sizes="sm:600px md:800px"
       densities="x1 x2"
     />
-    <figcaption class="text-sm text-center -translate-y-4">{{ alt }}</figcaption>
+    <figcaption class="text-sm text-center">{{ alt }}</figcaption>
   </figure>
   <Teleport to="body">
     <Transition
@@ -25,7 +25,7 @@
       >
       <div :style="(posX != 0 && posY != 0) && imgPos"
       ref="img"
-            v-on-click-outside.stop="() => (showLightbox = !showLightbox)" class="z-20 fixed">
+            v-on-click-outside.stop="() => (showLightbox = !showLightbox)" class="z-20 top-1/2 left-1/2 -translate-1/2 fixed">
 
           <NuxtImg
             :src="refinedSrc"
