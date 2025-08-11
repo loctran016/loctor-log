@@ -1,8 +1,8 @@
 <template>
-  <div class="md:-mx-8 lg:-mx-16">
+  <figure class="md:-mx-8 lg:-mx-16">
     <NuxtImg
       class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
-      :src="src"
+      :src="refinedSrc"
       :alt="alt"
       @click.stop="() => (showLightbox = !showLightbox)"
       width="800"
@@ -10,7 +10,7 @@
       densities="x1 x2"
     />
     <figcaption class="text-sm text-center -translate-y-4">{{ alt }}</figcaption>
-  </div>
+  </figure>
   <Teleport to="body">
     <Transition
       enter-from-class="opacity-0"
@@ -18,19 +18,23 @@
     >
       <div
         v-if="showLightbox"
-        class="z-10 fixed bottom-0 right-0 top-0 left-0
+        class="z-10 fixed h-screen w-screen top-0 left-0
                bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
                duration-300 md:p-8"
       >
-        <NuxtImg
-          :src="src"
-          :alt="alt"
-          densities="x1 x2"
-          class="m-10 max-lg:w-full lg:h-4/5 fixed z-20"
-          ref="el" :style="style"
-          v-on-click-outside.stop="() => (showLightbox = !showLightbox)"
-        />
+      <div :style="(posX != 0 && posY != 0) && imgPos"
+      ref="img"
+            v-on-click-outside.stop="() => (showLightbox = !showLightbox)" class="z-20 fixed">
+
+          <NuxtImg
+            :src="refinedSrc"
+            :alt="alt"
+            densities="x1 x2"
+            class="max-lg:w-full lg:h-3/4 lg:w-auto"
+
+          />
+      </div>
       </div>
     </Transition>
   </Teleport>
@@ -43,9 +47,11 @@ import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 
 import { useTemplateRef } from 'vue'
 
-const el = useTemplateRef<HTMLElement>('el')
+const img = useTemplateRef<HTMLElement>('img')
 
-const { x, y, style } = useDraggable(el, {
+
+
+const { x:posX,y:posY, style:imgPos } = useDraggable(img, {
   preventDefault: true,
   // with `preventDefault: true`
   // you can disable the native behavior (e.g., for img)
@@ -73,4 +79,14 @@ const refinedSrc = computed(() => {
   }
   return props.src
 })
+
+const bodyClass = computed(() => `${showLightbox.value ? 'overflow-y-hidden' : ''}`)
+
+useHeadSafe(
+    {
+        bodyAttrs: {
+            class: bodyClass
+    }
+}
+)
 </script>

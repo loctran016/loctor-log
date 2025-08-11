@@ -50,18 +50,4 @@ useSeoMeta({
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 0.02rem;
 }
-/*
-.dark .post-content h2 a::before
-{
-    content:"#";
-    position: absolute;
-    transform: translateX(-2.1rem);
-    color: hsl(240, 4%, 10%);
-}
-
-.dark .post-content h2:hover a::before
-{
-} */
-
-
 </style>
