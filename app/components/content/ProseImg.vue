@@ -28,7 +28,7 @@
           :src="src"
           :alt="alt"
           densities="x1 x2"
-          class="m-10 max-lg:w-full max-h-4/5 max-w-4/5 scale-150"
+          class="m-10 max-lg:w-full max-h-4/5 max-w-4/5 lg:h-4/5 absolute z-20"
           ref="el" :style="style"
         />
       </div>
