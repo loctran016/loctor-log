@@ -15,7 +15,7 @@ useSeoMeta({
 
 <template>
   <div>
-    <ul>
+    <ul class="mb-10">
       <li v-for="post in posts" :key="post.id">
         <PostCard>
           <NuxtLink :to="post.path">

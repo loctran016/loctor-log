@@ -22,14 +22,14 @@
                bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
                duration-300 md:p-8"
-        @click.stop="() => (showLightbox = !showLightbox)"
       >
         <NuxtImg
           :src="src"
           :alt="alt"
           densities="x1 x2"
-          class="m-10 max-lg:w-full max-h-4/5 max-w-4/5 lg:h-4/5 absolute z-20"
+          class="m-10 max-lg:w-full lg:h-4/5 fixed z-20"
           ref="el" :style="style"
+          v-on-click-outside.stop="() => (showLightbox = !showLightbox)"
         />
       </div>
     </Transition>
@@ -38,6 +38,7 @@
 
 <script setup lang="ts">
 import { useDraggable } from '@vueuse/core'
+import { vOnClickOutside } from '@vueuse/components'
 import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 
 import { useTemplateRef } from 'vue'
