@@ -2,7 +2,7 @@
 import NotFound from "~/components/NotFound.vue";
 import { useDateFormat } from '@vueuse/core'
 import lightBox from "~/store/lightBox";
-
+import Giscus from '@giscus/vue';
 
 definePageMeta({
   layout: "blog",
@@ -39,6 +39,21 @@ console.log(lightBox().state.value);
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
+   <!-- <Giscus
+        repo="loctran016/loctor-log"
+        repoId="R_kgDOPUsuHw"
+        category="Show and tell"
+        categoryId="DIC_kwDOPUsuH84CuE_i"
+        mapping="pathname"
+        strict="0"
+        reactionsEnabled="1"
+        emitMetadata="0"
+        inputPosition="top"
+        theme="noborder_gray"
+        lang="vi"
+        loading="lazy"
+        crossorigin="anonymous"
+        async /> -->
 </template>
 
 <style lang="css">

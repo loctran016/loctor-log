@@ -3,7 +3,7 @@ title: Bài I.1 - Đặc điểm cấu trúc và sinh học của vi khuẩn
 date: 2025-08-12
 ---
 
-<!-- ![](https://placehold.co/600x400) -->
+![](https://placehold.co/600x400)
 
 ## Cầu khuẩn gram dương (Staphylococci, Streptococci)
 

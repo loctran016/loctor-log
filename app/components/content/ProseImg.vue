@@ -81,7 +81,7 @@ const refinedSrc = computed(() => {
   return props.src
 })
 
-const bodyClass = computed(() => `${!lightBox().state.value ? 'overflow-y-hidden' : ''}`)
+const bodyClass = computed(() => `relative ${lightBox().state.value ? 'overflow-y-hidden' : ''}`)
 
 useHeadSafe(
     {
