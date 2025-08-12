@@ -1,7 +1,6 @@
 <script setup>
 import NotFound from "~/components/NotFound.vue";
 import { useDateFormat } from '@vueuse/core'
-import lightBox from "~/store/lightBox";
 import Giscus from '@giscus/vue';
 import { vScrollLock } from '@vueuse/components'
 
@@ -39,7 +38,7 @@ useSeoMeta({
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
-   <div class="mt-10">
+   <div class="my-10">
        <Giscus
             repo="loctran016/loctor-log"
             repoId="R_kgDOPUsuHw"
@@ -73,6 +72,6 @@ useSeoMeta({
 giscus-widget {
   display: flex;
   margin: auto;
-  max-width: min(640px,80vw);
+  max-width: min(800px,80vw);
 }
 </style>

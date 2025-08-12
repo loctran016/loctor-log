@@ -4,7 +4,7 @@
       class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
       :src="refinedSrc"
       :alt="alt"
-      @click.stop="() => { lightBox().toggle(); showLightbox = !showLightbox}"
+      @click.stop="() => { showLightbox = !showLightbox}"
       width="800"
       sizes="sm:600px md:800px"
       densities="x1 x2"
@@ -17,7 +17,7 @@
       leave-to-class="opacity-0"
     >
       <div
-        v-if="showLightbox"
+        v-if="!isApple && showLightbox"
         class="z-10 fixed h-screen w-screen top-0 left-0
                bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
@@ -25,7 +25,7 @@
       >
       <div :style="(posX != 0 && posY != 0) && imgPos"
       ref="img"
-            v-on-click-outside.stop="() => { lightBox().toggle(); showLightbox = !showLightbox }" class="z-20 top-1/2 left-1/2 fixed hover:cursor-move" :class="(posX != 0 && posY != 0) || '-translate-x-1/2 -translate-y-1/2'" >
+            v-on-click-outside.stop="() => { showLightbox = !showLightbox }" class="z-20 top-1/2 left-1/2 fixed hover:cursor-move" :class="(posX != 0 && posY != 0) || '-translate-x-1/2 -translate-y-1/2'" >
 
           <NuxtImg
             :src="refinedSrc"
@@ -46,10 +46,8 @@ import { vOnClickOutside } from '@vueuse/components'
 import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 import { useTemplateRef } from 'vue'
 
-import lightBox from "../../store/lightBox";
-
 const img = useTemplateRef<HTMLElement>('img')
-
+const isApple = /iPhone|iPad|Macintosh/.test(navigator.userAgent);
 
 
 const { x:posX,y:posY, style:imgPos } = useDraggable(img, {
@@ -78,18 +76,13 @@ const refinedSrc = computed(() => {
   return props.src
 })
 
-const bodyClass = computed(() => `${lightBox().state.value ? 'overflow-y-hidden relative' : ''}`)
-const htmlStyle = computed(() => `${lightBox().state.value ? 'overflow - y: hidden; position:relative' : ''}`)
+const bodyClass = computed(() => `${showLightbox.value ? 'overflow-y-hidden relative' : ''}`)
 
 useHeadSafe(
     {
         bodyAttrs: {
             class: bodyClass
         },
-        htmlAttrs: {
-            // class: bodyClass
-            style:htmlStyle
-        }
     }
 )
 </script>
