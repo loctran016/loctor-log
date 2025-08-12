@@ -1,6 +1,7 @@
 <script setup>
 import NotFound from "~/components/NotFound.vue";
 import { useDateFormat } from '@vueuse/core'
+import lightBox from "~/store/lightBox";
 
 
 definePageMeta({
@@ -24,10 +25,11 @@ useSeoMeta({
   title: post.value?.title,
   description: post.value?.description,
 });
+console.log(lightBox().state.value);
 </script>
 
 <template>
-    <div class="mx-auto text-center">
+    <div class="mx-auto text-center" v-if="post">
         <h1 class="font-[Montserrat] max-w-4/5 text-xl lg:text-4xl mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>

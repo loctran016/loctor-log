@@ -4,7 +4,7 @@
       class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
       :src="refinedSrc"
       :alt="alt"
-      @click.stop="() => (showLightbox = !showLightbox)"
+      @click.stop="() => { lightBox().toggle(); showLightbox = !showLightbox}"
       width="800"
       sizes="sm:600px md:800px"
       densities="x1 x2"
@@ -25,13 +25,13 @@
       >
       <div :style="(posX != 0 && posY != 0) && imgPos"
       ref="img"
-            v-on-click-outside.stop="() => (showLightbox = !showLightbox)" class="z-20 top-1/2 left-1/2 -translate-1/2 fixed">
+            v-on-click-outside.stop="() => { lightBox().toggle(); showLightbox = !showLightbox }" class="z-20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 fixed">
 
           <NuxtImg
             :src="refinedSrc"
             :alt="alt"
             densities="x1 x2"
-            class="max-lg:w-full lg:h-3/4 lg:w-auto"
+            class="max-lg:w-full lg:min-w-3/5"
 
           />
       </div>
@@ -44,8 +44,9 @@
 import { useDraggable } from '@vueuse/core'
 import { vOnClickOutside } from '@vueuse/components'
 import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
-
 import { useTemplateRef } from 'vue'
+
+import lightBox from "../../store/lightBox";
 
 const img = useTemplateRef<HTMLElement>('img')
 
@@ -80,7 +81,7 @@ const refinedSrc = computed(() => {
   return props.src
 })
 
-const bodyClass = computed(() => `${showLightbox.value ? 'overflow-y-hidden' : ''}`)
+const bodyClass = computed(() => `${!lightBox().state.value ? 'overflow-y-hidden' : ''}`)
 
 useHeadSafe(
     {
