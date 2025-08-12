@@ -54,7 +54,7 @@ useSeoMeta({
             reactionsEnabled="1"
             emitMetadata="0"
             inputPosition="top"
-            theme="noborder_gray"
+            :theme="$colorMode.value === 'light' ? 'catppuccin_latte' : 'noborder_gray'"
             lang="vi"
             loading="lazy"
             crossorigin="anonymous"
