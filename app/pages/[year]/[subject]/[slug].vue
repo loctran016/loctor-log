@@ -3,6 +3,7 @@ import NotFound from "~/components/NotFound.vue";
 import { useDateFormat } from '@vueuse/core'
 import lightBox from "~/store/lightBox";
 import Giscus from '@giscus/vue';
+import { vScrollLock } from '@vueuse/components'
 
 definePageMeta({
   layout: "blog",
@@ -33,7 +34,7 @@ useSeoMeta({
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article class="post-content prose prose-headings:font-[Montserrat] prose-headings:underline-offset-8 lg:prose-lg dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]">
+   <article v-scroll-lock="lightBox.state.value" class="post-content prose prose-headings:font-[Montserrat] prose-headings:underline-offset-8 lg:prose-lg dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]">
 
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
