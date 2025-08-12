@@ -31,8 +31,7 @@
             :src="refinedSrc"
             :alt="alt"
             densities="x1 x2"
-            class="max-lg:w-full lg:min-w-3/5"
-
+            class="max-lg:w-full lg:min-w-[50vw]"
           />
       </div>
       </div>
