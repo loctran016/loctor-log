@@ -13,6 +13,12 @@ const slug = route.params.slug;
 const subject = route.params.subject;
 const year = route.params.year;
 // const relativeSlug = slug.split("/").slice(-3);
+const { data: subjects } = await useAsyncData(
+  `home`,
+  () => queryCollection("json").where("stem", "=", `${year}/index`).first()
+  //   queryCollection("json").where("path", "LIKE", "/y2/%").first()
+);
+
 const { data: post } = await useAsyncData(`content-${slug}`, () => {
   return queryCollection("content")
     .path(`/${year}/${subject}/${slug}`)
@@ -27,8 +33,9 @@ useSeoMeta({
 </script>
 
 <template>
+    <p class="text-sm lg:text-base dark:text-gray-200 cursor-pointer font-bold mb-6 ml-4 lg:ml-6 xl:ml-8 mt-4 text-slate-900 hover:text-slate-950 hover:dark:text-white group "><NuxtLink :to="`/${year}/${subject}`" class="flex items-center gap-2"><Icon class="group-hover:-translate-x-2 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon>{{ subjects?.data[`${subject}`]?.name }}</NuxtLink></p>
     <div class="mx-auto text-center" v-if="post">
-        <h1 class="font-[Montserrat] max-w-4/5 text-xl lg:text-4xl mx-auto">{{ post.title }}</h1>
+        <h1 class="font-[Montserrat] max-w-[80vw] text-xl lg:text-4xl mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
@@ -36,7 +43,7 @@ useSeoMeta({
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
-   <div class="my-10">
+   <div class="my-10 max-w-screen">
        <Giscus
             repo="loctran016/loctor-log"
             repoId="R_kgDOPUsuHw"
