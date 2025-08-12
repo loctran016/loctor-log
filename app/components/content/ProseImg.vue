@@ -25,7 +25,7 @@
       >
       <div :style="(posX != 0 && posY != 0) && imgPos"
       ref="img"
-            v-on-click-outside.stop="() => { lightBox().toggle(); showLightbox = !showLightbox }" class="z-20 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 fixed">
+            v-on-click-outside.stop="() => { lightBox().toggle(); showLightbox = !showLightbox }" class="z-20 top-1/2 left-1/2 fixed hover:cursor-move" :class="(posX != 0 && posY != 0) || '-translate-x-1/2 -translate-y-1/2'" >
 
           <NuxtImg
             :src="refinedSrc"
@@ -54,9 +54,6 @@ const img = useTemplateRef<HTMLElement>('img')
 
 const { x:posX,y:posY, style:imgPos } = useDraggable(img, {
   preventDefault: true,
-  // with `preventDefault: true`
-  // you can disable the native behavior (e.g., for img)
-  // and control the drag-and-drop, preventing the browser interference.
 })
 const props = defineProps({
   src: {
@@ -81,13 +78,18 @@ const refinedSrc = computed(() => {
   return props.src
 })
 
-const bodyClass = computed(() => `relative ${lightBox().state.value ? 'overflow-y-hidden' : ''}`)
+const bodyClass = computed(() => `${lightBox().state.value ? 'overflow-y-hidden relative' : ''}`)
+const htmlStyle = computed(() => `${lightBox().state.value ? 'overflow - y: hidden; position:relative' : ''}`)
 
 useHeadSafe(
     {
         bodyAttrs: {
             class: bodyClass
+        },
+        htmlAttrs: {
+            // class: bodyClass
+            style:htmlStyle
+        }
     }
-}
 )
 </script>

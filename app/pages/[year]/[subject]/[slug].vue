@@ -25,7 +25,6 @@ useSeoMeta({
   title: post.value?.title,
   description: post.value?.description,
 });
-console.log(lightBox().state.value);
 </script>
 
 <template>
@@ -39,21 +38,23 @@ console.log(lightBox().state.value);
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
-   <!-- <Giscus
-        repo="loctran016/loctor-log"
-        repoId="R_kgDOPUsuHw"
-        category="Show and tell"
-        categoryId="DIC_kwDOPUsuH84CuE_i"
-        mapping="pathname"
-        strict="0"
-        reactionsEnabled="1"
-        emitMetadata="0"
-        inputPosition="top"
-        theme="noborder_gray"
-        lang="vi"
-        loading="lazy"
-        crossorigin="anonymous"
-        async /> -->
+   <div class="mt-10">
+       <Giscus
+            repo="loctran016/loctor-log"
+            repoId="R_kgDOPUsuHw"
+            category="Show and tell"
+            categoryId="DIC_kwDOPUsuH84CuE_i"
+            mapping="pathname"
+            strict="0"
+            reactionsEnabled="1"
+            emitMetadata="0"
+            inputPosition="top"
+            theme="noborder_gray"
+            lang="vi"
+            loading="lazy"
+            crossorigin="anonymous"
+            async />
+   </div>
 </template>
 
 <style lang="css">
@@ -66,5 +67,11 @@ console.log(lightBox().state.value);
 .post-content strong {
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 0.02rem;
+}
+
+giscus-widget {
+  display: flex;
+  margin: auto;
+  max-width: min(640px,80vw);
 }
 </style>
