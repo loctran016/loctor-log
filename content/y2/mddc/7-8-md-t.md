@@ -96,7 +96,7 @@ bởi các tế bào Th17, đặc biệt là IL22, có chức năng duy trì ch�
 hàng rào biểu mô trong đường ruột
 và các mô khác.
 
-![Chức năng của Th17](/y2/mddc/7-8-chucnang-th17.png)
+![Chức năng của Th17](/y2/mddc/7-8-chucnang-th17.jpeg)
 
 Sự hình thành tế bào Th17 từ tế
 bào CD4+ sơ khai được thúc đẩy bởi các
@@ -110,7 +110,7 @@ là, TGF-β là một chất ức chế mạnh mẽ của
 cùng với IL-6 hoặc IL-1, nó lại thúc đẩy sự
 phát triển của tế bào Th17.
 
-![Sự hình thành Th17](/y2/mddc/7-8-hinhthanh-th17.png)
+![Sự hình thành Th17](/y2/mddc/7-8-hinhthanh-th17.jpeg)
 
 
 ## Sự hình thành và chức năng của T CD8+ hành sự
