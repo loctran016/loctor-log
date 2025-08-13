@@ -10,7 +10,7 @@ date: 2025-08-13
 
 ## Cơ chế hoạt hoá lympho T
 
-![2 nhóm tín hiệu hoạt hoá lympho T](/y2/mddc/7-8-tinhieu-hoathoa-t.png)
+![2 nhóm tín hiệu hoạt hoá lympho T](/y2/mddc/7-8-tinhieu-hoathoa-t.jpeg)
 
 ![B7 tham gia hoạt hoá lympho T](/y2/mddc/7-8-b7-hoathoa-t.png)
 
