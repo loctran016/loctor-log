@@ -60,7 +60,7 @@ hóa thành phân nhóm Th2. Những tế
 bào này tạo ra nhiều IL-4 hơn và từ đó
 khuếch đại thêm đáp ứng Th2.
 
-![Sự hình thành Th2](/y2/mddc/7-8-hinhthanh-th2.png)
+![Sự hình thành Th2](/y2/mddc/7-8-hinhthanh-th2.jpeg)
 
 ***CÂN BẰNG GIỮA Th1/Th2***
 
