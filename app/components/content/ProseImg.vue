@@ -1,4 +1,4 @@
-<template>
+((<template>
   <figure class="md:-mx-8 lg:-mx-16">
     <NuxtImg
       class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
@@ -46,7 +46,7 @@ import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 import { useTemplateRef } from 'vue'
 
 const img = useTemplateRef<HTMLElement>('img')
-const isApple = /iPhone|iPad|Macintosh/.test(navigator.userAgent);
+	const isApple = typeof navigator == 'undefined' || /iPhone|iPad|Macintosh/.test(navigator.userAgent);
 
 
 const { x:posX,y:posY, style:imgPos } = useDraggable(img, {
