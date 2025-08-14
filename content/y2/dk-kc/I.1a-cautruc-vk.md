@@ -1,10 +1,8 @@
 ---
 title: Bài I.1a - Đặc điểm cấu trúc và sinh học của vi khuẩn
 date: 2025-08-14
-tag: 'Vi khuẩn'
+tag: Vi khuẩn
 ---
-
-<!-- ![](https://placehold.co/600x400) -->
 
 ## Cầu khuẩn gram dương (Staphylococci, Streptococci)
 
@@ -33,7 +31,7 @@ Không di động, không tạo bào tử
 Nuôi cấy dễ dàng:
 
 - Tồn tại trong các môi trường có O<sub>2</sub>: hiếu khí, vi hiếu khí, kị khí tuỳ nghi
-- 37^o^C
+- 37<sup>o</sup>C
 - Khúm hình tròn, trơn láng, sáng lóng lánh
     – S. aureus: màu vàng nhạt-đậm
     – S. epidermidis: xám-trắng
@@ -288,7 +286,7 @@ Hiện tượng “ngưng kết O”: vi khuẩn ngưng kết với nhau dưới
 **Chỉ có ở vi khuẩn có chiên mao**, bản chất là protein
 giống như myosin của cơ
 
-- Bị hủy bởi nhiệt độ 100^o^C
+- Bị hủy bởi nhiệt độ 100<sup>o</sup>C
 - Bị hủy bởi alcohol 50%
 - Bị hủy bởi proteinase
 - Không bị hủy bởi formol 5%
@@ -429,7 +427,7 @@ Có 2 loại: Salmonella enterica, Salmonella bongori
 
 **KHẢ NĂNG GÂY BỆNH:**
 
-- 1000–10,000 vi khuẩn
+- 1000 – 10,000 vi khuẩn
 - Vi khuẩn đến các cơ
 quan (lách, gan, thận,
 tủy xương, túi mật)
@@ -457,10 +455,10 @@ năng di động
 • Thường đứng đơn lẻ, đôi khi
 thành đôi hoặc chuỗi ngắn
 
-### TÍNH CHẤT NUÔI CẤY
+### Nuôi cấy
 
-1. Hiếu khí tuyệt đối
-2. Nhiệt độ tăng trưởng: 37oC-42oC (5-42oC)
+1. Hiếu khí tuyệt đối 
+2. Nhiệt độ tăng trưởng: 37<sup>o</sup>C-42<sup>o</sup>C (5-42<sup>o</sup>C)
 ➔ Phân biệt P. aeroginosa với
 các loài Pseudomonas khác
 3. Tính chất sinh hóa:
@@ -511,17 +509,9 @@ trong cơ thể…
 
 ### Lâm sàng
 
-BỆNH PHẨM: quệt vết
-thương, mủ, nước tiểu, đàm, máu,
-dịch não tủy (Cary-Blair)
-
-BỆNH PHẨM: quệt vết
-thương, mủ, nước tiểu, đàm, máu,
-dịch não tủy (Cary-Blair)
-
-### Kháng sinh
+BỆNH PHẨM: dịch cơ thể (quệt vết thương, mủ, nước tiểu, đàm, máu), dịch não tủy (Cary-Blair)
 
 Phối hợp kháng sinh:
-Penicillins (Carbenicilline, ticarcilline, Azlocillin…)
-Aminoglycosides
-Cephalosporin III (Ceftazidime) hoặc Quinolone…
+- Penicillins (Carbenicilline, ticarcilline, Azlocillin…)
+- Aminoglycosides
+- Cephalosporin III (Ceftazidime) hoặc Quinolone…
