@@ -26,19 +26,19 @@ date: 2025-08-13
 
 ![Biệt hoá CD4+](/y2/mddc/7-8-biethoa-cd4.png)
 
-### Th1
+### Tế bào Th1
 
- Các tế bào Th1 tạo ra cytokine interferon-γ (IFN-γ), kích hoạt các đại thực bào tiêu diệt các vi khuẩn bị thực bào (con đường cổ điển của quá trình kích hoạt đại thực bào). Ở một số loài, IFN-γ kích thích sản xuất kháng thể IgG, nhưng trong trường hợp này các tế bào T giúp đỡ nang có thể mới là nguồn cung cấp
+ Các tế bào Th1 tạo ra IFN-γ, kích hoạt con đường cổ điển của đại thực bào **(M1)** tiêu diệt các vi khuẩn bị thực bào. Ở một số loài, IFN-γ kích thích sản xuất kháng thể IgG, nhưng trong trường hợp này các tế bào T giúp đỡ nang có thể mới là nguồn cung cấp
 
 ![Hoạt hoá đại thực bào bởi tế bào lympho Th1](/y2/mddc/7-8-dtb-dapung-th1.png)
 
-Các tế bào Th1 nhận diện các kháng nguyên của vi sinh vật trên các đại thực bào. Các tế bào Th1 biểu hiện CD40L gắn kết với CD40 trên các đại thực bào và tiết ra interferon-γ (IFN-γ) gắn với các thụ thể IFN-γ trên các đại thực bào, làm hoạt hóa đại thực bào. Các đại thực bào được kích hoạt cũng tiết TNF, IL-1 và chemokine, gây ra viêm và IL-12, thúc đẩy đáp ứng Th1. Các đại thực bào này cũng biểu lộ nhiều hơn các phân tử MHC và các đồng kích thích, giúp tăng cường hơn nữa các đáp ứng của tế bào T
+Các tế bào Th1 nhận diện các kháng nguyên của vi sinh vật trên các đại thực bào. Bên cạnh IFN-γ, CD40L của Th1 gắn kết với CD40 của đại thực bào, làm hoạt hóa đại thực bào *(M1)*. Các đại thực bào được kích hoạt cũng tiết TNF, IL-1 và chemokine (đáp ứng viêm) và IL-12, thúc đẩy biệt hoá Th1. Các đại thực bào này cũng biểu lộ nhiều hơn các phân tử MHC và các đồng kích thích, giúp tăng cường hơn nữa các đáp ứng của tế bào T
 
 IFN-γ thúc đẩy biệt hoá Th1, ức chế sự biệt hoá của tế bào Th2 và Th17. Do đó, IFN-γ phân cực tăng dần đáp ứng theo hướng của phân nhóm Th1.
 
 ![Sự biệt hóa của Th1 được điều khiển bởi IL-12 và IFN-γ](/y2/mddc/7-8-th1-cytokin.png)
 
-### Th2
+### Tế bào Th2
 
 Chức năng của tế bào Th2. Các tế bào Th2 tạo ra các cytokine như IL-4, IL-5, IL-13. IL-4 và IL-13 tác động lên các tế bào B để kích thích sản xuất chủ yếu các kháng thể IgE, các kháng thể này liên kết với các tế bào mast. Việc sản xuất kháng thể có thể được hỗ trợ bởi các tế bào Tfh tạo ra các cytokine Th2 (cư trú trong các cơ quan bạch huyết), chứ không phải bởi các tế bào Th2 cổ điển. IL-5 kích hoạt bạch cầu ái toan, là tế bào rất quan trọng trong việc tiêu diệt giun sán.
 
@@ -73,15 +73,16 @@ trùng Leishmania ở chuột và bệnh phong ở người.
 
 ![Cân ba ngừ giữa Th1 và Th2](/y2/mddc/7-8-cb-th1-th2.png)
 
-Nhiễm Mycobacterium	leprae
-Thể phong củ:	Th1	chiếm ưu thế
-- Ít vi	khuẩn
+Nhiễm Mycobacterium leprae
+Thể phong củ: Th1 chiếm ưu thế
+
+- Ít vi khuẩn
 - Tổn thương ít
-Thể phong u:	Th2	chiếm ưu thế
-- Nhiều vi	khuẩn
+Thể phong u: Th2 chiếm ưu thế
+- Nhiều vi khuẩn
 - Tổn thương nhiều
 
-### Th17
+### Tế bào Th17
 
 Chức năng của tế bào
 Th17. Các tế bào Th17 sản xuất
@@ -111,6 +112,5 @@ cùng với IL-6 hoặc IL-1, nó lại thúc đẩy sự
 phát triển của tế bào Th17.
 
 ![Sự hình thành Th17](/y2/mddc/7-8-hinhthanh-th17.jpeg)
-
 
 ## Sự hình thành và chức năng của T CD8+ hành sự

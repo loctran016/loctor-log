@@ -36,7 +36,11 @@ export default defineNuxtConfig({
     build: {
       markdown: {
             remarkPlugins: {
-            'remark-gfm': {},
+              'remark-gfm': {
+                    options: {
+                        singleTilde: false
+                  },
+            },
         },
         rehypePlugins: {},
         toc: {

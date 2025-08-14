@@ -49,7 +49,7 @@ useSeoMeta({
             repoId="R_kgDOPUsuHw"
             category="Show and tell"
             categoryId="DIC_kwDOPUsuH84CuE_i"
-            mapping="pathname"
+            mapping="title"
             strict="0"
             reactionsEnabled="1"
             emitMetadata="0"
