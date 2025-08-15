@@ -143,11 +143,13 @@ nhu mô phổi
 
 Có 2 họ: Neisseria spp; Kingella spp
 
-### Neisseria Gonorrhoeae
+Trong bài sẽ tập trung về 2 con: Neisseria gonorrhoeae (lậu cầu) và Neisseria meningitidis (não mô cầu)
+
+### Neisseria Gonorrhoeae - Lậu cầu
 
 Sức đề kháng yếu: dễ chết bởi sự khô, ánh sáng mặt trời, hơi nóng ẩm, chất sát khuẩn
 
-Kháng nguyên không đồng nhất, có thể thay đổi cấu trúc bề mặt tránh sự đề kháng ký chủ
+Kháng nguyên không đồng nhất, dễ thay đổi
 
 Bệnh học:
 
@@ -156,29 +158,27 @@ Bệnh học:
 - Ủ bệnh 3 – 4 ngày
 - Viêm mãn có khả năng gây vô sinh
 
-Lâm sàng:
+Bệnh học:
 
 - Nam: viêm niệu đạo cấp tính: tiểu đau, tiểu khó, tiểu mủ viêm tiền liệt tuyến, viêm mào tinh, hẹp niệu đạo
 - Nữ: đa số không triệu chứng hoặc có ít chất trắng
+- Nhiễm lậu cầu lan tỏa: xuất huyết đầu chi, viêm khớp, ở người trẻ
+- Trẻ sơ sinh: viêm kết mạc
 
-Nhiễm lậu cầu lan tỏa: xuất huyết đầu chi, viêm khớp, ở người trẻ
+Bệnh phẩm: *dịch từ các nơi bị bệnh* - mủ dịch từ đường sinh dục, dịch khớp, dịch góc mắt
 
-Trẻ sơ sinh: viêm kết mạc
+Nhuộm Gram:
 
-Vi sinh lâm sàng:
-
-- Bệnh phẩm: mủ dịch từ đường sinh dục, dịch khớp, dịch góc mắt
-- Nhuộm Gram
 – Nam: độ nhạy 90 – 95%, độ đặc hiệu 95 – 100%
 – Nữ: độ nhạy 50 – 70%, độ đặc hiệu 50 – 90%
-- Nuôi cấy: khó mọc, đòi hỏi môi trường giàu dinh dưỡng
-- Huyết thanh học: ít giá trị trong lâm sàng
+
+Nuôi cấy: khó mọc, đòi hỏi môi trường giàu dinh dưỡng
 
 Miễn dịch: Không có kháng thể bảo vệ sau nhiễm
 
-### Neisseria Meningitidis
+### Neisseria Meningitidis - Não mô cầu
 
-Ít nhất 13 nhóm huyết thanh: A, B, C, D, X, Y, Z, W-135, 29E, H, I, K và L phân biệt dựa vào polysaccharide
+Ít nhất 13 nhóm huyết thanh: A, B, C, D, X, Y, Z, W-135, 29E, H, I, K và L phân biệt dựa vào **polysaccharide**
 
 - A, B, C, Y và W135: gây bệnh nặng
 - A và C: gây dịch ở những nước kém phát triển
@@ -188,7 +188,7 @@ Miễn dịch: Không có kháng thể bảo vệ sau nhiễm
 Bệnh học:
 
 - Người là ký chủ tự nhiên của N.meningitidis
-- Vi khuẩn lây qua đường hô hấp, thường là mũi hầu
+- Vi khuẩn lây qua *đường hô hấp*, thường là mũi hầu
 - Viêm họng xuất tiết
 - Nhiễm khuẩn huyết
 - Viêm màng não là bệnh cảnh hay gặp nhất:
@@ -197,7 +197,7 @@ Bệnh học:
   - bệnh diễn tiến nhanh, có thể tử vong trong vài giờ
   - bệnh hay gặp ở trẻ từ 6 tháng đến 1 tuổi và người trẻ
 
-Yếu tố nguy cơ:
+Yếu tố nguy cơ - lây qua đường hô hấp ➔ tiếp xúc nhiều tụ lại dễ nhiễm:
 
 - Thanh thiếu niên
 - Quân đội
@@ -266,9 +266,9 @@ Là kháng nguyên nằm trong vách tế bào, bản chất là lipopolysacchar
 
 LPS bao gồm:
 
-- O polysaccaride: quyết định tính đặc hiệu của kháng nguyên
-- Core polysaccaride: quy định tính kháng nguyên (common antigen)
-- Lipid A: quyết định tính độc lực
+- O polysaccaride: tính đặc hiệu
+- Core polysaccaride: tính kháng nguyên
+- Lipid A: độc lực
 
 Đặc tính kháng nguyên O:
 
@@ -283,8 +283,7 @@ Hiện tượng “ngưng kết O”: vi khuẩn ngưng kết với nhau dưới
 
 ### Kháng nguyên H (kháng nguyên chiên mao)
 
-**Chỉ có ở vi khuẩn có chiên mao**, bản chất là protein
-giống như myosin của cơ
+**Chỉ có ở vi khuẩn có chiên mao**, bản chất là protein giống như myosin của cơ
 
 - Bị hủy bởi nhiệt độ 100<sup>o</sup>C
 - Bị hủy bởi alcohol 50%
@@ -293,7 +292,7 @@ giống như myosin của cơ
 - Kháng thể kháng kháng nguyên H: IgG
 
 Hiện tượng “ngưng kết H”: dạng những hạt to
-hơn, lắc dễ tan hơn; vi khuẩn mất khả năng di động
+hơn, lắc dễ tan hơn (ngược lại với O); vi khuẩn mất khả năng di động
 
 ### Kháng nguyên K (kháng nguyên nang)
 
@@ -301,10 +300,7 @@ Chỉ có ở vi khuẩn đường ruột có nang, bản chất là polysacchar
 
 Liên quan đến độc tính của vi khuẩn ở Sallmonella: kháng nguyên **V**i (**V**ilurence)
 
-Kháng nguyên K: ở bên ngoài kháng nguyên O
-
-- Vi khuẩn không có kháng nguyên K: kháng nguyên O ở ngoài cùng ➔ “Ngưng kết O”: xảy ra rất rõ
-- Vi khuẩn có kháng nguyên K: kháng nguyên O bị che phủ ➔ “Ngưng kết O”: bị che lấp
+Kháng nguyên K che phủ ở bên ngoài kháng nguyên O chống “Ngưng kết O”
 
 ### Yếu tố độc lực của vi khuẩn đường ruột
 
@@ -363,27 +359,32 @@ hoặc các dẫn xuất có lưu huỳnh
 
 ### Esherichia Coli (E.coli)
 
-• Thường trú ở đường ruột (vd: ruột già - vùng hồi manh tràng)
-• Gây bệnh khi ra khỏi nơi thường trú (vd: nhiễm khuẩn tiểu, nhiễm khuẩn huyết, viêm màng não sơ sinh
+Thường trú ở đường ruột (vd: ruột già - vùng hồi manh tràng)
 
-Hiện nay E.coli có rất nhiều serotype, dựa vào:
-• Kháng nguyên O: 160 yếu tố
-• Kháng nguyên K: 100 yếu tố
-• Kháng nguyên H: 50 yếu tố
-
-Pathotype của E.coli: E**T**EC, E**P**EC, E**I**EC, E**H**EC, E**A**EC
-
-4 → Verocytotoxin (VTEC); Shiga toxin (STEC)
-
-Các bệnh khác do E.coli:
+Gây bệnh khi ra khỏi nơi thường trú - gây nhiễm khuẩn các vùng gần đó:
 
 - Nhiễm khuẩn đường tiết niệu: tiểu lắt nhắc, tiểu đau, tiểu máu, tiểu ra mủ
 - Nhiễm khuẩn đường sinh dục, gan mật
 - Viêm màng não:
   - 40%: ở trẻ còn bú
-  - 75%: có kháng nguyên K1 (phản ứng chéo với kháng nguyên nang N.meningitidis group B)
+  - 75%: có kháng nguyên *K1* (phản ứng chéo với kháng nguyên nang N.meningitidis group B)
 - Nhiễm khuẩn huyết
-- Bệnh khác
+
+Hiện nay E.coli có rất nhiều serotype, dựa vào:
+
+- Kháng nguyên O: 160 yếu tố
+- Kháng nguyên K: 100 yếu tố
+- Kháng nguyên H: 50 yếu tố
+
+Pathotype của E.coli:
+
+1. E**T**EC: **t**rẻ em, khách du lịch
+2. E**P**EC: sơ sinh (em **p**é)
+3. E**A**EC: sơ sinh và người lớn (**A**dults)
+4. STEC/VTEC (E**H**EC): viêm đại tràng xuất huyết - *Hội chứng HUS* gây ra bởi shiga toxin (STEC)
+5. E**I**EC/Shigella: tiêu chảy phân đàm máu
+
+=> **_1,2,3 ➔ ruột non ➔ tiêu chảy; 4,5 ➔ ruột già_**
 
 Phòng bệnh và chữa bệnh:
 
@@ -399,10 +400,8 @@ sinh hơi (trừ S.flexneri type 6)
 Không lên men lactose (trừ S.sonnei), không
 sinh H2S, không sử dụng citrate…
 
-Kháng nguyên Shigella:
-• Kháng nguyên K (một số)
-• Kháng nguyên H (không có)
-• Kháng nguyên O kết hợp với tính chất sinh hóa:
+Kháng nguyên Shigella: O, K chỉ thiếu H
+
 
 Độc tố Shigella:
 • Nội độc tố (lipopolysaccharide)
@@ -440,22 +439,18 @@ thủng ruột
 
 *P.aeruginosa*: trực khuẩn mủ xanh
 
-Môi trường sống
+Môi trường sống:
 
 - Khắp nơi trong tự nhiên: đất, nước, động vật, thực vật ➔ **nhiễm khuẩn bệnh viện**
-
 - Ở người: ở vùng da ẩm ướt, nách, háng, một số ít có trong ruột ➔ tác nhân **gây bệnh cơ hội**
 
-### MÔ TẢ HÌNH THỂ
+Trực khuẩn Gram âm, kích thước 0.5-1.0 x 1-3 µm
 
-• Trực khuẩn Gram âm, kích
-thước 0.5-1.0 x 1-3 µm
-• Có chiên mao ở 1 đầu, có khả
-năng di động
-• Thường đứng đơn lẻ, đôi khi
-thành đôi hoặc chuỗi ngắn
+Có chiên mao ở 1 đầu, có khả năng di động
 
-### Nuôi cấy
+Thường đứng đơn lẻ, đôi khi thành đôi hoặc chuỗi ngắn
+
+### Nuôi cấy và tính chất sinh hoá
 
 1. Hiếu khí tuyệt đối 
 2. Nhiệt độ tăng trưởng: 37<sup>o</sup>C-42<sup>o</sup>C (5-42<sup>o</sup>C)
@@ -469,43 +464,39 @@ các loài Pseudomonas khác
 Mọc dễ trên các loại môi trường: có sắc tố xanh
 (dương-lá cây), có thể có mùi nho
 
-### TIẾT 4 LOẠI SẮC TỐ
+Tiết ra 4 loại sắc tố:
 
-Pyocyanin: tan trong nước, không phát huỳnh
-quang, màu xanh lơ
-Pyoverdin: xanh lá cây, fluorescein
-Pyorubin: màu đỏ sẫm
-Pyomelanin: màu nâu đen
+- Pyocyanin: tan trong nước, không phát huỳnh quang, màu xanh lơ
+- Pyoverdin: xanh lá cây, fluorescein
+- Pyorubin: màu đỏ sẫm
+- Pyomelanin: màu nâu đen
 
-### NHIỀU YẾU TỐ ĐỘC LỰC
+### Độc lực
 
-Kết dính vào tế bào chủ, tạo biofilm:
-flagella, pili, LPS, alginate capsule…
-Độc tố và enzyme:
-LPS
-exotoxin A, pyocyanin, pyoverdin,
+Các độc tố chính:
+
+- LPS
+- **exotoxin A** gây ức chế tổng hợp *protein* 
+- pyocyanin, pyoverdin,
 elastase, protease, hemolysin (heat
 labile-phospholipase C & heat stable
 glycolipid), exoenzyme S và T…
 
+
+Kết dính vào tế bào chủ, tạo biofilm giúp kháng KS:
+flagella, pili, LPS, alginate capsule…
+
 ### Khả năng gây bệnh
 
-P aeruginosa chỉ gây bệnh khi xâm nhập vào vi trí mất đi khả
-năng bảo vệ bình thường:
+P aeruginosa chỉ gây bệnh khi xâm nhập vào vi trí mất đi khả năng bảo vệ bình thường:
 
 - da, niêm mạc không nguyên vẹn trong bỏng hay vết thương
 - đặt catheters tĩnh mạch hay đường tiểu
 - bệnh nhân bị giảm bạch cầu trong hóa trị liệu ung thư
 
-Vi khuẩn bám dính và định cư ở da, niêm mạc (pili, enzymes
-và toxin) → xâm nhập tại chổ và sau đó gây bệnh toàn thân
+Vi khuẩn bám dính và định cư ở da, niêm mạc (pili, enzymes và toxin) → xâm nhập tại chổ và sau đó gây bệnh toàn thân
 
-Xu hướng tạo thành biofilms của P aeruginosain ở lòng ống
-catheters và ở phổi của bệnh nhân xơ nang (cystic fibrosis)
-
-Tạo thành biofilm tại: những vị trí nhiễm
-trong cơ thể…
-➔ gia tăng sự đề kháng kháng sinh
+Xu hướng tạo thành biofilms của P aeruginosain ở lòng ống catheters và ở phổi của bệnh nhân xơ nang (cystic fibrosis)
 
 ### Lâm sàng
 
