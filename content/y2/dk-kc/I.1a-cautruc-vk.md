@@ -420,21 +420,6 @@ Thương tổn đặc hiệu khu trú ở ruột già: hội chứng lỵ
 (đau bụng quặn, đi ngoài nhiều lần, phân có nhiều
 mũi nhầy và thường có máu)
 
-### SALMONELLA
-
-Có 2 loại: Salmonella enterica, Salmonella bongori
-
-**KHẢ NĂNG GÂY BỆNH:**
-
-- 1000 – 10,000 vi khuẩn
-- Vi khuẩn đến các cơ
-quan (lách, gan, thận,
-tủy xương, túi mật)
-- Gây bệnh do nội độc tố
-→ biểu hiện: sốt, chảy
-máu, loét mảng Payer làm
-thủng ruột
-
 ## Trực khuẩn gram âm không lên men (Pseudomonas) - P.aeruginosa
 
 *P.aeruginosa*: trực khuẩn mủ xanh
