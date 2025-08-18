@@ -9,6 +9,7 @@ export default defineContentConfig({
         date: z.string(),
         title: z.string(),
         draft: z.boolean().default(false),
+        tag:z.string().optional(),
       }),
     }),
     json: defineCollection({
