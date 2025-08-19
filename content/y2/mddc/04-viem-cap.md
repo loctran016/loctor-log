@@ -53,9 +53,9 @@ Hoạt hoá con đường cổ điển, đường tắt và đường lectin (t�
 
 - Diệt khuẩn (ly giải bằng phức tấn công màng có C5**b**)
 - Gia tăng viêm:
-    - Opsonin hoá: thúc đẩy thực bào - C3**b**
-    - Phản vệ tố: TB Mast phóng hạt - C3**a**, C5**a**
-    - Yếu tố hoá hướng động: thu hút BC - C5**a**
+  - Opsonin hoá: thúc đẩy thực bào - C3**b**
+  - Phản vệ tố: TB Mast phóng hạt - C3**a**, C5**a**
+  - Yếu tố hoá hướng động: thu hút BC - C5**a**
 
 Cách nhớ: **b** là có ly giải TB; **a** là điều hoà, thúc đẩy mấy đứa khác, số 5-3=2 -> 5 có 2 vai trò
 
@@ -64,6 +64,7 @@ Cách nhớ: **b** là có ly giải TB; **a** là điều hoà, thúc đẩy m�
 Fibrin thoát mạch sẽ thành mạng lưới bắt giữ
 
 Vai trò:
+
 - Khu trú, cách li vi khuẩn, vật lạ để thực bào tập trung -> mạnh
 - Chặn chảy máu
 - Khung để lành vết thương

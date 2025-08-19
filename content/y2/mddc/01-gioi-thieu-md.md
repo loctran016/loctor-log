@@ -20,3 +20,16 @@ Miễn dịch chia làm 2 loại là:
 
 ![Chọn lọc clone](/y2/mddc/1-clone-dong.jpeg)
 
+![Đáp ứng MD nguyên phát & thứ phát](/y2/mddc/1-md-ng-thu-phat.jpeg)
+
+![Các loại TB Miễn dịch](/y2/mddc/1-cac-tb-md.jpeg)
+
+![Chức năng, vai trò của các lymphocytes](/y2/mddc/1-cnang-lympho.jpeg)
+
+![Quá trình các lympho trưởng thành](/y2/mddc/1-lympho-trg-thanh.jpeg)
+
+![Hệ MD ở niêm mạc](/y2/mddc/1-he-md-niem-mac.jpeg)
+
+![Di trú của lymphocyte](/y2/mddc/1-di-tru-lympho.jpeg)
+
+![Các giai đoạn của đáp ứng MD thích nghi](/y2/mddc/1-gd-md-thich-nghi.jpeg)
