@@ -13,3 +13,10 @@ Miễn dịch chia làm 2 loại là:
 ![Chức năng của hệ MD](/y2/mddc/1-chucnang-md.jpeg)
 
 ![Cơ chế chính của hệ MD](/y2/mddc/1-coche-chinh-md.jpeg)
+
+![Các loại đáp ứng MD thích nghi](/y2/mddc/1-md-thich-nghi.jpeg)
+
+![Đặc điểm của đáp ứng MD thích nghi](/y2/mddc/1-dacdiem-md-thich-nghi.jpeg)
+
+![Chọn lọc clone](/y2/mddc/1-clone-dong.jpeg)
+
