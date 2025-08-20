@@ -1,6 +1,6 @@
 ---
 title: Ôn thi GK - 20
-date: 25/08/25
+date: 2025/08/25
 ---
 
 ## Thụ thể - Hoá mô MD
