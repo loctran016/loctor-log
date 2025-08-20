@@ -1,6 +1,6 @@
 ---
 title: Ôn thi GK - Y đức
-date:2025/08/20
+date: 2025/08/20
 ---
 
 ## Bài 1: Giới thiệu về trách nhiệm của người thầy thuốc:
