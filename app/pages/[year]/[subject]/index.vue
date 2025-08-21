@@ -2,7 +2,7 @@
 const route = useRoute();
 const year = route.params.year;
 const subject = route.params.subject;
-
+import { formatTimeAgo } from '@vueuse/core'
 import { useDateFormat } from '@vueuse/core'
 
 const { data: posts } = await useAsyncData(`content-${year}`, () =>
@@ -18,6 +18,18 @@ const { data: subjects } = await useAsyncData(
   //   queryCollection("json").where("path", "LIKE", "/y2/%").first()
 );
 
+function splitDateToNumber(str:string) {
+    const splitDate = str.split('-');
+    const transformedDate: number[] = [];
+    splitDate.forEach(e => transformedDate.push(Number(e)));
+    // console.log(str, transformedDate)
+    return new Date(
+        transformedDate[0] || 0,
+        (transformedDate[1] || 1) - 1,
+        transformedDate[2] || 1
+    );
+}
+
 useSeoMeta({
   title: `LocTor Log | ${String(year).toUpperCase()}`,
 });
@@ -32,7 +44,8 @@ useSeoMeta({
               <h3 class="font-[Montserrat] font-bold lg:text-lg mt-2 flex-grow">
                 {{ post.title }}
               </h3>
-              <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p>
+              <p class="italic mt-auto">{{ formatTimeAgo(splitDateToNumber(post.date)) }}</p>
+              <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
           </NuxtLink>
       </li>
     </ul>

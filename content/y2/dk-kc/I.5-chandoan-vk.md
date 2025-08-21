@@ -1,6 +1,6 @@
 ---
 title: Bài I.5 - Phương pháp chẩn đoán bệnh nhiễm VK
-date: 2025/08/15
+date: 2025-08-15
 description: PP Vi Sinh, MD học, SHPT và khối phổ
 ---
 

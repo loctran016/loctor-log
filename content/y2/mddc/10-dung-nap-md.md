@@ -1,6 +1,6 @@
 ---
 title: Bài 10 - Dung nạp miễn dịch & Bệnh lí tự miễn
-date: 2025/08/14
+date: 2025-08-14
 ---
 <!-- markdownlint-disable MD033 MD024 -->
 

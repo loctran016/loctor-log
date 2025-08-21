@@ -1,6 +1,6 @@
 ---
 title: Kĩ năng điều dưỡng
-date: 2025/08/20
+date: 2025-08-20
 ---
 
 ## Giao tiếp

@@ -1,6 +1,6 @@
 ---
 title: Bài 12 - Suy giảm MD
-date: 2025/08/29
+date: 2025-08-20
 ---
 
 ## Đại cương
@@ -15,17 +15,17 @@ Do các nguyên nhân môi trường gây ra như : nhiễm khuẩn, sau điều
 
 Bệnh nhân tăng mức độ nhạy cảm với nhiễm vi sinh vật:
 
-- Nhiễm khuẩn mạn và lặp đi lặp lạ 
+- Nhiễm khuẩn mạn và lặp đi lặp lạ
 - Không đáp ứng với phác đồ kháng sinh chuẩn
 - Nhiễm khuẩn cơ hội: mấy con bình thường có lợi
-- 
+-
 Bệnh nhân SGMD cũng nhạy cảm với một số ung thư (nhất là các ung thư do virus sinh ung thư)
 
 Bệnh nhân SGMD cũng liên quan đến tăng tỷ lệ bệnh tự miễn ở BN
 
 ## Suy giảm MD bẩm snh
 
-Do đột biến ở 1 hoặc 2 gene 
+Do đột biến ở 1 hoặc 2 gene
 
 Một số rối loạn làm tăng đáng kể tỷ lệ nhiễm trùng và tử vong (nếu không được khắc phục)
 
@@ -43,23 +43,23 @@ Do các nguyên nhân môi trường gây ra như : nhiễm khuẩn, sau điều
 
 Bệnh nhân tăng mức độ nhạy cảm với nhiễm vi sinh vật:
 
-- Nhiễm khuẩn mạn và lặp đi lặp lạ 
+- Nhiễm khuẩn mạn và lặp đi lặp lạ
 - Không đáp ứng với phác đồ kháng sinh chuẩn
 - Nhiễm khuẩn cơ hội: mấy con bình thường có lợi
-- 
+-
 Bệnh nhân SGMD cũng nhạy cảm với một số ung thư (nhất là các ung thư do virus sinh ung thư)
 
 Bệnh nhân SGMD cũng liên quan đến tăng tỷ lệ bệnh tự miễn ở BN
 
 ### Phân loại
 
-Các dòng lympho T: 
+Các dòng lympho T:
 
 SGMDBS dòng lympho B
 
 SGMDBS dòng lympho T: nhiễm vi khuẩn nội bào (VD: nhiễm lao màng phổi,...)
 
-SGMDBS phối hợp nặng (SICD – severe combined immunodeficiencies) 
+SGMDBS phối hợp nặng (SICD – severe combined immunodeficiencies)
 
 SGMDBS tế bào thực bào và bổ thể
 

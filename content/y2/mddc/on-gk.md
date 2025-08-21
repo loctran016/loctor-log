@@ -1,6 +1,6 @@
 ---
 title: Ôn thi GK - 20
-date: 2025/08/25
+date: 2025-08-25
 ---
 
 ## Thụ thể - Hoá mô MD
@@ -13,7 +13,7 @@ Chức năng ức chế:
 Chức năng nhận diện
 
 Chức năng hoạt hoá
- 
+
 ## Các chất do TB tiết
 
 Interferon:
@@ -21,13 +21,13 @@ Interferon:
 - IL-2: tăng sinh Lymp T
 - IL-1: gây viêm, thu hút bạch cầu, tăng nhiệt cơ thể
 - IL-
-- 
+-
 
 ## Kháng thể
 
 Các lớp kháng thể tương ứng do 5 lớp chuỗi nặng quy định, 1 Fab - tương ứng 1 điểm gắn KT :
 
-- IgA: α - 4 Fab 
+- IgA: α - 4 Fab
     - Miễn dịch niêm mạc (A - hàng rào đầu)
     - KT tại chỗ ở mọi nơi có dịch tiết, dịch nhầy
 - IgG: γ - 2 Fab
@@ -36,7 +36,6 @@ Các lớp kháng thể tương ứng do 5 lớp chuỗi nặng quy định, 1 F
 - IgE: ε - 2 Fab (epsilon)
     - Gắn với TB Mast -> Quá mẫn tức thì
 - IgM: μ - 10 Fab ()
-    - Vừa màng, vừa tiết -> có gắn trên lympho B và trôi trong máu, hạch bạch huyết    
+    - Vừa màng, vừa tiết -> có gắn trên lympho B và trôi trong máu, hạch bạch huyết
 - IgD: δ - 2 Fab (delta)
-    - IgM nhưng dỏm hơn, máu only 
-    
+    - IgM nhưng dỏm hơn, máu only
