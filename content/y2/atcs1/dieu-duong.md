@@ -13,6 +13,7 @@ Nếu là các phần có nằm viện (VD: cắt chỉ, thay băng): bữa gi�
 
 Quan trọng hỏi: Cô ... có từng bị dị ứng gì hay không?
 
+Với tiêm/tiêm truyền: bữa giờ có tiêm truyền gì hay không?
 Nếu có vết thương thì dặn dò đừng gãi, làm tổn thương thêm
 
 ## Thực hành
