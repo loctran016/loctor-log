@@ -18,20 +18,18 @@ const { data: subjects } = await useAsyncData(
   //   queryCollection("json").where("path", "LIKE", "/y2/%").first()
 );
 
-function splitDateToNumber(str:string) {
-    const splitDate = str.split('-');
-    const transformedDate: number[] = [];
-    splitDate.forEach(e => transformedDate.push(Number(e)));
-    // console.log(str, transformedDate)
-    return new Date(
-        transformedDate[0] || 0,
-        (transformedDate[1] || 1) - 1,
-        transformedDate[2] || 1
-    );
+const sixMothAgoDate = new Date();
+sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
+
+
+function transformDate(str: string) {
+    const inputDate = new Date(str)
+    return inputDate <= sixMothAgoDate  ? useDateFormat(inputDate,'DD/MM/YYYY') : formatTimeAgo(inputDate)
+
 }
 
 useSeoMeta({
-  title: `LocTor Log | ${String(year).toUpperCase()}`,
+  title: `${subjects?.value?.data?.[`${subject}`]?.name ?? subject}`,
 });
 </script>
 
@@ -44,7 +42,7 @@ useSeoMeta({
               <h3 class="font-[Montserrat] font-bold lg:text-lg mt-2 flex-grow">
                 {{ post.title }}
               </h3>
-              <p class="italic mt-auto">{{ formatTimeAgo(splitDateToNumber(post.date)) }}</p>
+              <p class="italic mt-auto">{{ transformDate(post.date) }}</p>
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
           </NuxtLink>
       </li>

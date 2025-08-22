@@ -35,7 +35,7 @@ Các lớp kháng thể tương ứng do 5 lớp chuỗi nặng quy định, 1 F
     - Bán huỷ trong 21-23 ngày, có FcRN bảo vệ thì lâu hơn
 - IgE: ε - 2 Fab (epsilon)
     - Gắn với TB Mast -> Quá mẫn tức thì
-- IgM: μ - 10 Fab ()
+- IgM: μ - 10 Fab (mu)
     - Vừa màng, vừa tiết -> có gắn trên lympho B và trôi trong máu, hạch bạch huyết
 - IgD: δ - 2 Fab (delta)
     - IgM nhưng dỏm hơn, máu only
