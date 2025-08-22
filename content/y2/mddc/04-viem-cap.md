@@ -31,7 +31,7 @@ Có 3 hệ thống protein huyết tương chính, tham gia vào quá trình vi�
 
 Ngoài ra còn nhiều Tb tham gia gây viêm bên cạnh các BC như TB MAST, nguyên bào sợi,...
 
-![Các tế bào tham gia gây viêm](/y2/mddc/5-tb-viem.jpeg)
+![Các tế bào tham gia gây viêm](/y2/mddc/4-tb-viem.jpeg)
 
 ### Tế bào Mast
 
@@ -43,9 +43,9 @@ Phóng hạt (có sẵn):
 
 Tổng hợp PG, LT: thu hút BC
 
-![Chức năng của TB Mast](/y2/mddc/5-tb-mast.jpeg)
+![Chức năng của TB Mast](/y2/mddc/4-tb-mast.jpeg)
 
-![Phân cắt Arachidonic acid thành các chất gây viêm](/y2/mddc/5-cat-arachidonic-acid.jpeg)
+![Phân cắt Arachidonic acid thành các chất gây viêm](/y2/mddc/4-cat-arachidonic-acid.jpeg)
 
 ### HT bổ thể
 
@@ -82,15 +82,15 @@ Chuyển Kininogen thành **Bradykinin** gây (tương tợ chất trung gian g�
 
 Hình thành dịch viêm chủ yếu nhờ tăng tính thấm thành mạch (bên cạnh tăng áp lực thuỷ tĩnh)
 
-![Quá trình dãn mạch làm huyết tương, protein thoát mạch và giúp BC đi đến nơi bị tổn thương](/y2/mddc/5-dan-mach.jpeg)
+![Quá trình dãn mạch làm huyết tương, protein thoát mạch và giúp BC đi đến nơi bị tổn thương](/y2/mddc/4-dan-mach.jpeg)
 
 Các chất gây tăng tính thầm thành mạch: **Histamine**, Bradykinin, PG, lT và C3a, C5a
 
-![Các cơ chế gây dãn mạch](/y2/mddc/5-coche-dan-mach.jpeg)
+![Các cơ chế gây dãn mạch](/y2/mddc/4-coche-dan-mach.jpeg)
 
 Xuất hiện khoảng hở giữa các tế bào nội mô giúp thoát KT (protein), BC và fibrinogen giảm AS keo
 
-![Tăng ASTT và giảm áp suất keo hình thành dịch viêm](/y2/mddc/5-astt-ask-viem.jpeg)
+![Tăng ASTT và giảm áp suất keo hình thành dịch viêm](/y2/mddc/4-astt-ask-viem.jpeg)
 
 ## Bạch cầu xuyên mạch - Hoá hướng động
 
@@ -99,7 +99,7 @@ Các chất gây hoá hướng động: C3a, C5a, PG, LT, NCF và ECF,...
 Bạch cầu *bám* vào thành mạch nhờ các **phân tử bám dính<u>(selectins, integrins)</u>** nhờ sự tác động của cytokin (IL1, IL8 và TNF)
 
 BC *vận động* nhờ sự co thắt của các sợi actin (giả túc)
-![BC ván vài thành mạch, lăn dần rồi xuyên mạch nhờ vận động của sợi actin](/y2/mddc/5-bc-xuyen-mach.jpeg)
+![BC ván vài thành mạch, lăn dần rồi xuyên mạch nhờ vận động của sợi actin](/y2/mddc/4-bc-xuyen-mach.jpeg)
 
 ## Thực bào
 
@@ -110,8 +110,8 @@ Chia làm 2 pha:
 
 Môi trường tối ưu: pH trung tính, 37<sup>o</sup>C - 39<sup>o</sup>C (sốt), opsonin hoá
 
-![Hiện tượng thực bảo ở mô bị tổn thương](/y2/mddc/5-thuc-bao.jpeg)
+![Hiện tượng thực bảo ở mô bị tổn thương](/y2/mddc/4-thuc-bao.jpeg)
 
 Dù viêm thuộc MD bẩm sinh nhưng lại liên quan chặt chẽ đến MD thích nghi:
 
-![Viêm - sự tham gia của MD bẩm sinh và MD thích nghi](/y2/mddc/5-md-bsinh-thnghi.jpeg)
+![Viêm - sự tham gia của MD bẩm sinh và MD thích nghi](/y2/mddc/4-md-bsinh-thnghi.jpeg)
