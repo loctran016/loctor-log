@@ -178,16 +178,10 @@ Miễn dịch: Không có kháng thể bảo vệ sau nhiễm
 
 ### Neisseria Meningitidis - Não mô cầu
 
-Ít nhất 13 nhóm huyết thanh: A, B, C, D, X, Y, Z, W-135, 29E, H, I, K và L phân biệt dựa vào **polysaccharide**
-
-- A, B, C, Y và W135: gây bệnh nặng
-- A và C: gây dịch ở những nước kém phát triển
-- B: gây bệnh ở những nước phát triển
-- từ năm 2000 đến nay, nhóm W135 gây dịch ở châu Phi
 
 Bệnh học:
 
-- Người là ký chủ tự nhiên của N.meningitidis
+- Người là ký chủ tự nhiên của N.meningitidis (tại 1 địa phương >= 2 người bệnh -> báo dịch)
 - Vi khuẩn lây qua *đường hô hấp*, thường là mũi hầu
 - Viêm họng xuất tiết
 - Nhiễm khuẩn huyết
