@@ -60,7 +60,7 @@ và ĐTB bao quanh
 
 Biểu mô hoá, biệt hoá nhiều lớp biểu bì, che vết thương lại:
 
-- **Fibroblast*: tổng hợp ra collagen (có fibro -> collagen bám fibro)
+- **Fibroblast**: tổng hợp ra collagen (có fibro -> collagen bám fibro)
 - **Co kéo vết thương**: nhờ Myofibroblast đóng vết thương
 
 ### Pha lành sẹo: >2 tuần - 2 năm
@@ -86,10 +86,20 @@ Hình thành sẹo: là thay thế mô bị phá huỷ bởi mô sẹo
 
 Mô sẹo được hình thành từ các sợi collagen. Chỉ trong lành vết thương nguyên phát thì mô sẹo mới biệt hoá, giúp hồi phục tổn thương về như cũ
 
+### Nguyên phát
+
+Bao gồm 2 giai đoạn:
+
+- Viêm cấp: dịch viêm gồm BCTT (nhỏ - nhanh nên có con này), VK & TB chết, hồng cầu, ĐTB
+- Đóng vết thương: Di trú fibroblast tế bào biểu mô tạo collagen bao phủ bề mặt
+
 ![Lành vết thương nguyên phát](/y2/mddc/5-lanh-vthg-ng-phat.jpeg)
 
-Thứ phát:
+### Thứ phát
 
+Bao gồm 3 giai đoạn:
+
+- Viêm cấp:
 - Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen). Mô hạt -> mô sẹo (collagen) và cuối cùng là co kéo vết thương
 - Pha lành sẹo: hình thành sẹo vô mạch
 
@@ -126,7 +136,7 @@ Thuốc kháng viêm steroids:
 
 ### Rối loạn trong pha tái cấu trúc
 
-Rối loạn quá trình sắp xếp chất nền collagen:
+Rối loạn quá trình sắp xếp chất nền collagen (ở dưới, đùn lên che vết thương lại):
 
 - Tạo collagen kém: các yếu tố dinh dưỡng (vitamin C, sắt, đồng, calcium…)
 - Bệnh Scorbut (thiếu vitamin C): tạo collagen kém → chậm lành vết thương
