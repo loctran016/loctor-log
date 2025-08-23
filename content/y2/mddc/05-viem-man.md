@@ -54,9 +54,9 @@ và ĐTB bao quanh
 
 ĐTB tiết ra nhiều chất trung gian và cytokine thúc đẩy lành vết thương:
 
-– **TGF-β** kích thích fibroblast tổng hợp procollagen
-– Các yếu tố sinh mạch như **VEGF** (vascular...) và **FGF-2** (fibroblast..) kích thích tế bào nội mô mạch máu tạo chồi mao mạch phát triển vào vết thương
-– **MMPs** thoái hoá và tái cấu trúc các protein nền ngoại bào (collagen, fibrin) tại nơi chấn thương
+- **TGF-β** kích thích fibroblast tổng hợp procollagen
+- Các yếu tố sinh mạch như **VEGF** (vascular...) và **FGF-2** (fibroblast..) kích thích tế bào nội mô mạch máu tạo chồi mao mạch phát triển vào vết thương
+- **MMPs** thoái hoá và tái cấu trúc các protein nền ngoại bào (collagen, fibrin) tại nơi chấn thương
 
 Biểu mô hoá, biệt hoá nhiều lớp biểu bì, che vết thương lại:
 
@@ -73,8 +73,8 @@ Tái tạo mô: phục hồi gần bình thường – tổn thương **nhỏ, k
 
 Hình thành sẹo: là thay thế mô bị phá huỷ bởi mô sẹo
 
-– **Tổn thương rộng**, mô không có khả năng tái sinh, abscess, u hạt...
-– Mô sẹo (chủ yếu là collagen) không phục hồi chức năng sinh lý của mô bị tổn thương
+- **Tổn thương rộng**, mô không có khả năng tái sinh, abscess, u hạt...
+- Mô sẹo (chủ yếu là collagen) không phục hồi chức năng sinh lý của mô bị tổn thương
 
 ![Quá trình tái tạo mô/lành sẹo trong viêm mạn](/y2/mddc/5-tai-tao-mo-lanh-seo.jpeg)
 
@@ -84,7 +84,14 @@ Hình thành sẹo: là thay thế mô bị phá huỷ bởi mô sẹo
 
 ## Lành vết thương
 
+Mô sẹo được hình thành từ các sợi collagen. Chỉ trong lành vết thương nguyên phát thì mô sẹo mới biệt hoá, giúp hồi phục tổn thương về như cũ
+
 ![Lành vết thương nguyên phát](/y2/mddc/5-lanh-vthg-ng-phat.jpeg)
+
+Thứ phát:
+
+- Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen). Mô hạt -> mô sẹo (collagen) và cuối cùng là co kéo vết thương
+- Pha lành sẹo: hình thành sẹo vô mạch
 
 ![Lành vết thương thứ phát](/y2/mddc/5-lanh-vthg-thu-phat.jpeg)
 
