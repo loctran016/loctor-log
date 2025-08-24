@@ -39,12 +39,11 @@ Các lớp kháng thể:
 - IgD: δ - 2 Fab (delta)
   - IgM nhưng dỏm hơn, máu only
 
-
-![Chức năng năm lớp KN do lớp VH quy định](/y2/mddc/9-chucnang-nam-lop-kn)
+![Chức năng năm lớp KN do lớp VH quy định](/y2/mddc/9-chucnang-nam-lop-kn.jpeg)
 
 ## Chức năng KT
 
-### Mảnh Fab (antigenbinding fragments)
+### Mảnh Fab (antigenbinding fragments) - đầu biến đổi
 
 Có 4 chức năng chính của mảnh Fab:
 
@@ -64,31 +63,93 @@ Có 4 chức năng chính của mảnh Fab:
 
 ![Một KT nhất định có thể kết hợp với một hay nhiều epitop có cấu hình không gian tương tự](/y2/mddc/9-phan-ung-cheo-1-KT.jpeg)
 
-### Mảnh Fc (antigenbinding fragments)
+### Mảnh Fc (crystalline fragment) - đầu hằng định
 
-### Thời gian bán huỷ
+Mảnh FC quyết định 4 tính chất của kháng thể:
 
-### Di chuyển qua nhau thai
+1. Thời gian bán huỷ:
+    - IgG: 21 - 23 ngày
+    - IgA và IgM: 2 - 6 ngày
+2. Di chuyển qua nhau thai:
+    - IgG là KT duy nhất có thể di chuyển qua nhau thai, giúp truyền khả năng MD sang cho bé
+    - Trong sữa mẹ có IgG và IgA giúp bé miễn dịch trong 6 tháng đầu mới sinh (bé chưa tự có hệ MD riêng)
+    - Sữa no (sữa đầu tiên) chứa rất nhiều IgG
+    - FcRn giúp bắt giữ, hấp thu và bảo vệ kháng thể IgG lâu hơn
+3. Hoạt hoá HT bổ thể: ly giải màng TB, hoá hướng động, opsonin hoá, thanh thải phức hợp MD
+4. Huy động các tế bào miễn dịch, khi đầu Fab - KT, đầu Fc sẽ gắn vào các TB miễn dịch (VD: ĐTB - kích hoạt thực bào) rồi hoạt hoá chúng:
+    - Opsonin hoá VSV/TB ung thư, thu hút tế bào NK đến và tiêu diệt
+    - FcγRI, FcγRII, FcγRIII có trên BC đơn nhân, BC trung tính, TB NK, Lympho B và T → Làm trung gian cho hiện tượng thực bào, phản ứng độc tế bào phụ thuộc KT
+    - FcεRI trên tế bào mast, basophil
+    - FcεRII trên Lymphocyt, monocyt, eosinophil
+    - Cách viết tên: Fc + lớp kháng thể + R (receptor) + số hiệu (VD: FcεRI - Fc epsilon receptor I của IgE)
 
-IgG là kháng thể duy nhất qua được nhau thai, truyền khả năng miễn dịch cho bào thai
-
-Cơ chế: FcRn có ở TB nội mô giúp IgG tồn tại lâu
-
-Con nên được bú sữa mẹ trong 6 tháng đầu, giúp bổ sung kháng thể IgG cho hệ miễn dịch của con (nhờ FcRn di chuyển/bảo tồn)
-
-Sữa no (sữa đầu tiên) chứa rất nhiều IgG
-
-### Hoạt hoá bổ thể
-
-Hoạt hoá dòng thác bổ thể;
-
-- Đục lỗ vi khuẩn
-- **Opsonin hoá:** giúp thức bào
-
-### Huy động các TB miễn dịch
-
-Giai đoan đầu là Histamine (cơ trơn, dãn mạch), giai đoạn sau là cytokines (viêm)
+![Sự vận chuyển KT IgG qua nhau thai và qua sữa mẹ nhờ FcRn](/y2/mddc/9-fcrn-nhauthai-sua.jpeg)
 
 ## Miễn dịch dịch thể
 
 Tuỳ vào bản chất kháng nguyên => MD dịch thể hay MD qua trung gian TB
+
+Các pha đáp ứng MD dịch thể:
+
+![Các pha đáp ứng MD dịch thể](/y2/mddc/9-pha-dap-ung-mddt.jpeg)
+
+Đáp ứng thành 2 dạng:
+
+1. KN phụ thuộc tuyến ức (lympho T):
+    - KN protein được biểu hiện bởi MHC → lympho Th hoạt hoá lympho B tạo KT
+    - Nếu không có sự hỗ trợ của lympho T, chỉ kích thích tạo KT rất yếu hoặc ko tạo KT
+2. KN <u>không</u> phụ thuộc tuyến ức (phụ thuộc lympho T)
+    - Các KN polysaccharide, lipid, chất có kích thước nhỏ (ko phải protein) kích thích lympho B tạo KT
+    - Thường ít có hiện tượng chuyển lớp chuỗi năng và ít tạo KT có ái lực cao
+
+Các kỳ đáp ứng miễn dịch dịch thể:
+
+![Các kỳ đáp ứng miễn dịch dịch thể](/y2/mddc/9-ky-dap-ung-mddt.jpeg)
+
+![Bảng so sánh kỳ đầu & kỳ sau của đáp ứng miễn dịch dịch thể](/y2/mddc/9-bang-ky-dap-ung-mddt.jpeg)
+
+### Sự hoạt hóa tế bào lympho B gây ra bởi kháng nguyên
+
+- KN được vận chuyển đến nang
+lympho :
+• KN nhỏ : qua mạch BH
+hướng tâm, khuếch tán
+• ĐTB hoặc TB tua gai vận
+chuyển KN lớn
+- KN chưa được xử lý bởi APC.
+
+### Biến đổi chức năng của lympho B sau khi hoạt hoá
+
+Bước vào chu trình tế bào, tăng sinh để gia tăng
+số lượng tế bào đặc hiệu với KN
+
+Tổng hợp nhiều IgM hơn → tạo ra pha sớm của
+đáp ứng miễn dịch dịch thể
+
+Tăng biểu lộ các phân tử đồng kích thích B7 →
+cung cấp các tín hiệu thứ hai để hoạt hoá
+lympho T.
+
+Tăng biểu lộ của các thụ thể dành cho các
+cytokine do tế bào lympho T tiết ra.
+
+Giảm số lượng thụ thể dành cho các chemokine
+để giữ các tế bào lympho B ở lại trong các nang
+lympho.
+
+### Vai trò của lympho T<sub>h</sub> trong đáp ứng MDDT
+
+1. Sự hoạt hoá và di chuyển lympho Th
+▪ TB tua gai trình diện KN protein đã xử lý
+thông qua MHC-II cho TCD4
++
+thành Th
+sản xuất cytokines di chuyển tới vùng rìa
+nang lympho.
+▪ Lympho B naive được hoạt hoá trong
+nang lympho, di chuyển về phía lympho T
+▪ Một số lympho B và lympho T đặc hiệu
+với KN tiếp tục di chuyển trở vào các
+nang để hình thành các trung tâm mầm
+(germinal centers), khởi các đáp ứng
+chuyên biệt hơn.
