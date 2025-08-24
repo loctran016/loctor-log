@@ -2,15 +2,12 @@
 title: Bài 9 - Kháng thể và Miễn dịch dịch thể
 date: 2025-08-06
 ---
+## Cấu trúc cơ bản
 
-## Kháng thể
-
-Do tế bào lympho B tiết ra, do ngẫu nhiên và độc lập/đặc hiệu, do sự kích thích kháng nguyên :
+Do tế bào lympho B tiết ra, do ngẫu nhiên và độc lập/đặc hiệu, do sự kích thích kháng nguyên:
 
 - KT màng: bám trên B
 - KT tiết: sản xuất ra trong huyết tương, thể dịch
-
-### Cấu trúc cơ bản
 
 Đối xứng nhau qua trục dọc, chữ Y, bao gồm 2 phần:
 
@@ -25,11 +22,49 @@ Cuộn lại thành các domain, chia thành:
 
 ### Các lớp kháng thể
 
-IgM: pentamore - 5 chữ Y - 10 chỗ gắn kháng nguyên
+![Hình dạng năm lớp KN do lớp VH quy định](/y2/mddc/9-nam-lop-kn.jpeg)
 
-IgA; dimore - 2 chữ Y
+Các lớp kháng thể:
 
-## Mảnh Fc
+- IgA: α - 4 Fab
+  - Miễn dịch niêm mạc (A - hàng rào đầu)
+  - KT tại chỗ ở mọi nơi có dịch tiết, dịch nhầy
+- IgG: γ - 2 Fab
+  - Chiếm 2/3 KT, có mặt ở khắp mọi nơi, là kháng tể truyền được qua nhau thai
+  - Bán huỷ trong 21-23 ngày, có FcRN bảo vệ thì lâu hơn
+- IgE: ε - 2 Fab (epsilon)
+  - Gắn với TB Mast -> Quá mẫn tức thì
+- IgM: μ - 10 Fab (mu) - pentamore (5 chữ Y)
+  - Vừa màng, vừa tiết -> có gắn trên lympho B và trôi trong máu, hạch bạch huyết
+- IgD: δ - 2 Fab (delta)
+  - IgM nhưng dỏm hơn, máu only
+
+
+![Chức năng năm lớp KN do lớp VH quy định](/y2/mddc/9-chucnang-nam-lop-kn)
+
+## Chức năng KT
+
+### Mảnh Fab (antigenbinding fragments)
+
+Có 4 chức năng chính của mảnh Fab:
+
+1. Nhận diện đặc hiệu KN: Do vùng VH và VL tham gia (V-variables) nên vừa có tính đa dạng, vừa có tính đặc hiệu với riêng KN tạo ra nó
+2. Liên kết giữa kháng nguyên – kháng thể: Liên kết yếu (lk ion, lk hydro, tương tác kị nước, lk Van der Vaals) nên sự kết hợp thuận nghịch : sau khi kết hợp và phân ly, cấu trúc hóa học của KN và KT hầu như không đổi
+3. Ái lực tương tác giữa KN - KT:
+    - Ái lực KN - KT trong đáp ứng nguyên phát < thứ phát
+    - Một kháng thể có khả năng gắn từ 2 đến 10 epitope của 1 kháng nguyên hay nhiều kháng nguyên lân cận
+    - Tổng lực gắn kết này lớn hơn nhiều so với ái lực của một liên kết đơn lẻ
+    - Phản ứng chép: 1 epitop có thể kết hợp 1 hay nhiều Fab của *1 hay nhiều KN khác nhau*; và ngược lại 1 KT có thể kết hợp 1 hay nhiều epitop có cấu trúc không gian tương tự
+4. Kết quả:
+    - Gắn lên VSV (độc tố) ngăn cản sự xâm nhập của VSV qua niêm mạc, thụ thể TB hay truyền từ TB này sang TB khác
+    - Opsonin và thực bào qua trung gian KT (ĐTB)
+    - Độc TB qua trung gian KT (TB NK)
+
+![Một epitop cũng có thể kết hợp với một hay nhiều vị trí kết hợp KN của các phân tử KT khác nhau](/y2/mddc/9-phan-ung-cheo-1-epitop.jpeg)
+
+![Một KT nhất định có thể kết hợp với một hay nhiều epitop có cấu hình không gian tương tự](/y2/mddc/9-phan-ung-cheo-1-KT.jpeg)
+
+### Mảnh Fc (antigenbinding fragments)
 
 ### Thời gian bán huỷ
 
