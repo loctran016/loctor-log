@@ -51,7 +51,7 @@ Mục đích:
 
 Các kỹ thuật SHPT thông dụng:
 
-1. PCR: định danh dựa trên gene -> chính xác cao
+1. PCR: định danh dựa trên gene → chính xác cao
 2. Lai Phân Tử (Dot-blot)
 3. Giải trình tự (Sequencing)
 4. RFLP (Restriction fragment length polymorphism)

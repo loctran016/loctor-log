@@ -22,7 +22,7 @@ thành đám nhỏ, hoặc riêng lẻ.
 
 - Nhiều lipid (che thuốc nước của Gram - k nhuộm ra
 - 60% Acid Mycolic
--> tính kháng cồn acid (tẩy màu bằng cồn acid - k bị tẩy màu - kháng cồn acid)
+→ tính kháng cồn acid (tẩy màu bằng cồn acid - k bị tẩy màu - kháng cồn acid)
 
 TÍNH CHẤT NUÔI CẤY
 
@@ -46,14 +46,14 @@ Yếu tố độc lực - trốn trong lysosome ĐTB:
 
 Sinh bệnh học:
 
-Lao nhiễm (hệ MD mạnh khu trú con lao lại - k tr/chứng) -> Lao bệnh
+Lao nhiễm (hệ MD mạnh khu trú con lao lại - k tr/chứng) → Lao bệnh
 
 - Độc lực của VK
 - Số lượng VK
 - Tuổi BN
 - Tình trạng MD của BN
 
-Phổi (lao phổi) -> Máu/Bạch huyết -> CQ khác (lao ngoài phổi)
+Phổi (lao phổi) → Máu/Bạch huyết → CQ khác (lao ngoài phổi)
 
 CHẨN ĐOÁN VI SINH:
 

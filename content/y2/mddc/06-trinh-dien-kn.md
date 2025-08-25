@@ -72,9 +72,9 @@ Tế bào T không thể trực tiếp nhận diện kháng nguyên, vì vậy c
 
 Tế bào APC là các tế bào có chức năng bắt giữ vi sinh vật và các kháng nguyên (nội - ngoại), xử lí, và trình diện KN với Lymphocyte T để kích thích, tăng sản, biệt hoá tế bào lympho:
 
-- Tế bào tua gai: hàng rào đầu tiên, chủ yếu ở da niêm -> đến hạch để trình diện, hoạt hoá Th
+- Tế bào tua gai: hàng rào đầu tiên, chủ yếu ở da niêm → đến hạch để trình diện, hoạt hoá Th
 - ĐTB: khởi động miễn dịch đặc hiệu thông qua MHC II trình diện cho Th
-- Lymphocyte B: thụ thể BCR bắt giữ KN, xử lý và cắt nhỏ rồi kết hợp với MHC II trình diện Th -> giúp trở thành tương bào tiết KT
+- Lymphocyte B: thụ thể BCR bắt giữ KN, xử lý và cắt nhỏ rồi kết hợp với MHC II trình diện Th → giúp trở thành tương bào tiết KT
 
 ![Bắt giữ epitope](/y2/mddc/6-1.png)
 
@@ -90,7 +90,7 @@ Các chức năng, vai trò quan trọng nhất của từng APC:
 
 ### Bắt giữ và xử lý kháng nguyên
 
-APCs bắt giữ các tế bào lạ hay KN thông qua thực bào (phagocytosis) đối với KN hữu hình/ẩm bào đối với KN hoà tan. Sau đó tạo thành các hốc thực bào (phagosome) + lysosome -> phagolysosome có nhiều men tiêu hoá, xử lý virus, vi khuẩn thành các mảnh KN
+APCs bắt giữ các tế bào lạ hay KN thông qua thực bào (phagocytosis) đối với KN hữu hình/ẩm bào đối với KN hoà tan. Sau đó tạo thành các hốc thực bào (phagosome) + lysosome → phagolysosome có nhiều men tiêu hoá, xử lý virus, vi khuẩn thành các mảnh KN
 
 Khi bắt gặp các VSV: APCs sẽ tiết ra các cytokinin như TNF hay interleukin - MD bẩm sinh
 
@@ -105,15 +105,15 @@ Các peptide KN sau khi được APCs xử lí sẽ được gắn lên trên c�
 Đặc tính quan trọng của MHC:
 
 - Phức hợp gene MHC có vai trò quan trọng trong quá trình cấy ghép mô: locus MHC giống nhau thì dung nạp, không thì thải loại.
-- MHC trình diện các KN cho **Lymp T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác -> ghép cùng loài vẫn có nguy cơ thải loại
+- MHC trình diện các KN cho **Lymp T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác → ghép cùng loài vẫn có nguy cơ thải loại
 - Ở người, MHC được gọi là **HLA** (KN bạch cầu của người), là các cụm gen trên *NST số 6*
 - Locus MHC có hai nhóm gene rất **đa kiểu hình** là các gene MHC lớp I và lớp II, lần lượt mã hoá cho MHC lớp I và lớp II
 
 ## Trình diện KN cho tế bào lympho T
 
-Cấu trúc của MHC I: do có 1 chân -> k có đối xứng -> có β-microglobulin
+Cấu trúc của MHC I: do có 1 chân → k có đối xứng → có β-microglobulin
 
-Cấu trúc của MHC II: do có 2 chân ->  có đối xứng -> chỉ có α & β đối xứng nhau
+Cấu trúc của MHC II: do có 2 chân →  có đối xứng → chỉ có α & β đối xứng nhau
 
 
 ![Trình diện KN nội sinh - lớp I và ngoại sinh - lớp II](/y2/mddc/6-tdkn-noi-ngoai.png)

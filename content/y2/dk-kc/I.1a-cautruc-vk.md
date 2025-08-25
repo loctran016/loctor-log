@@ -178,10 +178,9 @@ Miễn dịch: Không có kháng thể bảo vệ sau nhiễm
 
 ### Neisseria Meningitidis - Não mô cầu
 
-
 Bệnh học:
 
-- Người là ký chủ tự nhiên của N.meningitidis (tại 1 địa phương >= 2 người bệnh -> báo dịch)
+- Người là ký chủ tự nhiên của N.meningitidis (tại 1 địa phương >= 2 người bệnh → báo dịch)
 - Vi khuẩn lây qua *đường hô hấp*, thường là mũi hầu
 - Viêm họng xuất tiết
 - Nhiễm khuẩn huyết
@@ -378,7 +377,7 @@ Pathotype của E.coli:
 4. STEC/VTEC (E**H**EC): viêm đại tràng xuất huyết - *Hội chứng HUS* gây ra bởi shiga toxin (STEC)
 5. E**I**EC/Shigella: tiêu chảy phân đàm máu
 
-=> **_1,2,3 ➔ ruột non ➔ tiêu chảy; 4,5 ➔ ruột già_**
+=> ***1,2,3 ➔ ruột non ➔ tiêu chảy; 4,5 ➔ ruột già***
 
 Phòng bệnh và chữa bệnh:
 
@@ -395,7 +394,6 @@ Không lên men lactose (trừ S.sonnei), không
 sinh H2S, không sử dụng citrate…
 
 Kháng nguyên Shigella: O, K chỉ thiếu H
-
 
 Độc tố Shigella:
 • Nội độc tố (lipopolysaccharide)
@@ -431,7 +429,7 @@ Thường đứng đơn lẻ, đôi khi thành đôi hoặc chuỗi ngắn
 
 ### Nuôi cấy và tính chất sinh hoá
 
-1. Hiếu khí tuyệt đối 
+1. Hiếu khí tuyệt đối
 2. Nhiệt độ tăng trưởng: 37<sup>o</sup>C-42<sup>o</sup>C (5-42<sup>o</sup>C)
 ➔ Phân biệt P. aeroginosa với
 các loài Pseudomonas khác
@@ -455,12 +453,11 @@ Tiết ra 4 loại sắc tố:
 Các độc tố chính:
 
 - LPS
-- **exotoxin A** gây ức chế tổng hợp *protein* 
+- **exotoxin A** gây ức chế tổng hợp *protein*
 - pyocyanin, pyoverdin,
 elastase, protease, hemolysin (heat
 labile-phospholipase C & heat stable
 glycolipid), exoenzyme S và T…
-
 
 Kết dính vào tế bào chủ, tạo biofilm giúp kháng KS:
 flagella, pili, LPS, alginate capsule…
@@ -482,6 +479,7 @@ Xu hướng tạo thành biofilms của P aeruginosain ở lòng ống catheters
 BỆNH PHẨM: dịch cơ thể (quệt vết thương, mủ, nước tiểu, đàm, máu), dịch não tủy (Cary-Blair)
 
 Phối hợp kháng sinh:
+
 - Penicillins (Carbenicilline, ticarcilline, Azlocillin…)
 - Aminoglycosides
 - Cephalosporin III (Ceftazidime) hoặc Quinolone…

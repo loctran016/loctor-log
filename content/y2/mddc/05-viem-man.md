@@ -24,8 +24,8 @@ Trong viêm cấp thì tb BCTT quan trọng thì ở viêm mạn thì Lymphocyte
 
 Để khu trú, cách li vùng tổn thương nhờ ĐTB (hành sự):
 
-- U hạt: ĐTB biệt hoá thành **tb dạng biểu mô** -> bắt giữ các **mảnh nhỏ**. Bao bọc bởi collagen (có thể thê chất vôi calcium)
-- ĐTB liên kết thành tế bào **khổng lồ** -> thực bào **mảnh to**
+- U hạt: ĐTB biệt hoá thành **tb dạng biểu mô** → bắt giữ các **mảnh nhỏ**. Bao bọc bởi collagen (có thể thê chất vôi calcium)
+- ĐTB liên kết thành tế bào **khổng lồ** → thực bào **mảnh to**
 
 ![Tiến trình diễn tiến từ viêm cấp thành viêm mạn](/y2/mddc/5-u-hat.jpeg)
 
@@ -40,10 +40,10 @@ Sửa chữa mô có 2 kiểu (cùng có, tuỳ đặc diểm vết thương):
 
 Chúng đều được chia thành 2 pha:
 
-- Pha tái cấu trúc: fibroblast, tạo collagen, biểu mô hoá, co kéo vết thương từ 3-4 ngày -> 2 tuần
-- Pha lành sẹo: nhiều tuần -> 2 năm
+- Pha tái cấu trúc: fibroblast, tạo collagen, biểu mô hoá, co kéo vết thương từ 3-4 ngày → 2 tuần
+- Pha lành sẹo: nhiều tuần → 2 năm
 
-### Pha tái cấu trúc: 3-4 ngày -> 2 tuần
+### Pha tái cấu trúc: 3-4 ngày → 2 tuần
 
 Cục máu đông chứa fibrin và tiểu cầu → nối kết bờ vết thương, ngăn nhiễm khuẩn
 
@@ -60,7 +60,7 @@ và ĐTB bao quanh
 
 Biểu mô hoá, biệt hoá nhiều lớp biểu bì, che vết thương lại:
 
-- **Fibroblast**: tổng hợp ra collagen (có fibro -> collagen bám fibro)
+- **Fibroblast**: tổng hợp ra collagen (có fibro → collagen bám fibro)
 - **Co kéo vết thương**: nhờ Myofibroblast đóng vết thương
 
 ### Pha lành sẹo: >2 tuần - 2 năm
@@ -100,7 +100,7 @@ Bao gồm 2 giai đoạn:
 Bao gồm 3 giai đoạn:
 
 - Viêm cấp:
-- Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen). Mô hạt -> mô sẹo (collagen) và cuối cùng là co kéo vết thương
+- Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen). Mô hạt → mô sẹo (collagen) và cuối cùng là co kéo vết thương
 - Pha lành sẹo: hình thành sẹo vô mạch
 
 ![Lành vết thương thứ phát](/y2/mddc/5-lanh-vthg-thu-phat.jpeg)

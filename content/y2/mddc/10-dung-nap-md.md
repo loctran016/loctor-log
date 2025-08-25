@@ -20,7 +20,7 @@ Trong khi đó MD thu được (mắc phải) cần thời gian để phản ứ
 
 Có 2 TH:
 
-- Hệ thống MD không chống lại KN bản thân (self-antigens) -> tự dung nạp (bất thường: các bệnh tự miễn)
+- Hệ thống MD không chống lại KN bản thân (self-antigens) → tự dung nạp (bất thường: các bệnh tự miễn)
 - Bệnh lý: cơ thể không tạo ra KT (dịch thể & TB) chống lại KN ngoại lai
 
 Dựa vào **thời gian** & **tính chất** để chia thành các loại sau:
@@ -38,7 +38,7 @@ Dung nạp MD chỉ xuất hiện ở các lympho bào T có thụ thể đặc 
 
 ![Dung nạp MD trung ương & ngoại biên](/y2/mddc/10-dnap-md-trg-uong-ngbien.jpeg)
 
-Cần sự kết hợp: liều lượng, đường truyền và quy trình gây mẫn cảm -> tối ưu đáp ứng MD (VD: Ở chuột, polysaccharide vỏ phế cầu 0,5mg k kích thích nhưng 5x1000<sup>-4</sup>mg đáp ứng mạnh. K đáp ứng -> dung nạp)
+Cần sự kết hợp: liều lượng, đường truyền và quy trình gây mẫn cảm → tối ưu đáp ứng MD (VD: Ở chuột, polysaccharide vỏ phế cầu 0,5mg k kích thích nhưng 5x1000<sup>-4</sup>mg đáp ứng mạnh. K đáp ứng → dung nạp)
 
 **Bệnh lao**: dung nạp VK *Mycobarterium tuberculosis* - không phát triển thành thành bệnh
 
@@ -103,7 +103,7 @@ Bệnh **LUPUS** là sự bất thường của lympho Th và lympho B
 Khi lympho B naive nhận diện KN tự thân ở tuỷ xương có 3 vận mệnh:
 
 1. Biên tập lại thụ thể tái tổ hợp gen của **chuỗi nhẹ globulin** (25-50% tb B trưởng thành đã trải qua chỉnh sửa thụ thể)
-2. Chết: chỉnh sửa thất bại -> apoptosis
+2. Chết: chỉnh sửa thất bại → apoptosis
 3. Đáp ứng kém
 
 ![Dung nạp trung ương của lympho B naive](/y2/mddc/10-dnap-b-trg-uong.jpeg)
@@ -124,11 +124,11 @@ Không có khả năng đáp ứng với KN vì 3 lí do:
 
 ### Thai nhi
 
-50% gene bố -> KN xa lạ
+50% gene bố → KN xa lạ
 
 Cơ chế:
 
-- Gene bố -> T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
+- Gene bố → T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
 - trình diện KN kém trong nhau thai
 - không tạo Th1 trong tử cung
 

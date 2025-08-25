@@ -28,7 +28,7 @@ Bao gồm: β-lactams, glycopeptides và aminoglycoside
 Do tính chất ưa nước nên nhóm KS này có một vài tính chất đặc biệt như sau:
 
 - Thể tích phân bố bị giới hạn (đôi khi chỉ phân bố trong máu)
-- Không khuếch tán thụ động qua màng tế bào -> không kháng các tác nhân nội bào (VD: lao,...)
+- Không khuếch tán thụ động qua màng tế bào → không kháng các tác nhân nội bào (VD: lao,...)
 - Thải qua thận ở dạng không đổi
 
 Thường dùng **liều nạp**: cao hơn liều thông thường để tăng tốc nâng nồng độ thuốc trong máu lên, đánh nhanh, thắng nhanh - **liều tấn công**
@@ -40,7 +40,7 @@ Bao gồm: Macrolides, Fluoroquinolones, Tetracyclin, Rifampin (chỉ dành tr�
 Do tính chất kị nên nhóm KS này có một vài tính chất đặc biệt như sau:
 
 - Thể tích phân bố lớn
-- Khuếch tán thụ động qua màng tế bào -> kháng các tác nhân nội bào (VD: lao,...)
+- Khuếch tán thụ động qua màng tế bào → kháng các tác nhân nội bào (VD: lao,...)
 - Thải qua chuyển hoá ở gan
 
 ## Tiêu chí lựa chọn thuốc

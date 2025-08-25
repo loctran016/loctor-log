@@ -33,9 +33,9 @@ Các lớp kháng thể:
   - Chiếm 2/3 KT, có mặt ở khắp mọi nơi, là kháng tể truyền được qua nhau thai
   - Bán huỷ trong 21-23 ngày, có FcRN bảo vệ thì lâu hơn
 - IgE: ε - 2 Fab (epsilon)
-  - Gắn với TB Mast -> Quá mẫn tức thì
+  - Gắn với TB Mast → Quá mẫn tức thì
 - IgM: μ - 10 Fab (mu) - pentamore (5 chữ Y)
-  - Vừa màng, vừa tiết -> có gắn trên lympho B và trôi trong máu, hạch bạch huyết
+  - Vừa màng, vừa tiết → có gắn trên lympho B và trôi trong máu, hạch bạch huyết
 - IgD: δ - 2 Fab (delta)
   - IgM nhưng dỏm hơn, máu only
 
@@ -142,14 +142,12 @@ lympho.
 1. Sự hoạt hoá và di chuyển lympho Th
 ▪ TB tua gai trình diện KN protein đã xử lý
 thông qua MHC-II cho TCD4
+
 +
+
 thành Th
 sản xuất cytokines di chuyển tới vùng rìa
 nang lympho.
-▪ Lympho B naive được hoạt hoá trong
-nang lympho, di chuyển về phía lympho T
-▪ Một số lympho B và lympho T đặc hiệu
-với KN tiếp tục di chuyển trở vào các
-nang để hình thành các trung tâm mầm
-(germinal centers), khởi các đáp ứng
-chuyên biệt hơn.
+▪ Lympho B naive được hoạt hoá trong nang lympho, di chuyển về phía lympho T
+▪ Một số lympho B và lympho T đặc hiệu với KN tiếp tục di chuyển trở vào các
+nang để hình thành các trung tâm mầm (germinal centers), khởi các đáp ứng chuyên biệt hơn.
