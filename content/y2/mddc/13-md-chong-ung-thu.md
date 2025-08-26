@@ -31,7 +31,7 @@ Các thay đổi bề mặt TB liên quan đến ung thư:
 
 ## Kháng nguyên ung thư
 
-Kháng nguyên mới (Neoantigen) : ko đóng vai trò hình thành khối u, làm biểu hiện các protein mới ko phải là nguyên nhân gây ung thư; được nhận diện bởi MHC của BN.
+Kháng nguyên mới (Neoantigen): ko đóng vai trò hình thành khối u, làm biểu hiện các protein mới ko phải là nguyên nhân gây ung thư; được nhận diện bởi MHC của BN.
 
 Các protein có cấu trúc bình thường được biểu hiện bất thường hoặc biểu hiện quá mức
 
@@ -54,9 +54,8 @@ phép TB tua gai kích hoạt lympho T chống lại nhiều loại KN khác nha
 
 Tế bào NK:
 
-- TBUT giảm biểu lộ MHC-I → giảm hoạt hóa thụ thể ức chế của tế bào NK
-- TBUT biểu lộ các phân tử giống MHC
-lớp I (MICA và MICB) → hoạt hóa thụ
+- TBUT giảm biểu lộ MHC-I → giảm thụ thể ức chết tế bào NK
+- TBUT biểu lộ các phân tử giống MHC lớp I (MICA và MICB) → hoạt hóa thụ
 thể kích hoạt tế bào NK
 - Khi IgG gắn lên TB ung thư thì phần Fc của IgG sẽ được tế bào NK nhận ra bởi thụ thể FcɤR3 → giải phóng hạt để giết TB ung thư.
 
@@ -72,29 +71,25 @@ TẾ BÀO LYMPHO TCD<sub>8</sub>+
 - TB trình diện KN nuốt các TB ung thư hay KN của chúng và trình diện KN cho lympho T
 - TB ung thư bị diệt bởi lympho TCD8+ chuyên biệt với ung thư
 
-TẾ BÀO LYMPHO T<sub>h</sub>1
+TẾ BÀO LYMPHO T<sub>h</sub>1:
 Ngoài lympho TCD<sub>8</sub>+, TB tua còn trình diện chéo cho
-lympho TCD4 + → hoạt hóa lympho Th1 giải phóng cytokine (TNF, INF-ɤ) → hoạt hóa lympho TCD<sub>8</sub>+ →thúc đẩy biệt hóa và hoạt động của lympho Tc, tăng biểu lộ MHC-I trên TB ung thư
+lympho TCD<sub>4</sub>+ → hoạt hóa lympho Th1 giải phóng cytokine (TNF, INF-ɤ) → hoạt hóa lympho TCD<sub>8</sub>+ → thúc đẩy biệt hóa và hoạt động của lympho Tc, tăng biểu lộ MHC-I trên TB ung thư
 
 ## Cơ chế né tránh của TB ung thư
 
-Một số cơ chế chính:
+Các TB ung thư tăng trưởng rất nhanh, phát triển, đột biến và tiến hoá liên tục nên các TB ung thư thoát khỏi sự giám sát của hệ thống MD sẽ được chọn lọc để phát triển nhờ các cơ chế:
 
-- TB ung thư “tiến hoá” liên tục → trốn hoặc chống lại ĐƯMD
-- TB ung thư tăng trưởng rất nhanh
-- TB ung thư ít gây đáp ứng viêm, ít có các yếu tố đồng kích thích và ít
-biểu hiện các kháng nguyên ngoại lai
-- TB ung thư rất giống TB tự thân → ko thu hút sự chú ý của hệ MD
-- TB ung thư không có PAMPs để khởi động ĐƯMD
+- TB ung thư ít gây đáp ứng viêm, ít có các yếu tố đồng kích thích và ít biểu hiện các kháng nguyên ngoại lai
+- TB ung thư rất giống TB tự thân (không có PAMPs) → ko thu hút sự chú ý của hệ MD
 - Một số TB ung thư thoát khỏi giám sát MD sẽ được chọn lọc để phát triển
 
-Một số khối u ngừng biểu hiện MHC-I hoặc các phân tử liên quan đến quá trình xử lý KN hoặc quá trình lắp ráp phân tử MHC bị khiếm khuyết → không thể trình diện KN cho lympho TCD<sub>8</sub>+
+Một số khối u ngừng biểu hiện MHC-I hoặc các phân tử tương tự (MICA & MICB) do rối loạn trong quá trình lắp ráp MHC → không thể trình diện KN cho lympho TCD<sub>8</sub>+
 
-Các khối u kích hoạt các cơ chế ức chế sự hoạt hóa lympho T.
+Các khối u ức chế sự hoạt hóa lympho T
 
 Thay đổi chuyển hóa môi trường xung quanh khối u → suy giảm khả năng khởi phát ĐƯMD của TB tua gai hoặc quá trình tăng sinh của tế bào lympho T.
 
-VD : men IDO (indoleamine 2,3‐dioxygenase) tăng hoạt động trong TB ung thư gây thiếu tryptophan → giảm tăng sinh tế bào lympho T
+VD: men IDO (indoleamine 2,3‐dioxygenase) tăng hoạt động trong TB ung thư gây thiếu tryptophan → giảm tăng sinh tế bào lympho T
 
 ## Điều trị
 
