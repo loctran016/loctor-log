@@ -2,7 +2,8 @@
 title: Bài 9 - Kháng thể và Miễn dịch dịch thể
 date: 2025-08-06
 ---
-## Cấu trúc cơ bản
+
+## Cấu trúc cơ bản của KT
 
 Do tế bào lympho B tiết ra, do ngẫu nhiên và độc lập/đặc hiệu, do sự kích thích kháng nguyên:
 
@@ -85,7 +86,7 @@ Mảnh FC quyết định 4 tính chất của kháng thể:
 
 ![Sự vận chuyển KT IgG qua nhau thai và qua sữa mẹ nhờ FcRn](/y2/mddc/9-fcrn-nhauthai-sua.jpeg)
 
-## Miễn dịch dịch thể
+## Các pha miễn dịch dịch thể
 
 Tuỳ vào bản chất kháng nguyên => MD dịch thể hay MD qua trung gian TB
 
@@ -108,30 +109,27 @@ Các kỳ đáp ứng miễn dịch dịch thể:
 
 ![Bảng so sánh kỳ đầu & kỳ sau của đáp ứng miễn dịch dịch thể](/y2/mddc/9-bang-ky-dap-ung-mddt.jpeg)
 
-### Sự hoạt hóa tế bào lympho B gây ra bởi kháng nguyên
+## Sự hoạt hóa tế bào lympho B gây ra bởi kháng nguyên
 
-- KN được vận chuyển đến nang
-lympho :
-• KN nhỏ : qua mạch BH
-hướng tâm, khuếch tán
-• ĐTB hoặc TB tua gai vận
-chuyển KN lớn
-- KN chưa được xử lý bởi APC.
+KN được vận chuyển đến nang lympho:
 
-### Biến đổi chức năng của lympho B sau khi hoạt hoá
+- KN nhỏ : qua mạch BH hướng tâm, khuếch tán
+- KN lớn: được ĐTB hoặc TB tua gai vận chuyển 
 
-Bước vào chu trình tế bào, tăng sinh để gia tăng
-số lượng tế bào đặc hiệu với KN
+Một số KN chưa được xử lý bởi APC.
 
-Tổng hợp nhiều IgM hơn → tạo ra pha sớm của
-đáp ứng miễn dịch dịch thể
+![KN hoạt hoá lympho B](/y2/mddc/9-kn-hoat-hoa-lym-b.jpeg)
 
-Tăng biểu lộ các phân tử đồng kích thích B7 →
-cung cấp các tín hiệu thứ hai để hoạt hoá
-lympho T.
 
-Tăng biểu lộ của các thụ thể dành cho các
-cytokine do tế bào lympho T tiết ra.
+## Biến đổi chức năng của lympho B sau khi hoạt hoá
+
+Tăng sinh để gia tăng số lượng tế bào đặc hiệu với KN
+
+Tổng hợp nhiều IgM hơn (pha sớm của miễn dịch dịch thể)
+
+Tăng biểu lộ các phân tử đồng kích thích B7 → các tín hiệu thứ hai để hoạt hoá lympho T.
+
+Tăng biểu lộ của các thụ thể dành cho các cytokine do tế bào lympho T tiết ra.
 
 Giảm số lượng thụ thể dành cho các chemokine
 để giữ các tế bào lympho B ở lại trong các nang

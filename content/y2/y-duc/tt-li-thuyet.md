@@ -1,6 +1,6 @@
 ---
-title: Ôn thi GK - Y đức
-date: 2025-08-20
+title: Tóm tắt lí thuyết
+date: 2025-09-06
 ---
 
 ## Bài 1: Giới thiệu về trách nhiệm của người thầy thuốc
@@ -25,7 +25,7 @@ thầy thuốc.
 Quy ước quốc tế về Y đức: trách nhiệm của thầy thuốc, trách nhiệm với bệnh nhân,
 trách nhiệm với đồng nghiệp.
 - Tuyên ngôn Geneva (2006)
--
+
 
 ## Bài 2: Y đức trong thực hành lâm sàng – tính chuyên nghiệp trong y khoa:
 
@@ -35,6 +35,7 @@ Hội y học thế giới: "Đạo đức nghề y là 1 nhánh của đạo đ
 - Lòng nhân ái
 - Không làm việc có hại
 - Công bằng
+ 
 Hiến chương dành cho nhân viên y tế:
 - Đặt sức khỏe BN lên hàng đầu.
 - Tôn trọng quyền tự quyết của BN.
@@ -88,36 +89,31 @@ khinh suất đưa ra những phương thuốc nhằm để thử nghiệm.
 7. Giữ lòng đức hậu với đồng nghiệp phải khiêm tốn hòa nhã, kính trên nhường dưới,
 giúp đỡ dìu dắt người yếu kém hơn mình.
 8. Cần quan tâm chăm sóc đặc biệt người nghèo túng, mồ côi, cô độc, cơ nhỡ ...
-9. Nghề y là nhân thuật, khi tự nguyện hành nghề phải xây dựng cho mình khí tiết thanh
-cao, giữ lòng từ thiện, đức hiếu sinh, không mưu cầu lễ hậu, quà cáp.
+9. Nghề y là nhân thuật, khi tự nguyện hành nghề phải xây dựng cho mình khí tiết thanh cao, giữ lòng từ thiện, đức hiếu sinh, không mưu cầu lễ hậu, quà cáp.
 
 ## Bài 5: Quan hệ thầy thuốc – bệnh nhân
 
 Quan hệ thầy thuốc – bệnh nhân (QHTT-BN) là nền tảng của hành nghề y và y đức.
 - Lòng trắc ẩn là giá trị chính, quan trọng nhất trong QHTT-BN.
-- Sự tin cậy là yếu tố cơ bản cho mối QHTT-BN .
-Tuyên ngôn Geneva yêu cầu thầy thuốc: "Phải xem sức khỏe của bệnh nhân là mối quan tâm
-hàng đầu".
-Công ước quốc tế về y đức: "Người thầy thuốc phải tuyệt đối trung thành với BN và phải
-cống hiến cho BN tất cả nguồn lực khoa học của mình".
+- Sự tin cậy là yếu tố cơ bản cho mối QHTT-BN.
+ 
+Tuyên ngôn Geneva yêu cầu thầy thuốc: "Phải xem sức khỏe của bệnh nhân là mối quan tâm hàng đầu".
+
+Công ước quốc tế về y đức: "Người thầy thuốc phải tuyệt đối trung thành với BN và phải cống hiến cho BN tất cả nguồn lực khoa học của mình".
+
 6 vấn đề trong quan hệ thầy thuốc – bệnh nhân:
 
-Tôn trọng và bình đẳng trong khám chữa bệnh:
-- Tôn trọng: BN được quyền tham gia trong các quyết định liên quan tới chẩn đoán,
-điều trị, chăm sóc bệnh trạng của mình.
-- Bình đẳng: Mọi BN đều có cơ hội nhận được sự điều trị và chăm sóc y tế như nhau.
-
-Giao tiếp và đồng thuận.
-
-Ra quyết định khi BN không thể tự quyết.
-
-Tính bảo mật.
-
-Bắt đầu sự sống.
-
-Kết thúc sự sống.
+1. Tôn trọng và bình đẳng trong khám chữa bệnh:
+    - Tôn trọng: BN được quyền tham gia trong các quyết định liên quan tới chẩn đoán, điều trị, chăm sóc bệnh trạng của mình.
+    - Bình đẳng: Mọi BN đều có cơ hội nhận được sự điều trị và chăm sóc y tế như nhau.
+2. Giao tiếp và đồng thuận.
+3. Ra quyết định khi BN không thể tự quyết.
+4. Tính bảo mật.
+5. Bắt đầu sự sống.
+6. Kết thúc sự sống.
 
 Thầy thuốc có thể chọn bệnh nhân?
+
 - Không được từ chối BN trong trường hợp cấp cứu.
 - Không được từ chối BN khi không có lý do chính đáng (bệnh nhân đã quá đông, không
 phải lãnh vực chuyên môn).
@@ -127,18 +123,15 @@ Kết thúc mối quan hệ thầy thuốc - bệnh nhân:
 - Nếu vấn đề bệnh lý của BN nằm ngoài khả năng của thầy thuốc: tham vấn, giới thiệu thầy
 thuốc khác.
 - Những lý do cho phép thầy thuốc muốn kết thúc mối quan hệ với BN
-o đổi chỗ hoặc ngưng hành nghề
-o BN từ chối do không đủ tiền chi trả cho các dịch vụ
-o BN và thầy thuốc không thích nhau, không đồng ý kiến
-o BN không tuân thủ điều trị
-- Lý do đôi khi có thể chính đáng, nhưng vẫn vi phạm y đức => Phải tham khảo luật về y
-đức, nếu chính đáng, phải giúp BN tìm thầy thuốc khác thích hợp hơn.
-- Nếu BN có những lời nói, hành vi thô bạo với thầy thuốc, thì họ có được tôn trọng và
-bình đẳng trong điều trị không?
-o Cân nhắc giữa bổn phận và sự an toàn của bản thân và đồng nghiệp với quyền lợi
+    -  đổi chỗ hoặc ngưng hành nghề
+    -  BN từ chối do không đủ tiền chi trả cho các dịch vụ
+    -  BN và thầy thuốc không thích nhau, không đồng ý kiến
+    -  BN không tuân thủ điều trị
+- Lý do đôi khi có thể chính đáng, nhưng vẫn vi phạm y đức => Phải tham khảo luật về y đức, nếu chính đáng, phải giúp BN tìm thầy thuốc khác thích hợp hơn.
+- Nếu BN có những lời nói, hành vi thô bạo với thầy thuốc, thì họ có được tôn trọng và bình đẳng trong điều trị không?
+    - Cân nhắc giữa bổn phận và sự an toàn của bản thân và đồng nghiệp với quyền lợi
 của BN.
-
-o Tìm giải pháp ổn thỏa cho cả hai.
+    - Tìm giải pháp ổn thỏa cho cả hai.
 Hấp dẫn giới tính và quan hệ gia đình trong QHTT – BN:
 - Cấm quan hệ tình dục.
 - Trong luật một số nước thầy thuốc không được chữa bệnh cho thành viên trong gia đình
@@ -148,15 +141,12 @@ Xung đột về quyền lợi giữa TT – BN:
 - Xung đột về quyền lợi tài chính.
 Ở Cơ sở giải quyết: Tôn trọng quyền lợi BN theo đúng luật y đức.
 
-## Bài 6: Quan hệ thầy thuốc – bệnh nhân: Bảo mật:
+## Bài 6: Bảo mật trong quan hệ thầy thuốc – bệnh nhân
+
 Bảo mật là đảm bảo rằng chỉ có những người có quyền tiếp cận thông tin mới có thể
-truy cập được thông tin. Bảo mật còn bao gồm việc bảo đảm sự sẵn có và tính toàn vẹn của
-thông tin. Cần biết điều tối thiểu là chỉ nên cung cấp thông tin cho những người cần nó để
-thực hiện nhiệm vụ đã được phân công.
+truy cập được thông tin. Bảo mật còn bao gồm việc bảo đảm sự sẵn có và tính toàn vẹn của thông tin. Cần biết điều tối thiểu là chỉ nên cung cấp thông tin cho những người cần nó để thực hiện nhiệm vụ đã được phân công.
 - Là một nguyên tắc đạo đức căn bản trong chăm sóc sức khoẻ.
-- Mặc dù duy trì sự tôn trọng thông tin cá nhân có thể là điểm xuất phát, nhưng sự cân bằng
-về lợi ích và tác hại của việc tiết lộ / không tiết lộ sẽ dẫn đến việc xem xét các hậu quả của
-hành động.
+- Mặc dù duy trì sự tôn trọng thông tin cá nhân có thể là điểm xuất phát, nhưng sự cân bằng về lợi ích và tác hại của việc tiết lộ / không tiết lộ sẽ dẫn đến việc xem xét các hậu quả của hành động.
 - Hướng dẫn về Bảo mật chấp thuận cho công bố thông tin bảo mật dù không được sự chấp
 thuận của NGƯỜI BỆNH nếu chứng minh là có thể ngăn ngừa nguy cơ tử vong hoặc gây
 tổn hại nghiêm trọng cho bên thứ ba.
