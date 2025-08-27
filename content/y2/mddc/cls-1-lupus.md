@@ -3,21 +3,61 @@ title: CLS 1 - Lupus ban đỏ
 date: 2025-08-28
 ---
 
-## Khái niệm
+## Bệnh Lupus
+
+### Giới thiệu
 
 Bệnh tự miễn: tình trạng mà hệ MD cơ thể nhầm lẫn mô bình thường thành lạ và tấn công chúng. Đa số gây viêm ảnh hưởng đến nhiều phần cơ thể, vị trí bị ảnh hưởng phụ thuộc vào loại bệnh tự miễn của BN.
 Dấu hiệu: ốm, sốt, đau cơ, đau khớp, phù, bất thường ở da, đau bụng, bất thường tiêu hóa và sưng phù các tuyến, các triệu chứng có thể nhẹ hoặc nặng. Bệnh phổ biến ở phụ nữ và liên quan đến bệnh sử gia đình.
 
-<p class="text-left italic -mt-4 opacity-80">(National Cancer Institute at the National Institutes of Health)</p>
+Bệnh Lupus là bệnh lý tự miễn ảnh hưởng đến da, viêm mô liên kết và cơ thể
+thường sản xuất ra các tự kháng thể tấn công vào các cơ quan khác nhau của
+bệnh nhân như thận, khớp, hệ thần kinh, tế bào máu. Các biến chứng của bệnh
+Lupus tại các cơ quan trên cơ thể như sau:
 
-Bệnh Lupus đỏ: là dạng thường gặp nhất của Lupus. Đây là bệnh lý tự miễn dẫn tới viêm lan rộng và tổn thương mô ở các cơ quan bị ảnh hưởng. Nó có thể ảnh hưởng đến khớp, da, não, phổi, thận, mạch máu. Không có phương pháp điều trị triệt để, nhưng các liệu pháp và thay đổi lối sống giúp kiểm soát bệnh.
+- Phát ban ở những bộ phận thường tiếp xúc với ánh sáng mặt trời
+- Đau các khớp nhỏ ở bàn tay, bàn chân và di chuyển từ khớp này sang khớp
+khác
+- Bị bệnh lý về thận như viêm thận gây tiểu ra đạm, ra máu
+- Ảnh hưởng đến hệ thần kinh gây ra đau đầu, lo lắng,...
+- Huyết áp cao
 
-<p class="text-left italic -mt-4 opacity-80">(cdc.gov)</p>
+### XN tự kháng thể
+
+ANA (Antinuclear antibodies): tự KT kháng nhân, nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA)
+
+anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB
+
+anti-Sm là tự kháng thể gắn kết với ribonucleoprotein được tìm thấy trong nhân
+tế bào. Độ đặc hiệu cao hơn, nhưng anti-dsDNA nhạy hơn.
+
+=> Đây là các xét nghiệm tự kháng thể quan trọng trong chẩn đoán bệnh lý tự
+miễn, mà cụ thể là bệnh Lupus ban đỏ. Ở đây các kết quả xét nghiệm đều cao
+hoặc dương tính, chứng tỏ nghi ngờ của bác sĩ là đúng.
+
+### XN khác
+
+Nồng độ bổ thể: C3 và C4 là các protein huyết tương quan trọng của hệ thống bổ thể, giảm khi dòng thác bổ thể đang được hoạt hoá trong phản ứng viêm
+
+Albumin giảm: có thể do tổn thương ở gan, thận,...
+
+Tiểu ra đạm và tiểu ra máu: do tổn thương cầu thận nên các thành phần này đi
+vào trong nước tiểu
+
+Thiếu máu, giảm bạch cầu và hồng cầu: do tự kháng thể bám lên
+
+### Cơ chế gây bệnh
+
+Do các đột biến gen + tác nhân môi trường (tia
+UV, nhiễm virus, hút thuốc,...) sẽ gây tổn thương DNA tế bào và apoptosis. Cụ thể
+ở trường hợp này, do bệnh nhân tiếp xúc nhiều với tia UV nên lớp tế bào sừng của thượng bì đã đi vào apoptosis.
+
+Cũng do đột biến gen mà hệ thống miễn dịch không đáp ứng đủ mạnh để tiêu diệt các mảnh vỡ tế bào, cũng như dễ nhận diện các mảnh vỡ ấy là kháng nguyên đối với bản thân, từ đó tạo ra ngày càng nhiều tự kháng thể với các kháng nguyên ấy.
+
+Các tự kháng thể có thể gắn với kháng nguyên để tạo phức hợp miễn dịch (quá mẫn type III) hoặc gắn lên trên các tế bào hay mô bình thường (quá mẫn type II), từ đó gây ra các phản ứng viêm ở các cơ quan khác nhau trong cơ thể.
 
 
-## Case lâm sàng
-
-### Đánh giá kết quả XN tự KT và kết quả bổ thể
+## Đánh giá kết quả XN tự KT và kết quả bổ thể
 
 Thành phần C3, C4 của bổ thể thấp → có sự hoạt hóa bổ thể để dọn dẹp các mảnh KN nhân dẫn đến phân cắt các thành phần C3, C4, gan sản xuất không kịp.
 
