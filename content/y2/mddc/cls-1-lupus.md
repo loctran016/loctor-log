@@ -8,11 +8,11 @@ date: 2025-08-28
 Bệnh tự miễn: tình trạng mà hệ MD cơ thể nhầm lẫn mô bình thường thành lạ và tấn công chúng. Đa số gây viêm ảnh hưởng đến nhiều phần cơ thể, vị trí bị ảnh hưởng phụ thuộc vào loại bệnh tự miễn của BN.
 Dấu hiệu: ốm, sốt, đau cơ, đau khớp, phù, bất thường ở da, đau bụng, bất thường tiêu hóa và sưng phù các tuyến, các triệu chứng có thể nhẹ hoặc nặng. Bệnh phổ biến ở phụ nữ và liên quan đến bệnh sử gia đình.
 
-<p class="text-left italic -mt-2">(National Cancer Institute at the National Institutes of Health)</p>
+<p class="text-left italic -mt-4 opacity-80">(National Cancer Institute at the National Institutes of Health)</p>
 
 Bệnh Lupus đỏ: là dạng thường gặp nhất của Lupus. Đây là bệnh lý tự miễn dẫn tới viêm lan rộng và tổn thương mô ở các cơ quan bị ảnh hưởng. Nó có thể ảnh hưởng đến khớp, da, não, phổi, thận, mạch máu. Không có phương pháp điều trị triệt để, nhưng các liệu pháp và thay đổi lối sống giúp kiểm soát bệnh.
 
-<p class="text-left italic -mt-2">(cdc.gov)</p>
+<p class="text-left italic -mt-4 opacity-80">(cdc.gov)</p>
 
 
 ## Case lâm sàng
