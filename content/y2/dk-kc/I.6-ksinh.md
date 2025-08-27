@@ -1,6 +1,7 @@
 ---
 title: Bài I.6 - Kháng sinh kháng VK
 date: 2025-08-22
+tag: Vi khuẩn
 ---
 
 ## Khái niệm
@@ -54,6 +55,51 @@ Muốn điều trị thành công cần nhanh và mạnh, tuân thủ hay nguyê
 
 Khi dùng Metronidazole chữa trị VK kị khí thường phối hợp KS trị Gram (-) hay Gram (+) (nhiễm đa khuẩn)
 
-### Nồng độ ức chế tối thiểu - MIC
+### Nồng độ ức chế (MIC) & diệt khuẩn (MBC) tối thiểu
 
-- Nồng độ KS nhỏ nhất có thể ức chế sự phát triển *có thể nhìn thấy được* của VK sau **24h**
+MIC: Nồng độ KS nhỏ nhất có thể ức chế sự phát triển *có thể nhìn thấy được* của VK sau **24h**
+
+MBC: nồng độ KS nhỏ nhất diệt được 99,9% vi khuẩn
+
+Tương quan MIC & MBC dùng để xác định KS để kiềm khuẩn hay diệt khuẩn
+
+Nếu với liều bác sĩ cho amoxicillin liều xác định không đủ giết VK thì gọi là đề kháng amox, cần tăng liều hay thay đổi KS
+
+Do môi trường nuôi cấy in vitro nên có nhiều hạn chế:
+
+- Một thời điểm và nồng độ cố định
+- Không xác định được tác động của từng nồng độ tới mức độ diệt khuẩn
+- Không xác định tác dụng **sau kháng sinh**
+
+### Tác dụng hậu KS
+
+Tác dụng hậu KS là tác dụng ức chế VK sau khi đã hết thuốc. Tác dụng này càng lớn thì càng giảm số lần dùng thuốc trong ngày
+
+Các thuốc ức chế tổng hợp DNA/protein thì thường có hậu KS dài (chui vô trong TB vi khuẩn)
+
+β-lactam không có hậu KS
+
+Tác dụng tăng cường hậu KS (PALE - postantibiotic leukocytes enhancement effect):
+
+- Là cách giải thích thông dụng nhất cho tác dụng hậu KS
+- Vi khuẩn sau khi tiếp xúc với KS dễ bị tiêu diệt bởi bạch cầu hơn
+- Điển hình là Aminoglycoside và flouroquinolone - liều dùng ít lần trong 1 ngày
+
+
+## Phân loại dựa vào Cơ chế tác động & Kìm - Diệt
+
+## Phân loại dựa vào dược động - dược lực
+
+Dựa vào dược động-dược lực phân loại
+kháng sinh thành 2 nhóm:
+- Nhóm phụ thuộc thời gian:
+	- Hậu KS ngắn, thời gian >=MIC càng lâu
+- Nhóm phụ thuộc nồng độ
+	- Hậu KS kéo dài nếu nồng đọ đủ cao
+
+### PK/PD
+
+Thông số:
+- Cmax/MIC
+- %T>MIC (tỷ lệ thời gian T>MIC)
+- AUC/MIC
