@@ -1,7 +1,7 @@
-——-
+---
 title: Bài 3 - Cơ chế gây bệnh của vi khuẩn
 date: 2025-08-28
-——-
+---
 
 ## Câu hỏi gợi mở
 
