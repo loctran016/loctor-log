@@ -12,6 +12,7 @@ bằng xe máy từ TP.HCM đến Nha Trang và phơi nắng quá mức tại b�
 nhân thấy mình bị phát ban đỏ trên má khi soi gương. Bệnh nhân quyết định đến
 gặp bác sĩ chuyên khoa Da liễu. Bác sĩ khai thác thêm một số thông tin bệnh lý
 của bệnh nhân như sau:
+
 - 3-4 tháng nay bệnh nhân luôn thức dậy trong trạng thái mệt mỏi, ngày càng tăng
 dần.
 - Các khớp ngón tay và đầu gối thường cứng lại, đau nhức mỗi buổi sáng nhưng
@@ -58,7 +59,8 @@ phù chân 2 bên.
 
 ### Giới thiệu
 
-Bệnh tự miễn: 
+Bệnh tự miễn:
+
 - Hệ MD cơ thể nhầm lẫn mô bình thường thành lạ và tấn công chúng, gây viêm ảnh hưởng đến nhiều phần cơ thể, vị trí bị ảnh hưởng phụ thuộc vào loại bệnh tự miễn của BN.
 - Dấu hiệu: ốm, sốt, đau cơ, đau khớp, phù, bất thường ở da, đau bụng, bất thường tiêu hóa và sưng phù các tuyến, các triệu chứng có thể nhẹ hoặc nặng. Bệnh phổ biến ở phụ nữ và liên quan đến bệnh sử gia đình.
 
@@ -78,7 +80,7 @@ khác
 
 Độ nhạy để tầm soát, độ đặc hiệu (có bị âm tính, dương tính giả) để chẩn đoán, xác định bệnh
 
-ANA (Antinuclear antibodies): *KT kháng nhân*, nhạy cao (bắt lầm hơn bị sót) nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA) - không đặc hiệu do các DNA từ TB vỡ ra (bth) và hệ MD đến dọn dẹp nhưng hông hết nên bị trình diện tự KT => Sàng lọc (không có ANA loại) 
+ANA (Antinuclear antibodies): *KT kháng nhân*, nhạy cao (bắt lầm hơn bị sót) nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA) - không đặc hiệu do các DNA từ TB vỡ ra (bth) và hệ MD đến dọn dẹp nhưng hông hết nên bị trình diện tự KT => Sàng lọc (không có ANA loại)
 
 anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatine (đặc hiệu cực cao với lupus, nhất là có thận)
 
@@ -91,7 +93,7 @@ hoặc dương tính, chứng tỏ nghi ngờ của bác sĩ là đúng.
 
 ### XN khác
 
-Con đường hoạt hoá bổ thể cổ điển, tiêu thụ c3 và c4 nhiều nhất -> dùng cho lupus 
+Con đường hoạt hoá bổ thể cổ điển, tiêu thụ c3 và c4 nhiều nhất -> dùng cho lupus
 
 Nồng độ bổ thể: C3 và C4 (tới 9) là các protein huyết tương quan trọng của hệ thống bổ thể, giảm khi dòng thác bổ thể đang được hoạt hoá trong phản ứng viêm
 
@@ -116,7 +118,6 @@ Các tự kháng thể có thể gắn với kháng nguyên để tạo phức h
 - Thiếu máu: xuất hiện tự KT HC → trầm trọng gây khó thở, suy tim.
 - Giảm BC máu: xuất hiện tự KT BC.
 - Giảm TC máu → trầm trọng gây xuất huyết dưới da.
-
 
 ## Đánh giá kết quả XN tự KT và kết quả bổ thể
 

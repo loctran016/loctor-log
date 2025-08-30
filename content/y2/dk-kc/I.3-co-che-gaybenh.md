@@ -69,18 +69,10 @@ ID<sub>50</sub> = số lượng vi sinh vật cần thiết để gây bệnh 
 	- Shigella ít hơn 100
 	- Salmonella cần hơn 100,000
 
-### Tại sao con người mắc một bệnh lý nhiễm khuẩn?
-Vi sinh vật vượt trội hơn so với sức đề kháng
+con người mắc một bệnh lý nhiễm khuẩn vì vi sinh vật vượt trội hơn so với sức đề kháng nhờ:
 
-Từ khía cạnh vi sinh vật:
-- Số lượng
-- Độc lực
-
-Từ khía cạnh hệ đề kháng:
-- Miễn dịch nguyên phát
-- Miễn dịch thu được
-- Trung gian kháng thể
-- Trung gian tế bào
+- Từ khía cạnh vi sinh vật: Số lượng, Độc lực
+- Từ khía cạnh hệ đề kháng: MD nguyên phát, thu được, kháng thể và Trung gian tế bào
 
 ### Các giai đoạn của một tiến trình nhiễm khuẩn
 
@@ -93,6 +85,7 @@ Từ khía cạnh hệ đề kháng:
 7. Bệnh tiến triển nặng hoặc khỏi
 
 ### Các giai đoạn của một tiến trình nhiễm khuẩn
+
 1. Vi sinh vật lây truyền từ nguồn bên ngoài  đến ngõ vào của ký chủ
 2. Xâm lấn hàng rào đề kháng nguyên thủy như da hoặc dịch dạ dày
 3. Bám dính vào màng niêm mạc, thường dùng pili
@@ -103,6 +96,7 @@ lấn đi kèm phản ứng viêm
 7. Bệnh tiến triển nặng hoặc khỏi
 
 ### Các giai đoạn điển hình của một bệnh lý nhiễm khuẩn
+
 1. Ủ bệnh
 2. Khởi phát
 3. Toàn phát
@@ -116,10 +110,12 @@ Nhiễm khuẩn không triệu chứng: kháng thể là
 bằng chứng
 
 ### 2 cơ chế chính gây bệnh nhiễm khuẩn
+
 (1) sản xuất độc tố
 (2) xâm lấn và tạo viêm
 
 ### Độc tố
+
 Ngoại độc tố: polypeptide (tế bào tiết ra)
 
 Nội độc tố:
@@ -165,4 +161,3 @@ Leukocidin : tiêu diệt bạch cầu và đại thực bào
 1. Nang polysaccharide (các vi khuẩn như S. pneumoniae và Neisseria meningitidis)
 2. M protein của group A streptococci (S.
 pyogenes) và protein A của S. aureus.
-

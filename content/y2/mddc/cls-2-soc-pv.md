@@ -10,6 +10,7 @@ Tiền căn: Viêm mũi dị ứng nhiều năm liền => cơ địa dị ứng 
 Đã bị ong đốt nhiều lần, mỗi lần đốt xong gây PHÙ và ngày càng nặng hơn
 
 Hiện tại: Bị đốt có hiện tượng:
+
 1. Mặt sưng phù ,đau,nóng bừng, lan nhanh (sau vài phút) => Histamine
 2. Khó thở, nặng ngực => Hóa chất trung gian gây co cơ tron phế quản => Đường hô hấp hẹp lại => Khó thở
 3. Tim đập loạn nhịp (ban đấu) => Có thể do thụ thể H2 gây nên
@@ -20,6 +21,7 @@ Cơ chế: Tăng tính thấm thành mạch => tế bào nội mô mạch máu t
 Dăn mạch => làm cho lòng mạch rộng ra
 
 Cân bằng áp suất: Áp suất keo (albumin) = Áp suất thủy tĩnh
+
 1. Áp suất keo do protein (albumin) tạo ra để kéo dịch vào trong lòng mạch
 2. Áp suất thủy tĩnh là áp suất do dịch tác dụng lên thành mạch giúp dịch bám lên thành mạch
 
@@ -38,34 +40,35 @@ BC ái kiềm vẫn có tính chất tương tự Mast nên IgE cũng sẽ có t
 Phân loại Quá mẫn type I làm 4 mức:
 
 1. Dị ứng: 1 cơ quan (chủ yếu là da) -> mễ đay, ngứa, phù mạch. Dị ứng đối với các KN thông thường
-2. Phản ứng phản vệ:
-- 2 cơ quan trở lên huyết áp có thể giao động không đáng kể
-- 4 cơ quan bị ảnh hưởng
-	- Đa niêm: Nổi ban, mể day.....
-	- Hô hấp: Khó thở, tức ngực, chảy nước mũi
-	- Tiêu hóa: Đau bụng, nôn, tiêu chảy
-	- Tim mạch: Loạn nhịp tim
-3. Shock phản vệ
-- 2 cơ quan trở lên + tụt huyết áp (shock)
+2. Phản ứng phản vệ:  huyết áp có thể giao động không đáng kể, >= 2 trong 4 cơ quan bị ảnh hưởng:
+    - Đa niêm: Nổi ban, mể day.....
+    - Hô hấp: Khó thở, tức ngực, chảy nước mũi
+    - Tiêu hóa: Đau bụng, nôn, tiêu chảy
+    - Tim mạch: Loạn nhịp tim
+3. Shock phản vệ: 2 cơ quan trở lên + tụt huyết áp (shock) (Khi có tiền sử dị ứng + tụt huyết áp cũng định danh là shock phản vệ - mức 3)
 4. Ngưng tuấn hoàn: Ngừng hô hấp, tim ngừng đập
 
 Ảnh hưởng của các hoá chất trung gian trung gian:
+
 - Hoá chất do TB Mast/Basonophil tiết ra
 - Dẫn xuất của acid arachidonic
 - Cytokine
 => Gây dãn cơ trơn ngoại biên (dãn mạch), tăng tính thấm thành mạch, **co thắt cơ trơn đường hô hấp**
 
 Xác định là shock phản vệ:
+
 - Phản vệ bình thường (ong đốt,…)
 - Phù (mắt, miệng,…)
 - Tăng dần theo thời gian, số lần tiếp xúc với KN
 - Có sẵn cơ địa dị ứng: viêm mũi, viêm kết mạc, hen suyễn, viêm da cơ địa
 
 Do đó chia làm 2 trường hợp:
+
 1. Nghi ngờ: da niêm + các triệu chứng của các cơ quan khác (VD: Khi ăn tôm xong tụt huyết áp gây ngất mà trước đó vẫn bình thường => ngộ độc thực phẩm)
 2. **Đã có tiền căn dị ứng:** có tình trạng tụt huyết áp => shock phản vệ
 
 Trường hợp phản vệ không thông qua trung gian IgE
+
 1. Sử dụng NSAIDs, thuốc cản quang
 2. Quá mẫn type III với KT không phải IgE
 3. IgG quas nhiều, gây kháng IgE
@@ -79,30 +82,31 @@ Có triệu chứng liệt cơ vòng ngoài: tiêu tiểu không tự chủ
 
 Leukotrines
 
-Andrenalin xịt mũi
-
 ### Thụ thể Histamine
 
 Thụ thế Histamine
-1. H1: 
-	- Co tế bảo nội mô mạch máu => Tăng tính thấm thành mạch
-	- Co cơ tron phế quản
-	- Tăng sản xuất NO => dãn mạch
-	- Kích thích Th2 phóng cytokines
-	- Sản xuất phospholipiase A2 -> arachidonic acid
-2. H2: 
-	- Dãn cơ tron mạch máu
-	- Tăng tiết dịch vị!
+
+1. H1:
+    - Co tế bảo nội mô mạch máu => Tăng tính thấm thành mạch
+    - Co cơ tron phế quản
+    - Tăng sản xuất NO => dãn mạch
+    - Kích thích Th2 phóng cytokines
+    - Sản xuất phospholipiase A2 -> arachidonic acid
+
+2. H2:
+    - Dãn cơ tron mạch máu
+    - Tăng tiết dịch vị!
+
 3. H3: Điều hòa chu kì giấc ngủ
 4. H4: Tủy xương và các tb máu => hoạt hóa và hóa hướng động tb viêr
 NOTE: Thuốc kháng histamine H1 -> điều trị dị ứng
 H2 -> điều trị viêm dạ dày
 
 Thụ thể của adrenaline
-1. a1 adrenegic => gây co mạch
-2. ß1 adrenegic => tăng nhịp tim, tăng sức co bóp của tim
-3. B2 adrenegic -> dãn cơ tron đường hô hấp
-ngăn mast phóng hạt
+
+1. α1 adrenegic => gây co mạch
+2. β1 adrenegic => tăng nhịp tim, tăng sức co bóp của tim
+3. β2 adrenegic -> dãn cơ tron đường hô hấp ngăn mast phóng hạt
 
 ## Chẩn đoán
 
@@ -123,4 +127,3 @@ Thuốc kháng Histamine ức chế H1 và H2 (10min là bùng nổ histamine, 3
 tryp lên nóc khoảng tầm 1h rồi xuống dần đến 4h
 
 Shock PV kéo dài: ở lại trong khoa cấp cứu
-
