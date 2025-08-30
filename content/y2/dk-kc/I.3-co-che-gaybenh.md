@@ -24,6 +24,7 @@ Sốt nhẹ về chiều
 Sụt cân nhanh: đái đường, ung thư, HIV
 
 Có 2 loại ho:
+
 - ho khan: đường thở phản ứng
 - ho có đờm: chất tiết tiểu phế quản, phế nang nhiều là có đờm
 - ho có máu tươi: có tổn thương, mô bị bể quá (ung thư, hang lao, củ lao, hư mô phôi)
@@ -54,7 +55,6 @@ Không có ở phổi mà ở trên (KQ trên) -> k có vô máu, lạnh
 
 Hông lưng, nghĩ đến cái hạch
 
-
 ## Một số định nghĩa & thuật ngữ
 
 Tác nhân gây bệnh: gây bệnh được, (không thì k gọi z) -> có 1 đống thứ là độc lực, LD50, ID50,…
@@ -64,10 +64,11 @@ Tác nhân cơ hội: vi khuẩn trên da bình thường không gây bệnh, kh
 LD<sub>50</sub> = số lượng vi sinh vật cần thiết để tiêu diệt phân nửa ký chủ.
 
 ID<sub>50</sub> = số lượng vi sinh vật cần thiết để gây bệnh cảnh nhiễm khuẩn trên phân nửa ký chủ.
+
 - Liều gây nhiễm thay đổi:
-	- Shigella và Salmonella gây nhiễm khuẩn đường tiêu hóa (tiêu chảy)
-	- Shigella ít hơn 100
-	- Salmonella cần hơn 100,000
+    - Shigella và Salmonella gây nhiễm khuẩn đường tiêu hóa (tiêu chảy)
+    - Shigella ít hơn 100
+    - Salmonella cần hơn 100,000
 
 con người mắc một bệnh lý nhiễm khuẩn vì vi sinh vật vượt trội hơn so với sức đề kháng nhờ:
 
@@ -103,6 +104,7 @@ lấn đi kèm phản ứng viêm
 4. Lui bệnh - Hồi phục
 
 Sau thời kỳ hồi phục: có thể
+
 - Mang trùng mạn tính
 - Nhiễm khuẩn tiềm ẩn
 
@@ -119,6 +121,7 @@ bằng chứng
 Ngoại độc tố: polypeptide (tế bào tiết ra)
 
 Nội độc tố:
+
 - Lipopolysaccharides (LPS) (từ vách tế bào)
 - Trực khuẩn và cầu khuẩn Gram âm, gây sốt, sốc, và các triệu chứng toàn thân khác
 
@@ -127,6 +130,7 @@ Cả 2 loại độc tố đều có thể tự thân gây ra các triệu ch
 #### Ngoại độc tố
 
 Cấu trúc tiểu đơn vị A-B:
+
 - A (active)
 - B (binding)
 - Quan trọng: diphtheria toxin, tetanus toxin,
@@ -143,21 +147,22 @@ lipid A - DIC gây đông máu lan toả là đặc trưng của con Gram (-)
 ### Xâm lấn nhờ enzyme của vi khuẩn
 
 Xâm lấn là hiện tượng mà vi khuẩn:
+
 - Tăng sinh số lượng trong cơ thể ký chủ
 - Gây phản ứng viêm: sung, nóng, đỏ, đau
 
 Collagenase và hyaluronidase: phân hủy collagen và hyaluronic acid
+
 - Bệnh cảnh cellulitis (viêm mô tế bào) do Streptococcus pyogenes
 - Coagulase (Staphylococcus aureus) đông máu
 (fibrinogen → fibrin): bảo vệ vi khuẩn khỏi hiện tượng thực bào
 
-Immunoglobulin A (IgA): protease thoái hóa IgA: tạo thuận lợi cho vi khuẩn báo dính vào màng niêm mạc
-(N. gonorrhoeae, Haemophilus
-influenzae, và Streptococcus pneumoniae)
+Immunoglobulin A (IgA): protease thoái hóa IgA: tạo thuận lợi cho vi khuẩn báo dính vào màng niêm mạc (N. gonorrhoeae, Haemophilus influenzae, và Streptococcus pneumoniae)
 
 Leukocidin : tiêu diệt bạch cầu và đại thực bào
 
 ### Các yếu tố độc lực khác
+
 1. Nang polysaccharide (các vi khuẩn như S. pneumoniae và Neisseria meningitidis)
 2. M protein của group A streptococci (S.
 pyogenes) và protein A của S. aureus.
