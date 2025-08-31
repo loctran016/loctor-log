@@ -1,22 +1,21 @@
 <script setup lang="ts">
-const route = useRoute();
-const year = route.params.year;
-const subject = route.params.subject;
+import { findPageChildren, findPageHeadline } from '@nuxt/content/utils'
 import { formatTimeAgo } from '@vueuse/core'
 import { useDateFormat } from '@vueuse/core'
 
-const { data: posts } = await useAsyncData(`content-${year}`, () =>
-  queryCollection("content")
+const route = useRoute();
+const year = route.params.year;
+const subject = route.params.subject;
+
+const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
+  queryCollectionNavigation("content",['title','date','path'])
     .where("path", "LIKE", `/${year}/${subject}%`)
     .where("draft", "=", false)
-    .all()
 );
 
-const { data: subjects } = await useAsyncData(
-  `home`,
-  () => queryCollection("json").where("stem", "=", `${year}/index`).first()
-  //   queryCollection("json").where("path", "LIKE", "/y2/%").first()
-);
+
+const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
+const headline = findPageHeadline(queryDatas.value, posts[0].path)
 
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
@@ -29,12 +28,12 @@ function transformDate(str: string) {
 }
 
 useSeoMeta({
-  title: `${subjects?.value?.data?.[`${subject}`]?.name ?? subject}`,
+  title: headline,
 });
 </script>
 
 <template>
-    <h2 class="text-xl lg:text-2xl  dark:text-gray-200 cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-6 lg:mt-10"><NuxtLink :to="`/${year}`">{{ String(year).toUpperCase() }}</NuxtLink> / <span class="text-slate-900 dark:text-white">{{ subjects?.data[`${subject}`]?.name }}</span></h2>
+    <h2 class="text-xl lg:text-2xl  dark:text-gray-200 cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-6 lg:mt-10 "><span class="text-slate-900 dark:text-white">{{ headline }}</span></h2>
 
     <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
       <li v-for="post in posts" :key="post.id" class="">

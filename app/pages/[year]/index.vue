@@ -1,12 +1,14 @@
 <script setup lang="ts">
+import { findPageChildren } from '@nuxt/content/utils'
 const route = useRoute();
 const year = route.params.year;
-const { data: posts } = await useAsyncData(`content-${year}`, () =>
-  queryCollection("content")
-    .where("path", "LIKE", `/${year}/%`)
+const { data: queryData } = await useAsyncData(`content-${year}`, () =>
+  queryCollectionNavigation("content",['title','path','date'])
+    .where("path", "LIKE", `/${year}%`)
     .where("draft", "=", false)
-    .all()
 );
+
+const posts = findPageChildren(queryData.value,`/${year}`)
 
 useSeoMeta({
   title: `LocTor Log | ${String(year).toUpperCase()}`,
@@ -16,7 +18,7 @@ useSeoMeta({
 <template>
   <div>
     <ul class="mb-10">
-      <li v-for="post in posts" :key="post.id">
+      <li v-for="post in posts.children" :key="post.id">
         <PostCard>
           <NuxtLink :to="post.path">
             <div class="px-4">
