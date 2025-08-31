@@ -30,7 +30,7 @@ const { data: subjects } = await useAsyncData(
         <ul class="grid font-bold grid-cols-[repeat(auto-fit,minmax(12rem,1fr))] w-4/5 mx-auto gap-3 items-center lg:my-auto">
           <li
             v-for="([path, content],index) in Object.entries(subjects?.data ?? []) "
-            class="h-30 rounded-lg pl-2 hover:rounded-2xl duration-200 transform-gpu backdrop-blur border-1 lg:border-2"
+            class="h-30 rounded-lg pl-2 hover:rounded-2xl duration-200 transform-gpu backdrop-blur border-1"
             :class="colorsStyle[content.color as keyof typeof colorsStyle] ?? ''"
             :key="index"
           >
