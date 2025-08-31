@@ -18,7 +18,6 @@ Do tế bào lympho B tiết ra, do ngẫu nhiên và độc lập/đặc hiệu
 Cuộn lại thành các domain, chia thành:
 
 - Vùng biến đổi (V - variable): **V**L và **V**H thay đổi 1 - 2 chuỗi để thay
-
 - Vùng hằng định (C): H và C khác nhau ở vùng này
 
 ### Các lớp kháng thể
@@ -114,38 +113,68 @@ Các kỳ đáp ứng miễn dịch dịch thể:
 KN được vận chuyển đến nang lympho:
 
 - KN nhỏ : qua mạch BH hướng tâm, khuếch tán
-- KN lớn: được ĐTB hoặc TB tua gai vận chuyển 
+- KN lớn: được ĐTB hoặc TB tua gai vận chuyển
 
 Một số KN chưa được xử lý bởi APC.
 
 ![KN hoạt hoá lympho B](/y2/mddc/9-kn-hoat-hoa-lym-b.jpeg)
 
+### Hoạt hoá lympho B
 
-## Biến đổi chức năng của lympho B sau khi hoạt hoá
+Biến đổi chức năng của lympho B sau khi hoạt hoá:
 
-Tăng sinh để gia tăng số lượng tế bào đặc hiệu với KN
+- Tăng sinh để gia tăng số lượng tế bào đặc hiệu với KN
+- Tổng hợp nhiều IgM hơn (pha sớm của miễn dịch dịch thể)
+- Tăng biểu lộ các phân tử đồng kích thích B7 → các tín hiệu thứ hai để hoạt hoá lympho T (bắt cặp CD28).
+- Biểu hiện CD27 (tương tác với CD70 trên lympho T) → tăng sinh, biệt hoá lympho B và giúp cái **B trí nhớ** tồn tại dài lâu
+- Tăng biểu lộ của các thụ thể dành cho các cytokine do tế bào lympho T tiết ra.
+- Giảm số lượng thụ thể dành cho các chemokine để giữ các tế bào lympho B ở lại trong các nang lympho.
 
-Tổng hợp nhiều IgM hơn (pha sớm của miễn dịch dịch thể)
+Như vậy để phân biệt B naive và B trưởng thành, có thể dựa vào 2 thụ thể B7 và C27 chỉ có mặt trên lympho B trưởng thành
 
-Tăng biểu lộ các phân tử đồng kích thích B7 → các tín hiệu thứ hai để hoạt hoá lympho T.
+![Biến đổi chức năng của lympho B sau khi được hoạt hoá](/y2/mddc/9-biendoi-b-hh.jpeg)
 
-Tăng biểu lộ của các thụ thể dành cho các cytokine do tế bào lympho T tiết ra.
+Để hoạt hoá lympho B cần có sự góp mặt của 2 tín hiệu để phosphoryl hoá ITAM (immuno... tyrosine...):
 
-Giảm số lượng thụ thể dành cho các chemokine
-để giữ các tế bào lympho B ở lại trong các nang
-lympho.
+1. BCR (IgM/IgD trên màng và Igα, Igβ trên màng): tín hiệu thứ 1, là tín hiệu cơ bản của lympho B
+2. CR2/CD21 liên kết KN + C3d và TLR: sự giúp đỡ của MDBS
+
+### Tín hiệu thứ 1 giúp hoạt hoá lympho B
+
+BCR (thụ thể KN của TB B) bao gồm  mlg (IgM/IgD trên màng) và Igα, Igβ:
+
+- mlg có đuôi rất ngắn (chỉ vài Lys-Val-Lys) nên không thể truyền tín hiệu → cần Igα, Igβ hổ trợ truyền tín hiệu qua ITAM (Immunoreceptor tyrosine Activation Motif - motif hoạt hoá MD nhờ tyrosin)
+
+![KN liên kết với phức hợp BCR tạo tín hiệu thứ nhất](/y2/mddc/9-bcr-tin-hieu-1.jpeg)
+
+Cần sự **liên kết chéo** của ít nhất 2 thụ thể epitop (của KN) với BCR để tối ưu hoá truyền tín hiệu
+
+Tuy vậy chỉ duy nhất 1 tín hiệu thì vẫn chưa đủ để hoạt hoá, còn cần thêm tín hiệu thứ 2 bổ trợ
+
+### Tín hiệu thứ 2 giúp hoạt hoá lympho B
+
+Cần thêm tín hiệu thứ 2 mới đủ hoạt hoá lympho B: các thụ thể **bổ thể CR2/CD21** kết hợp với KN có liên kết **<i>C3d</i>** → tăng cường kích thích quá trình phosphoryl hoá tyrosine của ITAM
+
+Ngoài ra Lympho B cũng có **TLR** (như các TB miễn dịch khác) để nhận diện PAMPs và tăng cường tín hiệu BCR
+
+![KN liên kết với phức hợp BCR tạo tín hiệu thứ nhất](/y2/mddc/9-mdbs-tin-hieu-2.jpeg)
 
 ### Vai trò của lympho T<sub>h</sub> trong đáp ứng MDDT
 
-1. Sự hoạt hoá và di chuyển lympho Th
-▪ TB tua gai trình diện KN protein đã xử lý
-thông qua MHC-II cho TCD4
+Là sự tương tác, hỗ trợ qua lại giữa T<sub>h</sub> và lympho B trong quá trình sản xuất KT chống lại KN phụ thuộc tuyến ức:
 
-+
+- Tương tác T-B ban đầu (cả 2 đều được trình diện và tương tác với nhau)
+- lympho B trình diện KN và hoạt hoá T<sub>h</sub>2
+- T<sub>h</sub>2 hoạt hoá lympho B
 
-thành Th
-sản xuất cytokines di chuyển tới vùng rìa
-nang lympho.
-▪ Lympho B naive được hoạt hoá trong nang lympho, di chuyển về phía lympho T
-▪ Một số lympho B và lympho T đặc hiệu với KN tiếp tục di chuyển trở vào các
-nang để hình thành các trung tâm mầm (germinal centers), khởi các đáp ứng chuyên biệt hơn.
+#### 1. Sự hoạt hoá và di chuyển lympho T<sub>h</sub>
+
+TB tua gai trình diện KN và MHC-II cho TCD<sup>4</sup><sub>+</sub>, biệt hoá thành T<sub>h</sub>2
+sản xuất cytokines di chuyển tới vùng rìa nang lympho.
+
+- Lympho B naive được hoạt hoá trong nang lympho, di chuyển về phía lympho T, tạo nên các lympho B với trí nhớ ngắn hạn.
+- Một số lympho B và lympho T đặc hiệu với KN tiếp tục di chuyển trở vào các nang để hình thành các trung tâm mầm (germinal centers), khởi các đáp ứng chuyên biệt hơn, trí nhớ lâu hơn.
+
+![Th giúp hoạt hoá lympho B](/y2/mddc/9-th-mddt.jpeg)
+
+### 2. Sự trình diện KN của lympho B cho Th

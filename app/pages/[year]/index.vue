@@ -1,4 +1,7 @@
 <script setup lang="ts">
+
+await navigateTo('/')
+
 import { findPageChildren } from '@nuxt/content/utils'
 const route = useRoute();
 const year = route.params.year;
