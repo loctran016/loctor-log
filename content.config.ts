@@ -10,6 +10,7 @@ export default defineContentConfig({
         title: z.string(),
         draft: z.boolean().default(false),
         tag:z.string().optional(),
+        icon: z.string().default('material-symbols-light:book-2')
       }),
     }),
     json: defineCollection({
