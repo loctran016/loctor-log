@@ -58,6 +58,13 @@ export default defineNuxtConfig({
     defaultLocale: 'vi', // not needed if you have @nuxtjs/i18n installed
   },
 
+
+//     fonts: {
+//         families: [
+//             { name:'Montserrat', weights: [400,600,700], provider: 'google'},
+//             { name:'Open Sans', weights: [400,700]}
+//         ]
+//   },
   modules: [
     "@nuxt/content",
     "@nuxt/fonts",

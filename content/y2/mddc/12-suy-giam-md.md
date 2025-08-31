@@ -54,7 +54,7 @@ Tổn thương:
 
 Bệnh Bruton (Agammaglobulinemia LK X):
 
-- Đột biến BTK (Bruton’s tyrosine kinase) 
+- Đột biến BTK (Bruton’s tyrosine kinase)
 - Mất khả nang truyền tín hiệu từ thụ thể lympho B (tyrosine) -> lympho B kém/không trưởng thành
 
 ### Dòng Lympho T
@@ -78,7 +78,6 @@ Gây ra:
 - SGMD nghiêm trọng ở cả 2 dòng lympho T và lympho B
 - SGMD một phần và ảnh hưởng lympho T nặng hơn lympho B
 
-
 ### TB thực bào & bổ thể
 
 Tổn thương: các tế bào khác như TB thực bào, BC hạt trung tính
@@ -99,6 +98,7 @@ CD4, và CD8 monoclonal antibodies. )
 - Không có/kém phản ứng quá mẫn muộn ở da với K vi sinh ( Tuberculin ,Candida antigens).
 
 SGMD lympho B nguyên phát:
+
 - Giảm lympho B ngoại biên (immunofluorescence với CD19, CD20,CD22 )
 - Giảm lượng immunoglobulin máu (< 200 mg/dL)
 - Giảm đáp ứng tạo KT với vaccin (Tetanus toxoid, Diphtheria toxoid, Haemophilus influenzae type B, hay vaccines vi sinh chết)
@@ -121,9 +121,9 @@ Bổ sung thụ động:
 - Phải được nhắc lại theo định kỳ vì các tế bào hay phân tử tiêm vào có thời gian bán hủy giới hạn
 
 Công nghệ di truyền:
+
 - Các TB suy giảm được thay thế
 - Sữa chữa các gene chức năng của TB bệnh
-
 
 ## Suy giảm MD mắc phải
 
@@ -132,7 +132,6 @@ Do khiếm khuyết trong hệ thống MD gây ra bởi các nhân tố môi tr�
 - Nguyên nhân thứ phát thường gặp ở các nước giàu: ung thư liên quan tuỷ xương (bệnh BC) & các phương pháp điều trị
 - Các thuốc ức chế MD, thuốc kháng, ức chế viêm
 - Suy dinh dưỡng protein-calorie: phổ biến ở các nước nghèo
-
 
 ### Hội chứng HIV
 
@@ -144,6 +143,7 @@ Chu kỳ sống của HIV tấn công TCD4:
 2. Tổng hợp proviral DNA
 3. Tích hợp provirus vào genome của TCD4
 4. Khi cytokin hoạt hoá TCD4, gen virus được phiên, dịch mã và virus HIV đâm chồi
+
 Cơ chế bệnh sinh:
 
 1. Virus xâm nhập nguyên phát vào tb tua gai và lympho T ngoại biên
@@ -152,4 +152,4 @@ Cơ chế bệnh sinh:
 4. Đáp ứng MD: tb B sản xuất KT & tb CTL độc chuyên biệt với tb nhiễm HIV
 5. Tiềm ẩn lâm sàng: **nhiễm trùng mạn**, virus bị nhốt trong mô ở nang bởi *TB tua ở nang*
 6. Nếu nhiễm các vi khuẩn khác (cơ hội), kích thích hệ MD, CD4 phiên mã, dịch mã, tạo cơ hội cho virus HIV nhân lên
-7. **AIDS:** phá huỷ mô lympho T, sụt giảm TCD4+ 
+7. **AIDS:** phá huỷ mô lympho T, sụt giảm TCD4+

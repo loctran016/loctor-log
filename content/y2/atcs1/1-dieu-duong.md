@@ -27,6 +27,7 @@ Sau khi tiếp xúc máu /dịch
 ### Tiêm
 
 Khó nhất là tiêm TM, quan trọng nhất là nhớ quá trình sau:
+
 1. Chạm lên TM, kéo đè da xuống nhẹ
 2. Đâm kim nhanh,sâu vừa phải
 3. **Giữ đầu kim**, rút máu
