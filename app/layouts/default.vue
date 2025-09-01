@@ -7,7 +7,7 @@ useHead({
 </script>
 
 <template>
-  <div class="min-w-screen min-h-screen wrapper overflow-x-hidden">
+  <div class="min-w-screen min-h-screen select-text wrapper overflow-x-hidden">
     <NavBar></NavBar>
     <slot></slot>
   </div>
