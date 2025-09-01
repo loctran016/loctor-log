@@ -23,7 +23,7 @@ posts.forEach(post => {
         post.tags.forEach((tag: string) => uniqueTags.add(tag));
 })
 
-const isNotDefaultTagsOnly = !(...uniqueTags === 'Lí thuyết');
+const isNotDefaultTagsOnly = uniqueTags !== new Set('Lí thuyết');
 
 const selectedTag = ref([...uniqueTags][0])
 
