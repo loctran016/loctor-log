@@ -7,20 +7,6 @@ const route = useRoute();
 const year = route.params.year;
 const subject = route.params.subject;
 
-function areSetAndArrayEqual<T>(set: Set<T>, array: T[]): boolean {
-  if (set.size !== array.length) {
-    return false; // If sizes are different, they can't be equal
-  }
-
-  for (const item of array) {
-    if (!set.has(item)) {
-      return false; // If the Set doesn't have an element from the Array
-    }
-  }
-
-  return true; // They contain the same elements
-}
-
 const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
   queryCollectionNavigation("content",['title','date','path','icon','tags'])
     .where("path", "LIKE", `/${year}/${subject}%`)
@@ -39,7 +25,7 @@ posts.forEach(post => {
 
 const isNotDefaultTagsOnly = !(uniqueTags.has('Lí thuyết') && uniqueTags.size === 1);
 
-const selectedTag = ref([...uniqueTags][0])
+const selectedTag = ref([])
 
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
@@ -48,6 +34,15 @@ sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
 function transformDate(str: string) {
     const inputDate = new Date(str)
     return inputDate <= sixMothAgoDate ? useDateFormat(inputDate, 'DD/MM/YYYY') : formatTimeAgo(inputDate)
+}
+
+function toggleTags = (inputTag:string) => {
+const selectedTagsValue = selectedTag.value
+if (selectedTagsValue.include(inputTag)) selectedTag.value = selectedTagsValue.filter(item => item !== inputTag)
+else selectedTag.value.push(inputTag)
+
+
+
 }
 
 useSeoMeta({
@@ -59,7 +54,7 @@ useSeoMeta({
     <section class="flex  mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center justify-between">
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
         <ul class="flex" v-if="uniqueTags && uniqueTags.size > 0 && false">
-            <li v-for="tag in uniqueTags" :class="tag === selectedTag && 'underline text-black dark:text-white'" @click="selectedTag = tag" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl hover:bg-slate-200/50 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
+            <li v-for="tag in uniqueTags" :class="selectedTag.include(tag) && 'underline text-black dark:text-white'" @click="() => toggleTags(tag)" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl hover:bg-slate-200/50 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
         </ul>
     </section>
 
