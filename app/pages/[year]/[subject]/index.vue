@@ -58,7 +58,7 @@ useSeoMeta({
                 <ul v-if="post.tags && post.tags.length > 0" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
                     <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
                 </ul>
-                <Icon name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
+                <Icon v-if="post.tags && post.tags.length > 0" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
             </p>
 
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
