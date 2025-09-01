@@ -5,7 +5,7 @@
 
 <template>
   <nav
-    class="w-screen flex items-center px-4 lg:px-6 py-4 text-xl shadow-sm shadow-slate-300 dark:shadow-slate-700 drop-shadow-sm sticky top-0 bg-white dark:bg-zinc-950"
+    class="w-screen select-none flex items-center px-4 lg:px-6 py-4 text-xl shadow-sm shadow-slate-300 dark:shadow-slate-700 drop-shadow-sm sticky top-0 bg-white dark:bg-zinc-950"
   >
     <h2 class="font-[Montserrat] lg:text-2xl ml-4 font-bold flex-grow <md:hidden ">
       <NuxtLink to="/" class="flex gap-4 items-center"><NuxtImg src="/logo.svg" placeholder-class="h-6 w-6" width="50px" preload/><span class="hover:text-white duration-300 transform-all">LocTor Log</span></NuxtLink> </h2>
