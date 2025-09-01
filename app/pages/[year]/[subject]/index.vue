@@ -34,12 +34,12 @@ const categoryData: CategoryData = {
     },
     tbl: {
         name: 'Team-based Learning',
-        class: 'text-green-500',
+        class: 'text-green-700 dark:text-green-500',
         icon: 'healthicons:group-discussion-meetingx3-outline'
     },
     cls: {
         name: 'CLS',
-        class: 'text-sky-400',
+        class: 'text-sky-700 dark:text-sky-400',
         icon: 'healthicons:virus-patient-outline'
     },
     lab: {
