@@ -21,7 +21,7 @@ type CategoryKey = 'bv' | 'tbl' | 'cls' | 'lab';
 type CategoryData = {
     [key in CategoryKey]: {
         name: string;
-        style: string;
+        class: string;
         icon: string;
     }
 };
@@ -29,22 +29,22 @@ type CategoryData = {
 const categoryData: CategoryData = {
     bv: {
         name: 'TH Bệnh Viện',
-        style: '',
+        class: '',
         icon: 'healthicons:hospital-outline'
     },
     tbl: {
         name: 'Team-based Learning',
-        style: '',
+        class: 'text-green-500',
         icon: 'healthicons:group-discussion-meetingx3-outline'
     },
     cls: {
         name: 'CLS',
-        style: '',
+        class: 'text-sky-400',
         icon: 'healthicons:virus-patient-outline'
     },
     lab: {
         name: 'TH tại Trường',
-        style: '',
+        class: '',
         icon: 'healthicons:lab-search-outline'
     },
 };
@@ -92,17 +92,17 @@ useSeoMeta({
 
     <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
       <li v-for="post in queryPostsByTags" :key="post.id" class="" >
-          <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3">
+          <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3 relative">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider ">
                 {{ post.title }}
               </h3>
+              <LazyIcon v-if="post.category" :class="categoryData[post.category as CategoryKey].class" class="absolute right-2 top-2 text-xl lg:text-2xl" :name="categoryData[post.category as CategoryKey].icon" />
               <p class="flex items-center">
-                <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded row-start-2" class="text-lg lg:text-xl"/> {{ transformDate(post.date) }}</span>
+                <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl row-start-2"/> {{ transformDate(post.date) }}</span>
                 <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
                     <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
                 </ul>
                 <LazyIcon v-if="isNotDefaultTagsOnly" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
-                <!-- <LazyIcon v-if="post.category" :name="categoryData[post.category as CategoryKey].icon" class="absolute left-2 top-2 text-lg lg:text-xl" /> -->
             </p>
 
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
