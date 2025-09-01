@@ -15,7 +15,8 @@ const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
 
 const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
 const headline = findPageHeadline(queryDatas.value, posts[0].path)
-const headlineIcon:string = queryDatas.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
+const headlineIcon: string = <string>queryDatas.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
+
 
 
 const uniqueTags: Set<string> = new Set();
@@ -30,6 +31,8 @@ const selectedTag = ref<string[]>([])
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
 
+const queryPostsByTags = computed(() => selectedTag.value.length === 0 ? posts : posts.filter(post => post.tags.some((tag: string) => selectedTag.value.includes(tag))))
+console.log('Query', posts, queryPostsByTags.value)
 
 function transformDate(str: string) {
     const inputDate = new Date(str)
@@ -52,13 +55,13 @@ useSeoMeta({
         <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2"> {{ headline }}</h2>
         <ul class="flex lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
-            <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) && 'underline text-black dark:text-white'" @click="() => toggleTags(tag)" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl bg-slate-200/20 hover:bg-slate-200/50 dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
+            <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) ? 'underline text-teal-600 dark:text-teal-300 bg-teal-200/40 hover:bg-teal-200/70' : 'bg-slate-200/20 hover:bg-slate-200/50 hover:text-slate-900 dark:hover:text-slate-50 hover:underline'" @click="() => toggleTags(tag)" class="text-slate-700  dark:text-slate-200 underline-offset-4 rounded-3xl  dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
         </ul>
         <Icon name="material-symbols-light:collections-bookmark-outline-rounded" class="text-xl lg:text-2xl max-lg:col-start-1 max-lg:row-start-2" v-if="uniqueTags.size > 1"/>
     </section>
 
-    <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
-      <li v-for="post in posts" :key="post.id" class="" >
+    <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
+      <li v-for="post in queryPostsByTags" :key="post.id" class="" >
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider ">
                 {{ post.title }}
@@ -74,6 +77,22 @@ useSeoMeta({
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
           </NuxtLink>
       </li>
-    </ul>
+    </TransitionGroup>
 
 </template>
+
+<style>
+.list-enter-active,
+.list-leave-active {
+  transition: all 0.4s ease;
+}
+.list-enter-from,
+.list-leave-to {
+  opacity: 0;
+}
+
+.list-enter-active {
+ opacity: 0;
+}
+
+</style>
