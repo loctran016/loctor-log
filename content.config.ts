@@ -9,7 +9,7 @@ export default defineContentConfig({
         date: z.string(),
         title: z.string(),
         draft: z.boolean().default(false),
-        tag:z.string().optional(),
+        tags:z.array(z.string()).default([]),
         icon: z.string().default('material-symbols-light:book-2')
       }),
     }),

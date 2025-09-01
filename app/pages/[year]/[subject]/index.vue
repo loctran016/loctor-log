@@ -8,15 +8,22 @@ const year = route.params.year;
 const subject = route.params.subject;
 
 const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
-  queryCollectionNavigation("content",['title','date','path','icon'])
+  queryCollectionNavigation("content",['title','date','path','icon','tags'])
     .where("path", "LIKE", `/${year}/${subject}%`)
     .where("draft", "=", false)
 );
 
-
 const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
 const headline = findPageHeadline(queryDatas.value, posts[0].path)
 const headlineIcon = queryDatas.value?.[0]?.children?.[0]?.icon
+
+
+const uniqueTags = new Set();
+posts.forEach(post => {
+        post.tags.forEach((tag: string) => uniqueTags.add(tag));
+})
+
+const selectedTag = ref([...uniqueTags][0])
 
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
@@ -24,8 +31,7 @@ sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
 
 function transformDate(str: string) {
     const inputDate = new Date(str)
-    return inputDate <= sixMothAgoDate  ? useDateFormat(inputDate,'DD/MM/YYYY') : formatTimeAgo(inputDate)
-
+    return inputDate <= sixMothAgoDate ? useDateFormat(inputDate, 'DD/MM/YYYY') : formatTimeAgo(inputDate)
 }
 
 useSeoMeta({
@@ -34,15 +40,26 @@ useSeoMeta({
 </script>
 
 <template>
-    <h2 class="text-xl lg:text-2xl  cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-6 lg:mt-10 text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-2"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
+    <section class="flex  mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center justify-between">
+        <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-2"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
+        <ul class="flex" v-if="uniqueTags && uniqueTags.size > 0 && false">
+            <li v-for="tag in uniqueTags" :class="tag === selectedTag && 'underline text-black dark:text-white'" @click="selectedTag = tag" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl hover:bg-slate-200/50 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
+        </ul>
+    </section>
 
     <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
-      <li v-for="post in posts" :key="post.id" class="">
+      <li v-for="post in posts" :key="post.id" class="" >
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider">
                 {{ post.title }}
               </h3>
-              <p class="italic mt-auto">{{ transformDate(post.date) }}</p>
+              <p class="flex justify-between">
+                <span class="italic mt-auto flex-shrink-0">{{ transformDate(post.date) }}</span>
+                <ul v-if="post.tags && post.tags.length > 0" class="flex flex-wrap">
+                    <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
+                </ul>
+            </p>
+
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
           </NuxtLink>
       </li>

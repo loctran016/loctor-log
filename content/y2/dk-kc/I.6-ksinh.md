@@ -1,7 +1,7 @@
 ---
 title: Bài I.6 - Kháng sinh kháng VK
 date: 2025-08-22
-tag: Vi khuẩn
+tags: ['Vi khuẩn']
 ---
 
 ## Khái niệm

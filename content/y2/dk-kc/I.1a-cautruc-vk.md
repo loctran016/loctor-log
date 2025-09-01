@@ -1,7 +1,7 @@
 ---
-title: Bài I.1a - Đặc điểm cấu trúc và sinh học của vi khuẩn
+title: Bài I.1a - Đặc điểm chung của vi khuẩn
 date: 2025-08-14
-tag: Vi khuẩn
+tags: ['Vi khuẩn']
 ---
 
 ## Cầu khuẩn gram dương (Staphylococci, Streptococci)

@@ -1,8 +1,7 @@
 ---
-title: Bài I.1b - Đặc điểm cấu trúc và sinh học của vi khuẩn
+title: Bài I.1b - Đặc điểm chung của vi khuẩn
 date: 2025-08-14
-tag: 'Vi khuẩn'
-draft: false
+tags: ['Vi khuẩn']
 ---
 <!-- markdownlint-disable MD033 MD024 -->
 
