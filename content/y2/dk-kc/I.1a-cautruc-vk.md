@@ -4,20 +4,16 @@ date: 2025-08-14
 tags: ['Vi khuẩn']
 ---
 
-## Cầu khuẩn gram dương (Staphylococci, Streptococci)
+## Cầu khuẩn gram dương (Staphylococci, Streptococci, Streptococcus)
 
 Chia làm 3 nhóm:
 
 1. Tụ cầu (Staphylococci) - chia dựa trên màu của khóm nuôi
-
-- Tụ cầu vàng (S. aureus)
-- Tụ cầu trắng (S. epidermidis)
-
+    - Tụ cầu vàng (S. aureus)
+    - Tụ cầu trắng (S. epidermidis)
 2. Liên cầu (Streptococci)
-
-- Tiêu huyết β nhóm A (S. pyogenes)
-- Không gây tiêu huyết β (viridans streptococci)
-
+    - Tiêu huyết β nhóm A (S. pyogenes)
+    - Không gây tiêu huyết β (viridans streptococci)
 3. Phế cầu (Streptococcus pneumoniae)
 
 ### Tụ cầu (Staphylococci)

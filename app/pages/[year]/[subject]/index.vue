@@ -15,17 +15,17 @@ const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
 
 const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
 const headline = findPageHeadline(queryDatas.value, posts[0].path)
-const headlineIcon = queryDatas.value?.[0]?.children?.[0]?.icon
+const headlineIcon:string = queryDatas.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
 
 
-const uniqueTags = new Set();
+const uniqueTags: Set<string> = new Set();
 posts.forEach(post => {
         post.tags.forEach((tag: string) => uniqueTags.add(tag));
 })
 
 const isNotDefaultTagsOnly = !(uniqueTags.has('Lí thuyết') && uniqueTags.size === 1);
 
-const selectedTag = ref([])
+const selectedTag = ref<string[]>([])
 
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
@@ -36,13 +36,10 @@ function transformDate(str: string) {
     return inputDate <= sixMothAgoDate ? useDateFormat(inputDate, 'DD/MM/YYYY') : formatTimeAgo(inputDate)
 }
 
-function toggleTags = (inputTag:string) => {
-const selectedTagsValue = selectedTag.value
-if (selectedTagsValue.include(inputTag)) selectedTag.value = selectedTagsValue.filter(item => item !== inputTag)
-else selectedTag.value.push(inputTag)
-
-
-
+function toggleTags (inputTag:string) {
+    const selectedTagsValue: string[] = selectedTag.value ?? [];
+    if (selectedTagsValue.includes(inputTag)) selectedTag.value = selectedTagsValue.filter(item => item !== inputTag);
+    else selectedTag.value.push(inputTag);
 }
 
 useSeoMeta({
@@ -51,11 +48,13 @@ useSeoMeta({
 </script>
 
 <template>
-    <section class="flex  mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center justify-between">
-        <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
-        <ul class="flex" v-if="uniqueTags && uniqueTags.size > 0 && false">
-            <li v-for="tag in uniqueTags" :class="selectedTag.include(tag) && 'underline text-black dark:text-white'" @click="() => toggleTags(tag)" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl hover:bg-slate-200/50 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
+    <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center gap-4">
+        <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
+        <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2"> {{ headline }}</h2>
+        <ul class="flex lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
+            <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) && 'underline text-black dark:text-white'" @click="() => toggleTags(tag)" class="text-slate-700 hover:text-slate-900 dark:text-slate-200 dark:hover:text-slate-50 hover:underline underline-offset-4 rounded-3xl bg-slate-200/20 hover:bg-slate-200/50 dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
         </ul>
+        <Icon name="material-symbols-light:collections-bookmark-outline-rounded" class="text-xl lg:text-2xl max-lg:col-start-1 max-lg:row-start-2" v-if="uniqueTags.size > 1"/>
     </section>
 
     <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
@@ -65,11 +64,11 @@ useSeoMeta({
                 {{ post.title }}
               </h3>
               <p class="flex items-center">
-                <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><Icon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl"/> {{ transformDate(post.date) }}</span>
+                <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl"/> {{ transformDate(post.date) }}</span>
                 <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
                     <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
                 </ul>
-                <Icon v-if="isNotDefaultTagsOnly" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
+                <LazyIcon v-if="isNotDefaultTagsOnly" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
             </p>
 
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
