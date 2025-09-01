@@ -85,7 +85,6 @@ Tác dụng tăng cường hậu KS (PALE - postantibiotic leukocytes enhancemen
 - Vi khuẩn sau khi tiếp xúc với KS dễ bị tiêu diệt bởi bạch cầu hơn
 - Điển hình là Aminoglycoside và flouroquinolone - liều dùng ít lần trong 1 ngày
 
-
 ## Phân loại dựa vào Cơ chế tác động & Kìm - Diệt
 
 ## Phân loại dựa vào dược động - dược lực
