@@ -10,7 +10,8 @@ export default defineContentConfig({
         title: z.string(),
         draft: z.boolean().default(false),
         tags:z.array(z.string()).default(['Lí thuyết']),
-        icon: z.string().default('material-symbols-light:book-2')
+        icon: z.string().default('material-symbols-light:book-2'),
+        category: z.enum(['bv','tbl','cls','lab']).optional()
       }),
     }),
     json: defineCollection({

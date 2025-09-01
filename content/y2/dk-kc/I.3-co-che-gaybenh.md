@@ -1,6 +1,7 @@
 ---
 title: Bài I.3 - Cơ chế gây bệnh của vi khuẩn
 date: 2025-08-28
+category: tbl
 tags: ['Vi khuẩn']
 ---
 
