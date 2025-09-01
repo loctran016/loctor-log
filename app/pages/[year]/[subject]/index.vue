@@ -23,6 +23,8 @@ posts.forEach(post => {
         post.tags.forEach((tag: string) => uniqueTags.add(tag));
 })
 
+const isNotDefaultTagsOnly = !(...uniqueTags === 'Lí thuyết');
+
 const selectedTag = ref([...uniqueTags][0])
 
 const sixMothAgoDate = new Date();
@@ -55,10 +57,10 @@ useSeoMeta({
               </h3>
               <p class="flex items-center">
                 <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><Icon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl"/> {{ transformDate(post.date) }}</span>
-                <ul v-if="post.tags && post.tags.length > 0" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
+                <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
                     <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
                 </ul>
-                <Icon v-if="post.tags && post.tags.length > 0" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
+                <Icon v-if="isNotDefaultTagsOnly" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
             </p>
 
               <!-- <p class="italic mt-auto">{{ useDateFormat(post.date,'DD/MM/YYYY') }}</p> -->
