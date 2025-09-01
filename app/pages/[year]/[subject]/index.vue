@@ -7,6 +7,20 @@ const route = useRoute();
 const year = route.params.year;
 const subject = route.params.subject;
 
+function areSetAndArrayEqual<T>(set: Set<T>, array: T[]): boolean {
+  if (set.size !== array.length) {
+    return false; // If sizes are different, they can't be equal
+  }
+
+  for (const item of array) {
+    if (!set.has(item)) {
+      return false; // If the Set doesn't have an element from the Array
+    }
+  }
+
+  return true; // They contain the same elements
+}
+
 const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
   queryCollectionNavigation("content",['title','date','path','icon','tags'])
     .where("path", "LIKE", `/${year}/${subject}%`)
@@ -23,7 +37,7 @@ posts.forEach(post => {
         post.tags.forEach((tag: string) => uniqueTags.add(tag));
 })
 
-const isNotDefaultTagsOnly = [...uniqueTags] !== ['Lí thuyết'];
+const isNotDefaultTagsOnly = !(uniqueTags.has('Lí thuyết') && uniqueTags.size === 1);
 
 const selectedTag = ref([...uniqueTags][0])
 
