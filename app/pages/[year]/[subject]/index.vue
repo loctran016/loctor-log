@@ -2,10 +2,13 @@
 import { findPageChildren, findPageHeadline } from '@nuxt/content/utils'
 import { formatTimeAgo } from '@vueuse/core'
 import { useDateFormat } from '@vueuse/core'
+import type { RouteLocationNormalizedLoaded } from 'vue-router'
+import type { ContentCollectionItem } from '@nuxt/content'
+import type { Ref } from 'vue'
 
-const route = useRoute();
-const year = route.params.year;
-const subject = route.params.subject;
+const route: RouteLocationNormalizedLoaded = useRoute();
+const year: string | string[] = route.params.year as string | string[];
+const subject: string | string[] = route.params.subject as string | string[];
 
 const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
   queryCollectionNavigation("content",['title','date','path','icon','tags'])
@@ -13,27 +16,29 @@ const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
     .where("draft", "=", false)
 );
 
-const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
-const headline = findPageHeadline(queryDatas.value, posts[0].path)
-const headlineIcon = queryDatas.value?.[0]?.children?.[0]?.icon
+const posts: ContentCollectionItem[] = findPageChildren(queryDatas.value,`/${year}/${subject}`)
+const headline: string = findPageHeadline(queryDatas.value, posts[0]?.path) || ''
+const headlineIcon: string | undefined = queryDatas.value?.[0]?.children?.[0]?.icon as string | undefined
 
 
-const uniqueTags = new Set();
-posts.forEach(post => {
-        post.tags.forEach((tag: string) => uniqueTags.add(tag));
+const uniqueTags: Set<string> = new Set();
+posts.forEach((post: ContentCollectionItem) => {
+        post.tags?.forEach((tag: string) => uniqueTags.add(tag));
 })
 
-const isNotDefaultTagsOnly = [...uniqueTags] !== ['Lí thuyết'];
+const isNotDefaultTagsOnly: boolean = JSON.stringify([...uniqueTags]) !== JSON.stringify(['Lí thuyết']);
 
-const selectedTag = ref([...uniqueTags][0])
+const selectedTag: Ref<string> = ref([...uniqueTags][0] || '')
 
-const sixMothAgoDate = new Date();
+const sixMothAgoDate: Date = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
 
 
-function transformDate(str: string) {
-    const inputDate = new Date(str)
-    return inputDate <= sixMothAgoDate ? useDateFormat(inputDate, 'DD/MM/YYYY') : formatTimeAgo(inputDate)
+function transformDate(str: string): string {
+    const inputDate: Date = new Date(str)
+    const formattedDate = useDateFormat(inputDate, 'DD/MM/YYYY')
+    const timeAgo = formatTimeAgo(inputDate)
+    return inputDate <= sixMothAgoDate ? formattedDate.value : timeAgo
 }
 
 useSeoMeta({
