@@ -34,7 +34,7 @@ useSeoMeta({
 </script>
 
 <template>
-    <h2 class="text-xl lg:text-2xl  cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-6 lg:mt-10 text-slate-900 dark:text-white tracking-wide align-middle"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
+    <h2 class="text-xl lg:text-2xl  cursor-pointer font-bold mb-6 ml-6 lg:ml-10 xl:ml-20 mt-6 lg:mt-10 text-slate-900 dark:text-white tracking-wide align-middle flex items-center"><Icon :name="typeof headlineIcon === 'string' && headlineIcon ? headlineIcon : 'material-symbols-light:book-2'" class="align-middle text-2xl lg:text-3xl"/> {{ headline }}</h2>
 
     <ul class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
       <li v-for="post in posts" :key="post.id" class="">
