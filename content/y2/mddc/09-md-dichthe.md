@@ -119,8 +119,6 @@ Một số KN chưa được xử lý bởi APC.
 
 ![KN hoạt hoá lympho B](/y2/mddc/9-kn-hoat-hoa-lym-b.jpeg)
 
-### Hoạt hoá lympho B
-
 Biến đổi chức năng của lympho B sau khi hoạt hoá:
 
 - Tăng sinh để gia tăng số lượng tế bào đặc hiệu với KN
@@ -134,7 +132,7 @@ Như vậy để phân biệt B naive và B trưởng thành, có thể dựa v�
 
 ![Biến đổi chức năng của lympho B sau khi được hoạt hoá](/y2/mddc/9-biendoi-b-hh.jpeg)
 
-Để hoạt hoá lympho B cần có sự góp mặt của 2 tín hiệu để phosphoryl hoá ITAM (immuno... tyrosine...):
+Để hoạt hoá lympho B cần có sự góp mặt của 2 tín hiệu để phosphoryl hoá ITAM (immunoreceptor tyrosine activation motif):
 
 1. BCR (IgM/IgD trên màng và Igα, Igβ trên màng): tín hiệu thứ 1, là tín hiệu cơ bản của lympho B
 2. CR2/CD21 liên kết KN + C3d và TLR: sự giúp đỡ của MDBS
@@ -177,4 +175,41 @@ sản xuất cytokines di chuyển tới vùng rìa nang lympho.
 
 ![Th giúp hoạt hoá lympho B](/y2/mddc/9-th-mddt.jpeg)
 
-### 2. Sự trình diện KN của lympho B cho Th
+#### 2. Sự trình diện KN của lympho B cho Th
+
+KN protein gắn lên các thụ thể màng của lympho B → nhập bào qua trung gian thụ thể và xử lý rồi trình diện peptid KN cùng với MHC-II cho TCD4+.
+
+![Lympho B nhận diện KN bằng thụ thể rồi nhập bào, xử lý và trình diện qua MHC II](/y2/mddc/9-lym-b-trinh-dien.jpeg)
+
+#### 3. Tế bào lympho T<sub>h</sub> hoạt hoá lympho B
+
+Tế bào T<sub>h</sub> (Tfh) hoạt hoá, kích thích lympho B tăng sinh, biệt hoá thành tương bào tham gia tổng hợp và sản xuất các KT thông qua 2 cách:
+
+- CD40L của Tfh gắn với CD40 trên lympho B: tín hiệu nội bào, đóng vai trò quan trọng trong việc chuyển lớp KT →thường *chỉ xuất hiện* đối với các KN protein phụ thuộc lympho T
+- Tiết ra IL-21
+
+![Tế bào lympho T<sub>h</sub> hoạt hoá lympho B](/y2/mddc/9-th-hoathoa-b.jpeg)
+
+#### Phân biệt các đáp ứng tạo kháng thể
+
+|  | Phụ thuộc | Không phụ thuộc |
+|:---:|:---:|:---:|
+| Bản chất HH | Protein | Đa giá (carbohydrate, lipid, acid nucleic...) |
+| Chuyển lớp KT | Có (Từ IgM → IgG, IgA, IgE) | Ít hoặc không (nên có rất ít IgM → IgG) |
+| Trưởng thành ái lực | Có | Không |
+| Trí nhớ MD (Đáp ứng thứ phát) | Có | Không |
+
+## Điều hoà đáp ứng MD dịch thể
+
+Sau khi tế bào lympho B trưởng thành và biệt hoá thành tương bào sản xuất KT và các TB trí nhớ thì một số trường tồn, đa số apoptosis, gây ra **thoái trào MD**
+
+Cơ chế phản hồi kháng thể (chỉ xảy ra khi số lượng IgG đủ cần thiết):
+
+1. KT được sản xuất (chủ yếu là IgG), lưu hành trong máu sẽ gắn với KN → phức hợp KT-KN (gắn ở đầu Fab)
+2. Đầu Fc trống trong phức hợp của IgG sẽ gắn vào <i>**FcγRIIB**</i> phosphoryl hoá ITIM, ức chế lympho B
+
+![Cơ chế phản hồi kháng thể của IgG](/y2/mddc/9-ig-g-phan-hoi.jpeg)
+
+Suy giảm truyền tín hiệu lympho B thông qua CD22 và CD72, phosphoryl hoá ITIM, kích hoạt tyrosine photphatase, ức chế lympho B
+
+![Cơ chế ức chế lympho B của CD22 và CD72 thông ITIM - ...inhibition, ngược lại với ITAM - ...activation](/y2/mddc/9-ig-g-phan-hoi.jpeg)

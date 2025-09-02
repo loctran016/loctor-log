@@ -116,14 +116,14 @@ Beta-lactams là KS phụ thuộc vào T>MIC rất nhiều, ít nhất là hơn 
 
 Lưu ý: còn cách thứ 3 là tăng Cmax nhưng tăng rất cao nguy cơ gây độc, nên hạn chế
 
-**Điểm gãy pK/pD**: MIC được xác định sẵn = const (nồng độ hữu dụng của KS) -> Xác định VK nhạy hay kháng KS dựa trên liều chuẩn này
+**Điểm gãy pK/pD**: MIC được xác định sẵn = const (nồng độ hữu dụng của KS) → Xác định VK nhạy hay kháng KS dựa trên liều chuẩn này
 
 ### KS phụ thuộc nồng độ
 
 Đại diện là Aminoglycosides:
 - KS phụ thuộc nồng độ, có PAE dài
 - Mục tiêu: Cmax/ MIC > 8-10
-- Sử dụng liều cao, chỉ Dùng 1 lần/ngày -> giúp Tăng tác dụng diệt khuẩn và Giảm độc tính trên thận
+- Sử dụng liều cao, chỉ Dùng 1 lần/ngày → giúp Tăng tác dụng diệt khuẩn và Giảm độc tính trên thận
 
 Một số lưu ý khác khi sử dụng Aminoglycoside:
 
@@ -148,11 +148,11 @@ Tính chất:
 - Ctrough > 4 x MIC (15- 20 mg/L)
 - Lấy máu 30 phút trước liều thứ 4 - *lúc này nồng độ trong máu ổn định*
 
-Đo ra nồng độ, dò bảng thấy > 25% -> nguy cơ suy thận
+Đo ra nồng độ, dò bảng thấy > 25% → nguy cơ suy thận
 
 ## KS dự phòng
 
-Cần phải đảm bảo nồng độ > MIC kéo dài từ trước -> sau khi phơi nhiễm:
+Cần phải đảm bảo nồng độ > MIC kéo dài từ trước → sau khi phơi nhiễm:
 - Bệnh nhân có tiền sử bệnh tim hậu thấp.
 - Bệnh nhân có dụng cụ nhân tạo như van tim nhân tạo cần làm thủ thuật nha khoa
 - Phòng ngừa các bệnh nhiễm trùng trước khi phơi

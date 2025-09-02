@@ -16,7 +16,7 @@ Hiện tại: Bị đốt có hiện tượng:
 2. Khó thở, nặng ngực => Hóa chất trung gian gây co cơ tron phế quản => Đường hô hấp hẹp lại => Khó thở
 3. Tim đập loạn nhịp (ban đấu) => Có thể do thụ thể H2 gây nên
 4. Tụt huyết áp (70/50) => Do dãn mạch máu => Mách máu phình to => Tiết diện lớn áp lực máu lên thành mạch giảm
-5. Mạch nhanh hơn 120 lần/phút (lúc sau) -> Do tiết diện mạch máu tăng => Áp lực máu lên thành mạch giảm => Máu bị ứ động trong thành mạch => Lượng máu về tim không đủ => Tim đập nhanh để tăng lực co bóp đưa máu về tim
+5. Mạch nhanh hơn 120 lần/phút (lúc sau) → Do tiết diện mạch máu tăng => Áp lực máu lên thành mạch giảm => Máu bị ứ động trong thành mạch => Lượng máu về tim không đủ => Tim đập nhanh để tăng lực co bóp đưa máu về tim
 6. Phù => Hiện tượng dịch thoát ra ngoài mô kẽ
 Cơ chế: Tăng tính thấm thành mạch => tế bào nội mô mạch máu teo lại tạo khoảng hở cho dịch đi ra
 Dăn mạch => làm cho lòng mạch rộng ra
@@ -33,14 +33,14 @@ Dăn mạch => ASK không giữ dịch lại được do lượng albumin không
 
 Quá mẫn type I:
 
-- Xảy ra tức thì (phút -> tiếng)
+- Xảy ra tức thì (phút → tiếng)
 - Qua trung gian KT IgE đặc hiệu với KN
 
 BC ái kiềm vẫn có tính chất tương tự Mast nên IgE cũng sẽ có tác động tương tự
 
 Phân loại Quá mẫn type I làm 4 mức:
 
-1. Dị ứng: 1 cơ quan (chủ yếu là da) -> mễ đay, ngứa, phù mạch. Dị ứng đối với các KN thông thường
+1. Dị ứng: 1 cơ quan (chủ yếu là da) → mễ đay, ngứa, phù mạch. Dị ứng đối với các KN thông thường
 2. Phản ứng phản vệ:  huyết áp có thể giao động không đáng kể, >= 2 trong 4 cơ quan bị ảnh hưởng:
     - Đa niêm: Nổi ban, mể day.....
     - Hô hấp: Khó thở, tức ngực, chảy nước mũi
@@ -92,7 +92,7 @@ Thụ thế Histamine
     - Co cơ tron phế quản
     - Tăng sản xuất NO => dãn mạch
     - Kích thích Th2 phóng cytokines
-    - Sản xuất phospholipiase A2 -> arachidonic acid
+    - Sản xuất phospholipiase A2 → arachidonic acid
 
 2. H2:
     - Dãn cơ tron mạch máu
@@ -100,20 +100,20 @@ Thụ thế Histamine
 
 3. H3: Điều hòa chu kì giấc ngủ
 4. H4: Tủy xương và các tb máu => hoạt hóa và hóa hướng động tb viêr
-NOTE: Thuốc kháng histamine H1 -> điều trị dị ứng
-H2 -> điều trị viêm dạ dày
+NOTE: Thuốc kháng histamine H1 → điều trị dị ứng
+H2 → điều trị viêm dạ dày
 
 Thụ thể của adrenaline
 
 1. α1 adrenegic => gây co mạch
 2. β1 adrenegic => tăng nhịp tim, tăng sức co bóp của tim
-3. β2 adrenegic -> dãn cơ tron đường hô hấp ngăn mast phóng hạt
+3. β2 adrenegic → dãn cơ tron đường hô hấp ngăn mast phóng hạt
 
 ## Chẩn đoán
 
-Có tiền căn dị ứng với KN nhất định -> ăn vô tụt huyết áp -> mức 3
+Có tiền căn dị ứng với KN nhất định → ăn vô tụt huyết áp → mức 3
 
-Căng da thì màu đỏ tản ra -> triệu chứng da
+Căng da thì màu đỏ tản ra → triệu chứng da
 
 Hướng dẫn chẩn đoán - Thông tư 51
 

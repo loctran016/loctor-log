@@ -15,11 +15,11 @@ tags: ['Vi khuẩn']
 
 Một nam công nhân 30 tuổi sống tại TP.HCM, gầy sứt 5 kg trong 3 tháng, đến khám vì ho kéo dài. Ban đâu anh chỉ ho khan, về sau ho có đàm đặc lẫn vài tia máu tươi, kèm sốt nhẹ về chiều, ra mồ hôi trộm ban đếm. Bệnh nhân mệt mỏi, đau ngực âm ỉ. Tại phòng khám, bác sĩ nghe phổi có ran nổ đỉnh phải, nghi ngờ lao phổi. X-quang ngực cho thấy tổn thương thâm nhiễm đình phổi phải và có hang sáng đường kính ~3 cm. Kết quả xét nghiệm đàm: tìm thấy vi khuẩn kháng cồn-kháng toan (AFB) dương tính 3+. Bệnh nhãn được chuyen vao Bệnh viện Phạm Ngọc Thạch để điều trị theo phác đồ lao.
 
-Ăn nhiều, uống nhiều, tiểu nhiều, sụt cân -> đái đường
+Ăn nhiều, uống nhiều, tiểu nhiều, sụt cân → đái đường
 
 trên ói dưới ỉa giữa đau bụng: ???
 
-Sụt cân kéo dài (5kg trong 3 tháng): nghĩ tới lao + ho -> lao
+Sụt cân kéo dài (5kg trong 3 tháng): nghĩ tới lao + ho → lao
 
 Sốt nhẹ về chiều
 
@@ -41,27 +41,27 @@ Có ánh sáng, giựt cái: uốn ván
 
 ABC: Airway còn thở còn cứu, chưa có cứng hoàn toàn
 
-Kháng độc tố: chích vào -> con gì đó - tạo ra kháng
+Kháng độc tố: chích vào → con gì đó - tạo ra kháng
 
 Rối loạn đông máu (DIC):
 
-nhiễm trùng thận rất dễ ntrg huyết, bàng quang thì chưa sao, thường là Gram (-) -> có nội độc tố (lipid A) -> đông máu nội mạch lan toả (DIC)
+nhiễm trùng thận rất dễ ntrg huyết, bàng quang thì chưa sao, thường là Gram (-) → có nội độc tố (lipid A) → đông máu nội mạch lan toả (DIC)
 
 ### Tình huống 4
 
 Đái tháo đường +
 
-Sốt cao, lạnh run: nhiễm trùng hệ thống (nhiễm khuẩn huyết). Phổi -> kiểu gì cũng vô máu, lạnh
+Sốt cao, lạnh run: nhiễm trùng hệ thống (nhiễm khuẩn huyết). Phổi → kiểu gì cũng vô máu, lạnh
 
-Không có ở phổi mà ở trên (KQ trên) -> k có vô máu, lạnh
+Không có ở phổi mà ở trên (KQ trên) → k có vô máu, lạnh
 
 Hông lưng, nghĩ đến cái hạch
 
 ## Một số định nghĩa & thuật ngữ
 
-Tác nhân gây bệnh: gây bệnh được, (không thì k gọi z) -> có 1 đống thứ là độc lực, LD50, ID50,…
+Tác nhân gây bệnh: gây bệnh được, (không thì k gọi z) → có 1 đống thứ là độc lực, LD50, ID50,…
 
-Tác nhân cơ hội: vi khuẩn trên da bình thường không gây bệnh, không vô khuẩn tốt, đâm kim vào nên vi khuẩn chui vô gây bệnh -> có cơ hội mới gây bệnh
+Tác nhân cơ hội: vi khuẩn trên da bình thường không gây bệnh, không vô khuẩn tốt, đâm kim vào nên vi khuẩn chui vô gây bệnh → có cơ hội mới gây bệnh
 
 LD<sub>50</sub> = số lượng vi sinh vật cần thiết để tiêu diệt phân nửa ký chủ.
 

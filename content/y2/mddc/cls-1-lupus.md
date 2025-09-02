@@ -86,7 +86,7 @@ ANA (Antinuclear antibodies): *KT kháng nhân*, nhạy cao (bắt lầm hơn b�
 anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatine (đặc hiệu cực cao với lupus, nhất là có thận)
 
 anti-Sm là tự kháng thể gắn kết với ribonucleoprotein được tìm thấy trong nhân
-tế bào. Độ đặc hiệu cao hơn 99%, nhưng anti-dsDNA nhạy hơn. (có -> chắc chắn có, không có thì không)
+tế bào. Độ đặc hiệu cao hơn 99%, nhưng anti-dsDNA nhạy hơn. (có → chắc chắn có, không có thì không)
 
 => Đây là các xét nghiệm tự kháng thể quan trọng trong chẩn đoán bệnh lý tự
 miễn, mà cụ thể là bệnh Lupus ban đỏ. Ở đây các kết quả xét nghiệm đều cao
@@ -94,7 +94,7 @@ hoặc dương tính, chứng tỏ nghi ngờ của bác sĩ là đúng.
 
 ### XN khác
 
-Con đường hoạt hoá bổ thể cổ điển, tiêu thụ c3 và c4 nhiều nhất -> dùng cho lupus
+Con đường hoạt hoá bổ thể cổ điển, tiêu thụ c3 và c4 nhiều nhất → dùng cho lupus
 
 Nồng độ bổ thể: C3 và C4 (tới 9) là các protein huyết tương quan trọng của hệ thống bổ thể, giảm khi dòng thác bổ thể đang được hoạt hoá trong phản ứng viêm
 

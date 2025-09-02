@@ -55,7 +55,7 @@ Tổn thương:
 Bệnh Bruton (Agammaglobulinemia LK X):
 
 - Đột biến BTK (Bruton’s tyrosine kinase)
-- Mất khả nang truyền tín hiệu từ thụ thể lympho B (tyrosine) -> lympho B kém/không trưởng thành
+- Mất khả nang truyền tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành
 
 ### Dòng Lympho T
 
@@ -67,7 +67,7 @@ Tổn thương:
 Hội chứng Di George:
 
 - Mất vùng NST 22q11
-- Suy giảm nguyên phát ở cơ quan phát triển lympho T -> không/ít lympho T
+- Suy giảm nguyên phát ở cơ quan phát triển lympho T → không/ít lympho T
 
 ### Phối hợp nặng (SICD)
 
