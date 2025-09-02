@@ -188,11 +188,11 @@ Tế bào T<sub>h</sub> (Tfh) hoạt hoá, kích thích lympho B tăng sinh, bi�
 - CD40L của Tfh gắn với CD40 trên lympho B: tín hiệu nội bào, đóng vai trò quan trọng trong việc chuyển lớp KT →thường *chỉ xuất hiện* đối với các KN protein phụ thuộc lympho T
 - Tiết ra IL-21
 
-![Tế bào lympho T<sub>h</sub> hoạt hoá lympho B](/y2/mddc/9-th-hoathoa-b.jpeg)
+![Tế bào lympho Th hoạt hoá lympho B](/y2/mddc/9-th-hoathoa-b.jpeg)
 
 #### Phân biệt các đáp ứng tạo kháng thể
 
-<br></br>
+Bảng phân chia đáp ứng tạo KT khác nhau phụ thuộc bản chất KT là protein (phụ thuộc t.ức) hay đa giá - carbohydrate, lipid... (không phụ thuộc)
 
 |  | Phụ thuộc | Không phụ thuộc |
 |:---:|:---:|:---:|
