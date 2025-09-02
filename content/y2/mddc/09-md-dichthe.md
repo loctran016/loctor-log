@@ -50,7 +50,7 @@ Có 4 chức năng chính của mảnh Fab:
 1. Nhận diện đặc hiệu KN: Do vùng VH và VL tham gia (V-variables) nên vừa có tính đa dạng, vừa có tính đặc hiệu với riêng KN tạo ra nó
 2. Liên kết giữa kháng nguyên – kháng thể: Liên kết yếu (lk ion, lk hydro, tương tác kị nước, lk Van der Vaals) nên sự kết hợp thuận nghịch : sau khi kết hợp và phân ly, cấu trúc hóa học của KN và KT hầu như không đổi
 3. Ái lực tương tác giữa KN - KT:
-    - Ái lực KN - KT trong đáp ứng nguyên phát < thứ phát
+    - Ái lực KN - KT trong đáp ứng nguyên phát <br thứ phát
     - Một kháng thể có khả năng gắn từ 2 đến 10 epitope của 1 kháng nguyên hay nhiều kháng nguyên lân cận
     - Tổng lực gắn kết này lớn hơn nhiều so với ái lực của một liên kết đơn lẻ
     - Phản ứng chép: 1 epitop có thể kết hợp 1 hay nhiều Fab của *1 hay nhiều KN khác nhau*; và ngược lại 1 KT có thể kết hợp 1 hay nhiều epitop có cấu trúc không gian tương tự
@@ -192,7 +192,8 @@ Tế bào T<sub>h</sub> (Tfh) hoạt hoá, kích thích lympho B tăng sinh, bi�
 
 #### Phân biệt các đáp ứng tạo kháng thể
 
-<br>
+<br></br>
+
 |  | Phụ thuộc | Không phụ thuộc |
 |:---:|:---:|:---:|
 | Bản chất HH | Protein | Đa giá (carbohydrate, lipid, acid nucleic...) |
