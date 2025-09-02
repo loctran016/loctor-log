@@ -4,7 +4,7 @@ date: 2025-08-14
 ---
 <!-- markdownlint-disable MD033 MD024 -->
 
-## Giới thiệu
+## Ôn bài
 
 MD bẩm sinh tham gia đáp ứng ngay lập tức:
 
@@ -16,7 +16,7 @@ Trong khi đó MD thu được (mắc phải) cần thời gian để phản ứ
 
 ![Đặc điểm chính của MD thu được](/y2/mddc/10-dacdiem-mddh.jpeg)
 
-## Dung nạp MD của lympho T
+## Khái niệm
 
 Có 2 TH:
 
@@ -44,7 +44,29 @@ Cần sự kết hợp: liều lượng, đường truyền và quy trình gây 
 
 **Viêm gan B**: TB gan không bị tổn thương nên không xuất hiện triệu chứng dù số lượng virus ở mức cao
 
+Dung nạp MD sinh lí xảy ra đối với các VSV thường trú và thai nhi
+
+### VSV thường trú
+
+Khoảng 10<sup>14</sup> vi khuẩn, virus thường trú sống cộng sinh với con người. Mặc dù chúng được các tb lympho nhận diện nhưng lại được dung nạp qua *T điều hoà* (ngoại biên)
+
+Bệnh lao (gây ra bởi mtb - *mycobacterium tuberculosis*): thực nghiệm chứng minh rằng gia tăng tế bào lympho T chỉ gây tổn thương đến cơ thể mà không gây tổn hại gì cho Mtb
+
+### Thai nhi
+
+50% gene bố → KN xa lạ; thai nhi phát triển bình thường được là nhờ mẹ dung nạp MD
+
+Cơ chế:
+
+- Gene bố → T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
+- trình diện KN kém trong nhau thai
+- không tạo Th1 trong tử cung
+
 ## Dung nạp MD của lympho T
+
+Vai trò của T điều hoà là vô cùng quan trọng và chủ chốt đối với dung nạp MD trung ương & ngoại biên:
+
+![Tế bào T điều hoà - Chức năng & phát triển](/y2/mddc/10-chuc-nang-t-dh.jpeg)
 
 ### Trung ương
 
@@ -76,7 +98,7 @@ Tế bào T nhận diện KN tự thân
   - CTLA-4: ức chế B7 của APCs
   - PD-1: chấm dứt đáp ứng của T
 
-![Bát hoạt lympho T ngoại biên](/y2/mddc/10-bathoat-t.jpeg)
+![Bất hoạt lympho T ngoại biên](/y2/mddc/10-bathoat-t.jpeg)
 
 #### Bị T ĐH ức chế
 
@@ -118,23 +140,39 @@ Không có khả năng đáp ứng với KN vì 3 lí do:
 
 ![Dung nạp ngoại biên của lympho B](/y2/mddc/10-dnap-b-ngbien.jpeg)
 
-## Dung nạp MD khác
-
-### VSV thường trú
-
-### Thai nhi
-
-50% gene bố → KN xa lạ
-
-Cơ chế:
-
-- Gene bố → T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
-- trình diện KN kém trong nhau thai
-- không tạo Th1 trong tử cung
-
-![Tế bào T điều hoà - Chức năng & phát triển](/y2/mddc/10-chuc-nang-t-dh.jpeg)
-
 ## Bệnh tự miễn - Sự yên lặng MD
 
-![Cơ chế vi khuẩn có thể khởi động bệnh lí tự miễn](/y2/mddc/10-vk-tu-mien.jpeg)
+Sự yên lặng MD: tự dung nạp của hệ MD đối với các thành phần cơ thể. Các thành phần của cơ thể có thể trở thành chất gây MD khi **kết hợp** với MHC II, nhờ ức chế, câm lặng bởi:
+
+- Không có gene mã hoá → thụ thể của lympho để chống lại KN tự thân
+- Loại bỏ các lympho có thụ thể *đặc hiệu* với KN tự thân
+- Dọn dẹp các KN tự thân (để khỏi đi trình diện lung tung)
+
+Giả thuyết giải thích: trong quá trình hệ MD phát triển và biệt hoá (thai, sơ sinh), KN nào tồn tại cả đời sẽ được dung nạp
+
+Cơ chế gây bệnh:
+
+- Lắng đọng phức hợp KN-KT gây viêm (type 3)
+- Tế bào T tấn công KN tự thân (type 2)
+
+Có 5 nguyên nhân để thoả mãn các cơ chế trên và gây ra bệnh tự miễn (do sự kết hợp của yếu tố di truyền + kích thích môi trường):
+
+1. Sự kích thích của *tự KN lạ* (VD: tế bào bị vỡ → xuất hiện DNA, histon,... dọn dẹp không hết + ĐB gen nên bị trình diện chung với HLA II)
+2. *KN ngoại sinh* có epitop tương tự KN nội sinh
+3. Tác nhân *vật lí, hoá học và vi sinh vật*
+4. Đột biến *HLA*
+5. Tổn thương *khả năng kiểm soát* của hệ MD
+
 ![Cơ chế bệnh lí tự miễn](/y2/mddc/10-benh-tu-mien.jpeg)
+
+### 1. Sự kích thích của *tự KN lạ*
+
+### 2. *KN ngoại sinh* có epitop tương tự KN nội sinh
+
+### 3. Tác nhân *vật lí, hoá học và vi sinh vật*
+
+![Cơ chế vi khuẩn có thể khởi động bệnh lí tự miễn](/y2/mddc/10-vk-tu-mien.jpeg)
+
+### 4. Đột biến *HLA*
+
+### 5. Tổn thương *khả năng kiểm soát* của hệ MD

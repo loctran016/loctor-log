@@ -192,6 +192,7 @@ Tế bào T<sub>h</sub> (Tfh) hoạt hoá, kích thích lympho B tăng sinh, bi�
 
 #### Phân biệt các đáp ứng tạo kháng thể
 
+<br>
 |  | Phụ thuộc | Không phụ thuộc |
 |:---:|:---:|:---:|
 | Bản chất HH | Protein | Đa giá (carbohydrate, lipid, acid nucleic...) |
@@ -212,4 +213,4 @@ Cơ chế phản hồi kháng thể (chỉ xảy ra khi số lượng IgG đủ 
 
 Suy giảm truyền tín hiệu lympho B thông qua CD22 và CD72, phosphoryl hoá ITIM, kích hoạt tyrosine photphatase, ức chế lympho B
 
-![Cơ chế ức chế lympho B của CD22 và CD72 thông ITIM - ...inhibition, ngược lại với ITAM - ...activation](/y2/mddc/9-ig-g-phan-hoi.jpeg)
+![Cơ chế ức chế lympho B của CD22 và CD72 thông ITIM - ...inhibition, ngược lại với ITAM - ...activation](/y2/mddc/9-CD22-CD72-phan-hoi.jpeg)
