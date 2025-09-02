@@ -3,6 +3,9 @@ import { findPageChildren, findPageHeadline } from '@nuxt/content/utils'
 import { formatTimeAgo } from '@vueuse/core'
 import { useDateFormat } from '@vueuse/core'
 
+import type { ContentNavigationItem } from '@nuxt/content';
+
+
 const route = useRoute();
 const year = route.params.year;
 const subject = route.params.subject;
@@ -22,6 +25,7 @@ type CategoryData = {
     [key in CategoryKey]: {
         name: string;
         class: string;
+        containerClass: string;
         icon: string;
     }
 };
@@ -29,22 +33,26 @@ type CategoryData = {
 const categoryData: CategoryData = {
     bv: {
         name: 'TH Bệnh Viện',
-        class: '',
+        class: 'text-fuchsia-700 dark:text-fuchsia-500',
+        containerClass: '',
         icon: 'healthicons:hospital-outline'
     },
     tbl: {
         name: 'Team-based Learning',
         class: 'text-green-700 dark:text-green-500',
+        containerClass: 'group-hover:bg-green-600/20',
         icon: 'healthicons:group-discussion-meetingx3-outline'
     },
     cls: {
         name: 'CLS',
-        class: 'text-sky-700 dark:text-sky-400',
+        class: 'text-amber-700 dark:text-amber-400',
+        containerClass: 'group-hover:bg-amber-600/30',
         icon: 'healthicons:virus-patient-outline'
     },
     lab: {
         name: 'TH tại Trường',
-        class: '',
+        class: 'text-sky-700 dark:text-sky-400',
+        containerClass: '',
         icon: 'healthicons:lab-search-outline'
     },
 };
@@ -54,15 +62,19 @@ posts.forEach(post => {
         post.tags.forEach((tag: string) => uniqueTags.add(tag));
 })
 
-const isNotDefaultTagsOnly = !(uniqueTags.has('Lí thuyết') && uniqueTags.size === 1);
+console.log('Post is here',posts)
+
+const isNotDefaultTagsOnly:boolean = !(uniqueTags.has('Lí thuyết') && uniqueTags.size === 1);
 
 const selectedTag = ref<string[]>([])
 
 const sixMothAgoDate = new Date();
 sixMothAgoDate.setMonth(sixMothAgoDate.getMonth() - 6)
 
-const queryPostsByTags = computed(() => selectedTag.value.length === 0 ? posts : posts.filter(post => post.tags.some((tag: string) => selectedTag.value.includes(tag))))
-console.log('Query', posts, queryPostsByTags.value)
+const queryPostsByTags = computed(() => {
+    if (selectedTag.value.length === 0) return posts.filter(post => post)
+    else return posts.filter(post => post.tags.some((tag: string) => selectedTag.value.includes(tag)))
+})
 
 function transformDate(str: string) {
     const inputDate = new Date(str)
@@ -81,7 +93,8 @@ useSeoMeta({
 </script>
 
 <template>
-    <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center gap-4">
+    <!-- Header section & tag selector -->
+    <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center gap-3">
         <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2 max-w-8/10"> {{ headline }}</h2>
         <ul class="flex lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
@@ -90,13 +103,17 @@ useSeoMeta({
         <Icon name="material-symbols-light:collections-bookmark-outline-rounded" class="text-xl lg:text-2xl max-lg:col-start-1 max-lg:row-start-2" v-if="uniqueTags.size > 1"/>
     </section>
 
+    <!-- Main list of posts -->
     <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
-      <li v-for="post in queryPostsByTags" :key="post.id" class="" >
-          <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3 relative">
+      <li v-for="post in queryPostsByTags" :key="post.id" class="h-[7rem] group" >
+          <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2  h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3 relative">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider ">
                 {{ post.title }}
               </h3>
-              <LazyIcon v-if="post.category" :class="categoryData[post.category as CategoryKey].class" class="absolute right-2 top-2 text-xl lg:text-2xl" :name="categoryData[post.category as CategoryKey].icon" />
+              <div v-if="post.category" class="absolute right-2 top-2 flex items-center justify-center p-2 aspect-square rounded-full transform-gpu duration-200" :class="categoryData[post.category as CategoryKey].containerClass">
+                  <LazyIcon  :class="categoryData[post.category as CategoryKey].class" class="text-2xl lg:text-3xl" :name="categoryData[post.category as CategoryKey].icon" />
+                </div>
+                <LazyIcon v-else class="text-xl lg:text-2xl absolute right-3 top-3" name="material-symbols-light:arrow-outward-rounded" />
               <p class="flex items-center">
                 <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl row-start-2"/> {{ transformDate(post.date) }}</span>
                 <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
