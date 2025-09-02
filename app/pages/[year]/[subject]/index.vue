@@ -105,7 +105,7 @@ useSeoMeta({
 
     <!-- Main list of posts -->
     <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10 items-center">
-      <li v-for="post in queryPostsByTags" :key="post.id" class="h-[7rem] group" >
+      <li v-for="(post,index)  in queryPostsByTags" :data-index="index" :key="index" class="h-[7rem] group" >
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2  h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3 relative">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider ">
                 {{ post.title }}
@@ -130,17 +130,15 @@ useSeoMeta({
 </template>
 
 <style>
-.list-enter-active,
 .list-leave-active {
   transition: all 0.4s ease;
+}
+.list-enter-active{
+  transition: all 0.2s ease;
 }
 .list-enter-from,
 .list-leave-to {
   opacity: 0;
-}
-
-.list-enter-active {
- opacity: 0;
 }
 
 </style>
