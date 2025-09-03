@@ -4,19 +4,20 @@ date: 2025-09-03
 tags: ['Virus']
 ---
 
+## Nguồn gốc
+
+Zoonosis: bệnh vốn truyền từ động vật sang người từ con SIV (gây bệnh ở chimpanzee)
+- trực hệ của HIV-1
+
 ## Cấu trúc và thành phần HIV
 
-Hình cầu, đường kính 100nm, gồm:
+Hình cầu, đường kính 100nm, gồm: Nhân, Capsid, Màng bọc
 
-- Nhân
-- Capsid
-- Màng bọc
-
-Nhân có 2 chuỗi RNA, bao gồm các gen
+Nhân có 2 chuỗi RNA (nên có khả năng tái tổ hợp -> nhiễm 2 con khác chủng sẽ tạo ra chủng mới recombi nần giao thoa dtrn tương tự virus cúm), bao gồm các gen
 
 - GAG
 - POL:
-	- RT
+	- Reverse Transcriptase: từ 2 sợi đơn RNA -> DNA mà không có proof-reading (sửa lỗi) -> Biến đổi điên cuồng
 	- Integrase
 	- Protease
 - ENV
@@ -27,22 +28,30 @@ Capsid có các KN quan trọng:
 - P24: dấu ấn huyết thanh quan trọng trong chẩn đoán bệnh và theo dõi diễn tiến điều trị
 
 Màng bọc có KN đặc hiệu týp:
-- GP120
-- GP41
+- GP120: tìm + gắn lên thụ thể CD4 -> lympho T (tấn công vô đầu não MD) & một ít TB não -> đếm CD4 + tổn thương TK. 1 con người có CD4 đột biến lạ, MD hoàn toàn HIV
+- GP41: xuyên màng -> sau khi gp120 bám vào và bộc lộ gp41 giúp hoà màng
+
+Màng lipid của HIV là chôm từ màng của lympho T
+
+p24: đặc trưng của con HIV, chỉ cần 1 tuần là quá trời, thay thế test nhanh ít nhất 3 tháng (KT trong máu) từ lúc bị lây 
+
 
 ## Cơ chế bệnh sinh của vi rút HIV
 
 Bệnh nhiễm HIV trải qua 3 giai đoạn:
+
 1. Xâm nhập vào cơ thể
 2. Tấn công tế bào đích
 3. Sao chép bên trong tế bào đích và gây ra các hậu quả
 
 Xâm nhập vào cơ thể thong qua các đường lây truyền:
+
 - Máu
 - Quan hệ tình dục
 - Mẹ truyền sang con trong thời kỳ chu sinh
 
 HIV tấn công tế bào đích:
+
 - Lympho T CD4 (LT4)
 - CD4 đặc hiệu gp120
 - Đồng thụ thể CXCR4
@@ -53,6 +62,7 @@ HIV tấn công tế bào đích:
 - Các cơ quan bạch huyết
 
 Sao chép bên trong tế bào đích và gây bệnh:
+
 - Sự chết tế bào
 - Hiện tượng hợp bào
 - ADCC (Antibody Dependent Cellualar Cytotoxicity)
@@ -64,12 +74,14 @@ Sao chép bên trong tế bào đích và gây bệnh:
 ## Hậu quả của tình trạng suy giảm miễn dịch mắc phải do nhiễm vi rút HIV
 
 Bản chất của LT4:
+
 - Tế bào T giúp đỡ
 - Tế bào trung tâm của hệ thống miễn dịch
 
 Do vậy, vi rút HIV gây nhiễm và tiêu diệt LT4 dẫn đến tình trạng suy giảm miễn dịch toàn hệ thống, hậu quả là các bệnh nhiễm khuẩn và ung thư phát triển.
 
 AIDS - Hội chứng suy giảm miễn dịch mắc phải:
+
 - Là giai đoạn cuối cùng của người nhiễm HIV
 - Biểu hiện lâm sàng:
 - Bệnh nhiễm trùng cơ hội
