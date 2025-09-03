@@ -1,7 +1,7 @@
 ((<template>
   <figure class="md:-mx-8 lg:-mx-16">
     <NuxtImg
-      class="rounded-md shadow-lg w-full hover:cursor-zoom-in"
+      class="rounded-md shadow-lg max-xl:w-full h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full hover:cursor-zoom-in"
       :src="refinedSrc"
       :alt="alt"
       @click.stop="() => { showLightbox = !showLightbox}"
@@ -31,7 +31,7 @@
             :src="refinedSrc"
             :alt="alt"
             densities="x1 x2"
-            class="max-lg:w-full lg:min-w-[50vw]"
+            class="max-lg:w-full lg:min-w-[50vw] lg:h-auto lg:w-auto lg:max-h-[90vh]"
           />
       </div>
       </div>
