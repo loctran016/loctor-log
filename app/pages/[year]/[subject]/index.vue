@@ -107,7 +107,7 @@ useSeoMeta({
     <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10">
       <li v-for="(post,index) in queryPostsByTags" :data-index="index" :key="index" :class="isNotDefaultTagsOnly && 'h-[7rem]'" class="group" >
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer pt-2 lg:py-3 relative">
-              <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider max-w-[95%]">
+              <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider max-w-[90%]">
                 {{ post.title }}
               </h3>
               <div v-if="post.category" class="absolute right-2 top-2 flex items-center justify-center p-2 aspect-square rounded-full transform-gpu duration-200" :class="categoryData[post.category as CategoryKey].containerClass">
