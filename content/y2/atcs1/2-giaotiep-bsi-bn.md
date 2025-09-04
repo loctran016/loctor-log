@@ -16,9 +16,7 @@ Các kĩ năng giao tiếp:
 5. Đồng cảm, trấn an: *Tôi biết bà đang rất là đau*, bà chịu khó 1 chút, đặt ống vào sẽ đỡ đau hơn, chúng tôi sẽ làm nhẹ nhàng; thì bác sĩ cũng hiểu nha
 6. Khen/khuyến khích: chị biết quan tâm tới sức khoẻ của mình là rất tốt
 7. Tóm tắt thông tin
-8. Dùng từ ngữ đỡn giản
-9.
-10.
+8. Dùng từ ngữ đơn giản, ngôn ngữ nhẹ nhàng, tế nhị
 
 Cho và nhận phản hồi:
 
