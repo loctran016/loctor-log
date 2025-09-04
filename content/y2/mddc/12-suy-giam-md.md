@@ -9,7 +9,7 @@ Cơ thể không đáp ứng hay đáp ứng yếu với VSV gây ra nhiễm tr�
 
 Do các tổn thương nguyên phát hay thứ phát của 1 hay nhiều thành phần của hệ MD
 
-Phân loại: suy giảm MD bẩm sinh, MD mắc phai
+Phân loại: suy giảm MD bẩm sinh, MD mắc phải
 
 ### Suy giảm MD bẩm sinh
 
