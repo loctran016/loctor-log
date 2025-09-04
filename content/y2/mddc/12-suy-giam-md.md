@@ -132,10 +132,15 @@ Do khiếm khuyết trong hệ thống MD gây ra bởi các nhân tố môi tr�
 - Nguyên nhân thứ phát thường gặp ở các nước giàu: ung thư liên quan tuỷ xương (bệnh BC) & các phương pháp điều trị
 - Các thuốc ức chế MD, thuốc kháng, ức chế viêm
 - Suy dinh dưỡng protein-calorie: phổ biến ở các nước nghèo
+ 
+![Nguyên nhân gây ra suy giảm MD thứ phát](/y2/mddc/12-ng-nhan-suygiam-md.jpeg) 
+ 
 
 ### Hội chứng HIV
 
 Nhờ gp41 và gp120 mà virus HIV gắn vào thụ thể chemokine và **CD4** (không phải CD4L)
+
+![Hình ảnh, cấu trúc của virus HIV](/y2/mddc/12-cautruc-hiv.jpeg)
 
 Chu kỳ sống của HIV tấn công TCD4:
 
@@ -143,6 +148,8 @@ Chu kỳ sống của HIV tấn công TCD4:
 2. Tổng hợp proviral DNA
 3. Tích hợp provirus vào genome của TCD4
 4. Khi cytokin hoạt hoá TCD4, gen virus được phiên, dịch mã và virus HIV đâm chồi
+ 
+![Chu kỳ virus HIV thâm nhập tế bào có CD4](/y2/mddc/12-hiv-cycle.jpeg)
 
 Cơ chế bệnh sinh:
 
@@ -153,3 +160,5 @@ Cơ chế bệnh sinh:
 5. Tiềm ẩn lâm sàng: **nhiễm trùng mạn**, virus bị nhốt trong mô ở nang bởi *TB tua ở nang*
 6. Nếu nhiễm các vi khuẩn khác (cơ hội), kích thích hệ MD, CD4 phiên mã, dịch mã, tạo cơ hội cho virus HIV nhân lên
 7. **AIDS:** phá huỷ mô lympho T, sụt giảm TCD4+
+ 
+![Chu kỳ virus HIV thâm nhập người bệnh](/y2/mddc/12-hiv-cycle-full.jpeg)
