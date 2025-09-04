@@ -73,12 +73,12 @@ Lắng nghe tích cực: 100%
 - E: yếu tố tăng thêm (bác làm j thì cơn đau tăng)
 - S: mức độ (1-10) (1 - chịu được, 10 - không chịu nổi -> đánh giá)
 4. Tiền căn cá nhân (MJTHREADS Ca): đóng, các bn việt nam hay gặp tăng HA, lao, tiểu đường, tm mạch, hen, đột quỵ, vàng da (có vàng da hay không), sốt thấp cấp (có được chẩn đoán), ung thư
-- M:
-- J:
-- T:
-- H:
+- M: nhồi máu cơ tim
+- J: vàng da/bệnh gan
+- T: lao
+- H: cao huyết áp
 - R: sốt cấp
-- E:
+- E: động kinh
 - A: hen
 - D: tiểu đường
 - S: đột quỷ
