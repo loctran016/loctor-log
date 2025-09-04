@@ -149,7 +149,7 @@ Chu kỳ sống của HIV tấn công TCD4:
 3. Tích hợp provirus vào genome của TCD4
 4. Khi cytokin hoạt hoá TCD4, gen virus được phiên, dịch mã và virus HIV đâm chồi
  
-![Chu kỳ virus HIV thâm nhập tế bào có CD4](/y2/mddc/12-hiv-cycle.jpeg)
+![Chu kỳ virus HIV thâm nhập tế bào có CD4](/y2/mddc/12-cycle-hiv.jpeg)
 
 Cơ chế bệnh sinh:
 
