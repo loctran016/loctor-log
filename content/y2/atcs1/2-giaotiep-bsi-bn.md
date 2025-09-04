@@ -1,6 +1,6 @@
 ---
-title: Kỹ năng giao tiếp
-date: 2025-08-27
+title: Kỹ năng hỏi bệnh sử
+date: 2025-09-03
 ---
 
 ## Căn bản
@@ -20,11 +20,10 @@ Các kĩ năng giao tiếp:
 9.
 10.
 
-## Cho và nhận phản hồi
+Cho và nhận phản hồi:
 
-Nhận ra các điều làm tốt để phát huy
-
-Khắc phục những điểm chưa tốt
+- Nhận ra các điều làm tốt để phát huy
+- Khắc phục những điểm chưa tốt
 
 ## Kỹ năng hỏi bệnh sử
 
@@ -52,18 +51,30 @@ Lắng nghe tích cực: 100%
 - Không bắt chéo, run chân
 - Phi ngôn từ: gật đầu, mỉm cười + bác cứ nói thêm…
 
-### Quy trình hỏi bệnh sử
+## Quy trình hỏi bệnh sử
 
-1. Khởi đầu(WIIPP):
+ICE (ideas - concerns - expectations): ý kiến, lo lắng và mong chờ về bệnh tật -> dễ áp dụng các skills giao tiếp
+
+- Bác lo lắng gì nữa không ạ?
+- **Bác có mong muốn hay còn thắc mắc gì khác nữa không ạ?**
+
+### 1. Khởi đầu(WIIPP):
+
+Quy trình chính:
+
 - Rửa tay (LS thì 6 bước, osce thì tuỳ) + chào hỏi + nhìn
 - Tự giới thiệu: Tên - SV Y2 đến từ trường ĐHYD TPHCM + Nay con xin phép hỏi bệnh sử, xin thông tin của bác
 - Thông tin BN: tên, tuổi, địa chỉ, nghề
 - Ngồi cách 1m
-2. Lý do khám bệnh (câu hỏi mở):
+
+### 2. Lý do khám bệnh (câu hỏi mở):
+
+Câu hỏi:
+
 - Hôm nay bác đến vì lí do gì?
 - Ghi nguyên văn, hong thay đổi
-- ICE (ideas - concerns - expectations): ý kiến, lo lắng và mong chờ về bệnh tật -> dễ áp dụng các skills giao tiếp
-3. Bệnh sử (SOCRATES) - tập trung làm rõ lí do trên, mở và đóng:
+
+### 3. Bệnh sử (SOCRATES) - tập trung làm rõ lí do trên, mở và đóng:
 - S: vị trí
 - O: khởi sự (lúc đó làm gì bị đau? bắt đầu ở when, how)
 - C: tính chất
@@ -72,7 +83,11 @@ Lắng nghe tích cực: 100%
 - T: thời gian (đau bao lần trong ngày)
 - E: yếu tố tăng thêm (bác làm j thì cơn đau tăng)
 - S: mức độ (1-10) (1 - chịu được, 10 - không chịu nổi -> đánh giá)
-4. Tiền căn cá nhân (MJTHREADS Ca): đóng, các bn việt nam hay gặp tăng HA, lao, tiểu đường, tm mạch, hen, đột quỵ, vàng da (có vàng da hay không), sốt thấp cấp (có được chẩn đoán), ung thư
+
+### 4,5,6. Tiền căn 
+
+4. Cá nhân (MJTHREADS Ca): đóng, các bn việt nam hay gặp tăng HA, lao, tiểu đường, tm mạch, hen, đột quỵ, vàng da (có vàng da hay không), sốt thấp cấp (có được chẩn đoán), ung thư
+
 - M: nhồi máu cơ tim
 - J: vàng da/bệnh gan
 - T: lao
@@ -84,27 +99,39 @@ Lắng nghe tích cực: 100%
 - S: đột quỷ
 - Ca: ung thư
 - Bác có được bsi có được chẩn đoán bệnh lí kéo dài gì hay không: chia cụm theo hệ cơ quan, ngoài ra…
-5. Tiền căn xã hội:
-- Lối sống, yếu tố nguy cơ
-- Gia cảnh, nguồn lực hỗ trợ
-6. Tiền căn gia đình
+
+6. Gia đình
+
 - Sống với ai,… có vấn đề sức khoẻ gì hay không
 - Có chẩn đoán mấy cái tựa tựa, bệnh của BN hay tiền căn
-7. Lược qua các cơ quan: bệnh lí, quan tâm kèm theo thứ tự ưu tiên để kiểm soát triệu chứng:
+- Hút thuốc lá, rượu bia, thức khuya
+- Thức khuya, dậy sớm
+- Ăn uống?
+
+5. Xã hội:
+
+- Lối sống, yếu tố nguy cơ
+- Gia cảnh, nguồn lực hỗ trợ
+
+### 7. Lược qua các cơ quan: bệnh lí, quan tâm kèm theo thứ tự ưu tiên để kiểm soát triệu chứng
+
+Các cơ quan khác có thể liên quan đến bệnh lí (VD: đau bụng vì vấn đề tiêu tiểu...)
 - Tổng quát: Height, Weight, Sốt, Ớn lạnh, đổ mồ hôi, mệt mỏi hay yếu chi
 - Da niêm: phát ban, ngứa, loét
 - Đầu mặt cổ
-8. Tóm tắt: tóm tắt có định hướng, by me
-9. Hướng chẩn đoán:
+
+### 8. Tóm tắt: tóm tắt có định hướng, by me
+
+### 9. Hướng chẩn đoán:
 - Sơ bộ:
 - Phân biệt:
-10. Kết thúc
+### 10. Kết thúc
+
+**Bác có mong muốn hay còn thắc mắc gì khác nữa không ạ?**
+
+Chung chung:
 - Giải đáp thắc mắc
 - Thông báo lịch khám tiếp theo
 - CẢM ƠN
 
 **Lưu ý:** ICE hỏi trước tóm tắt là ổn
-
-## Kỹ năng giao tiếp cơ bản giữa thầy thuốc và người bệnh
-
-## Kỹ năng cho và nhận phản hồi
