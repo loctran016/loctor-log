@@ -1,7 +1,7 @@
-((<template>
+<template>
   <figure class="md:-mx-8 lg:-mx-16">
     <NuxtImg
-      class="rounded-md shadow-lg max-xl:w-full xl:h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full hover:cursor-zoom-in"
+      class="rounded-md mx-auto shadow-lg max-xl:w-full xl:h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full hover:cursor-zoom-in"
       :src="refinedSrc"
       :alt="alt"
       @click.stop="() => { showLightbox = !showLightbox}"

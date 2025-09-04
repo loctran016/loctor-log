@@ -63,15 +63,14 @@ useSeoMeta({
 </template>
 
 <style lang="css">
-.post-content img {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .post-content strong {
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 0.02rem;
+}
+
+.post-content th {
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* letter-spacing: 0.02rem; */
 }
 
 giscus-widget {
