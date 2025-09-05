@@ -38,7 +38,7 @@ hooks: {
       if (file.id.endsWith(".md")) {
         file.body = file.body.replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β")
       }
-    },}
+    },},
 
   content: {
     experimental: { sqliteConnector: "native" },
