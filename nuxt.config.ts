@@ -31,6 +31,15 @@ export default defineNuxtConfig({
     // exposeConfig: false,
   },
 
+hooks: {
+    'content:file:beforeParse'(ctx) {
+      const { file } = ctx;
+
+      if (file.id.endsWith(".md")) {
+        file.body = file.body.replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β")
+      }
+    },}
+
   content: {
     experimental: { sqliteConnector: "native" },
     build: {
