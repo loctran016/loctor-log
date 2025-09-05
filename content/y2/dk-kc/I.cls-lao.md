@@ -1,7 +1,7 @@
 ---
 title: CLS chương I - Vi khuẩn Lao
 date: 2025-09-05
-tags: ['Virus']
+tags: ['Vi khuẩn']
 category: cls
 ---
 
