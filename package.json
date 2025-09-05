@@ -52,5 +52,8 @@
     "run-script-os": "^1.1.6",
     "spellchecker-cli": "^7.0.0",
     "tailwind-scrollbar": "^4.0.2"
-  }
+  },
+  "overrides": {
+      "@nuxtjs/mdc": "^0.17.3"
+    }
 }

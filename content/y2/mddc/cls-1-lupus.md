@@ -34,14 +34,6 @@ Vài ngày sau kết quả xét nghiệm đã có đầy đủ. Các kết quả
 
 Khi bệnh nhân quay trở lại tái khám 1 tuần sau đó, bệnh nhân cho biết tình trạng viêm khớp có cải thiện, nhưng bác sĩ nhận thấy là tình trạng tăng huyết áp của bệnh nhân lại nhiều hơn, huyết áp của bệnh nhân tăng đến 165/98mmHg, và cân nặng của bệnh nhân tăng thêm khoảng 4kg. Ngoài ra bệnh nhân còn có tình trạng phù chân 2 bên.
 
-<!-- ::detail-box
-Thông tin bài cho
-
-#content
-
-
-:: -->
-
 ### Giới thiệu
 
 Bệnh tự miễn:
