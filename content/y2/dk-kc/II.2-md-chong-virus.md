@@ -1,5 +1,5 @@
 ---
-title: Bài II.2 - Đáp ứng miễn dịch của cơ thể chống virus
+title: Bài II.2 - Đáp ứng miễn dịch chống virus
 date: 2025-09-03
 tags: ['Virus']
 ---
