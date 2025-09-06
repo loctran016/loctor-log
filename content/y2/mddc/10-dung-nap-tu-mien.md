@@ -2,7 +2,6 @@
 title: Bài 10 - Dung nạp miễn dịch & Bệnh lí tự miễn
 date: 2025-08-14
 ---
-<!-- markdownlint-disable MD033 MD024 -->
 
 ## Ôn bài
 
@@ -168,7 +167,7 @@ Có 5 nguyên nhân để thoả mãn các cơ chế trên và gây ra bệnh t�
 
 Sự xuất hiện của tự KN mà KN đó không xuất hiện ==trong máu== thời kì bào thai (có thể do chấn thương)
 
-VD: 
+VD:
 
 -  Bệnh viêm mắt giao cảm: 1 bên mắt bị tổn thương, trình diện KN, tạo thành KT đồng thời chống cả 2 mắt (tương tự viêm khớp đối xứng)
 
