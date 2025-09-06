@@ -33,7 +33,6 @@ Dựa vào **thời gian** & **tính chất** để chia thành các loại sau:
 Dung nạp MD chỉ xuất hiện ở các lympho bào T có thụ thể đặc hiệu KN bản thân, dựa vào nơi gặp mà chia làm:
 
 - Dung nạp MD trung ương: tuỷ xương, tuyến ức
-
 - Dung nạp MD ngoại biên: da, niêm mạc,...
 
 ![Dung nạp MD trung ương & ngoại biên](/y2/mddc/10-dnap-md-trg-uong-ngbien.jpeg)
@@ -167,7 +166,17 @@ Có 5 nguyên nhân để thoả mãn các cơ chế trên và gây ra bệnh t�
 
 ### 1. Sự kích thích của *tự KN lạ*
 
+Sự xuất hiện của tự KN mà KN đó không xuất hiện ==trong máu== thời kì bào thai (có thể do chấn thương)
+
+VD: 
+
+-  Bệnh viêm mắt giao cảm: 1 bên mắt bị tổn thương, trình diện KN, tạo thành KT đồng thời chống cả 2 mắt (tương tự viêm khớp đối xứng)
+
 ### 2. *KN ngoại sinh* có epitop tương tự KN nội sinh
+
+Cơ thể tạo KT chống lại KN ngoại sinh (VD: EBV,...) sẵn chống luôn KT nội sinh
+
+Ví dụ: Bệnh thấp tim chất hexosamine có trong liên cầu tan huyết nhóm A cũng có trong glucoprotein ở van tim → kháng thể kháng liên cầu, kháng luôn van tim
 
 ### 3. Tác nhân *vật lí, hoá học và vi sinh vật*
 
