@@ -6,6 +6,10 @@ category: cls
 
 ## Bệnh Lupus
 
+::detail
+#title
+Thông tin bệnh án
+#default
 Bệnh nhân nữ, 18 tuổi trước đây hoàn toàn khoẻ mạnh. Sau chuyến đi phượt bằng xe máy từ TP.HCM đến Nha Trang và phơi nắng quá mức tại bãi biển, bệnh nhân thấy mình bị phát ban đỏ trên má khi soi gương. Bệnh nhân quyết định đến gặp bác sĩ chuyên khoa Da liễu. Bác sĩ khai thác thêm một số thông tin bệnh lý của bệnh nhân như sau:
 
 - 3-4 tháng nay bệnh nhân luôn thức dậy trong trạng thái mệt mỏi, ngày càng tăng dần.
@@ -33,6 +37,7 @@ Do bác sĩ nghi ngờ bệnh nhân bị bệnh Lupus và có các biểu hiện
 Vài ngày sau kết quả xét nghiệm đã có đầy đủ. Các kết quả xét nghiệm cho thấy ngoài tình trạng giảm nhẹ số lượng bạch cầu và tình trạng thiếu máu thì các kết quả khác được trình bày trong bảng kết quả sau:
 
 Khi bệnh nhân quay trở lại tái khám 1 tuần sau đó, bệnh nhân cho biết tình trạng viêm khớp có cải thiện, nhưng bác sĩ nhận thấy là tình trạng tăng huyết áp của bệnh nhân lại nhiều hơn, huyết áp của bệnh nhân tăng đến 165/98mmHg, và cân nặng của bệnh nhân tăng thêm khoảng 4kg. Ngoài ra bệnh nhân còn có tình trạng phù chân 2 bên.
+::
 
 ### Giới thiệu
 
@@ -57,7 +62,7 @@ khác
 
 Độ nhạy để tầm soát, độ đặc hiệu (có bị âm tính, dương tính giả) để chẩn đoán, xác định bệnh
 
-ANA (Antinuclear antibodies): *KT kháng nhân*, nhạy cao (bắt lầm hơn bị sót) nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA) - không đặc hiệu do các DNA từ TB vỡ ra (bth) và hệ MD đến dọn dẹp nhưng hông hết nên bị trình diện tự KT => Sàng lọc (không có ANA loại)
+ANA (Antinuclear antibodies): ==KT kháng nhân==, nhạy cao (bắt lầm hơn bị sót) nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA) - không đặc hiệu do các DNA từ TB vỡ ra (bth) và hệ MD đến dọn dẹp nhưng hông hết nên bị trình diện tự KT => Sàng lọc (không có ANA loại)
 
 anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatine (đặc hiệu cực cao với lupus, nhất là có thận)
 
@@ -84,7 +89,7 @@ Thiếu máu, giảm bạch cầu và hồng cầu: do tự kháng thể bám l�
 ### Cơ chế gây bệnh
 
 Do các đột biến gen + tác nhân môi trường (tia UV, nhiễm virus, hút thuốc,...) sẽ gây tổn thương DNA tế bào và apoptosis (Bệnh nhân tiếp xúc nhiều với tia UV nên lớp tế bào sừng của thượng bì đã đi vào apoptosis)
-Khi hệ thống miễn dịch không đáp ứng đủ mạnh để loại bỏ các mảnh vỡ tế bào, do ĐB gen/EBV **kích hoạt HLA lớp 2**, trình diện KN cho tế bào Th rồi hoạt hoá lympho B,  tạo ra ngày càng nhiều tự kháng thể.
+Khi hệ thống miễn dịch không đáp ứng đủ mạnh để loại bỏ các mảnh vỡ tế bào, do ĐB gen/EBV =r=kích hoạt HLA lớp 2==, trình diện KN cho tế bào Th rồi hoạt hoá lympho B,  tạo ra ngày càng nhiều tự kháng thể.
 
 Các tự kháng thể có thể gắn với kháng nguyên để tạo phức hợp miễn dịch (quá mẫn type III) hoặc gắn lên trên các tế bào hay mô bình thường (quá mẫn type II), từ đó gây ra các phản ứng viêm ở các cơ quan khác nhau trong cơ thể:
 

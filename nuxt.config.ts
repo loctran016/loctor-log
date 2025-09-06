@@ -36,7 +36,7 @@ hooks: {
       const { file } = ctx;
 
       if (file.id.endsWith(".md")) {
-        file.body = file.body.replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β").replace(/gamma/gi,'γ').replace(/>=/gi,'≥')
+        file.body = file.body.replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β").replace(/gamma/gi,'γ').replace(/>=/gi,'≥').replace(/=>/gi,'⇒')
       }
     },},
 
@@ -50,6 +50,9 @@ hooks: {
                         singleTilde: false
                   },
             },
+            'remark-flexible-markers': {
+
+            }
         },
         rehypePlugins: {},
         toc: {
@@ -79,9 +82,10 @@ hooks: {
     "@nuxt/fonts",
     "@nuxt/icon",
     "@nuxt/image",
+    "@nuxtjs/device",
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
-      '@nuxtjs/seo',
+    '@nuxtjs/seo',
     '@vueuse/nuxt',
       // "nuxt-svgo",
     // not sure why?

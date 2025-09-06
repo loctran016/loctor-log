@@ -1,13 +1,14 @@
 <template>
   <figure class="md:-mx-8 lg:-mx-16">
     <NuxtImg
-      class="rounded-md mx-auto shadow-lg max-xl:w-full xl:h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full hover:cursor-zoom-in"
+      class="rounded-md mx-auto shadow-lg max-xl:w-full hover:cursor-zoom-in"
       :src="refinedSrc"
       :alt="alt"
       @click.stop="() => { showLightbox = !showLightbox}"
       width="800"
       sizes="sm:600px md:800px"
       densities="x1 x2"
+      :class="$device.isDesktop && 'xl:h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full'"
     />
     <figcaption class="text-sm text-center">{{ alt }}</figcaption>
   </figure>
@@ -17,7 +18,7 @@
       leave-to-class="opacity-0"
     >
       <div
-        v-if="!isApple && showLightbox"
+        v-if="!($device.isApple && $device.isMobileOrTablet) && showLightbox"
         class="z-10 fixed h-screen w-screen top-0 left-0
                bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all
@@ -46,8 +47,6 @@ import { withTrailingSlash, withLeadingSlash, joinURL } from 'ufo'
 import { useTemplateRef } from 'vue'
 
 const img = useTemplateRef<HTMLElement>('img')
-	const isApple = typeof navigator == 'undefined' || /iPhone|iPad|Macintosh/.test(navigator.userAgent);
-
 
 const { x:posX,y:posY, style:imgPos } = useDraggable(img, {
   preventDefault: true,
