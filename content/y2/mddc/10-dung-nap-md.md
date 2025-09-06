@@ -9,7 +9,7 @@ date: 2025-08-14
 MD bẩm sinh tham gia đáp ứng ngay lập tức:
 
 - Thực bào: BC neutrophil, mono bào, đại thực bào
-- Diệt tự nhiên: NK (ngoài ra còn tiết IFN gamma và TNF alpha hoạt hoá đtb và tua gai)
+- Diệt tự nhiên: NK (ngoài ra còn tiết IFN-γ và TNF-α hoạt hoá đtb và tua gai)
 - Giải phóng cytokine
 
 Trong khi đó MD thu được (mắc phải) cần thời gian để phản ứng: lympho B (MD dịch thể) & lympho T (MD qua trung gian TB)
