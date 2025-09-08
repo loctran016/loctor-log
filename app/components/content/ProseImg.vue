@@ -18,7 +18,7 @@
       leave-to-class="opacity-0"
     >
       <div
-        v-if="!($device.isApple && $device.isMobileOrTablet) && showLightbox"
+        v-if="!($device.isApple) && $device.isDesktop && showLightbox"
         class="z-10 fixed h-screen w-screen top-0 left-0
                bg-black bg-opacity-50 flex items-center
                justify-center backdrop-blur-sm transition-all

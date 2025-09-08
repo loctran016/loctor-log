@@ -51,8 +51,8 @@ hooks: {
                   },
             },
             'remark-flexible-markers': {
-
-            }
+              },
+            'remark-emoji': {}
         },
         rehypePlugins: {},
         toc: {

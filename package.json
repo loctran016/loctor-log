@@ -55,6 +55,7 @@
     "@vueuse/nuxt": "^13.9.0",
     "daisyui": "^5.1.7",
     "markdownlint-cli": "^0.45.0",
+    "remark-emoji": "^5.0.2",
     "remark-gfm": "^4.0.1",
     "run-script-os": "^1.1.6",
     "spellchecker-cli": "^7.0.0",

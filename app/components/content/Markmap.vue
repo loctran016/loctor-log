@@ -8,11 +8,15 @@
 		height: 300px;
 	}
 </style>
+<template>
+    <!-- Wrap Markdown source in `.markmap` elements -->
+    <div class="markmap">
+            <slot :mdc-unwrap="true" />
+    </div>
+</template>
 
-<!-- Wrap Markdown source in `.markmap` elements -->
-<div class="markmap">
-        <slot :mdc-unwrap="true" />
-</div>
+<script>
+</script>
 
 <!-- Load markmap -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@latest"></script> -->

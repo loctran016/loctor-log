@@ -1,3 +1,22 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.flexible-marker {
+    @apply px-[1px] rounded mx-0
+}
+.flexible-marker-amber {
+    @apply text-amber-800 bg-amber-200
+}
+.flexible-marker-red {
+    @apply text-red-800 bg-red-200
+}
+.flexible-marker-cyan {
+    @apply text-cyan-800 bg-cyan-200
+}
+.flexible-marker-violet {
+    @apply text-violet-800 bg-violet-200
+}
+.flexible-marker-default {
+    @apply bg-transparent bg-gradient-to-r from-orange-500  to-orange-900 dark:from-orange-300  dark:to-orange-700 bg-clip-text text-transparent
+}

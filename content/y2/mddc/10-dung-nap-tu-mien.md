@@ -169,7 +169,7 @@ Sự xuất hiện của tự KN mà KN đó không xuất hiện ==trong máu==
 
 VD:
 
--  Bệnh viêm mắt giao cảm: 1 bên mắt bị tổn thương, trình diện KN, tạo thành KT đồng thời chống cả 2 mắt (tương tự viêm khớp đối xứng)
+- Bệnh viêm mắt giao cảm: 1 bên mắt bị tổn thương, trình diện KN, tạo thành KT đồng thời chống cả 2 mắt (tương tự viêm khớp đối xứng)
 
 ### 2. *KN ngoại sinh* có epitop tương tự KN nội sinh
 
