@@ -3,6 +3,8 @@ title: Bài 10 - Dung nạp miễn dịch & Bệnh lí tự miễn
 date: 2025-08-14
 ---
 
+<!-- markdownlint-disable MD024 -->
+
 ## Ôn bài
 
 MD bẩm sinh tham gia đáp ứng ngay lập tức:

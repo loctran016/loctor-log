@@ -4,12 +4,18 @@ date: 2025-08-28
 category: cls
 ---
 
+<!-- markdownlint-disable MD018 MD025 MD001 -->
+
 ## Bệnh Lupus
 
 ::detail
+
 #title
+
 Thông tin bệnh án
-#default
+
+# default
+
 Bệnh nhân nữ, 18 tuổi trước đây hoàn toàn khoẻ mạnh. Sau chuyến đi phượt bằng xe máy từ TP.HCM đến Nha Trang và phơi nắng quá mức tại bãi biển, bệnh nhân thấy mình bị phát ban đỏ trên má khi soi gương. Bệnh nhân quyết định đến gặp bác sĩ chuyên khoa Da liễu. Bác sĩ khai thác thêm một số thông tin bệnh lý của bệnh nhân như sau:
 
 - 3-4 tháng nay bệnh nhân luôn thức dậy trong trạng thái mệt mỏi, ngày càng tăng dần.

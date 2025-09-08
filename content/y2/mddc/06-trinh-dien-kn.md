@@ -115,7 +115,6 @@ Cấu trúc của MHC I: do có 1 chân → k có đối xứng → có β-micro
 
 Cấu trúc của MHC II: do có 2 chân →  có đối xứng → chỉ có α & β đối xứng nhau
 
-
 ![Trình diện KN nội sinh - lớp I và ngoại sinh - lớp II](/y2/mddc/6-tdkn-noi-ngoai.png)
 
 ![Trình diện KN - MHC I & II cho Lymp T](/y2/mddc/6-tdkn-t.png)

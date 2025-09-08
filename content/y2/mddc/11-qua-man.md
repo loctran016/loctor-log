@@ -15,6 +15,7 @@ Phân loại:
 ### Type I
 
 Còn gọi là Quá mẫm tức thì
+
 - Xảy ra ngay tức thì (vài phút đến vài tiếng)
 - Liên quan đến hoạt hoá Th2, sản xuất IgE,
 hoạt hoá tế bào basophil và Tb mast

@@ -54,7 +54,7 @@ Tìm vi nấm ký sinh nội bào, dùng phẩm nhuộm màu (mới thấy đư�
 
 nhuộm bên trong
 
-Tìm pneumocytis 
+Tìm pneumocytis
 
 Nhuộm vi nấm khác
 
@@ -74,7 +74,7 @@ Sinh thiết mô bệnh phẩm (mô học), MÔ
 
 Cấy vi nấm trên hộp thạch, nhưng mà muốn lưu trữ sau cấy thì nhuộm z để lưu hoài hoài:
 
-- 
+-
 
 ## Cấy nấm
 
@@ -82,7 +82,7 @@ Dùng đối với bệnh phẩm vô trùng (ngoài da thì tùm lum thứ -> so
 
 Môi trường kinh điển: Sabouraud
 
-Dùng khi vi nấm thấp 
+Dùng khi vi nấm thấp
 
 Thời gian trung bình 1 tuần (2-3 ngày là nhanh; 4 tuần là chậm - da)
 

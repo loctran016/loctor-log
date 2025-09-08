@@ -11,11 +11,13 @@ Virus là loại vi sinh vật (VSV) sống nội bào bắt buộc, vì chúng 
 Khi ở ngoài tế bào và ở trong cơ thể ký chủ, virus có thể bị trung hòa bởi kháng thể, bị thực bào, hoặc bị tấn công bởi bổ thể
 
 Virus xâm nhiễm vào tế bào ký chủ bằng cách gắn lên các thụ thể của chúng:
+
 - HIV gắn lên CD4 của Lympho T
 - EBV gắn lên CR2 trên Lympho B
 - Rhinovirus gắn lên ICAM-1 trên tế bào biểu mô niêm mạc mũi
 
 Virus gây hại cho tế bào và vật chủ bởi:
+
 1. Cản trở quá trình tổng hợp và chức năng một số protein của tb
 2. Giết chết tế bào
 3. Kích hoạt đáp ứng viêm gây tổn thương cho môt
@@ -27,6 +29,7 @@ Virus gây hại cho tế bào và vật chủ bởi:
 ### Đáp ứng MD bẩm sinh chống virus
 
 IFN type I (IFN-α, IFN-β) do tế bào nhiễm hay tua gai tiết ra, có vai trò:
+
 - Ức chế sự nhân lên của virus trong tế bào nhiễm và chưa nhiễm
 - Tăng biểu hiện MHC-I trên bề mặt tế bào nhiễm
 - Kích hoạt tế bào NK và CTL
@@ -48,11 +51,13 @@ Trình diện kháng nguyên virus:
 - Virus bị thực bào trình diện qua MHC-II, hoặc MHC-I (trình diện chéo)
 
 Lympho T CD8+:
+
 - Tiêu diệt tế bào nhiễm bằng apoptosis
 - Tiết IFN-v để kích hoạt đại thực bào
 - Hoạt hóa các men nuclease trong tế bào nhiễm
 
 Lympho T CD4+:
+
 - Hoạt hóa thành Th1 (bởi IFN-a, IFN-b, IFN-y, và IL-12) hỗ trợ biệt hóa CTL
 - Sản xuất IFN-y khuếch đại DUMD Th1, kích thích ĐTB
 - Kích thích Lympho B sản xuất IgG
@@ -72,9 +77,11 @@ Virus sản xuất các phân tử ức chế đáp ứng MD:
 - EBV tạo ra protein tương tự IL-10, làm ức chế hoạt động kháng virus của ĐTB
 
 Nhiễm virus mạn gây "kiệt quệ" cho tế bào CTL
+
 - T CD8+ giảm phân bào, giảm sản xuất IFN-y, giảm tính độc tế bào, biểu hiện thụ thể ức chế PD-1
 
 Một số virus xâm nhiễm, tiêu diệt hay bất hoạt tế bào miễn dịch. VD: HIV gây nhiễm và giết chết T CD4+ bằng nhiều cơ chế:
+
 - Trực tiếp làm chết T CD4+ do suy kiệt
 - Kích hoạt inflammasome bên trong tế bào, gây pyroptosis
 - Độc tế bào qua trung gian tế bào phụ thuộc kháng thể

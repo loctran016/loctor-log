@@ -91,14 +91,16 @@ Tác dụng tăng cường hậu KS (PALE - postantibiotic leukocytes enhancemen
 
 Dựa vào dược động-dược lực phân loại
 kháng sinh thành 2 nhóm:
+
 - Nhóm phụ thuộc thời gian:
-	- Hậu KS ngắn, thời gian >=MIC càng lâu
+  - Hậu KS ngắn, thời gian >=MIC càng lâu
 - Nhóm phụ thuộc nồng độ
-	- Hậu KS kéo dài nếu nồng đọ đủ cao
+  - Hậu KS kéo dài nếu nồng đọ đủ cao
 
 ### pK/pD
 
 Thông số:
+
 - Cmax/MIC
 - %T>MIC (tỷ lệ thời gian T>MIC)
 - AUC/MIC
@@ -121,6 +123,7 @@ Lưu ý: còn cách thứ 3 là tăng Cmax nhưng tăng rất cao nguy cơ gây 
 ### KS phụ thuộc nồng độ
 
 Đại diện là Aminoglycosides:
+
 - KS phụ thuộc nồng độ, có PAE dài
 - Mục tiêu: Cmax/ MIC > 8-10
 - Sử dụng liều cao, chỉ Dùng 1 lần/ngày → giúp Tăng tác dụng diệt khuẩn và Giảm độc tính trên thận
@@ -134,13 +137,16 @@ Một số lưu ý khác khi sử dụng Aminoglycoside:
 #### Fluoroquinolones
 
 Tính chất:
+
 - Kháng sinh phụ thuộc nồng độ
 - Mục tiêu: AUC/MIC > 125
 - Tiêu diệt đa dạng vi khuẩn
 - Độc tính trên thần kinh phụ thuộc vào liều (ngưng thuốc thì hết)
 
 ### Vancomycin
+
 Tính chất:
+
 - Kháng sinh phụ thuộc thời gian và nồng độ
 (PAE trung bình/ dài)
 - Mục tiêu: <u>AUC/MIC: 400</u>
@@ -153,6 +159,7 @@ Tính chất:
 ## KS dự phòng
 
 Cần phải đảm bảo nồng độ > MIC kéo dài từ trước → sau khi phơi nhiễm:
+
 - Bệnh nhân có tiền sử bệnh tim hậu thấp.
 - Bệnh nhân có dụng cụ nhân tạo như van tim nhân tạo cần làm thủ thuật nha khoa
 - Phòng ngừa các bệnh nhiễm trùng trước khi phơi
@@ -160,6 +167,7 @@ nhiễm.
 - Bệnh nhân phẫu thuật.
 
 Nguyên tắc
+
 - Lựa chọn thuốc an toàn, có tác dụng trên vi khuẩn gây
 bệnh, không đắt tiền.
 - Kháng sinh phổ hẹp, hạn chế tạo dòng VK kháng thuốc

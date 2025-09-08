@@ -8,7 +8,6 @@ tags: ['Vi nấm']
 
 Gây ra bệnh viêm màng não, chích từ dịch não tuỷ
 
-
 Bao nang bao gồm:
 
 - GXM và GalXM (2 thành phần chính trong sinh hoá): quyết định tính sinh MD, kháng lại sự thực bào,…
@@ -19,6 +18,7 @@ Sự khác nhau của glucuronoxylomanna phụ thuộc vào **tỉ lệ** mannos
 ## Sợi tơ nấm (Hypha)
 
  Gồm nhiều tế bào nấm:
+
 - sợi nấm có vách ngăn (có lỗ nhỏ để trao đổi chất qua lại giữa các TB)
 - sợi nấm trong suốt (k có vách ngăn): gom vô 1 cục
 
@@ -46,7 +46,7 @@ Sợi nấm tạo bào tử, phần lớn các vi nấm y học sinh sản vô t
 
 Hoại tử xương mặt, xương sọ
 
-Tạo bào tử gom lại trong cái cục tròn tròn gọi là phong, vỡ ra phát tán rất nhiều 
+Tạo bào tử gom lại trong cái cục tròn tròn gọi là phong, vỡ ra phát tán rất nhiều
 
 Liên quan nhiều đến vi nấm ngoại sinh
 
@@ -56,7 +56,7 @@ Nhất là các vi nấm gây bệnh ngoài da, khi ăn hết chất dd trên da
 
 ## Nấm hạt men
 
-Sinh sản bằng cách nảy búp, tách ra thành 2 tế bào. 
+Sinh sản bằng cách nảy búp, tách ra thành 2 tế bào.
 
 Nếu phát triển mạnh thì nảy búp liên tục, gắn liên tục tạo thành sợi tơ nấm **giả** (oval nối oval tương tự như tràng hạt, có cái chỗ thắt, ngăn cắt giữa 2 TB  -> khác sợi dây của sợi tơ nấm thật)
 
@@ -80,13 +80,12 @@ Vi nấm ngoại hoại sinh (môi trường), nội hoại sinh (nội tạng),
 
 Dùng cách sinh sản để định tên vi nấm, chủ yếu là vô tính (hoặc có thể có cả 2)
 
-Một số vi nấm y học - ngoài da: 
+Một số vi nấm y học - ngoài da:
 
 - Malassezia
 - *Trichophyton indotineae*
 
-
-Một số vi nấm y học - nội tạng: 
+Một số vi nấm y học - nội tạng:
 
 - Malassezia
 - *Penicillium*: tạo KS
@@ -96,8 +95,7 @@ Một số vi nấm y học - nội tạng:
 
 SDA: peptone, dextrose, agar (carbohydrates) - môi trường cơ bản, cần nhiều dinh dưỡng hơn là BHI
 
-
-BACTEC: môi trường vi khuẩn, 
+BACTEC: môi trường vi khuẩn,
 
 Cấy ở đâu cũng mọc, nhưng ở SDA mới nhìn rõ, nhận diện được
 
@@ -105,7 +103,7 @@ CHROAgar: lên màu khác nhau giữa cái vi nấm - Candida
 
 Czapeck dox agar: lên màu giữa các aposolis
 
-## LS:
+## LS
 
 Dấu màng não: duỗi thẳng chân không được
 

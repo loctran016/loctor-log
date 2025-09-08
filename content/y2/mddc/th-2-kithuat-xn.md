@@ -160,5 +160,6 @@ Các bước:
 TÓM TẮT
 
 1. Các thí nghiệm ELISA, Western Blot, Hoá tế bào/mô miễn dịch đều có nguyên lý dựa trên phản ứng kháng nguyên kháng thể
-2. Phương pháp ELISA thường sử dụng là Indirect ELISA (để phát hiện KT) và sandwich ELISA (để phát hiện KN) 3. Western Blot có thể được sử dụng để khảo sát 1 loại protein mong muốn hoặc để phát hiện KT đặc hiệu của 1 KN nào đó
+2. Phương pháp ELISA thường sử dụng là Indirect ELISA (để phát hiện KT) và sandwich ELISA (để phát hiện KN)
+3. Western Blot có thể được sử dụng để khảo sát 1 loại protein mong muốn hoặc để phát hiện KT đặc hiệu của 1 KN nào đó
 4. Hoá tế bào/mô miễn dịch trên lâm sàng thường sử dụng để khảo sát một loại protein nào đó hoặc sự lăng đọng của các KT miễn dịch

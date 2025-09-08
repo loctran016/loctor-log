@@ -24,6 +24,7 @@ Lao phổi là thường gặp nhất (do VK lao hiếu khí), ngoài ra ẩn n�
 Chia làm 2 loại: nguyên phát & thứ phát
 
 Triệu chứng:
+
 - Lao phổi: ho đàm, *ho ra máu*, tức ngực, khó thở
 - Lao hạch: hạc to lên
 - Lao TK: vấn đề tri giác
@@ -34,7 +35,7 @@ Tạo hang lao đỉnh phổi phải: VK lao hiếu khí tuyệt đối → tậ
 
 Phân loại: lao phổi mới, lao phổi, lao ngoài phổi…
 
-ĐTB có vai trò quan trọng trong đáp ứng lao, không có đáp ứng hoà màng với lysosome -> lôi kéo lympho… kéo tới -> khu trú trong u hạt. Khi không còn khu trú được thì con lao bùng lên 
+ĐTB có vai trò quan trọng trong đáp ứng lao, không có đáp ứng hoà màng với lysosome -> lôi kéo lympho… kéo tới -> khu trú trong u hạt. Khi không còn khu trú được thì con lao bùng lên
 , trận chiến bự ra từ u hạt -> u nang (hoại tử bã đậu)
 
 ## Giải thích KQ XN
@@ -47,9 +48,9 @@ Do VK lao (*Mycobacterium tuberculosis*) có **vách lipid dày** (mycolic acid)
 
 - Khó bắt màu với thuốc nhuộm Gram thông thường (không thấm nước & lipid để thuốc nhuộm bắt màu với peptidoglycan của lao)
 - Phải nhuộm bằng phương pháp Ziehl-Neelsen:
-	- Thuốc nhuộm Carbol Fuchsin (phenol hơ nóng), tạo phức với acid mycolic, **bắt màu đỏ**
-	- Khi tẩy bằng acid-acolhol 3%, Mtb *không bị tẩy màu* (do đã tạo phức với Fuchsin) -> có tính kháng **cồn - acid**
-	- Nhuộm nền xanh methylen: nền xanh, nổi mấy *con đỏ*
+  - Thuốc nhuộm Carbol Fuchsin (phenol hơ nóng), tạo phức với acid mycolic, **bắt màu đỏ**
+  - Khi tẩy bằng acid-acolhol 3%, Mtb *không bị tẩy màu* (do đã tạo phức với Fuchsin) -> có tính kháng **cồn - acid**
+  - Nhuộm nền xanh methylen: nền xanh, nổi mấy *con đỏ*
 
 ## 2. Tại sao BN đã chủng ngừa lao vẫn bị mắc bệnh
 
@@ -73,7 +74,6 @@ Tại sao BN đã tiêm ngừa vẫn bệnh:
 ## 3. Trên cơ sở miễn dịch học giải thích các triệu chứng của bệnh nhân
 
 Quan trọng: IL-1, IL-6, **TFN-alpha**
-
 
 ### Ho có đờm
 

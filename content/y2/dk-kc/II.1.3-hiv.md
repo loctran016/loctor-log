@@ -7,6 +7,7 @@ tags: ['Virus']
 ## Nguồn gốc
 
 Zoonosis: bệnh vốn truyền từ động vật sang người từ con SIV (gây bệnh ở chimpanzee)
+
 - trực hệ của HIV-1
 
 ## Cấu trúc và thành phần HIV
@@ -17,24 +18,25 @@ Nhân có 2 chuỗi RNA (nên có khả năng tái tổ hợp -> nhiễm 2 con k
 
 - GAG
 - POL:
-	- Reverse Transcriptase: từ 2 sợi đơn RNA -> DNA mà không có proof-reading (sửa lỗi) -> Biến đổi điên cuồng
-	- Integrase
-	- Protease
+  - Reverse Transcriptase: từ 2 sợi đơn RNA -> DNA mà không có proof-reading (sửa lỗi) -> Biến đổi điên cuồng
+  - Integrase
+  - Protease
 - ENV
 - Các gen điều hoà
 
 Capsid có các KN quan trọng:
+
 - P17
 - P24: dấu ấn huyết thanh quan trọng trong chẩn đoán bệnh và theo dõi diễn tiến điều trị
 
 Màng bọc có KN đặc hiệu týp:
+
 - GP120: tìm + gắn lên thụ thể CD4 -> lympho T (tấn công vô đầu não MD) & một ít TB não -> đếm CD4 + tổn thương TK. 1 con người có CD4 đột biến lạ, MD hoàn toàn HIV
 - GP41: xuyên màng -> sau khi gp120 bám vào và bộc lộ gp41 giúp hoà màng
 
 Màng lipid của HIV là chôm từ màng của lympho T
 
-p24: đặc trưng của con HIV, chỉ cần 1 tuần là quá trời, thay thế test nhanh ít nhất 3 tháng (KT trong máu) từ lúc bị lây 
-
+p24: đặc trưng của con HIV, chỉ cần 1 tuần là quá trời, thay thế test nhanh ít nhất 3 tháng (KT trong máu) từ lúc bị lây
 
 ## Cơ chế bệnh sinh của vi rút HIV
 

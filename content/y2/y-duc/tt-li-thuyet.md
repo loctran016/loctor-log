@@ -19,24 +19,27 @@ nhân. => Lời thề Hippocrates là quy ước đầu tiên về y đức, nó
 thầy thuốc.
 
 2 giá trị cốt lõi:
+
 - Cam kết duy trì những chuẩn mực cao về ứng xử phù hợp
 - Cam kết thực hành tốt.
 
 Quy ước quốc tế về Y đức: trách nhiệm của thầy thuốc, trách nhiệm với bệnh nhân,
 trách nhiệm với đồng nghiệp.
+
 - Tuyên ngôn Geneva (2006)
 
-
-## Bài 2: Y đức trong thực hành lâm sàng – tính chuyên nghiệp trong y khoa:
+## Bài 2: Y đức trong thực hành lâm sàng – tính chuyên nghiệp trong y khoa
 
 Hội y học thế giới: "Đạo đức nghề y là 1 nhánh của đạo đức đề cập đến vấn đề đạo
 đức trong thực hành y học". Thể hiện qua các nguyên lý cơ bản:
+
 - Tôn trọng quyền tự quyết của người bệnh
 - Lòng nhân ái
 - Không làm việc có hại
 - Công bằng
- 
+
 Hiến chương dành cho nhân viên y tế:
+
 - Đặt sức khỏe BN lên hàng đầu.
 - Tôn trọng quyền tự quyết của BN.
 - Đảm bảo công bằng xã hội.
@@ -44,6 +47,7 @@ Hiến chương dành cho nhân viên y tế:
 ## Bài 3: 4 nguyên tắc của y đức phương Tây
 
 Tôn trọng quyền tự chủ:
+
 - Quyền lợi tốt nhất của BN.
 - Bảo mật thông tin.
 - Cung cấp đủ thông tin cho BN.
@@ -53,6 +57,7 @@ Tôn trọng quyền tự chủ:
 - Tôn trọng quyền BN, quyền từ chối điều trị.
 
 Không gây hại/không ác ý:
+
 - Tăng tối đa lợi ích, giảm thấp nhất tác hại.
 - Không làm hại đến cuộc sống, sức khỏe, giá trị cá nhân, nhân phẩm.
 - Lựa chọn phương pháp ít gây tổn thất nhất, hạn chế tác hại mức tối đa.
@@ -94,9 +99,10 @@ giúp đỡ dìu dắt người yếu kém hơn mình.
 ## Bài 5: Quan hệ thầy thuốc – bệnh nhân
 
 Quan hệ thầy thuốc – bệnh nhân (QHTT-BN) là nền tảng của hành nghề y và y đức.
+
 - Lòng trắc ẩn là giá trị chính, quan trọng nhất trong QHTT-BN.
 - Sự tin cậy là yếu tố cơ bản cho mối QHTT-BN.
- 
+
 Tuyên ngôn Geneva yêu cầu thầy thuốc: "Phải xem sức khỏe của bệnh nhân là mối quan tâm hàng đầu".
 
 Công ước quốc tế về y đức: "Người thầy thuốc phải tuyệt đối trung thành với BN và phải cống hiến cho BN tất cả nguồn lực khoa học của mình".
@@ -123,15 +129,15 @@ Kết thúc mối quan hệ thầy thuốc - bệnh nhân:
 - Nếu vấn đề bệnh lý của BN nằm ngoài khả năng của thầy thuốc: tham vấn, giới thiệu thầy
 thuốc khác.
 - Những lý do cho phép thầy thuốc muốn kết thúc mối quan hệ với BN
-    -  đổi chỗ hoặc ngưng hành nghề
-    -  BN từ chối do không đủ tiền chi trả cho các dịch vụ
-    -  BN và thầy thuốc không thích nhau, không đồng ý kiến
-    -  BN không tuân thủ điều trị
+  - đổi chỗ hoặc ngưng hành nghề
+  - BN từ chối do không đủ tiền chi trả cho các dịch vụ
+  - BN và thầy thuốc không thích nhau, không đồng ý kiến
+  - BN không tuân thủ điều trị
 - Lý do đôi khi có thể chính đáng, nhưng vẫn vi phạm y đức => Phải tham khảo luật về y đức, nếu chính đáng, phải giúp BN tìm thầy thuốc khác thích hợp hơn.
 - Nếu BN có những lời nói, hành vi thô bạo với thầy thuốc, thì họ có được tôn trọng và bình đẳng trong điều trị không?
-    - Cân nhắc giữa bổn phận và sự an toàn của bản thân và đồng nghiệp với quyền lợi
+  - Cân nhắc giữa bổn phận và sự an toàn của bản thân và đồng nghiệp với quyền lợi
 của BN.
-    - Tìm giải pháp ổn thỏa cho cả hai.
+  - Tìm giải pháp ổn thỏa cho cả hai.
 Hấp dẫn giới tính và quan hệ gia đình trong QHTT – BN:
 - Cấm quan hệ tình dục.
 - Trong luật một số nước thầy thuốc không được chữa bệnh cho thành viên trong gia đình
@@ -145,6 +151,7 @@ Xung đột về quyền lợi giữa TT – BN:
 
 Bảo mật là đảm bảo rằng chỉ có những người có quyền tiếp cận thông tin mới có thể
 truy cập được thông tin. Bảo mật còn bao gồm việc bảo đảm sự sẵn có và tính toàn vẹn của thông tin. Cần biết điều tối thiểu là chỉ nên cung cấp thông tin cho những người cần nó để thực hiện nhiệm vụ đã được phân công.
+
 - Là một nguyên tắc đạo đức căn bản trong chăm sóc sức khoẻ.
 - Mặc dù duy trì sự tôn trọng thông tin cá nhân có thể là điểm xuất phát, nhưng sự cân bằng về lợi ích và tác hại của việc tiết lộ / không tiết lộ sẽ dẫn đến việc xem xét các hậu quả của hành động.
 - Hướng dẫn về Bảo mật chấp thuận cho công bố thông tin bảo mật dù không được sự chấp

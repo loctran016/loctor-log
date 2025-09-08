@@ -68,9 +68,9 @@ LD<sub>50</sub> = số lượng vi sinh vật cần thiết để tiêu diệt
 ID<sub>50</sub> = số lượng vi sinh vật cần thiết để gây bệnh cảnh nhiễm khuẩn trên phân nửa ký chủ.
 
 - Liều gây nhiễm thay đổi:
-    - Shigella và Salmonella gây nhiễm khuẩn đường tiêu hóa (tiêu chảy)
-    - Shigella ít hơn 100
-    - Salmonella cần hơn 100,000
+  - Shigella và Salmonella gây nhiễm khuẩn đường tiêu hóa (tiêu chảy)
+  - Shigella ít hơn 100
+  - Salmonella cần hơn 100,000
 
 con người mắc một bệnh lý nhiễm khuẩn vì vi sinh vật vượt trội hơn so với sức đề kháng nhờ:
 
@@ -84,17 +84,6 @@ con người mắc một bệnh lý nhiễm khuẩn vì vi sinh vật vư�
 3. Bám dính vào màng niêm mạc, thường dùng pili
 4. Tăng sinh và chiếm cư tại vị trí bám dính
 5. Gây triệu chứng nhiễm khuẩn: tiết độc tố hoặc xâm lấn đi kèm phản ứng viêm
-6. Các phản ứng của ký chủ, bao gồm cả miễn dịch đặc hiệu và không đặc hiệu trong các bước 3, 4, 5
-7. Bệnh tiến triển nặng hoặc khỏi
-
-### Các giai đoạn của một tiến trình nhiễm khuẩn
-
-1. Vi sinh vật lây truyền từ nguồn bên ngoài  đến ngõ vào của ký chủ
-2. Xâm lấn hàng rào đề kháng nguyên thủy như da hoặc dịch dạ dày
-3. Bám dính vào màng niêm mạc, thường dùng pili
-4. Tăng sinh và chiếm cư tại vị trí bám dính
-5. Gây triệu chứng nhiẽm khuẩn: tiết độc tố hoặc xâm
-lấn đi kèm phản ứng viêm
 6. Các phản ứng của ký chủ, bao gồm cả miễn dịch đặc hiệu và không đặc hiệu trong các bước 3, 4, 5
 7. Bệnh tiến triển nặng hoặc khỏi
 
