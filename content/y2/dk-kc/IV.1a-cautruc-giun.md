@@ -1,10 +1,12 @@
 ---
-title: Bài IV.1a - Đặc điểm chung của giun
+title: Bài IV.1a - Đặc điểm chung của giun & Bệnh ĐV kí sinh
 date: 2025-09-10
 tags: ['KST']
 ---
 
-## Đặc điểm sinh học
+## Giun
+
+### Đặc điểm cơ bản
 
 Giun có thể sống tự do hoặc kí sinh tuỳ theo từng loài
 
@@ -62,7 +64,7 @@ Sinh trưởng & phát triển:
 
 #### g.Kim (*==Enterobius vermicularis==*)
 
-## Đặc điểm dịch tễ
+### Đặc điểm dịch tễ
 
 Số người nhiễm
 
@@ -71,7 +73,7 @@ Nguyên nhân lây nhiễm:
 - Thói quen ăn uống
 - Vệ sinh cá nhân & môi trường
 
-## Xét nghiệm & chẩn đoán
+### Xét nghiệm & chẩn đoán
 
 Chẩn đoán phụ thuộc vào nơi giun ký sinh:
 
@@ -79,9 +81,9 @@ Chẩn đoán phụ thuộc vào nơi giun ký sinh:
 - Mô, ruột: Lâm sàng, dịch tễ, *sinh thiết cơ, kỹ thuật MD, BCAT*
 - Hệ bạch huyết: Lâm sàng, dịch tễ, *xn máu ngoại biên, kỹ thuật MD*
 
-### Lâm sàng
+#### Lâm sàng
 
-### Cận LS
+#### Cận LS
 
 Xét nghiệm phân: tìm trứng, AT trong phân
 
@@ -93,4 +95,38 @@ Xét nghiệm máu:
 - KT miễn dịch
 - KT máu ngoại biên
 
-## Biện pháp phòng chống giun
+### Biện pháp phòng chống giun
+
+1. Hóa liệu pháp: điều trị cộng đồng để giải quyết nguồn bệnh.
+2. Cải thiện vệ sinh môi trường: giải quyết đường lây nhiễm.
+3. Giáo dục sức khỏe trong cộng đồng
+4. Sự tham gia của cộng đồng: phòng chống giun
+5. Giám sát và đánh giá hoạt động phòng chống giun
+
+## Bệnh ĐV
+
+### Định nghĩa & phân loại
+
+BĐV kí sinh là bệnh mà KST qua lại *tự nhiên* giữa ĐV có xương sống <-> người:
+
+- BĐV bắt buộc: truyền từ ĐV có xương sống <-> người
+- BĐV tuỳ nghi: thú <-> thú (nhưng có thể nhảy qua người) và người <-> người
+
+Phân loại chi tiết hơn:
+
+- BĐV giả sống tự do **ngoài môi trường**, người và thú là kí chủ tuỳ nghi
+- BĐV thật khi nguồn bệnh là KST **bắt buộc** truyền qua lại giữa ĐV có xương sống <-> người:
+  - Bệnh ĐV hoàn chỉnh: ĐV có xương sống <-> người
+  - Bệnh ĐV chưa hoàn chỉnh: ĐV có xương sống <-> người *nhưng trứng có sức sống kém*
+  - Bệnh ĐV một chiều: thú -> người (ngõ cụt ký sinh)
+
+BĐV gặp ở những ngời tiếp xúc với thú vật nhiều (nông nghiệp, nuôi thú cưng, lò mổ và phòng lab), ảnh hưởng đến:
+
+- Phát triển kinh tế *về quê*
+- Đô thị hoá *mang mầm bệnh lên TP*
+- Du lịch *dễ tiếp xúc mầm bệnh*
+- Suy giảm MD tạo cơ hội cho *thể bệnh tiềm ẩn* bùng phát
+
+### AT di chuyển - Larva migrans ở người
+
+AT của KST sống ở thú, theo thức ăn/da người -> định vị & sống tạm ở các mô mà *không trưởng thành* nhưng **gây bệnh**
