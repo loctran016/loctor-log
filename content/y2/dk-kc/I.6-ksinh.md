@@ -126,7 +126,6 @@ Lưu ý: còn cách thứ 3 là tăng Cmax nhưng tăng rất cao nguy cơ gây 
 
 ![Các phương thức tăng T>MIC](/y2/dk-kc/i.6-pk-pd-ptich.jpeg)
 
-
 ==Điểm gãy pK/pD==: MIC được xác định sẵn = const (nồng độ hữu dụng của KS) → Xác định VK nhạy hay kháng KS dựa trên liều chuẩn này
 
 ### KS phụ thuộc nồng độ
