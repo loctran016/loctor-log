@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
   pull_request:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+# permissions:
+#   contents: read
+#   pages: write
+#   id-token: write
 
 concurrency:
   group: "pages"
@@ -68,6 +68,8 @@ jobs:
             run: bun install
           - name: Lint
             run: bun run lint-ci
+          - name: Spellcheck
+            run: bun run spellcheck
 
   spellcheck:
       name: Spellcheck
@@ -75,10 +77,11 @@ jobs:
       steps:
           - name: Checkout Repository
             uses: actions/checkout@v4
-          - uses: oven-sh/setup-bun@v2
-            with:
-                bun-version: latest
-          - name: Install
-            run: bun install
           - name: Spellcheck
-            run: bun run spellcheck
+            uses: tbroadley/spellchecker-cli-action@v1
+            with:
+              files: "content/**/*.md"
+              language: "vi"
+              dictionaries: "dictionary/vi.txt dictionary/medical.txt"
+              ignore: "=[a-z]=* ==*"
+          - uses: austenstone/spellchecker-cli-action-summary@v1.0

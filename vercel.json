@@ -1,5 +1,5 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "pnpm install --no-lockfile --no-frozen-lockfile",
-  "buildCommand": "pnpm dlx nuxi cleanup && pnpm run build"
+  "buildCommand": "pnpm run build"
 }
