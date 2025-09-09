@@ -36,7 +36,7 @@ hooks: {
       const { file } = ctx;
 
       if (file.id.endsWith(".md")) {
-        file.body = file.body.replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β").replace(/gamma/gi,'γ').replace(/>=/gi,'≥').replace(/=>/gi,'⇒')
+        file.body = file.body.replace(/<!--[\s\S]*?-->/g,'').replace(/->/gi, "→").replace(/alpha/gi, "α").replace(/beta/gi, "β").replace(/gamma/gi,'γ').replace(/>=/gi,'≥').replace(/=>/gi,'⇒')
       }
     },},
 
