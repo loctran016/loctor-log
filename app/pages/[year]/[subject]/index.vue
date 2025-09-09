@@ -95,14 +95,14 @@ useSeoMeta({
     <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-6 lg:mt-10 items-center gap-3">
         <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2 max-w-8/10"> {{ headline }}</h2>
-        <ul class="flex lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
+        <ul class="flex flex-wrap lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
             <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) ? 'underline text-teal-600 dark:text-teal-300 bg-teal-200/40 hover:bg-teal-200/70' : 'bg-slate-200/20 hover:bg-slate-200/50 hover:text-slate-900 dark:hover:text-slate-50 hover:underline'" @click="() => toggleTags(tag)" class="text-slate-700  dark:text-slate-200 underline-offset-4 rounded-3xl  dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
         </ul>
         <Icon name="material-symbols-light:collections-bookmark-outline-rounded" class="text-xl lg:text-2xl max-lg:col-start-1 max-lg:row-start-2" v-if="uniqueTags.size > 1"/>
     </section>
 
     <!-- Main list of posts -->
-    <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start w-4/5 mx-auto mt-2 mb-10">
+    <TransitionGroup name="list" tag="ul" class="grid grid-cols-[repeat(auto-fit,minmax(24rem,1fr))] gap-4 justify-center lg:justify-start max-w-[90vw] w-4/5 mx-auto mt-2 mb-10">
       <li v-for="(post,index) in queryPostsByTags" :data-index="index" :key="index" :class="isNotDefaultTagsOnly && 'h-[7rem]'" class="group" >
           <NuxtLink :to="post.path" class="px-4 flex flex-col gap-2 h-full rounded pb-2 bg-gray-100 dark:bg-neutral-900 dark:hover:bg-neutral-800 hover:bg-slate-200 transition-all duration-200 cursor-pointer py-3 relative">
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider max-w-[90%]">
