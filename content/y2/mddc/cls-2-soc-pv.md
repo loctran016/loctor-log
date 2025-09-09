@@ -51,7 +51,7 @@ Phân loại Quá mẫn type I làm 4 mức:
 
 Ảnh hưởng của các hoá chất trung gian trung gian:
 
-- Hoá chất do TB Mast/Basonophil tiết ra
+- Hoá chất do TB Mast/Basophil tiết ra
 - Dẫn xuất của acid arachidonic
 - Cytokine
 => Gây dãn cơ trơn ngoại biên (dãn mạch), tăng tính thấm thành mạch, **co thắt cơ trơn đường hô hấp**
@@ -72,16 +72,16 @@ Trường hợp phản vệ không thông qua trung gian IgE
 
 1. Sử dụng NSAIDs, thuốc cản quang
 2. Quá mẫn type III với KT không phải IgE
-3. IgG quas nhiều, gây kháng IgE
+3. IgG quá nhiều, gây kháng IgE
 4. Mề đay tự miễn
 
 Tụt HA: mất dịch nhiều vì mất dịch vào trong dịch kẽ và gây phù
 
-Tăng nhịp tim: bù trừ (do HA và nồng độ O2)
+Tăng nhịp tim: bù trừ (do HA và nồng độ O<sup>2</sup>)
 
 Có triệu chứng liệt cơ vòng ngoài: tiêu tiểu không tự chủ
 
-Leukotrines
+Leukotrienes
 
 ### Thụ thể Histamine
 
@@ -92,14 +92,14 @@ Thụ thế Histamine
     - Co cơ tron phế quản
     - Tăng sản xuất NO => dãn mạch
     - Kích thích Th2 phóng cytokines
-    - Sản xuất phospholipiase A2 → arachidonic acid
+    - Sản xuất phospholipase A2 → arachidonic acid
 
 2. H2:
     - Dãn cơ tron mạch máu
     - Tăng tiết dịch vị!
 
 3. H3: Điều hoà chu kì giấc ngủ
-4. H4: Tủy xương và các tb máu => hoạt hóa và hóa hướng động tb viêr
+4. H4: Tủy xương và các tb máu => hoạt hóa và hóa hướng động tb viêm
 NOTE: Thuốc kháng histamine H1 → điều trị dị ứng
 H2 → điều trị viêm dạ dày
 

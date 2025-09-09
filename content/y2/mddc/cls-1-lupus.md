@@ -70,7 +70,7 @@ khác
 
 ANA (Antinuclear antibodies): ==KT kháng nhân==, nhạy cao (bắt lầm hơn bị sót) nhắm vào thành phần bình thường trong nhân TB (histone, protein & dsDNA) - không đặc hiệu do các DNA từ TB vỡ ra (bth) và hệ MD đến dọn dẹp nhưng hông hết nên bị trình diện tự KT => Sàng lọc (không có ANA loại)
 
-anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatine (đặc hiệu cực cao với lupus, nhất là có thận)
+anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatin (đặc hiệu cực cao với lupus, nhất là có thận)
 
 anti-Sm là tự kháng thể gắn kết với ribonucleoprotein được tìm thấy trong nhân
 tế bào. Độ đặc hiệu cao hơn 99%, nhưng anti-dsDNA nhạy hơn. (có → chắc chắn có, không có thì không)
@@ -103,7 +103,7 @@ Các tự kháng thể có thể gắn với kháng nguyên để tạo phức h
 - Tổn thương da: tia UV → apoptosis và giải phóng KN nhân.
 - Tổn thương khớp:
 - Tổn thương thận: lắng đọng KT, phức hợp MD ở cầu thận lâu dài dẫn tới suy thận.
-- Thiếu máu: xuất hiện tự KT HC → trầm trọng gây khó thở, suy tim.
+- Thiếu máu: xuất hiện tự KT hồng cầu→ trầm trọng gây khó thở, suy tim.
 - Giảm BC máu: xuất hiện tự KT BC.
 - Giảm TC máu → trầm trọng gây xuất huyết dưới da.
 
@@ -125,6 +125,6 @@ Bất thường bổ thể C1, C2, C4 → ảnh hưởng opsonin hóa TB apoptot
 
 Bất thường gen MHC, gen integrin.
 
-APC bắt giữ protein nhân (histone, dsDNA, sm, RO/SS-A), TBC (RO), màng (Cardiolipin, TC) → trình diện và hoạt hóa Th ở hạch gần đó. IL-4 tiết ra giúp biệt hóa theo hướng Th2 → MDDT → hoạt hóa B thành tương bào tạo tự KT, phần lớn tấn công ANA. Tự KT cũng tạo thành phức hợp MD khi gặp KN. Phức hợp MD gắn lên thụ thể Fc ở TBMD kích thích sx tiết cytokine gây viêm, tự KT gắn trực tiếp KN trên bề mặt KN cũng hoạt hóa bổ thể và kích thích TB sx cytokine. Các TB MD gần đó cũng mẫn cảm với tự KN nên khi gắn với KN thông qua TLR thì cũng tiết cytokine gây viêm (IFN, TNF-α) → gây viêm.
+APC bắt giữ protein nhân (histone, dsDNA, sm, RO/SS-A), TBC (RO), màng (Cardiolipin, TC) → trình diện và hoạt hóa Th ở hạch gần đó. IL-4 tiết ra giúp biệt hóa theo hướng Th2 → MDDT → hoạt hóa B thành tương bào tạo tự KT, phần lớn tấn công ANA. Tự KT cũng tạo thành phức hợp MD khi gặp KN. Phức hợp MD gắn lên thụ thể Fc ở tế bào MD kích thích sx tiết cytokine gây viêm, tự KT gắn trực tiếp KN trên bề mặt KN cũng hoạt hóa bổ thể và kích thích TB sx cytokine. Các TB MD gần đó cũng mẫn cảm với tự KN nên khi gắn với KN thông qua TLR thì cũng tiết cytokine gây viêm (IFN, TNF-α) → gây viêm.
 
 Cơ thể có thể hồi phục khi viêm được kìm hãm, khi có sự tiếp xúc với tự KN lại lần nữa (do apoptosis khi tiếp xúc UV, nhiễm trùng, stress, phẫu thuật, có thai). Người SLE có sẵn nguyên tương bào sản xuất tự KT, TB T nhiều hơn người bình thường khi cần tạo tự KT.

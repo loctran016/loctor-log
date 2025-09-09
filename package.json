@@ -19,8 +19,8 @@
     "lint-ci:win32": "(echo Linting... && markdownlint -c .markdownlint.json -p .markdownlintignore content/**/*.md && echo Lint passed.) || ((echo Lint failed, attempting fix... && markdownlint -c .markdownlint.json -p .markdownlintignore content/**/*.md -f && echo Fix generated successfully. Please apply the following diff using git apply && git diff) || echo Fix failed! && exit 1)",
     "sort-dict": "node ./scripts/sortDict.js",
     "spellcheck": "run-script-os",
-    "spellcheck:default": "(spellchecker --plugins spell repeated-words syntax-urls --dictionaries dictionary/vi.txt dictionary/vi_upper.txt dictionary/vi_sentence.txt dictionary/medical.txt --files 'content/**/*.md'  && echo Spellcheck passed.) || (echo Spellcheck failed! Please review and fix errors/add words to dictionary as needed. && exit 1)",
-    "spellcheck:win32": "(spellchecker --plugins spell repeated-words syntax-urls --dictionaries dictionary/vi.txt dictionary/medical.txt dictionary/vi_upper.txt dictionary/vi_sentence.txt --files content/**/*.md  && echo Spellcheck passed.) || (echo Spellcheck failed! Please review and fix errors/add words to dictionary as needed. && exit 1)",
+    "spellcheck:default": "(spellchecker --plugins spell repeated-words syntax-urls --dictionaries dictionary/vi.txt dictionary/medical.txt --files 'content/**/*.md'  && echo Spellcheck passed.) || (echo Spellcheck failed! Please review and fix errors/add words to dictionary as needed. && exit 1)",
+    "spellcheck:win32": "(spellchecker --plugins spell repeated-words syntax-urls --dictionaries dictionary/vi.txt dictionary/medical.txt --files content/**/*.md  && echo Spellcheck passed.) || (echo Spellcheck failed! Please review and fix errors/add words to dictionary as needed. && exit 1)",
     "test": "run-script-os",
     "test:default": "npm run lint --silent; npm run spellcheck --silent",
     "test:win32": "npm run lint --silent & npm run spellcheck --silent"
