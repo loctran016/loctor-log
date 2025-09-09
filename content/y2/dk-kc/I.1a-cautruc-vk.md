@@ -66,7 +66,7 @@ Xếp thành chuỗi
 
 Nuôi cấy khó:
 
-- Hiếu khí, kỵ khí tùy nhiệm
+- Hiếu khí, kỵ khí tuỳ nhiệm
 - **Phải có CO<sub>2</sub>**
 - 37ºC, nhóm D (enterococci) (15-45ºC)
 - Canh cấy lỏng: chuỗi
@@ -114,7 +114,7 @@ Lứa cấy gia
 
 Nuôi cấy khó:
 
-- Kỵ khí tùy nghi
+- Kỵ khí tuỳ nghi
 - **10% CO<sub>2</sub>**
 - 37ºC
 - 2 dạng khuẩn lạc: S, R
@@ -221,7 +221,7 @@ Phòng ngừa:
 Vi khuẩn đường ruột là trực khuẩn Gram âm:
 
 - Di động (có hoặc không có)
-- Hiếu khí hoặc kỵ khí tùy nghi
+- Hiếu khí hoặc kỵ khí tuỳ nghi
 - Lên men glucose, sinh hơi (có hoặc không có)
 - Khử nitrate thành nitrite
 - Mọc được trên các môi trường nuôi cấy thông thường
@@ -266,7 +266,7 @@ LPS bao gồm:
 - Mất hoạt tính bởi formol 5%
 - Rất độc: gây ra các phản ứng giảm bạch cầu, sốt
 và nhiễm độc ở người và động vật
-- Có kháng thể kháng kháng nguyên O.
+- Có kháng thể kháng KN O.
 
 Hiện tượng “ngưng kết O”: vi khuẩn ngưng kết với nhau dưới dạng những hạt nhỏ, lắc khó tan
 
@@ -278,14 +278,14 @@ Hiện tượng “ngưng kết O”: vi khuẩn ngưng kết với nhau dưới
 - Bị hủy bởi alcohol 50%
 - Bị hủy bởi proteinase
 - Không bị hủy bởi formol 5%
-- Kháng thể kháng kháng nguyên H: IgG
+- Kháng thể kháng KN H: IgG
 
 Hiện tượng “ngưng kết H”: dạng những hạt to
 hơn, lắc dễ tan hơn (ngược lại với O); vi khuẩn mất khả năng di động
 
 ### Kháng nguyên K (kháng nguyên nang)
 
-Chỉ có ở vi khuẩn đường ruột có nang, bản chất là polysaccharide hoặc protein (tùy theo loài)
+Chỉ có ở vi khuẩn đường ruột có nang, bản chất là polysaccharide hoặc protein (tuỳ theo loài)
 
 Liên quan đến độc tính của vi khuẩn ở Sallmonella: kháng nguyên **V**i (**V**ilurence)
 
@@ -320,7 +320,7 @@ Bacteriocin
 
 ### Nuôi cấy
 
-Hiếu khí hoặc kỵ khí tùy nghi
+Hiếu khí hoặc kỵ khí tuỳ nghi
 
 Lên thành 3 dạng:
 

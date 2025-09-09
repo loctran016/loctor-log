@@ -18,7 +18,7 @@ Chức năng hoạt hoá
 
 Interferon:
 
-- IL-2: tăng sinh Lymp T
+- IL-2: tăng sinh Lympho T
 - IL-1: gây viêm, thu hút bạch cầu, tăng nhiệt cơ thể
 - IL-
 -

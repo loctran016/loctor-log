@@ -8,7 +8,7 @@ tags: ['Virus']
 
 Virus là loại vi sinh vật (VSV) sống nội bào bắt buộc, vì chúng phải sử dụng bộ máy tổng hợp nucleic acid và protein của tế bào ký chủ để nhân lên.
 
-Khi ở ngoài tế bào và ở trong cơ thể ký chủ, virus có thể bị trung hòa bởi kháng thể, bị thực bào, hoặc bị tấn công bởi bổ thể
+Khi ở ngoài tế bào và ở trong cơ thể ký chủ, virus có thể bị trung hoà bởi kháng thể, bị thực bào, hoặc bị tấn công bởi bổ thể
 
 Virus xâm nhiễm vào tế bào ký chủ bằng cách gắn lên các thụ thể của chúng:
 

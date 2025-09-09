@@ -68,7 +68,7 @@ Có 3 loại kháng nguyên:
 
 Tế bào T không thể trực tiếp nhận diện kháng nguyên, vì vậy cần có tế bào APC:
 
-![Cách Lymp T nhận diện KN](/y2/mddc/6-nhandien-kn.png)
+![Cách Lympho T nhận diện KN](/y2/mddc/6-nhandien-kn.png)
 
 Tế bào APC là các tế bào có chức năng bắt giữ vi sinh vật và các kháng nguyên (nội - ngoại), xử lí, và trình diện KN với Lymphocyte T để kích thích, tăng sản, biệt hoá tế bào lympho:
 
@@ -98,14 +98,14 @@ Khi bắt gặp các VSV: APCs sẽ tiết ra các cytokinin như TNF hay interl
 
 ## Nhóm phù hợp mô MHC lớp 1 và MHC lớp 2
 
-Các peptide KN sau khi được APCs xử lí sẽ được gắn lên trên các MHC trên màng, qua đó trình diện cho Lymp T
+Các peptide KN sau khi được APCs xử lí sẽ được gắn lên trên các MHC trên màng, qua đó trình diện cho Lympho T
 
 ![Mô hình một thụ thể của tế bào T dành cho kháng nguyên nhận diện phức hợp peptide được trình diện bởi MHC text](/y2/mddc/6-apcs-kn-t.png)
 
 Đặc tính quan trọng của MHC:
 
 - Phức hợp gene MHC có vai trò quan trọng trong quá trình cấy ghép mô: locus MHC giống nhau thì dung nạp, không thì thải loại.
-- MHC trình diện các KN cho **Lymp T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác → ghép cùng loài vẫn có nguy cơ thải loại
+- MHC trình diện các KN cho **Lympho T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác → ghép cùng loài vẫn có nguy cơ thải loại
 - Ở người, MHC được gọi là **HLA** (KN bạch cầu của người), là các cụm gen trên *NST số 6*
 - Locus MHC có hai nhóm gene rất **đa kiểu hình** là các gene MHC lớp I và lớp II, lần lượt mã hoá cho MHC lớp I và lớp II
 
@@ -117,7 +117,7 @@ Cấu trúc của MHC II: do có 2 chân →  có đối xứng → chỉ có α
 
 ![Trình diện KN nội sinh - lớp I và ngoại sinh - lớp II](/y2/mddc/6-tdkn-noi-ngoai.png)
 
-![Trình diện KN - MHC I & II cho Lymp T](/y2/mddc/6-tdkn-t.png)
+![Trình diện KN - MHC I & II cho Lympho T](/y2/mddc/6-tdkn-t.png)
 
 ### Trình diện KN nội sinh MHC I với T gây độc
 

@@ -98,16 +98,16 @@ Thụ thế Histamine
     - Dãn cơ tron mạch máu
     - Tăng tiết dịch vị!
 
-3. H3: Điều hòa chu kì giấc ngủ
+3. H3: Điều hoà chu kì giấc ngủ
 4. H4: Tủy xương và các tb máu => hoạt hóa và hóa hướng động tb viêr
 NOTE: Thuốc kháng histamine H1 → điều trị dị ứng
 H2 → điều trị viêm dạ dày
 
 Thụ thể của adrenaline
 
-1. α1 adrenegic => gây co mạch
-2. β1 adrenegic => tăng nhịp tim, tăng sức co bóp của tim
-3. β2 adrenegic → dãn cơ tron đường hô hấp ngăn mast phóng hạt
+1. α1 adrenergic => gây co mạch
+2. β1 adrenergic => tăng nhịp tim, tăng sức co bóp của tim
+3. β2 adrenergic → dãn cơ tron đường hô hấp ngăn mast phóng hạt
 
 ## Chẩn đoán
 
@@ -119,12 +119,12 @@ Hướng dẫn chẩn đoán - Thông tư 51
 
 ## Điều trị
 
-Sử dụng thuốc andrenalin => co mạch và dãn cơ trơn đường hô hấp (điều trị ứ đọng dịch và khó thở)
+Sử dụng thuốc adrenaline => co mạch và dãn cơ trơn đường hô hấp (điều trị ứ đọng dịch và khó thở)
 
-Lập đường truyền tĩnh mạch ngay sau tiêm andrenalin: vì andrenalin co mạch sẽ không thấy mạch để tìm vein
+Lập đường truyền tĩnh mạch ngay sau tiêm adrenaline: vì adrenaline co mạch sẽ không thấy mạch để tìm vein
 
-Thuốc kháng Histamine ức chế H1 và H2 (10min là bùng nổ histamine, 30min là giảm)
+Thuốc kháng Histamine ức chế H1 và H2 (10 min là bùng nổ histamine, 30 min là giảm)
 
 tryp lên nóc khoảng tầm 1h rồi xuống dần đến 4h
 
-Shock PV kéo dài: ở lại trong khoa cấp cứu
+Shock phản vệ kéo dài: ở lại trong khoa cấp cứu

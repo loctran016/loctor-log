@@ -67,7 +67,7 @@ thể hình thành nếu đáp ứng Th1 với VSV gây hoạt hóa ĐTB nhưng 
 được các VSV bị thực bào. VSV bị khu trú lại trong các u hạt (granulomas), tại đây
 các lympho T và ĐTB tiếp tục sản xuất các cytokine và yếu tố tăng trưởng, làm
 khuếch đại phản ứng viêm của các TB miễn dich, và biến đổi mô tại đó (hình thành
-mô sợi). ĐTB chuyển dạng thành TB dạng biểu mô (epithelioid cell), hoặc hòa nhập
+mô sợi). ĐTB chuyển dạng thành TB dạng biểu mô (epithelioid cell), hoặc hoà nhập
 thành tế bào đa nhân khổng lồ (multinuclear giant cell)
 
 ![Viêm u hạt](/y2/mddc/11-viem-u-hat.jpeg)

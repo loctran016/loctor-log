@@ -26,7 +26,7 @@ Các bước cơ bản:
 
 - Antigen coating: KN đặc hiệu
 - Primary antibody: hỗn hợp chứa kháng thể muốn tìm (VD: serum)
-- Secondary antibody: kháng-kháng kháng thể muốn tìm. Kháng thể này
+- Secondary antibody: kháng-kháng KT muốn tìm. Kháng thể này
 thường gắn với 1 loại enzyme (VD: conjugated anti-IgG antibody)
 - Substrate: Cơ chất của enzyme à màu
 - Stop: dung dịch làm ngưng phản ứng enzyme - cơ chất
@@ -41,7 +41,7 @@ Các bước cơ bản:
 
 - Primary (capture) antibody coating: KT đặc hiệu với nguyên cần tìm
 - Antigen: hỗn hợp chứa kháng nguyên muốn tìm (VD: serum)
-- Secondary antibody: KT kháng kháng nguyên muốn tìm. KT này thường
+- Secondary antibody: KT kháng KN muốn tìm. KT này thường
 gắn với 1 loại enzyme (conjugated antibody)
 - Substrate: Cơ chất của enzyme à màu
 - Stop: dung dịch làm ngưng phản ứng enzyme - cơ chất
@@ -69,7 +69,7 @@ Dung dịch chuẩn (Standard): Sử dụng phương pháp pha loãng từ dung 
 
 ### Protocol mẫu
 
-1. Coating, Incubation overnight, at 4oC
+1. Coating, Incubation overnight, at 4<sup>o</sup>C
 2. Washing
 3. Blocking
 4. Sample loading, Incubation
@@ -112,7 +112,7 @@ Transfer membrane
 
 ### Các bước tiến hành
 
-1. Protein denaturation: đun nóng hỗn hợp protein ở 95oC trong
+1. Protein denaturation: đun nóng hỗn hợp protein ở 95<sup>o</sup>C trong
 buffer chứa SDS
 2. Electrophoresis: Điện di để phân tách các protein bằng SDSPAGE
 3. Transfer: Điện di để chuyển protein từ gel sang màng
@@ -152,7 +152,7 @@ Các bước:
 2. Fixation
 3. Blocking
 4. Primary Ab: Nhuộm với KT kháng protein mong muốn
-5. Secondary Ab: gắn với enzyme hoặc flourescent dye
+5. Secondary Ab: gắn với enzyme hoặc fluorescent dye
 6. Substrate (nếu cần)
 
 ## Tóm tắt
