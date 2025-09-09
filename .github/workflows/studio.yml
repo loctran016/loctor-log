@@ -68,5 +68,17 @@ jobs:
             run: bun install
           - name: Lint
             run: bun run lint-ci
+
+  spellcheck:
+      name: Spellcheck
+      runs-on: ubuntu-latest
+      steps:
+          - name: Checkout Repository
+            uses: actions/checkout@v4
+          - uses: oven-sh/setup-bun@v2
+            with:
+                bun-version: latest
+          - name: Install
+            run: bun install
           - name: Spellcheck
             run: bun run spellcheck
