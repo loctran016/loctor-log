@@ -10,7 +10,7 @@ Thuốc kháng vi sinh bao gồm các chất nguồn gốc *tự nhiên (antibio
 
 Thông thường, nói tới thuốc KS là nói về thuốc kháng vi khuẩn
 
-Tương tác giữa BN - Vi khuẩn và thuốc:
+![Tương tác giữa BN - Vi khuẩn và thuốc](/y2/dk-kc/i.6-ks-bn-vk.jpeg)
 
 ## Dược động
 
@@ -21,6 +21,8 @@ KS không hấp thu thông qua đường uống như vanco, aminoglycoside
 Thức ăn hay thuốc uống cũng ảnh hưởng đến quá trình hấp thu. VD: khi tetracyclin đi chung với các ion kim loại (Antacid,...) sẽ giảm khả năng hấp thu thuốc
 
 Chia làm 2 khóm: KS ưa nước và KS ưa lipid
+
+![KS ưa nước và KS ưa lipid](/y2/dk-kc/i.6-ks-ua-nuoc-lipid.jpeg)
 
 ### Ưa nước
 
@@ -75,9 +77,9 @@ Do môi trường nuôi cấy in vitro nên có nhiều hạn chế:
 
 Tác dụng hậu KS là tác dụng ức chế VK sau khi đã hết thuốc. Tác dụng này càng lớn thì càng giảm số lần dùng thuốc trong ngày
 
-Các thuốc ức chế tổng hợp DNA/protein thì thường có hậu KS dài (chui vô trong TB vi khuẩn)
+Các thuốc ức chế tổng hợp DNA/protein thì thường có hậu KS dài (chui vô trong TB vi khuẩn) -> β-lactam không có hậu KS
 
-β-lactam không có hậu KS
+![PAE - tác dụng hậu KS](/y2/dk-kc/i.6-hau-ks.jpeg)
 
 Tác dụng tăng cường hậu KS (PALE - postantibiotic leukocytes enhancement effect):
 
@@ -86,6 +88,8 @@ Tác dụng tăng cường hậu KS (PALE - postantibiotic leukocytes enhancemen
 - Điển hình là Aminoglycoside và flouroquinolone - liều dùng ít lần trong 1 ngày
 
 ## Phân loại dựa vào Cơ chế tác động & Kìm - Diệt
+
+![Các nhóm KS có tác dụng kìm khuẩn và diệt khuẩn](/y2/dk-kc/i.6-ks-kiem-diet.jpeg)
 
 ## Phân loại dựa vào dược động - dược lực
 
@@ -105,6 +109,8 @@ Thông số:
 - %T>MIC (tỷ lệ thời gian T>MIC)
 - AUC/MIC
 
+![Các thông số pK/pD](/y2/dk-kc/i.6-pk-pd.jpeg)
+
 Beta-lactams là KS phụ thuộc vào T>MIC rất nhiều, ít nhất là hơn 50% (KS tiêu diệt màng, tác dụng hậu KS ngắn)
 
 - Penicillins > 50%
@@ -118,21 +124,32 @@ Beta-lactams là KS phụ thuộc vào T>MIC rất nhiều, ít nhất là hơn 
 
 Lưu ý: còn cách thứ 3 là tăng Cmax nhưng tăng rất cao nguy cơ gây độc, nên hạn chế
 
-**Điểm gãy pK/pD**: MIC được xác định sẵn = const (nồng độ hữu dụng của KS) → Xác định VK nhạy hay kháng KS dựa trên liều chuẩn này
+![Các phương thức tăng T>MIC](/y2/dk-kc/i.6-pk-pd-ptich.jpeg)
+
+
+==Điểm gãy pK/pD==: MIC được xác định sẵn = const (nồng độ hữu dụng của KS) → Xác định VK nhạy hay kháng KS dựa trên liều chuẩn này
 
 ### KS phụ thuộc nồng độ
 
 Đại diện là Aminoglycosides:
 
 - KS phụ thuộc nồng độ, có PAE dài
-- Mục tiêu: Cmax/ MIC > 8-10
+- Mục tiêu: C<sub>max</sub>/MIC > 8-10
 - Sử dụng liều cao, chỉ Dùng 1 lần/ngày → giúp Tăng tác dụng diệt khuẩn và Giảm độc tính trên thận
+
+![KS phụ thuộc nồng độ](/y2/dk-kc/i.6-ks-pthuoc-nd.jpeg)
 
 Một số lưu ý khác khi sử dụng Aminoglycoside:
 
 - Cần phải định lượng MIC và nồng độ thuốc
 - Tính liều thuốc theo giản đồ Hartford cho BN suy thận.
 - Hạn chế kéo dài thời gian điều trị (< 5 ngày)
+
+![Aminoglycosides đáp ứng tốt từ 83% trở lên khi Cmax/MIC > 8-10](/y2/dk-kc/i.6-aminoglycosides.jpeg)
+
+Trong sơ đồ Hartford, người ta sẽ đo nồng độ thuốc trong huyết tương (serum concentration) tại 6–14 giờ sau khi truyền liều đầu tiên -> so sánh với biểu đồ để quyết định khoảng cách giữa các liều kế tiếp (q24h, q36h, q48h…).
+
+![Giản đồ Hardford để chỉnh liều Aminoglycosides](/y2/dk-kc/i.6-gdo-hartford.jpeg)
 
 #### Fluoroquinolones
 
@@ -152,9 +169,9 @@ Tính chất:
 - Mục tiêu: <u>AUC/MIC: 400</u>
 - Cần theo dõi nồng độ đáy (Ctrough) - *Hội chuẩn liều*
 - Ctrough > 4 x MIC (15- 20 mg/L)
-- Lấy máu 30 phút trước liều thứ 4 - *lúc này nồng độ trong máu ổn định*
+- Lấy máu 30 phút trước liều thứ 4 - *lúc này nồng độ trong máu ổn định* -> đo nồng độ trong máu >25% sẽ dự đoán được có gây độc trên thận (gia giảm để tránh tổn thương thận khi cần thiết)
 
-Đo ra nồng độ, dò bảng thấy > 25% → nguy cơ suy thận
+![Tỷ lệ độc tính trên thận (rate of nephrotoxicity) trên 25% sẽ có nguy cơ suy thận](/y2/dk-kc/i.6-vancomycin.jpeg)
 
 ## KS dự phòng
 

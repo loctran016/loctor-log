@@ -68,8 +68,6 @@ jobs:
             run: bun install
           - name: Lint
             run: bun run lint-ci
-          - name: Spellcheck
-            run: bun run spellcheck
 
   spellcheck:
       name: Spellcheck
@@ -77,11 +75,10 @@ jobs:
       steps:
           - name: Checkout Repository
             uses: actions/checkout@v4
-          - name: Spellcheck
-            uses: tbroadley/spellchecker-cli-action@v1
+          - uses: oven-sh/setup-bun@v2
             with:
-              files: "content/**/*.md"
-              language: "vi"
-              dictionaries: "dictionary/vi.txt dictionary/medical.txt"
-              ignore: "=[a-z]=* ==*"
-          - uses: austenstone/spellchecker-cli-action-summary@v1.0
+                bun-version: latest
+          - name: Install
+            run: bun install
+          - name: Spellcheck
+            run: bun run spellcheck

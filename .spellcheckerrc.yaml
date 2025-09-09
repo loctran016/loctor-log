@@ -1,0 +1,5 @@
+language: "vi"
+files: "content/**/*.md"
+language: "vi"
+dictionaries: "dictionary/vi.txt dictionary/medical.txt"
+ignore: "=[a-z]=* ==* [0-9]+hm [0-9]+hkg [0-9]+hmmHg [0-9]+h [0-9]+s *γ* *δ* *ε* *μ* *β* *α*"
