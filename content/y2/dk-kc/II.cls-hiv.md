@@ -105,9 +105,9 @@ thể mới phát bệnh → âm tính giả
 
 Cấu trúc kháng nguyên bề mặt virus:
 
-- gp41 → hòa màng
-- gp120 → bám vào thụ thể trên T CD4
-- CCR4 + CXCR5 → hỗ trợ
+- ==gp41== → hòa màng
+- ==gp120== → bám vào thụ thể trên T CD4
+- ==CCR4 + CXCR5== → hỗ trợ
 
 Cơ chế xâm nhập: xâm nhập vào bên trong TB T CD4 và tiêu diệt TB: Gắn kết
 → hòa màng → phóng thích → sao chép ngược → vận chuyển vào nhân →
@@ -132,11 +132,11 @@ thăm khám định kì nhằm đánh giá hiệu quả điều trị, xem xét 
 
 ::badge
 
-# title
+#title
 
 3 thời kỳ trong diễn tiến nhiễm HIV:
 
-# default
+#default
 
 Nhiễm cấp: khoảng 3-6 tuần sau khi tiếp xúc virus, không có triệu chứng hoặc triệu chứng không điển hình
 
@@ -171,14 +171,10 @@ Bản thân virus:
 
 Đáp ứng miễn dịch:
 
-- ĐƯMD tự nhiên không loại bỏ hoàn
-toàn HIV
-- Miễn dịch bảo vệ chống lại HIV
-chưa được xác định rõ
-- Vai trò của miễn dịch tự nhiên chưa
-được khám phá đầy đủ
-- Bội nhiễm/nhiễm với chủng HIV
-khác có thể xảy ra
+- ĐƯMD tự nhiên không loại bỏ hoàn toàn HIV
+- Miễn dịch bảo vệ chống lại HIV chưa được xác định rõ
+- Vai trò của miễn dịch tự nhiên chưa được khám phá đầy đủ
+- Bội nhiễm/nhiễm với chủng HIV khác có thể xảy ra
 
 Lây truyền & cơ chế bệnh sinh:
 
