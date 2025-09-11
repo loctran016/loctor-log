@@ -5,8 +5,8 @@ tags: ['Virus']
 category: cls
 ---
 
+<!-- markdownlint-disable MD018 -->
 ## Khái niệm
-
 
 ::detail
 
@@ -51,11 +51,11 @@ Chẩn đoán:
 Điều trị:
 
 - Thuốc kháng lao theo công thức SHRZE và thuốc kháng nấm Fluconazole.
-	- Sau nhập viện điều trị 2 tuần, BN hết
+  - Sau nhập viện điều trị 2 tuần, BN hết
 sốt, hết ho, họng hết nấm, ăn uống
 tốt.
 - Điều trị kháng HIV (ARV: Anti-retro-viral, điều trị đa trị liệu để trị HIV, uống suốt đời) bằng Tenofovir, Lamivudin, Efavirenz.
-	- BN được cho xuất viện, hẹn tái khám đo lại số lượng tế bào Lympho T CD4+ trong máu tại phòng khám HIV ngoại trú.
+  - BN được cho xuất viện, hẹn tái khám đo lại số lượng tế bào Lympho T CD4+ trong máu tại phòng khám HIV ngoại trú.
 ::
 
 ## Chẩn đoán
@@ -64,7 +64,7 @@ Vòm hầu có nấm -> SGMD tại vì nấm bình thường sống không nổi
 
 ## 1. Tại sao phải làm 3 xét nghiệm HIV ELISA để chẩn đoán nhiễm HIV?
 
-::info
+::badge
 
 #title
 
@@ -75,9 +75,10 @@ Xét nghiệm chẩn đoán bệnh nhiễm HIV:
 Phương pháp gián tiếp (ELISA): phát hiện kháng thể kháng HIV trong máu hoặc dịch tiết.
 
 Phương pháp trực tiếp (PCR) - phát hiện các thành phần của HIV:
+
 - Acid nucleic của virus:
-	- HIV-ADN provirus có trong TB nhiễm
-	- HIV-ARN virus tự do trong huyết tương
+  - HIV-ADN provirus có trong TB nhiễm
+  - HIV-ARN virus tự do trong huyết tương
 - Kháng nguyên trong máu (p24)
 
 Phương pháp phát hiện đồng thời kháng nguyên và kháng thể
@@ -112,6 +113,7 @@ Cơ chế xâm nhập: xâm nhập vào bên trong TB T CD4 và tiêu diệt TB:
 → hòa màng → phóng thích → sao chép ngược → vận chuyển vào nhân →
 hòa nhập DNA kí chủ → nhân lên cùng TB ký chủ → tổng hợp protein tạo virion
 → nảy chồi
+
 - → chết TB CD4, trung tâm của hệ thống miễn dịch. Giảm dần → suy giảm
 miễn dịch
 - Biến thành TB T trí nhớ chứa gen virus bên trong, sau này có bệnh nhiễm trùng cơ hội → nhân lên → tạo cơ hội cho virus bùng phát
@@ -128,13 +130,13 @@ thăm khám định kì nhằm đánh giá hiệu quả điều trị, xem xét 
 
 ## 4. Tại sao số lượng tế bào Lympho T CD4+ đã giảm rất thấp và ở giai đoạn AIDS thì BN mới có biểu hiện triệu chứng
 
-::info
+::badge
 
-#title
+# title
 
 3 thời kỳ trong diễn tiến nhiễm HIV:
 
-#default
+# default
 
 Nhiễm cấp: khoảng 3-6 tuần sau khi tiếp xúc virus, không có triệu chứng hoặc triệu chứng không điển hình
 
@@ -148,6 +150,7 @@ Có triệu chứng: thường xảy ra khi số lượng TB T CD4 giảm thấp
 *5 năm trước thì T CD4 < 350, hiện nay điều trị không phụ thuộc vào nồng độ T CD4
 
 Các bệnh nhiễm khuẩn cơ hội có thể xảy ra trong các giai đoạn lâm sàng của bệnh nhiễm HIV:
+
 - Viêm phổi do Pneumocystis jiroveci
 - Viêm màng não do Cryptococcus
 - Bệnh nhiễm nấm Candida
