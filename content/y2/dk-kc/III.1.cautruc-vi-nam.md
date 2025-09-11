@@ -4,6 +4,29 @@ date: 2025-09-05
 tags: ['Vi nấm']
 ---
 
+## Cấu trúc cơ bản của vi nấm
+
+Gồm:
+
+1. thành tế bào: nhận diện bởi hệ MD
+- Mannoprotein: protein (enzyme) + manan
+- alpha-glucan và beta-glucan: hình thành LK gltcoside tạo thành glucose
+- Chitin: tương tự giáp xác, chịu được 10% KOH
+2. Màng tế bào
+3. Tế bào chất
+4. Nhân
+
+### Thành TB
+
+Chức năng:
+
+- Bảo vệ và duy trì hình dạng
+- Trao đổi thông tin
+
+Glucan: beta-1,4-glucose và beta-1,6-glucose
+
+## PAMPs
+
 ### Cryptococcus Neoformans
 
 Gây ra bệnh viêm màng não, chích từ dịch não tuỷ
