@@ -10,27 +10,21 @@ tags: ['KST']
 
 Đường da:
 
-Ancylostoma duodenal
+- Ancylostoma duodenal
+- Necator americanus
+- Strongyloides stercoralis
+- Schistosoma spp
+- Trichobilharzia spp
 
-Necator americanus
+Đường tiêu hóa:
 
-Strongyloides stercoralis
+- Ascaris lumbricoides
+- Trichuris trichiura
+- Fasciola hepatica
 
-Schistosoma spp
+Côn trùng đốt:
 
-Trichobilharzia spp
-
-Đường tiêu hóa
-
-Ascaris lumbricoides
-
-Trichuris trichiura
-
-Fasciola hepatica
-
-Côn trùng đốt
-
-Giun chỉ
+- Giun chỉ
 
 ### Hàng rào da và niêm mạc
 
