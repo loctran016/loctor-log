@@ -128,3 +128,34 @@ Bất thường gen MHC, gen integrin.
 APC bắt giữ protein nhân (histone, dsDNA, sm, RO/SS-A), TBC (RO), màng (Cardiolipin, TC) → trình diện và hoạt hóa Th ở hạch gần đó. IL-4 tiết ra giúp biệt hóa theo hướng Th2 → MDDT → hoạt hóa B thành tương bào tạo tự KT, phần lớn tấn công ANA. Tự KT cũng tạo thành phức hợp MD khi gặp KN. Phức hợp MD gắn lên thụ thể Fc ở tế bào MD kích thích sx tiết cytokine gây viêm, tự KT gắn trực tiếp KN trên bề mặt KN cũng hoạt hóa bổ thể và kích thích TB sx cytokine. Các TB MD gần đó cũng mẫn cảm với tự KN nên khi gắn với KN thông qua TLR thì cũng tiết cytokine gây viêm (IFN, TNF-α) → gây viêm.
 
 Cơ thể có thể hồi phục khi viêm được kìm hãm, khi có sự tiếp xúc với tự KN lại lần nữa (do apoptosis khi tiếp xúc UV, nhiễm trùng, stress, phẫu thuật, có thai). Người SLE có sẵn nguyên tương bào sản xuất tự KT, TB T nhiều hơn người bình thường khi cần tạo tự KT.
+
+## Quyết định của Bộ Y tế
+
+Chính:
+
+- Sốc phản vệ thì vào cấp cứu ngay nếu cần thiết
+- Chỉ dùng adrenalin từ phản vệ độ 2 trở lên
+- =v=Sau khi xử trí xong==, lưu lại BV thêm ít nhất 24h để theo dõi đo huyết áp 
+ 
+Hộp thuốc chống sốc phản vệ cần có:
+
+1. Bảng in phác đồ cấp cứu
+2. Kiêm tim
+3. Adrenalin 1mL
+4. Bông tiệt trùng tẩm cồn
+5. Dây garo
+6. Nước cất
+7. Methyl…
+8. Diphenyl…
+
+Trang thiết bị y tế (cơ sở khám, chữa bệnh):
+
+- Dụng cụ đặt nội khí quản
+- Oxy
+- Dung dịch tiêm truyền (VD: NaCl)
+- Sabutamol
+ 
+Lưu ý để hạn chế gây sốc phản vệ cho BN:
+
+- Chỉ dùng đường tiêm nếu không thể dùng đường uống
+- Không cho lại các thành phần dị ứng…
