@@ -32,7 +32,7 @@
             :src="refinedSrc"
             :alt="alt"
             densities="x1 x2"
-            class="max-lg:w-full lg:min-w-[50vw] lg:h-auto lg:w-auto lg:max-h-[90vh]"
+            class="max-lg:w-full lg:h-auto lg:w-auto lg:max-h-[90vh]"
           />
       </div>
       </div>
