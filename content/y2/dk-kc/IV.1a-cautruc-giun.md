@@ -1,6 +1,6 @@
 ---
 title: Bài IV.1a - Đặc điểm chung của giun & Bệnh ĐV kí sinh
-date: 2025-09-10
+date: 2025-09-12
 tags: ['KST']
 ---
 

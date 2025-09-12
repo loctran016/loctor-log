@@ -1,6 +1,6 @@
 ---
 title: Bài IV.1b - Đặc điểm chung của sán dải
-date: 2025-09-11
+date: 2025-09-10
 tags: ['KST']
 ---
 
