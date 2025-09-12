@@ -10,7 +10,7 @@
       densities="x1 x2"
       :class="$device.isDesktop && 'xl:h-auto xl:w-auto xl:max-h-[85vh] xl:max-w-full'"
     />
-    <figcaption class="text-sm hyphens-manual text-center">{{ alt }}</figcaption>
+    <figcaption class="text-sm hyphens-none text-center">{{ alt }}</figcaption>
   </figure>
   <Teleport to="body">
     <Transition
