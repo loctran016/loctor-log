@@ -1,5 +1,5 @@
 ---
-title: Bài IV.3 - Đặc điểm chung của sán lá
+title: Bài IV.3 - Đặc điểm chung của đơn bào
 date: 2025-09-12
 tags: ['KST']
 ---
