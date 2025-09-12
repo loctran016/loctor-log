@@ -3,7 +3,24 @@ title: Bài 12 - Suy giảm MD
 date: 2025-08-20
 ---
 
-<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD024 MD018 -->
+
+::info
+#title
+Tóm tắt
+
+#default
+
+Các bệnh do SGMD bẩm sinh:
+
+- Bruton (NST X): đột biến BTK (Bruton’s tyrosine kinase) mất tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành
+- Di George (mất vùng NST 22q11): suy giảm nguyên phát ở cơ quan phát triển lympho T → không/ít lympho T
+- Chédiak-Higash hay u hạt mạn (NST X): tổn thương lysosome + các gốc oxy hoá để oxy hoá VK + MPO -> ức chế hệ thống bổ thể
+
+Các bệnh do SGMD thích nghi:
+
+- HIV: gp41 (hoà) và gp120 (bám)
+::
 
 ## Đại cương
 
@@ -54,10 +71,10 @@ Tổn thương:
 - Số lượng/chất lượng của lympho B suy giảm
 - Lympho T thường không bị ảnh hưởng
 
-Bệnh Bruton (Agammaglobulinemia LK X):
+==Bệnh Bruton (Agammaglobulinemia LK X)==:
 
 - Đột biến BTK (Bruton’s tyrosine kinase)
-- Mất khả nang truyền tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành
+- Mất khả năng truyền tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành
 
 ### Dòng Lympho T
 
@@ -66,7 +83,7 @@ Tổn thương:
 - Số lượng và chất lượng lympho T
 - Số lượng lympho B & sản xuất K
 
-Hội chứng Di George:
+==Hội chứng Di George==:
 
 - Mất vùng NST 22q11
 - Suy giảm nguyên phát ở cơ quan phát triển lympho T → không/ít lympho T
@@ -84,7 +101,7 @@ Gây ra:
 
 Tổn thương: các tế bào khác như TB thực bào, BC hạt trung tính
 
-Bệnh Chédiak-Higash (u hạt mạn):
+==Bệnh Chédiak-Higash (u hạt mạn)==:
 
 - Tổn thương Lysosomal Trafficking protein: rối loạn hình thành & vận chuyển lysosome + các gốc oxy hoá để oxy hoá VK
 - Thiếu myeloperoxidase (MPO)
@@ -107,7 +124,7 @@ SGMD lympho B nguyên phát:
 
 Khác:
 
-- Test in vitro : tests đánh giá chức năng bạch cầu trung tính và bổ thể
+- Test in vitro: tests đánh giá chức năng bạch cầu trung tính và bổ thể
 - Ủ bach cầu với dihydrorhodamine 123 (DHR) và catalase sau khi hoat
 hóa với phorbol 12‐myristate 13‐acetate (PMA) để đánh giá chức
 năng bùng nổ gốc oxi của bạch cầu → chỉ số thấp hơn bình thường
