@@ -1,8 +1,8 @@
 <template>
 <section class="pt-6 px-4 lg:px-6  border-2  rounded-md dark:prose-li:marker:text-gray-50/30 prose-li:marker:text-gray-900/20" :class="containerTypes[type].containerClass">
     <div class="mb-2 align-middle text-lg flex lg:items-center lg:text-xl" :class="containerTypes[type].headerClass">
-        <Icon :name="containerTypes[type].headerIcon" class="align-middle text-2xl lg:text-3xl mr-2 max-lg:translate-y-1"/>
-        <span class="flex-shrink">
+        <Icon :name="containerTypes[type].headerIcon" class="align-middle text-2xl lg:text-3xl mr-2 max-lg:translate-y-1 shrink-0"/>
+        <span class="">
             <slot mdc-unwrap="p" name="title"  />
         </span>
     </div>

@@ -46,7 +46,12 @@ Phân loại Quá mẫn type I làm 4 độ:
     - Hô hấp: Khó thở, tức ngực, chảy nước mũi
     - Tiêu hóa: Đau bụng, nôn, tiêu chảy
     - Tim mạch: Loạn nhịp tim
-3. Shock phản vệ: 2 cơ quan trở lên + tụt huyết áp (shock) (Khi có tiền sử dị ứng + tụt huyết áp cũng định danh là shock phản vệ - mức 3)
+3. Shock phản vệ: biểu hiện ở nhiều cơ quan với mức độ nặng hơn như sau:
+    - Đường thở: tiếng rít thanh quản, phù thanh quản.
+    - Thở: =c=thở nhanh==, khò khè, tím tái, rối loạn nhịp thở.
+    - Rối loạn ý thức: vật vã, hôn mê, co giật, rối loạn cơ tròn.
+    - Tuần hoàn: sốc, mạch nhanh nhỏ, =c=tụt huyết áp==.
+ (Khi có tiền sử dị ứng + tụt huyết áp cũng định danh là shock phản vệ - mức 3)
 4. Ngưng tuấn hoàn: Ngừng hô hấp, tim ngừng đập
 
 Ảnh hưởng của các hoá chất trung gian trung gian:

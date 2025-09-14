@@ -87,8 +87,10 @@ Sự khác nhau của =r=glucurono/xylo/manna== phụ thuộc vào **tỉ lệ**
 <!-- markdownlint-disable MD018 -->
 ::badge{type="quiz"}
 #title
-Câu hỏi: Khi trộn đều dịch não tuỷ của bệnh nhân trộn đều với mực tàu sẽ thấy rõ tế bào hạt men có vách dày bao quanh
+Câu hỏi Slide
 #default
+**Tại sao khi trộn đều dịch não tuỷ với mực tàu sẽ thấy rõ tế bào hạt men có vách dày bao quanh?**
+
 Bao nang bao quanh tế bào nấm không bị ngấm mực tàu
 ::
 
@@ -181,11 +183,3 @@ Cấy ở đâu cũng mọc, nhưng ở SDA mới nhìn rõ, nhận diện đư�
 CHROAgar: lên màu khác nhau giữa cái vi nấm - Candida
 
 Czapeck dox agar: lên màu giữa các aposolis
-
-## LS
-
-Dấu màng não: duỗi thẳng chân không được
-
-Nhuộm = mực tàu - bao nang chính là nước, nhuộm lên mới nhìn thấy được nó
-
--> Tế bào hạt men *vách dày chiết quang* (cryptococcus neoformans)

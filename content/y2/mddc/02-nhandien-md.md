@@ -14,7 +14,7 @@ Tất cả các lympho đều có nguồn gốc từ tuỷ xương, trưởng th
 
 Nhờ có =r=collagen III== mà các tế bào lympho bám lên được
 
-## Nang
+## Hạch lympho
 
 Bao gồm:
 
@@ -35,6 +35,8 @@ Chia làm 3 vùng:
 2. Cận vỏ
 3. Tuỷ
 
+Là nơi tập trung của =a=lympho B== nên lympho B > T
+
 ### Vùng vỏ
 
 3 vùng nang lympho: =a=trung tâm mầm==, áo nang & rìa
@@ -50,6 +52,13 @@ Lympho B sinh ra ở tuỷ xương -> Hạch (vùng tối - nguyên tâm bào ->
 
 Lympho B biệt hoá thành =a=tương bào==
 
+## Lách
+
+Chia làm 2 vùng:
+
+- Tuỷ trắng: =c=ĐM trung tâm== (gần đó có xoang TM và ==dây Billroth==) và nang lympho
+- Tuỷ đỏ: xoang với lympho bào, tương bào
+
 ## Các dấu hiệu hoá mô MD
 
 CD20: lympho B
@@ -58,4 +67,6 @@ CD2, CD3, CD4, CD8: lympho T
 
 Ki67: phân bào -> trung tâm mầm vùng tối
 
-CD138: tương bào
+CD68, CD138: tương bào
+
+Cytokeratin: tế bào biểu mô

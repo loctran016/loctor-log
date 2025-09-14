@@ -41,6 +41,8 @@ Các lớp kháng thể:
 - IgD: δ - 2 Fab (delta)
   - IgM nhưng dỏm hơn, máu only
 
+Hoạt hoá bổ thể: IgM > IgG (do IgM chỉ cần 1 phân tử pentamer trong khi IgG thì cần tới 2 phân tử)
+
 ![Chức năng năm lớp KN do lớp VH quy định](/y2/mddc/9-chucnang-nam-lop-kn.jpeg)
 
 ## Chức năng KT

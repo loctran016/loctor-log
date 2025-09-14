@@ -116,6 +116,12 @@ Các **tự kháng thể** có thể =v=gắn với kháng nguyên== để tạo
 - Giảm BC máu: xuất hiện tự KT BC.
 - Giảm TC máu → trầm trọng gây xuất huyết dưới da.
 
+::conslusion
+Tổn thương TB: thông thường do KT gắn lên các TB -> type II
+
+Tổn thương mô: thông thường do KT-KN -> gây viêm tại chỗ ấy -> tổn thương mô (rộng) -> type III
+::
+
 ## Đánh giá kết quả XN tự KT và kết quả bổ thể
 
 Thành phần C3, C4 của bổ thể thấp → có sự hoạt hóa bổ thể để dọn dẹp các mảnh KN nhân dẫn đến phân cắt các thành phần C3, C4, gan sản xuất không kịp.
@@ -144,8 +150,8 @@ Chính:
 
 - Sốc phản vệ thì vào cấp cứu ngay nếu cần thiết
 - Chỉ dùng adrenalin từ phản vệ độ 2 trở lên
-- =v=Sau khi xử trí xong==, lưu lại BV thêm ít nhất 24h để theo dõi đo huyết áp 
- 
+- =v=Sau khi xử trí xong==, lưu lại BV thêm ít nhất 24h để theo dõi đo huyết áp
+
 Hộp thuốc chống sốc phản vệ cần có:
 
 1. Bảng in phác đồ cấp cứu
@@ -163,7 +169,7 @@ Trang thiết bị y tế (cơ sở khám, chữa bệnh):
 - Oxy
 - Dung dịch tiêm truyền (VD: NaCl)
 - Sabutamol
- 
+
 Lưu ý để hạn chế gây sốc phản vệ cho BN:
 
 - Chỉ dùng đường tiêm nếu không thể dùng đường uống

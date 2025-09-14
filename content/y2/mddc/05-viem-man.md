@@ -13,7 +13,7 @@ Tuy vậy có một số trường hợp viêm mạn xuất hiện ngay từ đ�
 
 - VK (==lao, phong, giang mai,...==) có **vỏ lipid dày** nên tồn tại bên trong **đại thực bào** (nhất là các VK kháng acid)
 - VK tiết **toxins** gây tổn thương (ngay cả sau khi chết)
-- Hoá chất (==bụi, giằm, kim,...==) nên còn quài
+- Hoá chất (==bụi, giằm, kim, bụi silic...==) nên còn quài
 
 Viêm mạn bao gồm 2 bước:
 

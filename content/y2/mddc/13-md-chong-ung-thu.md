@@ -84,7 +84,6 @@ Các khối u còn ức chế hoạt động của hệ thống MD bằng cách 
 - ==RCAS1==: gắn lên thụ thể của lympho T & B, gây ức chế tăng sinh, apoptosis
 - ==PD-L1==: gắn lên PD-1 của lympho T, gây ức chế tăng sinh, apoptosis
 - Kích hoạt Treg, tăng số lượng ==CTLA-4==: ức chế CTL (TCD8+)
-- PD-L1, FasL, RCAS1 để ức chế lympho T
 - ==TGF-beta== ức chế lympho T
 - =p=IL-10, VEGF== ức chế APC
 <!-- - ==Enzyme CTLA4== -->
