@@ -6,16 +6,28 @@
     @apply px-[1px] rounded mx-0
 }
 .flexible-marker-amber {
-    @apply text-amber-800 bg-amber-200 dark:bg-amber-800 dark:text-amber-200
+    @apply text-amber-800 bg-amber-200;
+    @variant dark {
+    @apply bg-amber-800 text-amber-200
+  }
 }
 .flexible-marker-red {
-    @apply text-red-800 bg-red-200 dark:bg-red-800 dark:text-red-200
+    @apply text-red-800 bg-red-200;
+    @variant dark {
+    @apply bg-red-800 text-red-200;
+  }
 }
 .flexible-marker-cyan {
-    @apply text-cyan-800 bg-cyan-200 dark:bg-cyan-800 dark:text-cyan-200
+    @apply text-cyan-800 bg-cyan-200;
+     @variant dark {
+    @apply bg-cyan-800 text-cyan-200
+  }
 }
 .flexible-marker-violet {
-    @apply text-violet-800 bg-violet-200 dark:bg-violet-800 dark:text-violet-200
+    @apply text-violet-800 bg-violet-200;
+    @variant dark {
+    @apply bg-violet-800 text-violet-200
+  }
 }
 
 /* Flexible Markers Purple */
@@ -24,5 +36,5 @@
     @apply bg-transparent font-bold bg-gradient-to-r from-orange-500  to-orange-900 dark:from-orange-300  dark:to-orange-700 bg-clip-text text-transparent select-all
 }
 .flexible-marker-purple {
-    @apply bg-transparent font-bold bg-gradient-to-r from-pink-500  to-violet-900 dark:from-pink-300  dark:to-violet-700 bg-clip-text text-transparent select-all
+    @apply bg-transparent font-bold bg-gradient-to-r from-pink-500  to-violet-800 dark:from-pink-300  dark:to-violet-700 bg-clip-text text-transparent select-all
 }
