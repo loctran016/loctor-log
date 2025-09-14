@@ -36,7 +36,7 @@ Kháng nguyên virus: là sản phẩm của virus sinh ung
 
 ## Đáp ứng MD chống ung thư
 
-==Cơ chế miễn dịch chủ yếu là CTL đặc hiệu với khối u==, được khởi phát nhờ các APC, đặc biệt là TB tua gai, nhận diện các KN khối u.
+Cơ chế miễn dịch ==chủ yếu là CTL đặc hiệu với khối u==, được khởi phát nhờ các APC, đặc biệt là TB tua gai, nhận diện các KN khối u.
 
 Các TB tua gai trình diện KN khối u trên MHC-I cho lympho TCD<sub>8</sub>+ ngây thơ trong các hạch bạch huyết → TCD<sub>8</sub>+ biệt hoá thành CTL, đồng thời trình diện cho lympho TCD4+ qua MHC-II.
 
@@ -84,6 +84,9 @@ Các khối u còn ức chế hoạt động của hệ thống MD bằng cách 
 - ==RCAS1==: gắn lên thụ thể của lympho T & B, gây ức chế tăng sinh, apoptosis
 - ==PD-L1==: gắn lên PD-1 của lympho T, gây ức chế tăng sinh, apoptosis
 - Kích hoạt Treg, tăng số lượng ==CTLA-4==: ức chế CTL (TCD8+)
+- PD-L1, FasL, RCAS1 để ức chế lympho T
+- ==TGF-beta== ức chế lympho T
+- =p=IL-10, VEGF== ức chế APC
 <!-- - ==Enzyme CTLA4== -->
 
 ## Điều trị
