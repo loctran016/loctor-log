@@ -96,7 +96,7 @@ useSeoMeta({
         <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2 max-w-8/10"> {{ headline }}</h2>
         <ul class="flex flex-wrap lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
-            <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) ? 'underline text-teal-600 dark:text-teal-300 bg-teal-200/40 hover:bg-teal-200/70' : 'bg-slate-200/20 hover:bg-slate-200/50 hover:text-slate-900 dark:hover:text-slate-50 hover:underline'" @click="() => toggleTags(tag)" class="text-slate-700  dark:text-slate-200 underline-offset-4 rounded-3xl  dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer"># {{ tag }}</li>
+            <li v-for="tag in uniqueTags" :class="selectedTag.includes(tag) ? 'underline text-teal-600 dark:text-teal-300 bg-teal-200/40 hover:bg-teal-200/70' : 'bg-slate-200/20 hover:bg-slate-200/50 hover:text-slate-900 dark:hover:text-slate-50 hover:underline'" @click="() => toggleTags(tag)" class="text-slate-700  dark:text-slate-200 underline-offset-4 rounded-3xl  dark:bg-slate-800/20 dark:hover:bg-slate-800/50 py-2 px-4 transform-gpu duration-150 cursor-pointer select-none"># {{ tag }}</li>
         </ul>
         <Icon name="material-symbols-light:collections-bookmark-outline-rounded" class="text-xl lg:text-2xl max-lg:col-start-1 max-lg:row-start-2" v-if="uniqueTags.size > 1"/>
     </section>

@@ -25,13 +25,18 @@ const containerTypes = {
         headerClass: 'text-orange-600 dark:text-orange-400',
         headerIcon: 'material-symbols-light:warning-outline-rounded',
     },
+    quiz: {
+        containerClass: 'bg-sky-400/20 border-sky-300/50',
+        headerClass: 'text-blue-600 dark:text-blue-400',
+        headerIcon: 'material-symbols-light:help-outline-rounded',
+    },
 }
 
 const props = defineProps({
   type: {
     type: String,
     default: 'info',
-    validator: (value) => ['info', 'warning'].includes(value),
+    validator: (value) => ['info', 'warning','quiz'].includes(value),
   }
 });
 </script>

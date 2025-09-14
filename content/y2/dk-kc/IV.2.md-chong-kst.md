@@ -173,6 +173,7 @@ Histamin, Leucotrien, Protaglandin:
 - Cơ trơn: co thắt
 
 ### Quá mẫn type 4
+
 Tạo u hạt
 Kháng nguyên từ trứng giun sán gây đáp ứng Th2 :
 • IL-4: thu hút lympho T, đại thực bào, bạch cầu ái toan

@@ -73,11 +73,20 @@ ANA (Antinuclear antibodies): ==KT kháng nhân==, nhạy cao (bắt lầm hơn 
 anti-dsDNA: KT kháng dsDNA, tấn công vào nucleosome nhân TB - cơ bản của chromatin (đặc hiệu cực cao với lupus, nhất là có thận)
 
 anti-Sm là tự kháng thể gắn kết với ribonucleoprotein được tìm thấy trong nhân
-tế bào. Độ đặc hiệu cao hơn 99%, nhưng anti-dsDNA nhạy hơn. (có → chắc chắn có, không có thì không)
+tế bào. Độ đặc hiệu cao hơn 99%, nhưng anti-dsDNA nhạy hơn. (có → chắc chắn có, không có thì chưa chắc đã không)
 
-=> Đây là các xét nghiệm tự kháng thể quan trọng trong chẩn đoán bệnh lý tự
-miễn, mà cụ thể là bệnh Lupus ban đỏ. Ở đây các kết quả xét nghiệm đều cao
+=> Đây là các xét nghiệm tự kháng thể quan trọng trong chẩn đoán bệnh lý tự miễn, mà cụ thể là bệnh Lupus ban đỏ. Ở đây các kết quả xét nghiệm đều cao
 hoặc dương tính, chứng tỏ nghi ngờ của bác sĩ là đúng.
+
+::conclusion
+
+Phải dùng cả 3 XN:
+
+- ANA: nhạy cao, đặc hiệu kém
+- anti-dsDNA: nhạy cao, đặc hiệu cao
+- anti-Sm: nhạy kém, đặc hiệu cực cao
+
+::
 
 ### XN khác
 
@@ -97,13 +106,13 @@ Thiếu máu, giảm bạch cầu và hồng cầu: do tự kháng thể bám l�
 Do các đột biến gen + tác nhân môi trường (tia UV, nhiễm virus, hút thuốc,...) sẽ gây tổn thương DNA tế bào và apoptosis (Bệnh nhân tiếp xúc nhiều với tia UV nên lớp tế bào sừng của thượng bì đã đi vào apoptosis)
 Khi hệ thống miễn dịch không đáp ứng đủ mạnh để loại bỏ các mảnh vỡ tế bào, do ĐB gen/EBV =r=kích hoạt HLA lớp 2==, trình diện KN cho tế bào Th rồi hoạt hoá lympho B,  tạo ra ngày càng nhiều tự kháng thể.
 
-Các tự kháng thể có thể gắn với kháng nguyên để tạo phức hợp miễn dịch (quá mẫn type III) hoặc gắn lên trên các tế bào hay mô bình thường (quá mẫn type II), từ đó gây ra các phản ứng viêm ở các cơ quan khác nhau trong cơ thể:
+Các **tự kháng thể** có thể =v=gắn với kháng nguyên== để tạo phức hợp miễn dịch (quá mẫn type III) hoặc =r=gắn lên trên các tế bào hay mô bình thường== (quá mẫn type II), gây viêm ở các cơ quan khác nhau:
 
 - Tăng HA: do tổn thương thận, viêm mạn mạch máu.
 - Tổn thương da: tia UV → apoptosis và giải phóng KN nhân.
 - Tổn thương khớp:
 - Tổn thương thận: lắng đọng KT, phức hợp MD ở cầu thận lâu dài dẫn tới suy thận.
-- Thiếu máu: xuất hiện tự KT hồng cầu→ trầm trọng gây khó thở, suy tim.
+- Thiếu máu: xuất hiện tự KT hồng cầu → trầm trọng gây khó thở, suy tim.
 - Giảm BC máu: xuất hiện tự KT BC.
 - Giảm TC máu → trầm trọng gây xuất huyết dưới da.
 

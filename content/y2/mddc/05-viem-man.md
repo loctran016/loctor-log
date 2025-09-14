@@ -3,7 +3,7 @@ title: Bài 5 - Viêm mạn
 date: 2025-08-06
 ---
 
-## Giới thiệu
+## Viêm mạn
 
 Viêm **> 2 tuần** do còn tồn bài VK, dị vật trong vết thương
 
@@ -11,9 +11,9 @@ Viêm **> 2 tuần** do còn tồn bài VK, dị vật trong vết thương
 
 Tuy vậy có một số trường hợp viêm mạn xuất hiện ngay từ đầu (không thông qua viêm cấp) - nói chung là giết không chết/không loại bỏ được chất độc:
 
-- VK (lao, phong, giang mai,...) có **vỏ lipid dày** nên tồn tại bên trong **đại thực bào** (nhất là các VK kháng acid)
+- VK (==lao, phong, giang mai,...==) có **vỏ lipid dày** nên tồn tại bên trong **đại thực bào** (nhất là các VK kháng acid)
 - VK tiết **toxins** gây tổn thương (ngay cả sau khi chết)
-- Hoá chất (bụi, giằm, kim,...) nên còn quài
+- Hoá chất (==bụi, giằm, kim,...==) nên còn quài
 
 Viêm mạn bao gồm 2 bước:
 
@@ -29,7 +29,7 @@ Trong viêm cấp thì tb BCTT quan trọng thì ở viêm mạn thì Lymphocyte
 
 ![Tiến trình diễn tiến từ viêm cấp thành viêm mạn](/y2/mddc/5-u-hat.jpeg)
 
-## Tái tạo mô, lành sẹo
+## Tái tạo mô, lành sẹo sau viêm
 
 Bắt dầu từ giai đoạn viêm cấp và có thể kéo dài > 2 năm
 
@@ -61,7 +61,11 @@ và ĐTB bao quanh
 Biểu mô hoá, biệt hoá nhiều lớp biểu bì, che vết thương lại:
 
 - **Fibroblast**: tổng hợp ra collagen (có fibro → collagen bám fibro)
-- **Co kéo vết thương**: nhờ Myofibroblast đóng vết thương
+- **Co kéo vết thương**: myofibroblast đóng vết thương
+
+::conslusion
+Chỉ có pha này mới vừa có biệt hoá, vừa có tạo mao mạch, vừa thái hoá các mô, chất nền ngoại bào
+::
 
 ### Pha lành sẹo: >2 tuần - 2 năm
 
@@ -121,8 +125,7 @@ Các yếu tố bất lợi cho lành vết thương:
 Chảy máu nơi tổn thương làm kéo dài lành vết thương
 – Các tế bào máu phải được dọn sạch
 – Fibrin phải được tái hấp thu
-– Dễ bị nhiễm trùng vết thương, sinh mủ → sẹo xấu,
-không lành
+– Dễ bị nhiễm trùng vết thương, sinh mủ → sẹo xấu, không lành
 
 Cắt lọc mô hoại tử và dị vật, rửa vết thương, kháng sinh
 
@@ -140,7 +143,7 @@ Rối loạn quá trình sắp xếp chất nền collagen (ở dưới, đùn l
 
 - Tạo collagen kém: các yếu tố dinh dưỡng (vitamin C, sắt, đồng, calcium…)
 - Bệnh Scorbut (thiếu vitamin C): tạo collagen kém → chậm lành vết thương
-- Tạo collagen quá mức > thoái hoá → sẹo lồi (keloid) hoặc sẹo phì đại (hypertropic scar)
+- Tạo ==collagen quá mức== > thoái hoá → ==sẹo lồi== (keloid) hoặc sẹo phì đại (hypertropic scar)
 
 Rối loạn quá trình biểu mô hoá – Biểu mô hoá bị ức chế bởi:
 

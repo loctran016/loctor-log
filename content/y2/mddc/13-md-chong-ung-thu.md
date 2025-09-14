@@ -36,7 +36,7 @@ Kháng nguyên virus: là sản phẩm của virus sinh ung
 
 ## Đáp ứng MD chống ung thư
 
-Cơ chế miễn dịch chủ yếu là CTL đặc hiệu với khối u, được khởi phát nhờ các APC, đặc biệt là TB tua gai, nhận diện các KN khối u.
+==Cơ chế miễn dịch chủ yếu là CTL đặc hiệu với khối u==, được khởi phát nhờ các APC, đặc biệt là TB tua gai, nhận diện các KN khối u.
 
 Các TB tua gai trình diện KN khối u trên MHC-I cho lympho TCD<sub>8</sub>+ ngây thơ trong các hạch bạch huyết → TCD<sub>8</sub>+ biệt hoá thành CTL, đồng thời trình diện cho lympho TCD4+ qua MHC-II.
 
@@ -77,10 +77,14 @@ TB ung thư ẩn mình khỏi hệ thống MD:
 - TB ung thư rất giống TB tự thân (không có PAMPs) → ko thu hút sự chú ý của hệ MD
 - Một số khối u ngừng biểu hiện MHC-I hoặc các phân tử tương tự (MICA & MICB) hay rối loạn trong quá trình lắp ráp MHC → không thể trình diện KN cho lympho TCD<sub>8</sub>+
 
-Các khối u còn ức chế hoạt động của hệ thống MD:
+Các khối u còn ức chế hoạt động của hệ thống MD bằng cách tiết các enzyme:
 
-- Ức chế sự hoạt hóa lympho T
-- Tiết enzyme làm giảm khả năng khởi phát ĐƯMD của TB tua gai hoặc quá trình tăng sinh của tế bào lympho T. VD: **men IDO** (indoleamine 2,3‐dioxygenase) tăng hoạt động trong TB ung thư gây thiếu tryptophan → giảm tăng sinh tế bào lympho T
+- ==Enzyme IDO== (indoleamine 2,3‐dioxygenase) gây thiếu tryptophan → giảm tăng sinh tế bào lympho T
+- ==FasL==: làm chết lympho T
+- ==RCAS1==: gắn lên thụ thể của lympho T & B, gây ức chế tăng sinh, apoptosis
+- ==PD-L1==: gắn lên PD-1 của lympho T, gây ức chế tăng sinh, apoptosis
+- Kích hoạt Treg, tăng số lượng ==CTLA-4==: ức chế CTL (TCD8+)
+<!-- - ==Enzyme CTLA4== -->
 
 ## Điều trị
 

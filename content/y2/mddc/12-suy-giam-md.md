@@ -22,27 +22,16 @@ Các bệnh do SGMD thích nghi:
 - HIV: gp41 (hoà) và gp120 (bám)
 ::
 
-## Đại cương
+## Suy giảm MD
 
 Cơ thể không đáp ứng hay đáp ứng yếu với VSV gây ra nhiễm trùng nặng
 
 Do các tổn thương nguyên phát hay thứ phát của 1 hay nhiều thành phần của hệ MD
 
-Phân loại: suy giảm MD bẩm sinh, MD mắc phải
-
-### Suy giảm MD bẩm sinh
-
-Do các đột biến gene, đôi khi do đột biến trong các giai đoạn phát triển
-
-### Suy giảm MD mắc phải
-
-Do các nguyên nhân môi trường gây ra như: nhiễm khuẩn, sau điều trị ung thư, suy dinh dưỡng, thuốc ƯCMD …
-
-Xảy ra bất cứ thời gian nào của cuộc đời, phụ thuộc vào lúc tiếp xúc với tác nhân gây bệnh
-
 Bệnh nhân tăng mức độ nhạy cảm với nhiễm vi sinh vật:
 
 - Nhiễm khuẩn mạn và lặp đi lặp lại
+- Nhiễm nấm Candida
 - Không đáp ứng với phác đồ kháng sinh chuẩn
 - Nhiễm khuẩn cơ hội: mấy con bình thường có lợi
 
@@ -50,7 +39,9 @@ Bệnh nhân cũng nhạy cảm với một số ung thư (nhất là các ung t
 
 Bệnh nhân SGMD cũng liên quan đến tăng tỷ lệ bệnh tự miễn ở BN
 
-## Suy giảm MD bẩm sinh
+Phân loại: suy giảm MD bẩm sinh, MD mắc phải
+
+### Suy giảm MD bẩm sinh
 
 Do đột biến ở 1 hoặc 2 gene
 
@@ -71,22 +62,12 @@ Tổn thương:
 - Số lượng/chất lượng của lympho B suy giảm
 - Lympho T thường không bị ảnh hưởng
 
-==Bệnh Bruton (Agammaglobulinemia LK X)==:
-
-- Đột biến BTK (Bruton’s tyrosine kinase)
-- Mất khả năng truyền tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành
-
 ### Dòng Lympho T
 
 Tổn thương:
 
 - Số lượng và chất lượng lympho T
 - Số lượng lympho B & sản xuất K
-
-==Hội chứng Di George==:
-
-- Mất vùng NST 22q11
-- Suy giảm nguyên phát ở cơ quan phát triển lympho T → không/ít lympho T
 
 ### Phối hợp nặng (SICD)
 
@@ -100,12 +81,6 @@ Gây ra:
 ### TB thực bào & bổ thể
 
 Tổn thương: các tế bào khác như TB thực bào, BC hạt trung tính
-
-==Bệnh Chédiak-Higash (u hạt mạn)==:
-
-- Tổn thương Lysosomal Trafficking protein: rối loạn hình thành & vận chuyển lysosome + các gốc oxy hoá để oxy hoá VK
-- Thiếu myeloperoxidase (MPO)
-- Liên kết NST X
 
 ### Chẩn đoán
 
@@ -146,6 +121,8 @@ Công nghệ di truyền:
 
 ## Suy giảm MD mắc phải
 
+Xảy ra bất cứ thời gian nào của cuộc đời, phụ thuộc vào lúc tiếp xúc với tác nhân gây bệnh
+
 Do khiếm khuyết trong hệ thống MD gây ra bởi các nhân tố môi trường trong đời sống:
 
 - Nguyên nhân thứ phát thường gặp ở các nước giàu: ung thư liên quan tuỷ xương (bệnh BC) & các phương pháp điều trị
@@ -154,7 +131,38 @@ Do khiếm khuyết trong hệ thống MD gây ra bởi các nhân tố môi tr�
 
 ![Nguyên nhân gây ra suy giảm MD thứ phát](/y2/mddc/12-ng-nhan-suygiam-md.jpeg)
 
-### Hội chứng HIV
+## ==Bệnh Bruton (Agammaglobulinemia LK X)==
+
+Liên kết NST X:
+
+- Đột biến BTK (Bruton’s tyrosine kinase)
+- Mất khả năng truyền tín hiệu từ thụ thể lympho B (tyrosine) → lympho B kém/không trưởng thành, ít KT
+
+Chẩn đoán:
+
+- Số lượng các KT giảm hàng loạt
+
+## ==Hội chứng Di George==
+
+Mất vùng NST 22q11 -> Chẩn đoán bằng việc dò 22q11
+
+Suy giảm =a=nguyên phát== ở cơ quan phát triển lympho T → không/ít lympho T
+
+Triệu chứng lâm sàng:
+
+- =r=Tứ chứng Fallot==, dị tật tim
+- Dị dạng khuôn mặt
+- Giảm sản tuyến ức, tuyến cận giáp...
+- Tâm thần
+
+## ==Bệnh Chédiak-Higash (u hạt mạn)==
+
+ Liên kết NST X
+
+- Tổn thương Lysosomal Trafficking protein: rối loạn hình thành & vận chuyển lysosome + các gốc oxy hoá để oxy hoá VK
+- Thiếu myeloperoxidase (MPO)
+
+## Hội chứng HIV
 
 Nhờ gp41 và gp120 mà virus HIV gắn vào thụ thể chemokine và **CD4** (không phải CD4L)
 

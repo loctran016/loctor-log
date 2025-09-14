@@ -46,27 +46,17 @@ Cần sự kết hợp: liều lượng, đường truyền và quy trình gây 
 
 Dung nạp MD sinh lí xảy ra đối với các VSV thường trú và thai nhi
 
-### VSV thường trú
-
-Khoảng 10<sup>14</sup> vi khuẩn, virus thường trú sống cộng sinh với con người. Mặc dù chúng được các tb lympho nhận diện nhưng lại được dung nạp qua *T điều hoà* (ngoại biên)
-
-Bệnh lao (gây ra bởi mtb - *mycobacterium tuberculosis*): thực nghiệm chứng minh rằng gia tăng tế bào lympho T chỉ gây tổn thương đến cơ thể mà không gây tổn hại gì cho Mtb
-
-### Thai nhi
-
-50% gene bố → KN xa lạ; thai nhi phát triển bình thường được là nhờ mẹ dung nạp MD
-
-Cơ chế:
-
-- Gene bố → T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
-- trình diện KN kém trong nhau thai
-- không tạo Th1 trong tử cung
-
 ## Dung nạp MD của lympho T
 
 Vai trò của T điều hoà là vô cùng quan trọng và chủ chốt đối với dung nạp MD trung ương & ngoại biên:
 
 ![Tế bào T điều hoà - Chức năng & phát triển](/y2/mddc/10-chuc-nang-t-dh.jpeg)
+
+
+Chia theo vị trí làm việc:
+
+- Trung ương: =c=nhận diện== KN tự thân
+- Ngoại biên: =c=đáp ứng, biệt hoá, tấn công== các KN tự thân
 
 ### Trung ương
 
@@ -119,6 +109,11 @@ Nhận diện KN tự thân mà thiếu yếu tốt đồng kích thích sẽ s�
 Bình thường KN bản thân không tạo kháng thể do thiếu Th và tế bào B
 
 Bệnh **LUPUS** là sự bất thường của lympho Th và lympho B
+
+Chia theo vị trí làm việc:
+
+- Trung ương: =c=nhận diện== KN tự thân
+- Ngoại biên: =c=đáp ứng, tạo KT== đối với KN tự thân
 
 ### Trung ương
 
@@ -186,3 +181,21 @@ Ví dụ: Bệnh thấp tim chất hexosamine có trong liên cầu tan huyết 
 ### 4. Đột biến *HLA*
 
 ### 5. Tổn thương *khả năng kiểm soát* của hệ MD
+
+## Tác nhân nhiễm bệnh cơ hội
+
+### VSV thường trú
+
+Khoảng 10<sup>14</sup> vi khuẩn, virus thường trú sống cộng sinh với con người. Mặc dù chúng được các tb lympho nhận diện nhưng lại được dung nạp qua *T điều hoà* (ngoại biên)
+
+Bệnh lao (gây ra bởi mtb - *mycobacterium tuberculosis*): thực nghiệm chứng minh rằng gia tăng tế bào lympho T chỉ gây tổn thương đến cơ thể mà không gây tổn hại gì cho Mtb
+
+### Thai nhi
+
+50% gene bố → KN xa lạ; thai nhi phát triển bình thường được là nhờ mẹ dung nạp MD
+
+Cơ chế:
+
+- Gene bố → T điều hoà (đặc hiệu cho KN bố) ở ngoại biên suốt thai kì
+- trình diện KN kém trong nhau thai
+- không tạo Th1 trong tử cung

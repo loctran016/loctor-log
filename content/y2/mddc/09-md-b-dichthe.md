@@ -13,7 +13,7 @@ Do tế bào lympho B tiết ra, do ngẫu nhiên và độc lập/đặc hiệu
 Đối xứng nhau qua trục dọc, chữ Y, bao gồm 2 phần:
 
 - Chuỗi nhẹ (L - light): Kappa (60%) và Lamda (40%), thành V**L** và C**L**
-- Chuỗi nặng (H - heavy): γ, δ, ε, μ, α - tương ứng với 5 lớp kháng thể, cuộn thành V**H**, C**H**1, C**H**2, C**H**3 (IgM và IgE có thêm C**H**4)
+- Chuỗi nặng (H - heavy): γ, δ, ε, μ, α - tương ứng với 5 lớp kháng thể, cuộn thành V**H**, C**H**1, C**H**2, C**H**3 (=a=IgM và IgE== có thêm C**H**4)
 
 Cuộn lại thành các domain, chia thành:
 
@@ -27,11 +27,13 @@ Cuộn lại thành các domain, chia thành:
 Các lớp kháng thể:
 
 - IgA: α - 4 Fab
-  - Miễn dịch niêm mạc (A - hàng rào đầu)
+  - Miễn dịch niêm mạc (A - hàng rào đầu), chủ yếu ở ==hô hấp, tiêu hoá==
   - KT tại chỗ ở mọi nơi có dịch tiết, dịch nhầy
+  - Nếu giảm số lượng có thể gây ra =a=nhiễm trùng tại niêm mạc== (VD: nhiễm trùng đường hô hấp, phổi tái đi tái lại)
 - IgG: γ - 2 Fab
   - Chiếm 2/3 KT, có mặt ở khắp mọi nơi, là kháng tể truyền được qua nhau thai
   - Bán huỷ trong 21-23 ngày, có FcRN bảo vệ thì lâu hơn
+  - Thiếu sẽ gây =c=nhiễm trùng nặng lan toả==
 - IgE: ε - 2 Fab (epsilon)
   - Gắn với TB Mast → Quá mẫn tức thì
 - IgM: μ - 10 Fab (mu) - pentamore (5 chữ Y)
@@ -59,9 +61,30 @@ Có 4 chức năng chính của mảnh Fab:
     - Opsonin và thực bào qua trung gian KT (ĐTB)
     - Độc TB qua trung gian KT (TB NK)
 
-![Một epitop cũng có thể kết hợp với một hay nhiều vị trí kết hợp KN của các phân tử KT khác nhau](/y2/mddc/9-phan-ung-cheo-1-epitop.jpeg)
+![1 epitop -> một hay nhiều vị trí kết hợp KN của các phân tử KT khác nhau](/y2/mddc/9-phan-ung-cheo-1-epitop.jpeg)
 
-![Một KT nhất định có thể kết hợp với một hay nhiều epitop có cấu hình không gian tương tự](/y2/mddc/9-phan-ung-cheo-1-KT.jpeg)
+![Phản ứng chéo: một KT -> nhiều epitop có cấu hình không gian tương tự](/y2/mddc/9-phan-ung-cheo-1-KT.jpeg)
+
+<!-- markdownlint-disable MD018 -->
+::badge{type="quiz"}
+
+#title
+MCQ:
+
+#default
+
+Tiêm vaccine của phế cầu chỉ chứa 13 type của *S.pneumoniae* nhưng sau khi tiêm ngừa lại sinh MD chống lại 100 type khác nhau
+
+A. Có epitop giống nhau
+B. Phản ứng chéo
+
+Đáp án: B vì:
+
+- Đã chia type nghĩa là có sự khác biệt đáng kể về epitop
+- Phản ứng chéo: nhấn mạnh đến việc ==1 KT -> nhiều KN==
+::
+
+
 
 ### Mảnh Fc (crystalline fragment) - đầu hằng định
 
@@ -115,18 +138,20 @@ KN được vận chuyển đến nang lympho:
 - KN nhỏ : qua mạch BH hướng tâm, khuếch tán
 - KN lớn: được ĐTB hoặc TB tua gai vận chuyển
 
+=> KN có kích thước =a=trung bình== sẽ gây ra đáp ứng MD mạnh nhất
+
 Một số KN chưa được xử lý bởi APC.
 
 ![KN hoạt hoá lympho B](/y2/mddc/9-kn-hoat-hoa-lym-b.jpeg)
 
 Biến đổi chức năng của lympho B sau khi hoạt hoá:
 
-- Tăng sinh để gia tăng số lượng tế bào đặc hiệu với KN
+- Tăng sinh (gia tăng số tế bào đặc hiệu với KN)
 - Tổng hợp nhiều IgM hơn (pha sớm của miễn dịch dịch thể)
-- Tăng biểu lộ các phân tử đồng kích thích B7 → các tín hiệu thứ hai để hoạt hoá lympho T (bắt cặp CD28).
-- Biểu hiện CD27 (tương tác với CD70 trên lympho T) → tăng sinh, biệt hoá lympho B và giúp cái **B trí nhớ** tồn tại dài lâu
-- Tăng biểu lộ của các thụ thể dành cho các cytokine do tế bào lympho T tiết ra.
-- Giảm số lượng thụ thể dành cho các chemokine để giữ các tế bào lympho B ở lại trong các nang lympho.
+- ==Tăng biểu lộ B7== → bắt cặp CD28 -> các tín hiệu thứ hai để hoạt hoá lympho T.
+- Biểu hiện ==CD27== (tương tác với CD70 trên lympho T) → tăng sinh, biệt hoá lympho B và giúp cái **B trí nhớ** tồn tại dài lâu
+- Tăng biểu lộ của các ==thụ thể dành cho các cytokine== do tế bào lympho T tiết ra.
+- Giảm số lượng thụ thể dành cho các ==chemokine== để giữ các tế bào lympho B ở lại trong các nang lympho.
 
 Như vậy để phân biệt B naive và B trưởng thành, có thể dựa vào 2 thụ thể B7 và C27 chỉ có mặt trên lympho B trưởng thành
 

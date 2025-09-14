@@ -38,7 +38,7 @@ Quá mẫn type I:
 
 BC ái kiềm vẫn có tính chất tương tự Mast nên IgE cũng sẽ có tác động tương tự
 
-Phân loại Quá mẫn type I làm 4 mức:
+Phân loại Quá mẫn type I làm 4 độ:
 
 1. Dị ứng: 1 cơ quan (chủ yếu là da) → mễ đay, ngứa, phù mạch. Dị ứng đối với các KN thông thường
 2. Phản ứng phản vệ:  huyết áp có thể giao động không đáng kể, >= 2 trong 4 cơ quan bị ảnh hưởng:
@@ -128,3 +128,11 @@ Thuốc kháng Histamine ức chế H1 và H2 (10 min là bùng nổ histamine, 
 tryp lên nóc khoảng tầm 1h rồi xuống dần đến 4h
 
 Shock phản vệ kéo dài: ở lại trong khoa cấp cứu
+
+## Bộ Y tế
+
+Sốc PV là tình trạng =c=nặng nhất== của phản vệ
+
+Hộp thuốc chống sốc cần có tờ in hướng dẫn của bộ Y Tế
+
+Chỉ tiêm adrenalin khi phản vệ độ 2 trở lên
