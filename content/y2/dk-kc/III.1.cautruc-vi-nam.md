@@ -66,23 +66,40 @@ Chú thích:
 | N-linked mannan | MR | TF, IL-1betaN |
 | beta-1,3-glucan | Dectin 1 | IL-10, IL-2, IL-23, IL-6 |
 
-### Cryptococcus Neoformans
+## ==*Cryptococcus Neoformans*==
 
-Gây ra bệnh viêm màng não, chích từ dịch não tuỷ
+Gây ra bệnh =p=viêm màng não==, chích từ dịch não tuỷ
+
+Đặc biệt:
+
+- Thành TB có thêm =r=melanin==
+- Có thêm bao nang Muco-polysaccharide (*xylomannan*), =r=không bị nhuộm bởi mực tàu==
+
+=> Người ta hoà mực tàu, nang có 99% là nước (cùng chiết quang với dịch não tuỷ) nên bình thường không nhìn thấy. Hoà mực tàu vào thay đổi độ chiết quang của dịch não tuỷ bằng dịch tàu, không thấm màng nên vẫn thấy vi nấm
 
 Bao nang bao gồm:
 
 - GXM và GalXM (2 thành phần chính trong sinh hoá): quyết định tính sinh MD, kháng lại sự thực bào,…
-- Nước (thành phần chính VL)
+- Nước 99%
+- Khi kí sinh bên trong ký chủ thì bao nang sẽ dày lên
 
-Sự khác nhau của glucuronoxylomanna phụ thuộc vào **tỉ lệ** mannose, xylose, glucuronic acid -> Chia thành 5 type
+Sự khác nhau của =r=glucurono/xylo/manna== phụ thuộc vào **tỉ lệ** mannose, xylose, glucuronic acid -> Chia thành 5 type: A, B, C, D, AD.
+<!-- markdownlint-disable MD018 -->
+::badge{type="quiz"}
+#title
+Câu hỏi: Khi trộn đều dịch não tuỷ của bệnh nhân trộn đều với mực tàu sẽ thấy rõ tế bào hạt men có vách dày bao quanh
+#default
+Bao nang bao quanh tế bào nấm không bị ngấm mực tàu
+::
 
-## Sợi tơ nấm (Hypha)
+## Quan sát
 
- Gồm nhiều tế bào nấm:
+### Sợi tơ nấm (Hypha)
 
-- sợi nấm có vách ngăn (có lỗ nhỏ để trao đổi chất qua lại giữa các TB)
-- sợi nấm trong suốt (k có vách ngăn): gom vô 1 cục
+Sợi nấm gồm nhiều tế bào nấm nối với nhau, khi TB vi nấm ăn đủ hết dinh dưỡng sẽ tạo bào tử, tạo thế hệ sau bám sát bên thế hệ trước -> sợi nấm:
+
+- Có vách ngăn: vẫn có lỗ nhỏ để trao đổi chất qua lại giữa các TB
+- Không có vách ngăn: sợi nấm trong suốt, gom vô 1 cục
 
 ### Thể tơ nấm (Mycelium)
 
@@ -92,9 +109,9 @@ Nhiều sợi tơ nấm -> thể tơ nấm
 
 Đại thể
 
-Nhìn được dưới mắt thường, tương tự như khuẩn lạc (1 bộ lạc đồng bộ với nhau)
+Nhìn được dưới mắt thường, tương tự như khuẩn lạc (1 bộ lạc đồng bộ với nhau), gồm các sợi tơ nấm và thể tơ nấm
 
-## Lây lan
+## Lây lan & di chuyển
 
 ### Bào tử đính
 
@@ -128,11 +145,11 @@ Sinh ống mầm (candida amican)
 
 Vừa có dạng hạt men vừa có dạng sợi (vi nấm dị hình)
 
-## HT biến hình
+### HT biến hình
 
 Mất hình ảnh đặc trưng cảu vi nấm khi ta cấy tới cấy lui do một số vi nấm chỉ tạo bào tử ở lần cấy đầu tiên -> cấy lần sau không nhận diện được, vi nấm ngoài da)
 
-## Ký sinh nội bào
+### Ký sinh nội bào
 
 Nằm trong ĐTB, theo dòng máu đi khắp cơ thể mà không thể nhận diên
 
