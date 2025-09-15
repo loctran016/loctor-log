@@ -115,13 +115,19 @@ Nhìn được dưới mắt thường, tương tự như khuẩn lạc (1 bộ 
 
 ## Lây lan & di chuyển
 
-### Bào tử đính
+### Bào tử đính (Conidia)
 
-Bào tử đính lớn, đính nhỏ
+Chia thành bào tử đính lớn, đính nhỏ dựa trên kích thuốc so với sợi tám
+
+Là phương thức sinh sản vô tính vốn thường gặp ở vi nấm
 
 Sợi nấm tạo bào tử, phần lớn các vi nấm y học sinh sản vô tính (nên gọi là đính):
 
-- Tương tự cây, mọc đầy nhóc, rồi thành cái bông bể bùm phát tán bào tử (ở bào đài)
+Tương tự cây, mọc đầy nhóc, rồi thành cái bông bể bùm phát tán bào tử (ở bào đài)
+
+### Bào tử đốt
+
+Nhất là các vi nấm gây bệnh ngoài da, khi ăn hết chất dd trên da thì mỗi tb sẽ co lại (thay vì dính thành 1 sợi), tách ra thành hình chữ nhất -> khúc đốt (tương tự cắt, cắm cành)
 
 ### Bào tử phong Mucor
 
@@ -131,21 +137,31 @@ Tạo bào tử gom lại trong cái cục tròn tròn gọi là phong, vỡ ra 
 
 Liên quan nhiều đến vi nấm ngoại sinh
 
-### Bào tử đốt
-
-Nhất là các vi nấm gây bệnh ngoài da, khi ăn hết chất dd trên da thì mỗi tb sẽ co lại (thay vì dính thành 1 sợi), tách ra thành hình chữ nhất -> khúc đốt (tương tự cắt, cắm cành)
 
 ## Nấm hạt men
 
+Có 2 hình dạng thường gặp: hạt men và sợi tơ
+
 Sinh sản bằng cách nảy búp, tách ra thành 2 tế bào.
 
-Nếu phát triển mạnh thì nảy búp liên tục, gắn liên tục tạo thành sợi tơ nấm **giả** (oval nối oval tương tự như tràng hạt, có cái chỗ thắt, ngăn cắt giữa 2 TB  -> khác sợi dây của sợi tơ nấm thật)
+Nếu phát triển mạnh thì nảy búp liên tục, gắn liên tục tạo thành ==sợi tơ nấm giả== (oval nối oval tương tự như tràng hạt, có cái chỗ thắt, ngăn cắt giữa 2 TB  -> khác sợi dây của sợi tơ nấm thật)
 
-Sinh ống mầm (candida amican)
+Sợi tơ nấm thật: đều 2 bên, ở chỗ thắt lại sẽ *tách ra* thành vi nấm hạt men
+
+### *Candida albicans* - sinh ống mầm
+
+Ủ huyết thành 37<sup>o</sup>C trong 3h, nếu là Candida sẽ phát triển thành ống mầm
+
+Bao tử bao dày
 
 ## Vi nấm nhị độ
 
-Vừa có dạng hạt men vừa có dạng sợi (vi nấm dị hình)
+Vừa có dạng hạt men vừa có dạng sợi (vi nấm dị hình):
+
+- Ở nhiệt độ phòng (24<sup>o</sup>C): sợi -> hạt men
+- Ở 37oC: hạt men -> sợi
+
+Ba loại vi nấm nhị độ thường gặp ở Việt Nam: *Talaromyces marneffeii*, *Histoplasma capsulatum*, *Sporothrix schenkii*
 
 ### HT biến hình
 
@@ -172,6 +188,14 @@ Một số vi nấm y học - nội tạng:
 - *Penicillium*: tạo KS
 - *Mucor*
 
+### Dinh dưỡng:
+
+- Ngoại hoại sinh: ngoài môi trường
+- Nội hoại sinh: niêm mạc, đường ruột ()
+- Thượng hoại sinh: ở ngoài da (lớp thượng bì, không gây bệnh)
+- Ký sinh:
+- Cơ hội: hoại sinh, khi cơ thể bị suy giảm MD -> ký sinh
+
 ### Nuôi cấy
 
 SDA: peptone, dextrose, agar (carbohydrates) - môi trường cơ bản, cần nhiều dinh dưỡng hơn là BHI
@@ -183,3 +207,21 @@ Cấy ở đâu cũng mọc, nhưng ở SDA mới nhìn rõ, nhận diện đư�
 CHROAgar: lên màu khác nhau giữa cái vi nấm - Candida
 
 Czapeck dox agar: lên màu giữa các aposolis
+
+### Cách thức sinh sản
+
+Dựa vào đặc điểm hình thái học (đặc điểm sinh sản, bào tử) để định danh vi nấm
+
+Vô tính (chủ yếu):
+
+- Nứt đôi
+- Nảy búp, sợi tơ nấm giả
+- Bảo tử đính: lớn, nhỏ
+- Bào tử đốt
+- Bào tử bao dày: những chỗ phình ra ở đầu, giữa sợi tơ nấm
+
+Hữu tính:
+
+- Bào tử túi
+- Bào tử tiếp hợp
+- Bào tử đảm
