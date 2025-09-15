@@ -25,7 +25,9 @@ Chức năng:
 - Bảo vệ và duy trì hình dạng: giúp nhuộm, soi và bảo quản vi nấm dễ hơn so với virus, VK
 - Gắn các protein xuyên/bám màng: liên quan đến cơ chế bệnh sinh >< cơ chế hệ MD nhận diện vi nấm
 
-Glucan: beta-1,4-glucose và beta-1,6-glucose
+Glucan: 
+- beta-1,3-glucose: chuỗi chính
+- beta-1,6-glucose: nhánh phụ, trừ *Pneumocystic*, bào tử *Aspergillus*, còn lại vi nấm nào cũng có
 
 Chitin: chuỗi polymer beta(1,4)N-acetyl-beta-glucosamine (một số vi nấm khác dùng chitosan) -> soi trực tiếp vi nấm với KOH (thấy được lớp sừng bên trong)
 
@@ -83,7 +85,8 @@ Bao nang bao gồm:
 - Nước 99%
 - Khi kí sinh bên trong ký chủ thì bao nang sẽ dày lên
 
-Sự khác nhau của =r=glucurono/xylo/manna== phụ thuộc vào **tỉ lệ** mannose, xylose, glucuronic acid -> Chia thành 5 type: A, B, C, D, AD.
+Sự khác nhau của =r=glucurono/xylo/manna== phụ thuộc vào **tỉ lệ** mannose, xylose, glucuronic acid -> Chia thành 5 type; trong đó A, B gây bệnh phổ biến ở Việt Nam.
+
 <!-- markdownlint-disable MD018 -->
 ::badge{type="quiz"}
 #title
@@ -159,7 +162,7 @@ Bao tử bao dày
 Vừa có dạng hạt men vừa có dạng sợi (vi nấm dị hình):
 
 - Ở nhiệt độ phòng (24<sup>o</sup>C): sợi -> hạt men
-- Ở 37oC: hạt men -> sợi
+- Ở 37<sup>o</sup>C: hạt men -> sợi (=a=gây bệnh trong cơ thể người==)
 
 Ba loại vi nấm nhị độ thường gặp ở Việt Nam: *Talaromyces marneffeii*, *Histoplasma capsulatum*, *Sporothrix schenkii*
 
@@ -173,9 +176,7 @@ Nằm trong ĐTB, theo dòng máu đi khắp cơ thể mà không thể nhận d
 
 ## Đặc điểm sinh học CB
 
-Vi nấm ngoại hoại sinh (môi trường), nội hoại sinh (nội tạng), thượng HS (da) - tương tự vi khuẩn cơ hội
-
-Dùng cách sinh sản để định tên vi nấm, chủ yếu là vô tính (hoặc có thể có cả 2)
+Dùng cách sinh sản để định tên vi nấm, chủ yếu là vô tính (hoặc có thể có cả 2), phát tán bằng =a=bào tử==
 
 Một số vi nấm y học - ngoài da:
 
@@ -188,7 +189,11 @@ Một số vi nấm y học - nội tạng:
 - *Penicillium*: tạo KS
 - *Mucor*
 
-### Dinh dưỡng:
+### Dinh dưỡng
+
+Cần nhiệt độ, **độ ẩm** và carbohydrate
+
+Không cần ánh sáng mặt trời (không có khả năng quang hợp) nhưng vẫn có thể sống ở môi trường nghèo dinh dưỡng 
 
 - Ngoại hoại sinh: ngoài môi trường
 - Nội hoại sinh: niêm mạc, đường ruột ()
@@ -198,7 +203,9 @@ Một số vi nấm y học - nội tạng:
 
 ### Nuôi cấy
 
-SDA: peptone, dextrose, agar (carbohydrates) - môi trường cơ bản, cần nhiều dinh dưỡng hơn là BHI
+SDA: peptone, dextrose, agar (carbohydrates) - môi trường =a=kinh điển==
+
+BHI: vi nấm cần nhiều dinh dưỡng hơn
 
 BACTEC: môi trường vi khuẩn,
 
