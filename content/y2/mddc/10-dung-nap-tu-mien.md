@@ -52,7 +52,6 @@ Vai trò của T điều hoà là vô cùng quan trọng và chủ chốt đối
 
 ![Tế bào T điều hoà - Chức năng & phát triển](/y2/mddc/10-chuc-nang-t-dh.jpeg)
 
-
 Chia theo vị trí làm việc:
 
 - Trung ương: =c=nhận diện== KN tự thân

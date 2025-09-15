@@ -12,12 +12,6 @@ const route = useRoute();
 const slug = route.params.slug;
 const subject = route.params.subject;
 const year = route.params.year;
-// const relativeSlug = slug.split("/").slice(-3);
-const { data: subjects } = await useAsyncData(
-  `home`,
-  () => queryCollection("json").where("stem", "=", `${year}/index`).first()
-  //   queryCollection("json").where("path", "LIKE", "/y2/%").first()
-);
 
 const { data: post } = await useAsyncData(`content-${slug}`, () => {
   return queryCollection("content")
@@ -35,8 +29,7 @@ useSeoMeta({
 <template>
     <p class="text-sm lg:text-base dark:text-gray-200 font-bold mb-6 ml-6 xl:ml-8 mt-4 text-slate-900 hover:text-slate-950 hover:dark:text-white group tracking-wide ">
         <NuxtLink :to="`/${year}/${subject}`" class="flex items-center gap-2 max-w-1/2 w-max cursor-pointer">
-            <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon>
-            {{ subjects?.data[`${subject}`]?.name }}</NuxtLink></p>
+            <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon></NuxtLink></p>
     <div class="mx-auto text-center" v-if="post">
         <h1 class="font-[Montserrat] max-w-[80vw] font-bold text-2xl lg:text-4xl mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>

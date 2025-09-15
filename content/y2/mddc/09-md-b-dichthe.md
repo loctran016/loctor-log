@@ -86,8 +86,6 @@ B. Phản ứng chéo
 - Phản ứng chéo: nhấn mạnh đến việc ==1 KT -> nhiều KN==
 ::
 
-
-
 ### Mảnh Fc (crystalline fragment) - đầu hằng định
 
 Mảnh FC quyết định 4 tính chất của kháng thể:
