@@ -19,7 +19,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <div>
+  <!-- <div>
     <ul class="mb-10">
       <li v-for="post in posts.children" :key="post.id">
         <PostCard>
@@ -29,11 +29,9 @@ useSeoMeta({
                 {{ post.title }}
               </h2>
               <p class="italic mb-2">{{ post.date }}</p>
-              <!-- <p>{{ year }}/{{ subject }}</p> -->
-            </div>
           </NuxtLink>
         </PostCard>
       </li>
     </ul>
-  </div>
+  </div> -->
 </template>
