@@ -2,6 +2,7 @@
 import NotFound from "~/components/NotFound.vue";
 import { useDateFormat } from '@vueuse/core'
 import Giscus from '@giscus/vue';
+import { findPageHeadline } from '@nuxt/content/utils'
 
 definePageMeta({
   layout: "blog",
@@ -13,12 +14,23 @@ const slug = route.params.slug;
 const subject = route.params.subject;
 const year = route.params.year;
 
+const path = `/${year}/${subject}/${slug}`
+
 const { data: post } = await useAsyncData(`content-${slug}`, () => {
   return queryCollection("content")
-    .path(`/${year}/${subject}/${slug}`)
+    .path(path)
     .where("draft", "=", false)
     .first();
 });
+
+// const { data: queryNav } = await useAsyncData(`content-${path}`, () =>
+//   queryCollectionNavigation("content",['title','date','path','icon','tags','category'])
+//     .where("path", "LIKE", `${path}%`)
+// );
+
+// console.log(queryNav.value)
+
+// const headline = findPageHeadline(queryNav.value, path)
 
 useSeoMeta({
   title: post.value?.title,
@@ -29,7 +41,7 @@ useSeoMeta({
 <template>
     <p class="text-sm lg:text-base dark:text-gray-200 font-bold mb-6 ml-6 xl:ml-8 mt-4 text-slate-900 hover:text-slate-950 hover:dark:text-white group tracking-wide ">
         <NuxtLink :to="`/${year}/${subject}`" class="flex items-center gap-2 max-w-1/2 w-max cursor-pointer">
-            <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon></NuxtLink></p>
+            <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon>{{ headline }}</NuxtLink></p>
     <div class="mx-auto text-center" v-if="post">
         <h1 class="font-[Montserrat] max-w-[80vw] font-bold text-2xl lg:text-4xl mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>

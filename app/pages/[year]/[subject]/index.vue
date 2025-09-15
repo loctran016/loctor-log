@@ -10,15 +10,15 @@ const route = useRoute();
 const year = route.params.year;
 const subject = route.params.subject;
 
-const { data: queryDatas } = await useAsyncData(`content-${year}`, () =>
+const { data: queryNav } = await useAsyncData(`content-${year}`, () =>
   queryCollectionNavigation("content",['title','date','path','icon','tags','category'])
     .where("path", "LIKE", `/${year}/${subject}%`)
     .where("draft", "=", false)
 );
 
-const posts = findPageChildren(queryDatas.value,`/${year}/${subject}`)
-const headline = findPageHeadline(queryDatas.value, posts[0].path)
-const headlineIcon: string = <string>queryDatas.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
+const posts = findPageChildren(queryNav.value,`/${year}/${subject}`)
+const headline = findPageHeadline(queryNav.value, posts[0].path)
+const headlineIcon: string = <string>queryNav.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
 
 type CategoryKey = 'bv' | 'tbl' | 'cls' | 'lab';
 type CategoryData = {
