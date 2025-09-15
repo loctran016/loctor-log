@@ -14,17 +14,5 @@ export default defineContentConfig({
         category: z.enum(['bv','tbl','cls','lab']).optional()
       }),
     }),
-    json: defineCollection({
-      type: "data",
-      source: "**/*.json",
-      schema:z.object({
-          data: z.record(z.string(), z.object({
-              name: z.string(),
-              color: z.enum(['black','red', 'blue', 'green', 'purple', 'pink', 'slate', 'gray', 'zinc', 'neutral', 'stone', 'orange', 'amber', 'yellow', 'lime', 'emerald', 'teal', 'cyan', 'sky', 'indigo', 'violet', 'fuchsia', 'rose']),
-              startDate: z.string().optional(),
-              endDate: z.string().optional(),
-        }))
-      })
-    }),
   },
 });
