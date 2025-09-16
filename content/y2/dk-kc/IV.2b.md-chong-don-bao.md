@@ -32,8 +32,8 @@ Hàng rào các tế bào và bổ thể
 - BC đa nhân, đại thực bào: ROS, NO -> thực bào
 
 ==E.histolytica tại gan==
-– TLRs/ tế bào Kupffer nhận diện -> sản xuất cytokine: IL-1β và IL-18 gây viêm và thu hút BC đa nhân, đại thực bào
-– E. histolytica kích hoạt NLRP3/tế bào Kupffer và đại thực bào -> IL-1β và IL-18
+- TLRs/ tế bào Kupffer nhận diện -> sản xuất cytokine: IL-1β và IL-18 gây viêm và thu hút BC đa nhân, đại thực bào
+- E. histolytica kích hoạt NLRP3/tế bào Kupffer và đại thực bào -> IL-1β và IL-18
 
 ### MD thích nghi
 
@@ -69,7 +69,7 @@ Biến đổi kháng nguyên
 Hàng rào thể chất
 
 - Tính nhạy cảm của hồng cầu với KST sốt rét:
-– Duffy (-): ↓ Plasmodium vivax
+    - Duffy (-): ↓ Plasmodium vivax
 - Tính nhạy cảm của hồng cầu với KST sốt rét: Bệnh hồng cầu hình liềm: ↓ Plasmodium falciparum
 - Đặc hiệu loài: Trong huyết thanh người có yếu tố trypanolytic chống lại Trypanosoma brucei brucei – tác nhân gây bệnh ngủ ở động vật
 
