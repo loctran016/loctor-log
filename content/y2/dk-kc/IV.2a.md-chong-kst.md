@@ -1,5 +1,5 @@
 ---
-title: Bài IV.2 - Đáp ứng miễn dịch chống KST
+title: Bài IV.2a - Đáp ứng miễn dịch chống KST
 date: 2025-09-11
 tags: ['KST']
 ---

@@ -25,7 +25,8 @@ Chức năng:
 - Bảo vệ và duy trì hình dạng: giúp nhuộm, soi và bảo quản vi nấm dễ hơn so với virus, VK
 - Gắn các protein xuyên/bám màng: liên quan đến cơ chế bệnh sinh >< cơ chế hệ MD nhận diện vi nấm
 
-Glucan: 
+Glucan:
+
 - beta-1,3-glucose: chuỗi chính
 - beta-1,6-glucose: nhánh phụ, trừ *Pneumocystic*, bào tử *Aspergillus*, còn lại vi nấm nào cũng có
 
@@ -140,7 +141,6 @@ Tạo bào tử gom lại trong cái cục tròn tròn gọi là phong, vỡ ra 
 
 Liên quan nhiều đến vi nấm ngoại sinh
 
-
 ## Nấm hạt men
 
 Có 2 hình dạng thường gặp: hạt men và sợi tơ
@@ -193,7 +193,7 @@ Một số vi nấm y học - nội tạng:
 
 Cần nhiệt độ, **độ ẩm** và carbohydrate
 
-Không cần ánh sáng mặt trời (không có khả năng quang hợp) nhưng vẫn có thể sống ở môi trường nghèo dinh dưỡng 
+Không cần ánh sáng mặt trời (không có khả năng quang hợp) nhưng vẫn có thể sống ở môi trường nghèo dinh dưỡng
 
 - Ngoại hoại sinh: ngoài môi trường
 - Nội hoại sinh: niêm mạc, đường ruột ()

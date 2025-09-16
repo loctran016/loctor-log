@@ -10,18 +10,23 @@ Hệ MD chỉ nhận diện được các vi nấm bên ngoài còn các vi nấ
 
 ### MD bẩm sinh
 
-1. Hàng rào vật lí
+Hàng rào vật lí
+
 - Phản xạ hắt hơi: rất thường gặp ở vi nấm
-- Tế bào lông chuyển, màng nhầy ở niêm mạc 
+- Tế bào lông chuyển, màng nhầy ở niêm mạc
 - Nhiệt độ: vi nấm thường phát triển tốt ở 25 - 35°C (vì vậy số lượng vi nấm gây bệnh ở người - 37°C là rất ít)
-2. Hàng rào hoá học 
+
+Hàng rào hoá học
+
 - pH thấp ở da, niêm mạc, âm đạo, dịch dạ dày
 - Các lysozym trong nước bọt, nước mắt, dịch âm đạo
 - Các acid béo không bão hòa trên da
 - Sắt và các kim loại nặng trong máu: cao sẽ hạn chế sự phát triển của vi nấm
 - **Hệ thống bổ thể**: opsonin hoá và kích hoạt phản ứng viêm
-3. Hàng rào vi sinh vật: quan hệ cạnh tranh giữa các vi khuẩn, vi nấm thường trú ngăn cản vi nấm ngoại lai phát triển quá mạnh
-4. Hàng rào tế bào: các TB MDBS
+
+Hàng rào vi sinh vật: quan hệ cạnh tranh giữa các vi khuẩn, vi nấm thường trú ngăn cản vi nấm ngoại lai phát triển quá mạnh
+
+Hàng rào tế bào: các TB MDBS
 
 ### MD thích nghi
 
@@ -37,7 +42,7 @@ Giảm gammaglobulin (immunoglobulin - chủ yếu là IgG): không phải yếu
 
 - *Cryptococcus neoformans*: ứng dụng lâu dài
 - *Talaromyces marneffei*: ký sinh thật sự, có kháng thể là chắc chắn (mới gần đây)
-- *Aspergillus sp*, *Candida*: bình thường cũng có hoại sinh, giá trị chẩn đoán thấp 
+- *Aspergillus sp*, *Candida*: bình thường cũng có hoại sinh, giá trị chẩn đoán thấp
 
 ## MD qua trung gian tế bào
 
@@ -48,25 +53,25 @@ Vai trò quan trọng hầu hết các vi nấm: *C.neoformans*, nấm nhị hì
 - HIV/AIDS
 - Lymphoma
 - Sarcoidosis
-- Thuốc: Corticosteroides, Cyclophosphamide, Azathioprine 
+- Thuốc: Corticosteroides, Cyclophosphamide, Azathioprine
 
 ### Th1 và Th2
 
 Biệt hoá theo dạng nào phụ thuộc vào: dòng vi nấm và =a=con đường xâm nhập== của vi nấm
 
 - *Candida albicans*:
-	- Tiêu hoá: Th1
-	- Tĩnh mạch: Th2
+  - Tiêu hoá: Th1
+  - Tĩnh mạch: Th2
 - *Aspergillus sp.*:
-	- Bào tử: Th1
-	- Sợi nấm: Th2
+  - Bào tử: Th1
+  - Sợi nấm: Th2
 Th1 (tiết IL-2 và IFN-gamma) kích hoạt ĐTB, CTL, NK diệt vi nấm =a=kí sinh nội tế bào trong ĐTB==
 
 Th2: lympho B, dị ứng do IgE, liên quan đến TB mast hay eosinophil
 
 ### Th17
 
-Ký sinh ngoại bào: 
+Ký sinh ngoại bào:
 
 - BCTT qua trung gian IL-17
 - Tế bào thượng bì: IL-22
@@ -76,9 +81,10 @@ Ký sinh ngoại bào:
 ### Dị ứng
 
 Dị ứng vi nấm do hít phải:
+
 - Qua IgE có vai trò trong cơn hen
 - IgE, IgG kháng vi nấm: viêm xoang mũi mạn tính
- 
+
 ## *Cryptococcus*
 
 Cơ chế chính là gây độc qua ==trung gian MD tế bào==: Đáp ứng KT không có tính bảo vệ, nhưng giúp opsonin hoá, giúp các TB thực bào
