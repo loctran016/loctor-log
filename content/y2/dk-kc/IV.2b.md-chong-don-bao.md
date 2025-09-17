@@ -14,7 +14,7 @@ Các vị trí ký sinh của đơn bào:
 
 Sự xuất hiện KT đối với đơn bào khác nhau so với KST, con đường ==Th1==:
 
-- Tăng IgG: 
+- Tăng IgG:
 - Không đổi: IgE và Eosinophil
 
 ## Chống đơn bào đường ruột
@@ -34,6 +34,7 @@ Hàng rào các tế bào và bổ thể
 => Lan rộng ở đáy
 
 ==E.histolytica tại gan==
+
 - TLRs (chủ yếu TLR3) của tế bào Kupffer nhận diện -> IL-1β và IL-18 gây viêm và thu hút BC đa nhân, đại thực bào
 - E. histolytica kích hoạt NLRP3/tế bào Kupffer và đại thực bào -> IL-1β và IL-18
 
@@ -68,8 +69,8 @@ IgG: Nồng độ KT không tương quan với MD bảo vệ của cơ thể đ�
 Hàng rào thể chất:
 
 - Tính nhạy cảm của hồng cầu với KST sốt rét:
-    - KN Duffy (-): ↓ *P.vivax* bám lên và xâm nhập vào hồng cầu
-	- Bệnh hồng cầu hình liềm (tăng O<sub>2</sub> thì biến thành hình liềm): ↓ *Plasmodium falciparum* , vừa ít nơi để đơn bào phát triển, mà dễ bị ĐTB phát hiện, bắt giữ
+  - KN Duffy (-): ↓ *P.vivax* bám lên và xâm nhập vào hồng cầu
+    - Bệnh hồng cầu hình liềm (tăng O<sub>2</sub> thì biến thành hình liềm): ↓ *Plasmodium falciparum* , vừa ít nơi để đơn bào phát triển, mà dễ bị ĐTB phát hiện, bắt giữ
 - Đặc hiệu loài: Trong huyết thanh người có yếu tố trypanolytic chống lại Trypanosoma brucei brucei  (tác nhân gây bệnh ngủ ở động vật)
 
 Ở châu Phi, CLTN làm tăng tỉ lệ KN Duffy (-), còn lại đáng quan tâm: *Plasmodium falciparum*
@@ -124,21 +125,21 @@ IgM và IgG dương: xét nghiệm lặp lại trong 2 - 3 tuần, nhiễm gần
 
 ### Các cơ chế né tránh đáp ứng miễn dịch
 
-**Mặt nạ kháng nguyên**: Các loài Trypanosoma rũ bỏ kháng nguyên bề mặt tự do hoặc đã gắn kháng thể và tự tạo ra một lớp vỏ mới
+<u>Mặt nạ kháng nguyên:</u> Các loài Trypanosoma rũ bỏ kháng nguyên bề mặt tự do hoặc đã gắn kháng thể và tự tạo ra một lớp vỏ mới
 
-**Chặn các yếu tố huyết thanh**
+<u>Chặn các yếu tố huyết thanh</u>
 
-**Vị trí ký sinh nội bào**: các đơn bào trên tránh được tác động của kháng thể hoặc miễn dịch tế bào
+<u>Vị trí ký sinh nội bào:</u> các đơn bào trên tránh được tác động của kháng thể hoặc miễn dịch tế bào
 
 - KST sốt rét ở hồng cầu, tế bào gan
 - Leishmania, Toxoplasma ký sinh ở đại thực bào
 
-**Biến đổi kháng nguyên**: 1 số đơn bào có khả năng thay đổi kháng nguyên bề mặt của chúng
+<u>Biến đổi kháng nguyên:</u> 1 số đơn bào có khả năng thay đổi kháng nguyên bề mặt của chúng
 
 - Các loài Trypanosoma
 - KST sốt rét
 
-**Ức chế miễn dịch**:
+<u>Ức chế miễn dịch:</u>
 
 - Kiểm soát mức độ sản xuất các cytokines: enzyme GP63 (Leishmania sp.) giảm sản xuất các cytokine IL-1β và IL-18
 - Thúc đẩy đáp ứng Th2 thay vì Th1: ít hiệu quả trong việc tiêu diệt KST (Leishmania sp.)

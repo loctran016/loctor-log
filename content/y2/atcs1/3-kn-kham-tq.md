@@ -48,7 +48,7 @@ Mậch, HA, nhịp thở, nhiệt độ
 
 Dụng cụ cần thiết
 
-Khám vùng đầu mặt cổ bao gồm: vùng đầu mặt (đầu, mắt, tai, mũi, họng) và vùng cổ (tuyến giáp, hạch). 
+Khám vùng đầu mặt cổ bao gồm: vùng đầu mặt (đầu, mắt, tai, mũi, họng) và vùng cổ (tuyến giáp, hạch).
 
 Khi thực hiện thăm khám, phải tuân thủ các bước
 nhìn, sờ, gõ, nghe. Tuy nhiên, có những vị trí đầu mặt cổ, chúng ta chỉ có thể
@@ -62,17 +62,17 @@ Tư thế thầy thuốc: Khởi đầu =a=bên phải người bệnh==.
 
 ### Đầu
 
-+ Tóc: ghi nhận số lượng, phân bố, kiểu dạng tóc và kiểu mất tóc. Khám
+- Tóc: ghi nhận số lượng, phân bố, kiểu dạng tóc và kiểu mất tóc. Khám
 có thể thấy gàu bám từng mảng trên da đầu.
-+ Da đầu: quan sát vảy da đầu, các u, sắc tố hay các tổn thương trên da
+- Da đầu: quan sát vảy da đầu, các u, sắc tố hay các tổn thương trên da
 đầu.
-+ Hộp sọ: quan sát kích thước tổng thể và các đường cong của hộp sọ.
+- Hộp sọ: quan sát kích thước tổng thể và các đường cong của hộp sọ.
 Ghi nhận bất kỳ dị dạng, các chỗ u, chỗ lõm của hộp sọ. Phải học nhận
 biết các dạng không điển hình của hộp sọ bình thường, như chỗ nối
 giữa xương đỉnh và xương chẩm. Gợi ý: Hộp sọ to có thể là biểu hiện của não úng thủy hoặc bệnh Paget xương. Sau chấn thương đầu, có thể sờ thấy chỗ xương lõm.
-+ Mặt: ghi nhận các biểu cảm và đường cong của mặt. Quan sát tính đối
+- Mặt: ghi nhận các biểu cảm và đường cong của mặt. Quan sát tính đối
 xứng, các cử động tự ý, phù và các khối vùng mặt.
-+ Da vùng mặt: quan sát và ghi nhận màu sắc, sắc tố, độ dày, phân bố
+- Da vùng mặt: quan sát và ghi nhận màu sắc, sắc tố, độ dày, phân bố
 lông và các tổn thương vùng mặt.
 
 ### Mắt
@@ -84,11 +84,11 @@ mắt nhô ra, cần phải khám thêm để tìm tổn thương
 - Lông mày: quan sát lông mày, ghi nhận độ rậm, độ phân bố, và vảy ở vùng da
 bên dưới (nếu có).
 - Mí mắt: ghi nhận vị trí mi mắt so với nhãn cầu, cần quan sát:
-	- Độ rộng khe mi
-	- Phù mi
-	- Màu sắc mi mắt
-	- Vết thương
-	- Hướng của lông mi
+  - Độ rộng khe mi
+  - Phù mi
+  - Màu sắc mi mắt
+  - Vết thương
+  - Hướng của lông mi
 
 Một tay giữ mặt, 1 tay kéo mắt xuống, 1 tay giơ ngón tay kéo lên để bệnh nhan hướng mắt lên trên -> phản xạ đồng tử
 
@@ -99,9 +99,9 @@ xung quanh. Nếu tai đau, xuất tiết hay viêm, cần kéo vành tai lên t
 dưới, ấn vào bình tai và ấn vào phía sau lỗ tai để xác định.
 - Ống tai và màng nhĩ: Để khám ống tai và màng nhĩ cần phải dùng đèn soi tai. Phải tư thế đầu cho bệnh nhân để có thể dễ dàng quan sát bằng đèn soi tai. Để làm thẳng ống tai, cần kéo nhẹ và chắc vành tai lên phía trên - ra sau và hơi tách nhẹ khỏi đầu. Giữ đèn soi tai giữa ngón cái và các ngón còn lại, tựa nhẹ tay lên mặt bệnh nhân. Đưa nhẹ nhàng đèn soi vào ống
 tai hướng xuống dưới và ra trước.
-	- Quan sát ống tai: ghi nhận dịch tiết, dị vật, đỏ da và phù nề. Ráy tai, với
+  - Quan sát ống tai: ghi nhận dịch tiết, dị vật, đỏ da và phù nề. Ráy tai, với
 nhiều màu sắc, có thể cản trở tầm quan sát của người khám.
-	- Quan sát màng nhĩ: ghi nhận màu sắc và các đường cong.
+  - Quan sát màng nhĩ: ghi nhận màu sắc và các đường cong.
 
 ### Mũi
 
@@ -114,6 +114,7 @@ mũi và mở rộng lỗ mũi. Dùng đèn sáng hoặc đèn soi mũi quan sá
 đối xứng và biến dạng của mũi.
 
 Sờ:
+
 - Khám đánh giá tắc nghẽn mũi: Lần lượt ấn vào mỗi bên lỗ mũi và nói bệnh nhân hít vào.
 - Sờ các xoang: Ấn vào xoang trán ở vùng xương trán, tránh ấn vào hốc mắt. Ấn xoang hàm trên ở vùng gò má.
 
@@ -145,6 +146,7 @@ bề mặt. Bỏ que đè lưỡi sau khi đã sử dụng.
 Hạch bạch huyết nổi lên thấy hạch -> nhiễm mạn tính
 
 Dưới đây là các vị trí hạch vùng cổ cần được khám (Hình 8):
+
 - Hạch trước tai
 - Hạch sau tai: nông trên xương chũm
 - Hạch chẩm: vùng nền sọ sau

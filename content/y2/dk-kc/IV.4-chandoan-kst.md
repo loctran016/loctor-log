@@ -12,6 +12,7 @@ Lấy bệnh phẩm:
 – Lọ đựng: khô, sạch
 – Không lấy phân lẫn với nước tiểu
 – Lượng: # 10g (đầu ngón tay trỏ)
+
 - Lấy vừa đủ
 
 Thời gian xét nghiệm phân:
@@ -20,8 +21,8 @@ Thời gian xét nghiệm phân:
 – Để chủ động: dùng dung dịch cố định phân (Làm bất kỳ lúc nào)
 
 Dung dịch cố định phân thường dùng:
-- F2AM: Formol, Phenol, Alcol, Xanh Methylene
 
+- F2AM: Formol, Phenol, Alcol, Xanh Methylene
 
 ## Các kỹ thuật tìm ký sinh trùng trong phân
 
@@ -51,7 +52,7 @@ Chuẩn bị tiêu bản phân:
 
 ### Kỹ thuật tập trung KST trong phân
 
-Nhiều phân -> tăng khả năng phát hiện KST (tuỳ từng loại giun mà đẻ ít hay nhiều) 
+Nhiều phân -> tăng khả năng phát hiện KST (tuỳ từng loại giun mà đẻ ít hay nhiều)
 
 Mục đích: tách KST khỏi các
 chất cặn

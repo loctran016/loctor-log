@@ -1,6 +1,6 @@
 ---
 title: Bài 1 - Cơ chế sinh ung thư
-date: 2025-09-18
+date: 2025-09-24
 ---
 
 ## Các dạng tổn thương DNA và cơ chế sửa chữa
