@@ -80,12 +80,12 @@ useSeoMeta({
     text-underline-offset: 4px;
 }
 
-.post-wrapper ol {
+.post-wrapper ol li {
  list-style-type: decimal;
 }
 
 
-.post-wrapper ul {
+.post-wrapper ul li {
  list-style-type: disc;
 }
 
