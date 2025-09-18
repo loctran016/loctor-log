@@ -47,7 +47,7 @@ useSeoMeta({
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article class="post-content prose-wrapper prose-headings:font-[Montserrat] prose-headings:underline-offset-8 md:prose-xl  dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]">
+   <article class="post-content prose-wrapper prose-headings:font-[Montserrat] prose-headings:underline-offset-8 md:prose-xl  dark:prose-invert mx-auto mb-14 dark:text-gray-100">
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
