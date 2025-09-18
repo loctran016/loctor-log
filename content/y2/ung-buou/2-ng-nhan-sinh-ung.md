@@ -51,6 +51,10 @@ Xác định nguyên nhân sinh ung:
 Phân loại tác nhân sinh ung hóa học theo kiểu hoạt động:
 Gây độc gen và không gây độc gen
 
+### Tác động trên tế bào
+
+Gắn vào DNA là quan trọn nhất gây đột biến và tăng sinh TB
+
 ### Chất hóa học gây độc gen (genotoxic)
 
 - Phản ứng với DNA hoặc là chất chuyển hóa phản ứng với DNA
