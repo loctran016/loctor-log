@@ -43,11 +43,11 @@ useSeoMeta({
         <NuxtLink :to="`/${year}/${subject}`" class="flex items-center gap-2 max-w-1/2 w-max cursor-pointer">
             <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon>{{ headline }}</NuxtLink></p>
     <div class="mx-auto text-center" v-if="post">
-        <h1 class="font-[Montserrat] max-w-[80vw] font-bold text-2xl lg:text-4xl mx-auto">{{ post.title }}</h1>
+        <h1 :class="$device.isTablet ? 'text-3xl lg:text-4xl':'text-2xl lg:text-4xl'" class="font-[Montserrat] max-w-[80vw] font-bold  mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article class="post-wrapper prose prose-headings:font-[Montserrat] prose-headings:underline-offset-8 md:prose-xl lg:prose-lg dark:prose-invert mx-auto mb-14 dark:text-gray-100">
+   <article class="post-wrapper prose prose-headings:font-[Montserrat] prose-headings:underline-offset-8 dark:prose-invert mx-auto mb-14 dark:text-gray-100" :class="$device.isTablet ? 'md:prose-xl':'lg:prose-lg'" >
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
