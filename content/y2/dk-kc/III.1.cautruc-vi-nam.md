@@ -54,6 +54,12 @@ Melanin là cấu trúc đặc biệt chỉ gặp ở 3 vi nấm là ==*Cryptocc
 | ==*Cryptococcus*== | GalXM, GXM thuộc bao nang | =c=nấm hạt men=, có melanin, có bao nang nên bự |
 | ==*Histoplasma capsulatum*== & ==*Blastomyces dermatitidis*== | alpha-1,3-glycan | | -->
 
+Tóm tắt vài điểm đặc biệt:
+
+- Có melanin: *Cryptococcus* và *Aspergillus*
+- Thiếu beta-1,6-glucan: *Aspergillus*
+- Thiếu chitin: chỉ có ở *Pneumocystic* (thiếu lun enzyme tạo chitin và dùng cholesterol)
+
 Chú thích:
 
 - GAG: *Galactos*aminoglycan
@@ -117,8 +123,6 @@ Nhiều sợi tơ nấm -> thể tơ nấm
 
 Nhìn được dưới mắt thường, tương tự như khuẩn lạc (1 bộ lạc đồng bộ với nhau), gồm các sợi tơ nấm và thể tơ nấm
 
-## Lây lan & di chuyển
-
 ### Bào tử đính (Conidia)
 
 Chia thành bào tử đính lớn, đính nhỏ dựa trên kích thuốc so với sợi tám
@@ -168,7 +172,7 @@ Ba loại vi nấm nhị độ thường gặp ở Việt Nam: *Talaromyces marn
 
 ### HT biến hình
 
-Mất hình ảnh đặc trưng cảu vi nấm khi ta cấy tới cấy lui do một số vi nấm chỉ tạo bào tử ở lần cấy đầu tiên -> cấy lần sau không nhận diện được, vi nấm ngoài da)
+Mất hình ảnh đặc trưng của vi nấm khi ta cấy tới cấy lui do một số vi nấm chỉ tạo bào tử ở lần cấy đầu tiên -> cấy lần sau không nhận diện được, vi nấm ngoài da)
 
 ### Ký sinh nội bào
 

@@ -11,7 +11,9 @@ Dựa vào hình dạng, sán được chia làm 2 lớp:
 - Sán dải (cestoda): thân dẹp, có đốt
 - Sán lá (trematoda): thân dẹp, hình lá, không có đốt. Phân thành 2 nhóm: sán là thật sự và sán máng
 
-## Đặc điểm cấu trúc vi thể
+## Đặc điểm chung
+
+### Vi thể
 
 Cấu tạo bên ngoài gồm 5 lớp (từ ngoài -> trong):
 
@@ -49,7 +51,7 @@ Cơ quan nội tạng bên trong (không có cơ quan =r=tiêu hoá==, tuần ho
   - Đốt trưởng thầnh: bê đê
   - Đốt già: cái
 
-## Đặc điểm cấu trúc đại thể
+### Đại thể
 
 Chiều dài:
 
@@ -76,10 +78,37 @@ Gồm các thành phần
   - *T. saginata*: Chiều dài > 2,5-3 Chiều ngang
   - *D. latum*: Chiều dài < Chiều ngang
 
-## Đặc điểm sinh học
+### Sinh học
 
-## Đặc điểm dịch tễ
+### Dịch tễ
 
-## Phương pháp chẩn đoán bệnh sán dải
+### Chẩn đoán
 
-## Biện pháp phòng chống sán dải
+### Phòng chống sán dải
+
+## ==*Diphyllobotherium latum*== (sán dải cá)
+
+## ==*Taenia solium*== (sán dải bò), ==*Taenia saginata*== (heo)
+
+Ấn trong cơ:
+
+- Bò: lưỡi
+- Heo: thịt
+
+Taenia solium
+
+## AT sán dải heo
+
+Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
+
+- Ăn phải ấu trùng: vào ruột và trưởng thành 
+- Ăn phải trứng, đốt sán: vào máu rồi trưởng thành AT
+
+Thường di chuyển và gây bệnh cho =p=não==:
+
+- Não thất
+	- Não thất 4
+	- Não thất 3
+	- Não thất bên
+- Khe Sylvius
+- Mạch máu nã
