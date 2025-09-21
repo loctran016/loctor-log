@@ -115,7 +115,7 @@ useSeoMeta({
               <p class="flex items-center mr-2">
                 <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl row-start-2"/> {{ transformDate(post.date) }}</span>
                 <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
-                    <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
+                    <li v-for="tag in post.tags" class="underline underline-offset-4 flex-shrink-0 w-max self-end"># {{ tag }}</li>
                 </ul>
                 <LazyIcon v-if="isNotDefaultTagsOnly" name="material-symbols-light:bookmarks-rounded" class="ml-2 text-lg lg:text-xl" />
             </p>

@@ -69,8 +69,9 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 
 ### Vi khuẩn kị khí
 
-*Clostridium*: có chữ clo ở đầu -> kị khí
-
+*Clostridium*:
+- Có chữ clo ở đầu -> kị khí
+- Kị khí -> ít dám đi (sợ O<sub>2</sub>) => không gây nhiễm trùng máu, thường phát triển và tiết độc tại chỗ
 *Clostridium botulinum*: ngộ độc đồ hộp
     - Liệt cơ: vùng đầu mặt, sau đó đến cơ hô hấp => suy hô hấp => khó, ngưng thở
 
@@ -118,6 +119,41 @@ Interferon
 
 HPV
 
+### Virus đậu mùa (Variola)
+
+Lây qua đường hô hấp, chủ yếu vào mùa đông
+
+Người là kí chủ duy nhất
+
+Vaccine:
+
+- Virus đậu vaccine: mất độc tính
+- Virus đậu mùa: còn tính độc
+
+Có chung KN nucleoprotein giữa virus lên nhiễm trên người và động vật
+
+::conclusion
+Nhiễm một lần là chống tái nhiễm hoàn toàn (nhiễm 1 loài và chống lại được cả họ)
+::
+
+### Herpesvirus (bệnh thuỷ đậu, zona)
+
+Varicella gây bệnh thuỷ đậu -> ẩn trong cơ thể. Khi gặp điều kiện thích hợp thì thành Zoster gây bệnh Zời leo
+
+Vaccine hiệu quả ngừa thuỷ đậu
+
+### Adenovirus
+
+Sức đề kháng chống lại virus này tương đối bền vững (không có màng bọc)
+
+Gây bệnh: viêm mắt, đường hô hấp... nhưng không gây nguy hiểm đến tính mạnh
+
+Vaccine: chỉ dùng khi có nguy cơ lây lan mà thôi
+
+### Virus khác
+
+Parvoviruses gây bệnh cho người: <i>virus B19</i>
+
 ## Vi nấm
 
 ### PAMPs
@@ -153,6 +189,22 @@ Vi nấm nhị độ:
 
 - Ngoài môi trường: dạng sợi
 - Trong tế bào: =a=dạng nấm men==
+
+### Lang ben
+
+Lấy bệnh phẩm:
+
+- Dùng dao phẫu thuật cạo nhẹ vùng nhiễm nấm =a=sáng màu==
+- Dùng băng keo trong
+- Phết ấn mô
+
+### Candida
+
+Giai đoạn đầu
+
+### Lác đồng tiền
+
+Trung tâm trắng láng, bờ gồ cao, đỏ tiến triển ra ngoài
 
 ## Kí sinh trùng
 
