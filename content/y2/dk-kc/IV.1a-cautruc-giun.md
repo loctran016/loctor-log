@@ -4,10 +4,13 @@ date: 2025-09-12
 tags: ['KST']
 ---
 
+<!-- markdownlint-disable MD018 MD024 -->
 <br>
 
 ::badge
+
 #title
+
 Thông tin chính của giun
 
 #default
@@ -18,21 +21,20 @@ Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler 
 - g.Mỏ (*==Necator americanus==*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
 - g.Móc (*==Ancylostoma duodenale==*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
 - g.Lươn (*==Strongyloides stercoralis==*): mê ấm, ẩm ->
-	- Leo lên cây vào buổi sáng 
-	- Phương pháp Barrman
-	- Đau rát thượng vị, <u>nóng rát</u>, tiêu chảy phân lỏng <u>như nước</u>
+  - Leo lên cây vào buổi sáng
+  - Phương pháp Barrman
+  - Đau rát thượng vị, <u>nóng rát</u>, tiêu chảy phân lỏng <u>như nước</u>
   - Tự nhiễm: AT1 ẩn nhẫn lại trong ruột non
 
 Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 
-- g.Tóc (*==Trichuris trichiura==*): lỵ do giun 
+- g.Tóc (*==Trichuris trichiura==*): lỵ do giun
 - g.Kim (*==Enterobius vermicularis==*): ruột thừa + ban đêm chui ra ngoài nếp hậu môn -> ngứa đít
- 
+
 AT Giun kí sinh ở mô cơ, giun trưởng thành kí sinh ở ruột non:
 
 - g.Xoắn (*==Trichinella spiralis==*)
 ::
-
 
 ## Đặc điểm cơ bản của giun
 
@@ -60,9 +62,9 @@ Giun kí sinh ở ruột non (=r=AsAS==):
 
 Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 
-- g.Tóc (*==Trichuris trichiura==*): 
+- g.Tóc (*==Trichuris trichiura==*):
 - g.Kim (*==Enterobius vermicularis==*): ruột thừa + ban đêm chui ra ngoài nếp hậu môn
- 
+
 AT Giun kí sinh ở mô cơ, giun trưởng thành kí sinh ở ruột non:
 
 - g.Xoắn (*==Trichinella spiralis==*)

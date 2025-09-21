@@ -23,7 +23,6 @@ Cứt xịn số 2 không ai dám số 1 -> soi cứt/đàm tìm trứng
 
 Chỉ có sán lá lớn ở ruột không ảnh hưởng hệ MD -> dẹp cả ELISA và eosinophil. Còn lại thì eosinophil đều tăng (sán lá lớn ở gan tăng mạnh nhất -> có cả ELISA)
 
-
 ### Biện pháp phòng chống sán lá
 
 ## Chu trình đời sống và lây nhiễm của sán lá

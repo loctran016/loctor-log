@@ -20,12 +20,12 @@ Thường thì ở thuỳ trái của gan
 
 Chẩn đoán phù hợp: dựa trên dịch tễ, LS, cận LS
 
-Dịch tễ: vừa trở về từ vùng dịch tễ, chung xe với người bệnh nhiễm 
+Dịch tễ: vừa trở về từ vùng dịch tễ, chung xe với người bệnh nhiễm
 
 Lâm sàng (triệu chứng khi hỏi bệnh, thăm khám): đau thượng vị và ngày càng trầm
 trọng hơn trong khoảng thời gian 4 tuần. Sốt, vã mồ hôi
 
-Cận lâm sàng: 
+Cận lâm sàng:
 
 - Số lượng bạch cầu 13.800/ µL (
 - Eosinophil: 400/µL (tăng nhẹ, có thể do nhiễm VSV khác)

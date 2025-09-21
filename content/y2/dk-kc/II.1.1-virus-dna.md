@@ -29,8 +29,6 @@ Tổn thương các hệ cơ quan:
 
 ## HBV - viêm gan siêu vi B, C
 
-## Adenovirus 
+## Adenovirus
 
 ## Các yếu tố độc lực trong cơ chế bệnh sinh
-
-

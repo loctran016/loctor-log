@@ -101,14 +101,14 @@ Taenia solium
 
 Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
 
-- Ăn phải ấu trùng: vào ruột và trưởng thành 
+- Ăn phải ấu trùng: vào ruột và trưởng thành
 - Ăn phải trứng, đốt sán: vào máu rồi trưởng thành AT
 
 Thường di chuyển và gây bệnh cho =p=não==:
 
 - Não thất
-	- Não thất 4
-	- Não thất 3
-	- Não thất bên
+  - Não thất 4
+  - Não thất 3
+  - Não thất bên
 - Khe Sylvius
 - Mạch máu nã

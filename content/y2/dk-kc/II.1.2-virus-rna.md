@@ -6,7 +6,6 @@ tags: ['Virus']
 
 ## Giới thiệu
 
-
 ## Các virus RNA gây bệnh ở người
 
 1. Picornavirus: Poliovirus, HAV
@@ -26,5 +25,3 @@ tags: ['Virus']
 15. Reovirus (dsRNA): Rotavirus
 
 ## Virus sốt xuất huyết
-
-

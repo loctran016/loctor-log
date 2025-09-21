@@ -11,7 +11,6 @@ Quan tâm chính:
 - *P.falciparum*: sốt rét ác tính
 - *P.vivax*: có thể ngủ ở gan -> tái phát xa
 
-
 Phân loại thuốc kháng KST sốt rét:
 
 - Thuốc dự phòng: dự phòng, ngăn ngừa cơn sốt rét cấp, chỉ ngăn chặn biểu hiện lâm sàng, nhưng vẫn bị nhiễm (KST vẫn ở gan)
@@ -124,8 +123,8 @@ Cơ chế:
 
 - Qua được hàng rào máu não, dùng để điều trị giun hệ thống
 - Sinh khả dụng cao, nhất là khi ăn no, nhiều chất béo:
-    - Uống lúc đói: điều tị tại chỗ (đường ruột)
-    - Uống lúc no: điều trị hệ thống
+  - Uống lúc đói: điều tị tại chỗ (đường ruột)
+  - Uống lúc no: điều trị hệ thống
 
 =p=Mebendazole== - Fugacar sổ giun: Sinh khả dụng thấp -> uống lúc nào cũng được
 
