@@ -1,7 +1,7 @@
 ---
 title: Ôn tập thi GK
 date: 2025-09-22
-tags: [‘Vi khuẩn’,‘Virus’,‘Vi nấm’,‘KST’]
+tags: ['Vi khuẩn','Virus','Vi nấm','KST']
 ---
 
 ## Vi khuẩn
