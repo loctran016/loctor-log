@@ -10,20 +10,25 @@ tags: ['Vi khuẩn','Virus','Vi nấm','KST']
 
 *Staphyloccoci aureus*: gây tán huyết
     - **Catalase**: chống lại gốc oxy hoá tự do của hệ MD -> đặc trưng
-    - *Coagulase*: gây đông máu, đặc trưng của *S.aureus*
+    - =a=*Coagulase*==: gây đông máu, đặc trưng của *S.aureus*
     - Độc tố ruột TSST
-*Streptococci*
-*Streptococcus pneumoniae*
+
+*Streptococci*: sợ -> ức chế hệ bổ thể
+    - Cơ chế chung của bệnh hậu nhiễm (sau khi nhiễm): phản ứng KN-KT gây tổn thương mô, TB
+
+*Streptococcus pneumoniae*:
+    - Gây độc bằng =a=nang ức chế khả năng thực bào==
 
 ### Cầu khuẩn Gram âm
 
-*Neisseria gonorrhoeae*: lậu cầu, gây bệnh lậu
+*Neisseria gonorrhoeae*: song cầu Gram âm gây bệnh lậu
     - Dễ chết ngoài môi trường -> chỉ lây qua đường tình dục
     - Chữa cho nam thì nhớ chữa cho nữ luôn (bạn tình)
     - Ở trẻ em gây viêm kết mạc
 *Neisseria meningitidis*: viêm não mô cầu (lây qua đường hô hấp):
     - Xuất hiện tử ban -> tử vong sau vài giờ
     - Người là ký chủ tự nhiên
+    - Cực kỳ sợ bổ thể -> <u>sialic acid</u> ức chế hệ thống =a=bổ thể==
 
 ### Trực khuẩn Gram âm
 
@@ -32,16 +37,17 @@ tags: ['Vi khuẩn','Virus','Vi nấm','KST']
     - KN O, H, K
     - Oxidase (-)
     - Catalase (+)
+    - Pili
 *Shigella*:
     - KN K, O
     - Nội độc tố LPS
     - Ngoại độc tố shiga toxin -> lỵ do trực trùng
-*Pseudomonas aeruginosa*:
+*Pseudomonas aeruginosa*: trực khuẩn =a=mủ xanh==
     - Extoxin A
     - Oxidase (+)
     - Catalase (+)
 
-KN O: lypopolysaccharide -> độc lực, độc tố
+KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm
 
 KN H: KT kháng KN IgG, chiêm mao
 
@@ -55,7 +61,7 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 
 ### *Chlamydiae*
 
-=a=Kí sinh nội bào bắt buộc
+=a=Kí sinh nội bào bắt buộc== -> Không dùng các KS tiêu diệt màng peptidoglycan (như Penicillin, Vancomycin...)
 
 *Chlamydiae trachomatis*: đau mắt hột do lây nhiễm trực tiếp
 
@@ -91,6 +97,8 @@ Penicillin:
 
 Gentamycin: dùng liều cao 1 lần/ngày
 
+KS dự phòng: =r=trước khi phơi nhiễm==, chỉ mang tính tạm thời -> không dùng để điều trị đối với BN suy giảm MD
+
 Xơ gan -> chọn thuộc thải nhờ thận: Vancomycin, Penicillin
 
 Suy thận -> chọn thuộc thải qua gan: Macrolides, Clindamycin
@@ -103,6 +111,12 @@ Giết chết tế bào bằng cách: ức chế phiên mã tạo protein của 
 
 - Vi khuẩn: ồ ạt hơn, đùng đùng đùng
 - Virus: nhẹ nhàng hơn, biểu hiện thường ít rõ ràng
+
+Lệch hay trôi KN
+
+Interferon
+
+HPV
 
 ## Vi nấm
 
@@ -129,6 +143,16 @@ Chú thích:
 - GXM: Glucuronoxylomannan
 - GalXM: *Galacto*xylomanna
 
+### *Cryptococcus neoformans*
+
+Bao nang gồm GXM và GalXM dày -> ức chế khả năng thực bào, hệ thống bổ thể -> Hệ thống KT đặc hiệu kháng GXM và GalXM sẽ tác dụng mạnh mẽ
+
+### Cấu trúc đặc biệt
+
+Vi nấm nhị độ:
+
+- Ngoài môi trường: dạng sợi
+- Trong tế bào: =a=dạng nấm men==
 
 ## Kí sinh trùng
 
@@ -139,8 +163,8 @@ Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler 
 - g.Đũa (*Ascris lumbricoides*)
 - g.Mỏ (*Necator americanus*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
 - g.Móc (*Ancylostoma duodenale*):
-    - Hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
-    - Huỷ KT và lấy Fc của KT để nguỵ trang
+  - Hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
+  - Huỷ KT và lấy Fc của KT để nguỵ trang
 - g.Lươn (*Strongyloides stercoralis*): mê ấm, ẩm ->
   - Leo lên cây vào buổi sáng
   - Phương pháp Baerman
@@ -151,10 +175,7 @@ Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE):
 
 - g.Tóc (*Trichuris trichiura*): lỵ do giun
 - g.Kim (*Enterobius vermicularis*): ruột thừa + ban đêm chui ra ngoài nếp hậu môn -> ngứa đít
-
-AT Giun kí sinh ở mô cơ, giun trưởng thành kí sinh ở ruột non:
-
-- g.Xoắn (*Trichinella spiralis*)
+  - Phương pháp Graham: lấy băng dính trong hậu môn buổi sáng
 
 ### Sán lá
 
@@ -184,11 +205,13 @@ Sán trưởng thành sống ở:
 
     - Cây thuỷ sinh (rau muống, xà lách son): sán lá lớn (cây -> lớn )
     - Tôm cua (<u>P</u>iển): *<u>P</u>aragonimus spp* (<u>p</u>hổi)
-    - <u>C</u>á *<u>C</u>yprinidae* : *<u>C</u>.sinesis* (cá -> nhỏ gan)
+    - <u>C</u>á *<u>C</u>yprinidae* : *<u>C</u>.sinesis* (cá -> nhỏ gan) => sử dụng cầu tiêu cá tăng khả năng lây nhiễm
 
 *Fasciola* sp: nang trùng -> tá tráng -> **xuyên thành ruột** -> gan: lớn, ăn nhiều nên gây áp xe gan, eosin tăng -> =p=ống mật: viêm, sỏi ống mật
 
-*Fasciola* sp: tá tráng -> ngược lên =p=ống mật: =p=tắc ống mật -> gan: nhỏ nên ăn từ từ xơ gan tắc mật
+*C. sinensis* sp: tá tráng -> ngược lên =p=ống mật: =p=tắc ống mật -> gan: nhỏ nên ăn từ từ xơ gan tắc mật
+
+Sán lá
 
 ## Sán máng
 
@@ -212,9 +235,9 @@ Không thành nang trùng nha, phải gặp nước mới tồn tại, phát tri
 *Diphyllobotherium latum* (sán dải cá):
 
 - Cá lớn nuốt cá bé: kí chủ chờ thời
-- Gây mất máu bằng:
-    - Hấp thu B12, B9
-    - approx. Lysolecithine: tiêu huyết
+- Gây =a=thiếu máu hồng cầu to== bằng:
+  - Hấp thu B12, B9
+  - approx. Lysolecithine: tiêu huyết
 
 *Taenia solium* (sán dải bò)
 
@@ -229,8 +252,6 @@ Gạo heo, bò (ấu trùng sán dải heo, bò) nằm trong cơ:
 
 Từ lúc phơi nhiễm (cả sán và AT): hẹn 8-10 tuần để xét nghiệm đảm bảo
 
-
-
 Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
 
 - Ăn phải ấu trùng: vào ruột và trưởng thành
@@ -239,7 +260,50 @@ Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
 
 ### Đơn bào
 
-- Chó, mèo: *Toxiplasma gondii* -> da
+#### *Giardia lambilia*
+
+#### *Plasmodium*
+
+*Plasmodium falciparum*: thiếu máu hồng cầu ác ính
+
+*Plasmodium vivax*:
+
+- Sốt cách nhật
+- Thể nhẫn cực kì nhiều
+
+Thuốc:
+
+- Artemisin: chúa, thuốc KS đầu tay diệt ở giai đoạn HC
+- Primaquine: diệt thể ngủ ở gan (gốc oxy hoá)
+- Quinine: tiêm khi BN bị sốt rét ác tính/phụ nữ có thai 3 tháng
+
+#### *Entamoeba histolytica*
+
+Thuốc diệt amip hệ thống: Metronidazole và Tinidazole
+
+### Khác
+
+*Balantidium coli*:
+
+- Là đơn bào lớn nhất
+- Là trùng <u>lông</u> -> trứng có lông
+
+*Naegleria fowleri*:
+
+- Sống tự do, sặc nước ao hồ bị nhiễm
+- Viêm màng não, chết liền
+
+Chó, mèo: *Toxiplasma gondii* -> da
+
+### Thuốc trị giun - sán
+
+Benzidimazoles:
+
+- Albendazole, Mebendazole: sổ giun bình thường
+- Thiabendazole: giun lươn, lava migrans
+- Triclabendazole: đặc hiệu với <u>sán lá</u>
+
+Invermectin: giun chỉ, giun lươn, lava migrans dưới da
 
 ## MD kháng VSV và nguyên tắc điều trị
 
