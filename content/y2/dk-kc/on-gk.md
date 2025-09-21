@@ -70,10 +70,11 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 ### Vi khuẩn kị khí
 
 *Clostridium*:
+
 - Có chữ clo ở đầu -> kị khí
 - Kị khí -> ít dám đi (sợ O<sub>2</sub>) => không gây nhiễm trùng máu, thường phát triển và tiết độc tại chỗ
 *Clostridium botulinum*: ngộ độc đồ hộp
-    - Liệt cơ: vùng đầu mặt, sau đó đến cơ hô hấp => suy hô hấp => khó, ngưng thở
+  - Liệt cơ: vùng đầu mặt, sau đó đến cơ hô hấp => suy hô hấp => khó, ngưng thở
 
 *Clostridium tetani*: uốn ván
     - Tetanopasmin: ức chế GABA và glycin gây co giựt
@@ -94,7 +95,7 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 
 ### Thuốc KS
 
-Penicillin:
+Penicillin: đảm bảo trên 50% liên tục
 
 Gentamycin: dùng liều cao 1 lần/ngày
 
@@ -136,13 +137,13 @@ Có chung KN nucleoprotein giữa virus lên nhiễm trên người và động 
 Nhiễm một lần là chống tái nhiễm hoàn toàn (nhiễm 1 loài và chống lại được cả họ)
 ::
 
-### Herpesvirus (bệnh thuỷ đậu, zona)
+### *Herpesvirus* (bệnh thuỷ đậu, zona)
 
 Varicella gây bệnh thuỷ đậu -> ẩn trong cơ thể. Khi gặp điều kiện thích hợp thì thành Zoster gây bệnh Zời leo
 
 Vaccine hiệu quả ngừa thuỷ đậu
 
-### Adenovirus
+### *Adenovirus*
 
 Sức đề kháng chống lại virus này tương đối bền vững (không có màng bọc)
 
@@ -150,9 +151,28 @@ Gây bệnh: viêm mắt, đường hô hấp... nhưng không gây nguy hiểm 
 
 Vaccine: chỉ dùng khi có nguy cơ lây lan mà thôi
 
+### *Hep<u>adn</u>virus (HBV)*
+
+Gây bệnh =a=viêm gan B==, tính KN:
+
+- HBsAg (s: surface): có là đang bị nhiễm HBV -> bề mặt/trong máu
+- HBcAg (c: core) chỉ hiện hiện trong tế bào gan
+- HBeAg (KN hoà tan): các enzyme (VD: DNA pol), cả trong máu -> sao chép mạnh, virus hoạt động mạnh, lây lan mạnh
+
+=> Phát hiện các KN trên hay các KT chống lại nó cũng có ý nghĩa tương tự
+
+- Anti-HBe: không còn là nguồn lây mạnh
+- Anti-HBs: nhiễm rồi khỏi/chích ngừa (phân biệt với nhau nhờ Anti-HBc total)
+- Anti-HBc total (cả IgM và IgG): đã/đang nhiễm
+- Anti-HBc IgM: đang nhiễm (IgM tồn tại ngắn)
+
+Genome dạng vòng, trong 7 genotype thì có A, B, C dễ ung thư gan
+
+Vaccine tái tổ hợp, kích thí
+
 ### Virus khác
 
-Parvoviruses gây bệnh cho người: <i>virus B19</i>
+*Parvoviruses* gây bệnh cho người: <i>virus B19</i>
 
 ## Vi nấm
 
@@ -190,7 +210,17 @@ Vi nấm nhị độ:
 - Ngoài môi trường: dạng sợi
 - Trong tế bào: =a=dạng nấm men==
 
-### Lang ben
+### Lang ben - *Malassezia furfur*
+
+Gây bệnh lang ben trên da thông qua cơ chế thuỷ phân triglyceride trên da -> các acid béo tự do vừa cung cấp chất dinh dưỡng cho vi nấm nhưng lại gây ngứa
+
+Bệnh chỉ ảnh hưởng đến thẩm mĩ
+
+Điều trị & ngăn ngừa:
+
+- Hạn chế ra mồ hôi (chứ không có dùng thuốc kháng nấm thường xuyên nha tr :smile: )
+
+Ngoài ra còn làm tăng hay giảm sắc tố tuỳ vị trí (tiếp xúc ánh sáng hay không)
 
 Lấy bệnh phẩm:
 
@@ -198,9 +228,21 @@ Lấy bệnh phẩm:
 - Dùng băng keo trong
 - Phết ấn mô
 
+### Vi nấm ngoài da
+
+### Aspergillus
+
+Xâm nhập qua đường hô hấp, nếu không bị thực bào sẽ phát triển thành dạng nấm sợi
+
+Xâm nhập vào <u>nhu mô phổi</u>, nám dính vào màng đáy của phế nang bằng cách gắn kết với fibrinogen và laminin của màng đáy
+
 ### Candida
 
-Giai đoạn đầu
+Giai đoạn đầu: gắn kết (chuyên biệt hoặc không) với mô là quan trọng nhất -> liên quan đến độc lực của vi nấm
+
+Thay đổi hình dạng, thay đổi KN -> trốn được hàng rào bảo vệ và thuốc kháng nấm
+
+Biến đổi từ dạng hạt men sang dạng sợi để gây bệnh
 
 ### Lác đồng tiền
 
@@ -366,3 +408,5 @@ Nếu BN sốt cao nhưng các dấu hiệu sinh tồn bình thường thì ch�
 =a=TNF== -> đầu tàu, tăng CRP, procalcitonin, BCTT tăng mạnh, giảm tiểu cầu
 
 Bị bệnh gì thì soi bệnh phẩm của bệnh đó là tốt nhất (VD: lao -> nhuộm acid kháng đàm)
+
+Chẩn đoán nhiễm khuẩn bằng việc định lượng procalcitonin
