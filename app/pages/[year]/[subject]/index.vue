@@ -112,7 +112,7 @@ useSeoMeta({
                   <LazyIcon  :class="categoryData[post.category as CategoryKey].class" class="text-2xl lg:text-3xl" :name="categoryData[post.category as CategoryKey].icon" />
                 </div>
                 <LazyIcon v-else class="text-xl lg:text-2xl absolute right-3 top-3" name="material-symbols-light:arrow-outward-rounded" />
-              <p class="flex items-center">
+              <p class="flex items-center mr-2">
                 <span class="italic mt-auto flex-shrink-0 flex items-center gap-1"><LazyIcon name="material-symbols-light:event-note-rounded" class="text-lg lg:text-xl row-start-2"/> {{ transformDate(post.date) }}</span>
                 <ul v-if="isNotDefaultTagsOnly" class="flex text-right flex-wrap flex-grow ml-auto justify-end">
                     <li v-for="tag in post.tags" class="underline underline-offset-4 flex-grow self-end"># {{ tag }}</li>
