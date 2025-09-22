@@ -25,6 +25,7 @@ tags: ['Vi khuẩn','Virus','Vi nấm','KST']
     - Dễ chết ngoài môi trường -> chỉ lây qua đường tình dục
     - Chữa cho nam thì nhớ chữa cho nữ luôn (bạn tình)
     - Ở trẻ em gây viêm kết mạc
+  
 *Neisseria meningitidis*: viêm não mô cầu (lây qua đường hô hấp):
     - Xuất hiện tử ban -> tử vong sau vài giờ
     - Người là ký chủ tự nhiên
@@ -82,7 +83,9 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 
 *Clostridium perfrigens*: vết thương chiến tranh/tai nạn GT => Hoại thư sinh hơi
 
-*Clostridium difficile=*: viêm đại tràng giả mạc
+*Clostridium difficile=*: 
+- Viêm đại tràng giả mạc
+- Gây bệnh bằng ngoại độc tố sau khi dùng KS kéo dài
 
 ### Vaccine
 
@@ -176,6 +179,8 @@ Vaccine tái tổ hợp, kích thí
 
 ## Vi nấm
 
+Vùng bẹn: tricophyton
+
 ### PAMPs
 
 | Vi nấm | PAMPs | Đặc biệt |
@@ -265,7 +270,7 @@ Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler 
   - Đau rát thượng vị, <u>nóng rát</u>, tiêu chảy phân lỏng <u>như nước</u>
   - Tự nhiễm: AT1 ẩn nhẫn lại trong ruột non
 
-Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE):
+Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 
 - g.Tóc (*Trichuris trichiura*): lỵ do giun
 - g.Kim (*Enterobius vermicularis*): ruột thừa + ban đêm chui ra ngoài nếp hậu môn -> ngứa đít
