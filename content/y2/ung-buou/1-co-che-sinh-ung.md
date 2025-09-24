@@ -166,8 +166,7 @@ Alfred Knudson (1971): đề xuất ra giả thuyết “2 cú đánh”, cần 
 | Tỉ lệ | 1/3 | 2/3 |
 | Độ tuổi mắc bệnh | < 1 tuổi | 2-5 tuổi |
 | Tổn thương | 2 bên mắt | 1 bên mắt |
-| Lưu ý | Có bệnh lý kèm theo
-
+| Lưu ý | Có bệnh lý kèm theo.
 Bị 2 bên mắt là do toàn bộ TB đã bị ĐB 1 bản sao sẵn | Không |
 
 <!-- ### Cơ chế gây đột biến mất chức năng
