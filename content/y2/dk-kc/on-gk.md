@@ -291,7 +291,7 @@ Sán trưởng thành sống ở:
 
 2. Trứng sán ra ngoài môi trường:
 
-    - Sán lá nhỏ gan: không thành ấu trùng lông (=a=gan nhỏ nên bơi luôn :v)
+    - Sán lá nhỏ gan: không thành ấu trùng lông (=a=gan nhỏ nên bơi luôn :v==)
     - Sán lá lớn và Sán lá phổi
 
 3. Kí sinh vào óc bằng bào nang sán (KC trung gian 1):
@@ -303,7 +303,7 @@ Sán trưởng thành sống ở:
 
 4. Thành ấu trùng đuôi và kí sinh trong KC trung gian 2
 
-    - Cây thuỷ sinh (rau muống, xà lách son): sán lá lớn (cây -> lớn )
+    - Cây thuỷ sinh (rau muống, xà lách son): sán lá lớn (cây -> lớn)
     - Tôm cua (<u>P</u>iển): *<u>P</u>aragonimus spp* (<u>p</u>hổi)
     - <u>C</u>á *<u>C</u>yprinidae* : *<u>C</u>.sinesis* (cá -> nhỏ gan) => sử dụng cầu tiêu cá tăng khả năng lây nhiễm
 
