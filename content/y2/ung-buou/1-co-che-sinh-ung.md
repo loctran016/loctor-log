@@ -9,8 +9,8 @@ Tổn thương DNA là không thể tránh khỏi trong quá trình sống, do:
 
 - Sai sót trong quá trình nhân đôi TB
 - Tiếp xúc với các chất gây đột biến:
-    - Sinh ra trong quá trình chuyển hóa của cơ thể
-    - Chất hóa học, tia cực tím hoặc bức xạ ion hóa và tác nhân sinh học (virus, vi khuẩn): <u>Chủ yếu</u>
+  - Sinh ra trong quá trình chuyển hóa của cơ thể
+  - Chất hóa học, tia cực tím hoặc bức xạ ion hóa và tác nhân sinh học (virus, vi khuẩn): <u>Chủ yếu</u>
 
 Ở Việt Nam, ung thư nhiều nhất là ung thư gan
 
@@ -23,8 +23,7 @@ Bệnh lão nhi (progeria)
 
 - Bệnh lý di truyền theo gen lặn
 - Xảy ra ĐB điểm ở gen LMNA
-- Lão hóa sớm
-- Gầy, trọc đầu, da nhăn
+- Lão hóa sớm, gầy, trọc đầu, da nhăn
 
 Cơ chế cắt bỏ đoạn DNA bị tổn thương và dùng nhánh đối diện để tạo nên trình tự DNA bình thường, dựa theo nguyên tắc bổ sung
 
@@ -73,14 +72,14 @@ Tiền gen sinh ung (proto-oncogene): có trong TB bình thường của
 cơ thể, chức năng tăng sinh TB
 Khi tiền gen sinh ung bị ĐB sẽ tăng hoạt động → gen sinh ung
 
-Bản chất của ==protein sinh ung== có thể là/là bất cứ protein nào trong:
+Bản chất của ==protein sinh ung== có thể là/tác động lên bất cứ protein nào trong:
 
-1. Yếu tố tăng trưởng: EGF, TGF, FGF…
-2. Thụ thể yếu tố tăng trưởng
-3. Yếu tố dẫn truyền tín hiệu TB
-4. Protein G
-5. Những thành phần của chu kỳ TB
-6. Yếu tố sao chép
+I. Growth Factors: EGF, TGF, FGF…
+II. =c=Thụ thể GF==
+III. =c=Protein dẫn truyền tín hiệu TB==
+IV. Protein G
+V. Những thành phần của chu kỳ TB
+VI. Yếu tố sao chép
 
 Cơ chế hoạt hóa gen sinh ung:
 
@@ -94,26 +93,22 @@ sinh sản TB
 
 ### Protein dẫn truyền tín hiệu
 
- Protein dẫn truyền tín hiệu: nằm ở mặt trong màng TB, nhận tín
-hiệu từ sự hoạt hóa thụ thể yếu tố tăng trưởng ngoài TB và dẫn
-truyền về nhân TB
+Protein dẫn truyền tín hiệu: nằm ở mặt trong màng TB, nhận tín hiệu từ thụ thể GF ngoài TB và dẫn truyền về nhân TB
 
- ĐB gen RAS: 15-20% bướu ở người, khác biệt tùy loại bệnh
+ĐB gen RAS: 15-20% bướu ở người, khác biệt tùy loại bệnh
 
 - 90% carcinôm tuyến của tụy và carcinôm đường mật
 - 50% UT đại tràng, nội mạc tử cung và tuyến giáp
 - 30% carcinôm tuyến ở phổi và bạch cầu dòng tủy
 
- Dạng ĐB gen RAS thường gặp: ĐB điểm
+Dạng ĐB gen RAS thường gặp: ĐB điểm -> ức chế GTPase (GTP -> GDP) -> RAS hoạt động liên tục
 
-Protein RAS + GDP → trạng thái bất hoạt
+- Protein RAS + GDP → bất hoạt
+- =a=Protein RAS + GTP== → hoạt hóa -> liên kết với protein =r=RAF-1== -> kích hoạt con đường =r=MAP kinase== -> MAP kinase hoạt hóa yếu tố sao chép nhân, thúc đẩy sự phân bào
 
-Protein RAS + GTP → trạng thái hoạt hóa: hoạt động trên con
-đường dẫn truyền MAP kinase, thu hút protein RAF-1. MAP
-kinase hoạt hóa yếu tố sao chép nhân, thúc đẩy sự phân bào
+Ở TB bình thường: sự hoạt hóa protein RAS là thoáng qua (men GTPase nội sinh sẽ thủy phân GTP thành GDP) → chuyển RAS từ trạng thái hoạt động thành không hoạt động
 
- Ở TB bình thường: sự hoạt hóa protein RAS là thoáng qua (men GTPase nội sinh sẽ thủy phân GTP thành GDP) → chuyển RAS từ trạng thái hoạt động thành không hoạt động
- Ở TB mang gen RAS bị ĐB: protein Ras được hoạt hóa liên tục và do mất khả năng thủy phân GTP → kích thích TB tăng sinh liên tục
+Ở TB mang gen RAS bị ĐB: protein Ras được hoạt hóa liên tục và do mất khả năng thủy phân GTP → kích thích TB tăng sinh liên tục
 
 ### Thụ thể GF
 
@@ -127,8 +122,7 @@ Bình thường biểu hiện ở những TB thần kinh-nội tiết:
 - TB vùng tủy thượng thận
 - Tiền thân của TB tuyến phó giáp
 
-Bệnh lý do sự ĐB tăng
-chức năng protein RET
+Bệnh lý do sự ĐB tăng chức năng protein RET
 
 Bệnh Hirschsprung (phình đại tràng bẩm sinh): do ĐB mất chức năng của protein RET nên đám rối TK ruột không phát triển được
 
@@ -210,17 +204,67 @@ Khi không có Telomere, Telomerase:
 - Các đầu tận tự do của NST gắn với nhau -> gộp NST
 - Mất NST ở đầu tận
 
+Telomere:  chủ yếu là =a=TTAGGG== lặp đi lặp lại ở phần tận cùng của NST
+
+- TTAGGG: không mã hoá protein -> khi làm mất sẽ không ảnh hưởng đến thông tin di truyền của TB
+- Telomere capping (phức hệ protein - telomere): cuộn lại đầu mút dây giày -> ngăn NST kế cận kết hợp với nhau
+
 =a=Giới hạn Hayflick==: đoạn Telomere ngắn đi sau nhiều lần phân bào gây apoptosis -> số lần phân bào của 1 TB là có giới hạn
 
-### 10 đặc tính cơ bản của TB ung thư
+Telomerase (ribonucleprotein): tạo chuỗi đơn DNA bằng chuỗi ssRNA làm mẫu -> thêm trình tự lặo lại TTAGGG -> tăng chiều dại đoạn Telomere
+
+TB mầm (trứng, tinh trùng) và TB gốc: đều có telomerase hoạt động, nhưng chỉ có TB mầm là có nồng độ telomerase đủ nhiều duy trì sự bền vững của bộ gene
+
+TB sinh dưỡng bình thường: không có telomerase
+
+TB ung thư: telomerase hoạt động mạnh
+
+Ứng dụng:
+
+- Chất ức chế Telomerase: tiêu diệt TB ung thư
+- Chất hoạt hoá Telomerase: giúp kéo dài đoạn Telomere của TB miễn dịch -> chống chọi lại TB ung thư mạnh mẽ
+
+<!-- 10 đặc tính cơ bản của TB ung thư -->
 
 ## Apoptosis
 
 Caspases: yếu tố khơi mào và gây chết trực tiếp
 
 - Đường nội sinh: ty thể
+  - =c=Bax, Bak (Bcl)==: hoạt hoá apoptosis -> ti thể giải phóng Cytochrome c & protein pro-apoptotic
+  - =c=Bcl-2, Bcl-x<sup>L</sup>==: chống lại apoptosis
 - Đường ngoại sinh: thụ thể gây chết
+  - =v=Fas==
+  - Thụ thể yếu tố hoại tử bướu
 <!-- - Đường nội sinh: ty thể -->
+
+Gen trong cơ thể chết TB theo lập trình mang theo chức năng:
+
+- Tiền gen sinh ung: Bcl-2
+- Gen đè nén bướu: PTEN, p53
+
+p53: hoạt động mã hoá cho protein Bax (thuộc nhóm Bcl) kích hoạt apoptosis. ĐB mất chức năng p53 -> mất protein Bax -> TB không đi vào apoptosis
+
+=a=Bệnh BC lympho mạn (CLL):== ĐB <u>chuyển vị NST 14-18</u> -> tăng biểu hiện protein Bcl-2 (ức chế apoptosis) -> TB tăng sinh bình thường nhưng không chết -> số lượng TB tích luỹ chậm dần (bệnh mạn tính)
+
+## Tiến trình sinh ung
+
+Sinh ung thư gồm 3 pha chính:
+
+1. Khởi đầu: xảy ra đột biến
+2. Thúc đẩy: tích luỹ dần các đột biến
+3. Tiến triển: hình thành UT giai đoạn sớm
+
+Bệnh UT thường xảy ra ở những người lớn tuổi (đỉnh ở khoảng 75 tuổi)
+
+### Ung thư đại tràng
+
+Có nhiều giai đoạn phát triển tuần tự:
+
+1. Mất chức năng gen <u>APC</u>: thành lập polyp
+2. ĐB gen sinh ung <u>K-ras và gen ở vùng DDC (trên NST 18)</u>: TB tăng sinh không kiểm soát -> gia tăng kích thước polyp
+3. ĐB mất chức năng gen <u>p53</u> -> carcinôm ác tính
+4. Một số ĐB khác để TB ung thư có thể phát triển xâm lắn, di căn
 
 ## Epigenetics sinh ung thư
 
@@ -230,3 +274,29 @@ Các cơ chế epigenetics:
 - Acetyl hoá DNA: hoạt hoá
 - Histon
 - Micro RNA: gây thoái biến mRNA hay ức chế dịch mã
+
+### Biển đổi DNA, Histone
+
+QUá trình biến đổi Histone: tại vị trí đuôi tận N
+
+- Acetyl hoá Lysine: thêm nhóm -COCH3 vào vị trí NH<sup>3</sup>+ của Lysine -> loại bỏ điện tích dương của Histone -> giảm ái lực Histone & DNA -> Gen được hoạt hoá
+- Ngược lại, khử acetyl hoá gây ức chế biểu hiện gene
+
+### Micro RNA
+
+Định nghĩa MicroRNAs:
+
+- Một nhóm ssRNA nội sinh
+- Ngắn, khoảng 21-25 nu
+- Điều hoà: gây thoái biến mRNA hay ức chế dịch mã
+
+Ứng dụng trong dấu ấn sinh học
+
+- Chẩn đoán bệnh:
+  - UT giai đoạn sớm
+  - Theo dõi các đối tượng nguy cơ cao không triệu chứng
+  - Phân biệt u lành và u ác
+- Tiên đoán bệnh: khả năng, mức độ đáp ứng của bệnh với các =v=phương pháp điều trị==
+- Tiên lượng bệnh:
+  - SC bệnh không tiến triển và SC toàn bộ
+  - Theo dõi tái phát

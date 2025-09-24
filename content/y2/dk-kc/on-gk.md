@@ -83,7 +83,8 @@ Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
 
 *Clostridium perfrigens*: vết thương chiến tranh/tai nạn GT => Hoại thư sinh hơi
 
-*Clostridium difficile=*: 
+*Clostridium difficile=*:
+
 - Viêm đại tràng giả mạc
 - Gây bệnh bằng ngoại độc tố sau khi dùng KS kéo dài
 
