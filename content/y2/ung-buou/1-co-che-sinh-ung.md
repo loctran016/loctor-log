@@ -74,12 +74,12 @@ Khi tiền gen sinh ung bị ĐB sẽ tăng hoạt động → gen sinh ung
 
 Bản chất của ==protein sinh ung== có thể là/tác động lên bất cứ protein nào trong:
 
-I. Growth Factors: EGF, TGF, FGF…
-II. =c=Thụ thể GF==
-III. =c=Protein dẫn truyền tín hiệu TB==
-IV. Protein G
-V. Những thành phần của chu kỳ TB
-VI. Yếu tố sao chép
+1. Growth Factors: EGF, TGF, FGF…
+2. =c=Thụ thể GF==
+3. =c=Protein dẫn truyền tín hiệu TB==
+4. Protein G
+5. Những thành phần của chu kỳ TB
+6. Yếu tố sao chép
 
 Cơ chế hoạt hóa gen sinh ung:
 
