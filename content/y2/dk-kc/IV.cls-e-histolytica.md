@@ -1,5 +1,5 @@
 ---
-title: Bài IV.cls - Entamoeba histolytica
+title: CLS chương IV -  E.histolytica
 date: 2025-09-18
 tags: ['KST']
 ---
