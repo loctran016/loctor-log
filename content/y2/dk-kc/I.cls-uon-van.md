@@ -14,6 +14,12 @@ category: cls
 	- Đến hệ TKTW nhờ truyền ngược dòng qua sợi trục exon
 	- Hoạt tính =a=protease==: cắt =a=SNARE protein== (hỗ trợ túi nội bào hoà màng) -> ngăn các chất ức chế dẫn truyền TK (GABA, glycine) phóng thích -> hoạt hoá không thể ức chế =a=neuron vận động alpha== -> co cơ, cứng cơ 
 
+Phân loại uốn ván:
+
+- Uốn ván cục bộ
+- Uốn ván toàn thân
+- Uốn ván rốn: mới đẻ trong 1 tháng (cắt dây rốn); cơ còn yếu -> không co cơ, cứng -> mềm oặt ra, nằm khóc => Tử vong approx. 100%
+
 ## Câu 2
 
 Khuyến cáo sau 3 mũi ngừa uốn ván cần tiêm nhắc lại 5-10 năm để đảm bảo trí nhớ MD

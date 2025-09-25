@@ -2,6 +2,7 @@
 title: CLS chương IV -  E.histolytica
 date: 2025-09-18
 tags: ['KST']
+category: cls
 ---
 
 ## Câu 3
