@@ -52,21 +52,10 @@ hormone nội tiết
 
 ### Protein HT
 
-#### Điện di
+**Albumin (54%)** là protein huyết tương quan trọng nhất của huyết tương, tham gia 2 chức năng:
 
-Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh thoái hóa tinh bột (amyloidosis) ? thì beta 1,2 cũng tăng
-
-Đa u tuỷ xương - tăng gamma, giảm 4 cái còn lại (biểu hiện hình ảnh 1 con cua- crab) 
-C - tăng calci - thường hay gặp trong táo bón (?)
-R - bệnh lý thận - 
-A - anemia (thiếu máu)
-B - bone (huỷ xương)
-
-#### Thành phần
-
-**Albumin (54%)** là protein huyết tương quan trọng nhất của huyết tương, tham gia 2 chức năng: 
-– 70-80% áp suất keo trong huyết tương,
-– Liên kết vận chuyển các chất có phân tử nhỏ 
+- 70-80% áp suất keo trong huyết tương,
+- Liên kết vận chuyển các chất có phân tử nhỏ 
 
 **Globulin (38%)** là loại protein bao gồm enzym, kháng thể 
 – alpha1 - globulin : 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển 
@@ -80,6 +69,16 @@ trong các bệnh tim mạch.
 IgM, IgE, IgD ( GAMED).
 
 **Tỷ lệ albumin/globulin (A/G)**: Tỷ lệ A/G bình thường 1-1.5.
+
+#### Điện di
+
+Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh thoái hóa tinh bột (amyloidosis) ? thì beta 1,2 cũng tăng
+
+Đa u tuỷ xương - tăng gamma, giảm 4 cái còn lại (biểu hiện hình ảnh 1 con cua- crab) 
+C - tăng calci - thường hay gặp trong táo bón (?)
+R - bệnh lý thận - 
+A - anemia (thiếu máu)
+B - bone (huỷ xương)
 
 #### Chức năng
 
