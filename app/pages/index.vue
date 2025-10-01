@@ -30,9 +30,9 @@ definePageMeta({ layout: "home" });
     <main class="grid grid-flow-col lg:grid-cols-2 max-lg:place-items-center grow">
         <ul class="grid font-bold grid-cols-[repeat(auto-fit,minmax(12rem,1fr))] w-4/5 mx-auto gap-3 items-center lg:my-auto" v-for="year in queryDatas">
           <li
-            v-for="(subject,index) in year.children "
+            v-for="(subject,index) in year.children"
             class="h-30 rounded-lg cursor-pointer pl-2 hover:rounded-xl duration-100 transform-gpu backdrop-blur"
-            :class="colorsStyle[index % colorsStyle.length]"
+            :class="colorsStyle[year.children.size - index % colorsStyle.length]"
           >
             <NuxtLink :to="`${subject.path}`">
                 <h2 class="py-4 px-2">{{ subject.title }}</h2>

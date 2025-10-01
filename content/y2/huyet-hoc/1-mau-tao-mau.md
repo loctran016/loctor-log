@@ -58,14 +58,15 @@ hormone nội tiết
 - Liên kết vận chuyển các chất có phân tử nhỏ 
 
 **Globulin (38%)** là loại protein bao gồm enzym, kháng thể 
-– alpha1 - globulin : 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển 
+
+- alpha1 - globulin : 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển 
 lipid)
-– alpha2 - globulin : 8% bao gồm haptoglobin( gắn Hbtdo trong huyết 
+- alpha2 - globulin : 8% bao gồm haptoglobin( gắn Hbtdo trong huyết 
 tương ), Erythropoietin( là hormon tạo hồng )
-– beta1 - globulin : 7%,beta2- globulin : 4%: vận chuyển lipid. các 
+- beta1 - globulin : 7%,beta2- globulin : 4%: vận chuyển lipid. các 
 lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò 
 trong các bệnh tim mạch.
-– gama - globulin : 17% chứa các protein miễn dịch (kháng thể) IgG,IgA, 
+- gama - globulin : 17% chứa các protein miễn dịch (kháng thể) IgG,IgA, 
 IgM, IgE, IgD ( GAMED).
 
 **Tỷ lệ albumin/globulin (A/G)**: Tỷ lệ A/G bình thường 1-1.5.
@@ -75,10 +76,10 @@ IgM, IgE, IgD ( GAMED).
 Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh thoái hóa tinh bột (amyloidosis) ? thì beta 1,2 cũng tăng
 
 Đa u tuỷ xương - tăng gamma, giảm 4 cái còn lại (biểu hiện hình ảnh 1 con cua- crab) 
-C - tăng calci - thường hay gặp trong táo bón (?)
-R - bệnh lý thận - 
-A - anemia (thiếu máu)
-B - bone (huỷ xương)
+- C - tăng calci - thường hay gặp trong táo bón (?)
+- R - bệnh lý thận - 
+- A - anemia (thiếu máu)
+- B - bone (huỷ xương)
 
 #### Chức năng
 
@@ -90,26 +91,24 @@ tan).
 
 Vận chuyển:
 
-– Chylomicron: TG-Chol-PL-vỏ beta-LP, vận chuyển lipid thức
+- Chylomicron: TG-Chol-PL-vỏ beta-LP, vận chuyển lipid thức
 ăn vào hệ bạch huyết.
-– alpha-LP (HDL): lipid từ mô về
+- alpha-LP (HDL): lipid từ mô về
 gan.
-– beta-LP (LDL): phương tiện chủ
+- beta-LP (LDL): phương tiện chủ
 yếu vận chuyển cholesterol 
 ht (liên quan đến các bệnh
 tim mạch)
-– Tiền beta-LP (VLDL): acid béo
+- Tiền beta-LP (VLDL): acid béo
 tới mô.
 
 Dinh dưỡng:
 
-– Acid béo: nguyên liệu tổng
+- Acid béo: nguyên liệu tổng
 hợp lipid.
-– Thể ceton: nguồn NL (tăng khi nhịn
+- Thể ceton: nguồn NL (tăng khi nhịn
 đói)
-– Cholesterol: tổng hợp
-hormon sinh dục, thượng
-thận, dịch mật.
+- Cholesterol: tổng hợp hormon sinh dục, thượng thận, dịch mật.
 
 => Hàm lượng lipid toàn phần, tỉ lệ giữa các thành phần được điều hoà chặt chẽ.
 
@@ -118,9 +117,10 @@ Tăng TG và LDL -
 ### Carbohydrate HT
 
 Hầu hết ở dạng
-– glucose tự do
-– những chất chuyển hoá
-– một số protein chứa đường
+
+- glucose tự do
+- những chất chuyển hoá
+- một số protein chứa đường
 
 Nguồn năng lượng và nguyên liệu tổng hợp
 nhiều chất quan trọng của tế bào (não, tim).
@@ -140,10 +140,12 @@ HC lưới tăng khi mất máu đột ngột phải huy động HC ở tủy v�
 ## Dòng Hồng cầu
 
 Hình dạng Hồng cầu
-– Không nhân
-– Hình dĩa, lõm hai mặt
+
+- Không nhân
+- Hình dĩa, lõm hai mặt
 
 KN vận chuyển khí:
+
 - Tăng diện tích tiếp xúc
 - Tăng tốc độ khuếch tán khí
 - Dễ dàng biến dạng khi qua mao mạch
@@ -196,10 +198,10 @@ phải.
 
 Hemoglobin vận chuyển O2 từ phổi -> mô. 
 Hemoglobin vận chuyển CO2 từ mô -> phổi.
-– O2 + Hb (Fe++/Hem) HbO2 (oxyhemoglobin)
-– HbO2 + O2 Hb(O2)2
-– Hb(O2)2 + O2 Hb(O2)3
-– Hb(O2)3 + O2 Hb(O2)4
+- O2 + Hb (Fe++/Hem) HbO2 (oxyhemoglobin)
+- HbO2 + O2 Hb(O2)2
+- Hb(O2)2 + O2 Hb(O2)3
+- Hb(O2)3 + O2 Hb(O2)4
 
 Hình thành, phân ly HbO2: rất nhanh, tuỳ thuộc phân
 áp oxy.
@@ -249,14 +251,14 @@ Tủy bình thường hoặc suy tủy không thấy HCL được
 Bình thường, SLHC lưới khoảng 0.5-1.5%
 
 Số lượng tuyệt đối :
-– 0.5% X 5,000,000/mm3 = 25,000/mm3 
-– 1.5% X 5,000,000/mm3 = 75,000/mm3
-– 25.000  75.000/mm3 
+- 0.5% X 5,000,000/mm3 = 25,000/mm3 
+- 1.5% X 5,000,000/mm3 = 75,000/mm3
+- 25.000  75.000/mm3 
 
 Hiệu chỉnh số lượng HC lưới (RI)
-– Theo Hb : Hb b/n x HC lưới / 12g/dl 
-– Theo Hct : Hct b/n x HC lưới/ 45% 
-– Kết quả :
-• > 2 -> tủy có đáp ứng với thiếu máu 
-• ≤ 2 -> tủy kém đáp ứng với thiếu máu
+- Theo Hb : Hb b/n x HC lưới / 12g/dl 
+- Theo Hct : Hct b/n x HC lưới/ 45% 
+- Kết quả :
+    - > 2 -> tủy có đáp ứng với thiếu máu 
+    - ≤ 2 -> tủy kém đáp ứng với thiếu máu
 có đáp ứng với tình trạng thiếu máu hay ko?
