@@ -32,7 +32,7 @@ definePageMeta({ layout: "home" });
           <li
             v-for="(subject,index) in year.children"
             class="h-30 rounded-lg cursor-pointer pl-2 hover:rounded-xl duration-100 transform-gpu backdrop-blur"
-            :class="colorsStyle[year.children.size - index % colorsStyle.length]"
+            :class="colorsStyle[(year.children.length - index) % colorsStyle.length]"
           >
             <NuxtLink :to="`${subject.path}`">
                 <h2 class="py-4 px-2">{{ subject.title }}</h2>
