@@ -163,12 +163,15 @@ Alfred Knudson (1971): đề xuất ra giả thuyết “2 cú đánh”, cần 
     - Cú đánh đầu tiên: bất hoạt 1 trong 2 bản sao của gen Rb ở trong nguyên bào võng mạc (retinoblast)
     - Vì vậy, chỉ cần thêm 1 cú đánh xảy ra trên bất cứ nguyên bào võng mạc nào cũng có thể tạo nên bướu
 
+<!-- markdownlint-disable -->
+
 | Đặc điểm | Thể di truyền | Thể tự phát |
 |:---:|:---:|:---:|
 | Tỉ lệ | 1/3 | 2/3 |
 | Độ tuổi mắc bệnh | < 1 tuổi | 2-5 tuổi |
 | Tổn thương | 2 bên mắt | 1 bên mắt |
 | Lưu ý | Có bệnh lý kèm theo. Bị 2 bên mắt là do toàn bộ TB đã bị ĐB 1 bản sao sẵn | Không |
+
 
 <!-- ### Cơ chế gây đột biến mất chức năng
 

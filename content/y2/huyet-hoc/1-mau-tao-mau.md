@@ -14,16 +14,16 @@ trình đông và cầm máu
 
 ### Thành phần
 
-Máu là một =a=mô liên kết dịch==, thể tích khoảng 7% TL cơ thể (5 lít máu ở người lớn) bao gồm :
+Máu là một =a=mô liên kết dịch==, thể tích khoảng 7% TL cơ thể (5 lít máu ở người lớn) bao gồm:
 
-1. Huyết tương (plasma): DD treo của các TB máu, V bình thường : 40ml/kg, bao gồm nhiều chất quan trọng của cơ thể
-2. Thành phần hữu hình :
-    - Hồng cầu (RBC) : 40-45% thể tích của máu, 30ml/kg trọng lượng cơ thể (TLCT)
-    - Bạch cầu (WBC) và Tiểu cầu (PLT) : 1-2% TLCT
+1. Huyết tương (plasma): DD treo của các TB máu, V bình thường: 40ml/kg, bao gồm nhiều chất quan trọng của cơ thể
+2. Thành phần hữu hình:
+    - Hồng cầu (RBC): 40-45% thể tích của máu, 30ml/kg trọng lượng cơ thể (TLCT)
+    - Bạch cầu (WBC) và Tiểu cầu (PLT): 1-2% TLCT
 
 Máu toàn phần không có chất chống đông
 
-Máu đông lại và sẽ tách thành 2 phần :
+Máu đông lại và sẽ tách thành 2 phần:
 
 - Màu đỏ: cục máu đông
 - Màu vàng: Huyết thanh máu toàn phần lấy đi các thành phần hữu hình (TB máu,
@@ -65,11 +65,11 @@ Chức năng chung của máu
 
 **Globulin (38%)** là loại protein bao gồm enzym, kháng thể
 
-- alpha1 - globulin : 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
-- alpha2 - globulin : 8% bao gồm haptoglobin( gắn Hbtdo trong huyết tương ), Erythropoietin( là hormon tạo hồng )
-- beta1 - globulin : 7%,beta2- globulin : 4%: vận chuyển lipid. các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò
+- alpha1 - globulin: 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
+- alpha2 - globulin: 8% bao gồm haptoglobin( gắn Hbtdo trong huyết tương ), Erythropoietin( là hormon tạo hồng )
+- beta1 - globulin: 7%,beta2- globulin: 4%: vận chuyển lipid. các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò
 trong các bệnh tim mạch.
-- gama - globulin : 17% chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD ( GAMED).
+- gama - globulin: 17% chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD ( GAMED).
 
 **Tỷ lệ albumin/globulin (A/G)**: Tỷ lệ A/G bình thường 1-1.5.
 
@@ -228,7 +228,7 @@ Tủy bình thường hoặc suy tủy không thấy HCL được
 
 Bình thường, SLHC lưới khoảng 0.5-1.5%
 
-Số lượng tuyệt đối :
+Số lượng tuyệt đối:
 
 - 0.5% X 5,000,000/mm3 = 25,000/mm3
 - 1.5% X 5,000,000/mm3 = 75,000/mm3
@@ -236,9 +236,9 @@ Số lượng tuyệt đối :
 
 Hiệu chỉnh số lượng HC lưới (RI)
 
-- Theo Hb : Hb b/n x HC lưới / 12g/dl
-- Theo Hct : Hct b/n x HC lưới/ 45%
-- Kết quả :
+- Theo Hb: Hb b/n x HC lưới / 12g/dl
+- Theo Hct: Hct b/n x HC lưới/ 45%
+- Kết quả:
   - > 2 -> tủy có đáp ứng với thiếu máu
   - ≤ 2 -> tủy kém đáp ứng với thiếu máu
 có đáp ứng với tình trạng thiếu máu hay ko?
@@ -268,11 +268,11 @@ Nhiều loại CTBC, phân loại tùy theo mục đích nghiên cứu.
 
 CTBC thông thường:
 
-- Bạch cầu đa nhân trung tính : 41 - 71%
+- Bạch cầu đa nhân trung tính: 41 - 71%
 - Bạch cầu đa nhân ưa acid: 0 - 8%
-- Bạch cầu đa nhân ưa kiềm : 0 - 1%
-- Bạch cầu đơn nhân : 3 - 5%
-- Bạch cầu lympho : 20 - 49%
+- Bạch cầu đa nhân ưa kiềm: 0 - 1%
+- Bạch cầu đơn nhân: 3 - 5%
+- Bạch cầu lympho: 20 - 49%
 
 ### Đặc tính
 
@@ -413,7 +413,7 @@ sinh ra mỗi giờ, ở người trưởng thành
 
 Hiện tượng tạo máu phát nguồn từ các tế bào gốc (stem cells) của
 các huyết cầu. hành trình tạo ra các tế bào trưởng thành rất dài và
-được phân thành 2 ngăn :
+được phân thành 2 ngăn:
 
 - Ngăn chưa phân hóa theo dòng (non-committed compartment): gồm
 các tế bào gốc toàn năng (totipotent); chúngphân bào và biệt hóa dần
@@ -422,7 +422,7 @@ nhưng chưa phân định sẽ thành dòng tế bào nào.
 các tế bào gốc đa năng (pluripotent) và đã bắt đầu có xu hướngphân
 chia thành từngdòng riêng rẽ.
 - Sau khi tiến vào một hướng xácđịnh dòng, các tế bào được phân
-thành 2 bể chứa (pool) : có hay không còn khả năngphân bào.
+thành 2 bể chứa (pool): có hay không còn khả năngphân bào.
   - Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới,  thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
 năng phân bào và biệt hóa tiếp,
   - Bể không phân bào (non-mitotic pool) gồm các tế bào đã được biệt hóa rõ và
