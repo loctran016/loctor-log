@@ -187,11 +187,8 @@ Thành phần:
 
 ![Cấu trúc của Hemoglobin khi có và không có O2](y2/huyet-hoc/1-oxy-deoxyhaemoglobin.jpeg)
 
-2,3-Disphosphoglycerate (2,3-DPG), thúc đẩy quá trình chuyển đổi hemoglobin từ trạng thái ái lực oxy cao sang trạng thái ái lực oxy thấp.
-
-2,3-DPG liên kết với ngăn trung tâm của tetramer hemoglobin, thay đổi cấu trúc của nó và dịch chuyển đường cong phân ly oxy sang phải.
-
-### Hemoglobin vận chuyển oxy
+2,3-Disphosphoglycerate (2,3-DPG): làm giảm ái lực của oxy với Hb bằng cách liên kết với trung tâm của tetramer Hb, thay đổi cấu trúc của nó
+(Cạnh tranh vị trí gắn Fe với Oxy)
 
 Hemoglobin kết hợp với O<sup>2</sup> tuần tự
 
@@ -202,9 +199,12 @@ Hemoglobin kết hợp với O<sup>2</sup> tuần tự
 
 Hình thành, phân ly HbO<sup>2</sup>: rất nhanh, tuỳ thuộc phân áp oxy.
 
-Fe++ -> Fe+++: MetHb -> không nhả oxy => xanh tím
+Fe++ -> Fe+++ (MetHb) -> không nhả oxy => xanh tím
 
 ### Số lượng HC
+
+- Nam: **4,3 - 5,8tr/mm3**
+- Nữ: **3,9 - 5,4tr/mm3**
 
 Tuổi càng cao càng nhiều HC
 
