@@ -5,14 +5,14 @@ tags: ['Vi khuẩn']
 category: cls
 ---
 
-## Câu 1:
+## Câu 1
 
 *Clostridium tetani* gây ra:
 
 - Trực khuẩn Gram dương, kị khí, có nha bào (tồn tại được 5 năm trong đất)
 - Khi trong vết thương, thể nha bào -> thể sinh dưỡng, khu trú tại chỗ nơi vết thương (không gây sốt) & tiết ==tetanospamin==:
-	- Đến hệ TKTW nhờ truyền ngược dòng qua sợi trục exon
-	- Hoạt tính =a=protease==: cắt =a=SNARE protein== (hỗ trợ túi nội bào hoà màng) -> ngăn các chất ức chế dẫn truyền TK (GABA, glycine) phóng thích -> hoạt hoá không thể ức chế =a=neuron vận động alpha== -> co cơ, cứng cơ 
+  - Đến hệ TKTW nhờ truyền ngược dòng qua sợi trục exon
+  - Hoạt tính =a=protease==: cắt =a=SNARE protein== (hỗ trợ túi nội bào hoà màng) -> ngăn các chất ức chế dẫn truyền TK (GABA, glycine) phóng thích -> hoạt hoá không thể ức chế =a=neuron vận động alpha== -> co cơ, cứng cơ
 
 Phân loại uốn ván:
 
@@ -31,12 +31,14 @@ Khuyến cáo sau 3 mũi ngừa uốn ván cần tiêm nhắc lại 5-10 năm đ
 
 ## Câu 3, 4
 
-SAT giúp tạo đáp ứng MD tức thời (MD thụ động) ==trung hoà độc tố tentanospamin <u>tự do</u>==, nhưng về cơ bản SAT vẫn là một KN lạ đối với cơ thể. Vì vậy các phản ứng phụ khi tiêm SAT là:
+SAT giúp tạo đáp ứng MD tức thời (MD thụ động) ==trung hoà độc tố tentanospamin <u>tự do</u>==, nhưng về cơ bản SAT vẫn là một KN lạ đối với cơ thể.
+Vì vậy các phản ứng phụ khi tiêm SAT là:
 
 - Quá mẫn type III: bệnh huyết thanh
 - Quá mẫn type I: sốc phản vệ
 
-=> Khi sử dụng VAT tiêm bắp phải thử phản ứng trước tiêm. Trong khi với globulin MD uốn ván từ người thì không cần
+=> Khi sử dụng VAT tiêm bắp phải thử phản ứng trước tiêm.
+Trong khi với globulin MD uốn ván từ người thì không cần
 
 ## Câu 5
 

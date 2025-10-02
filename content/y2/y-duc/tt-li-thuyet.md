@@ -13,7 +13,8 @@ thể tự mình đảm nhiệm mọi thứ mà phải là 1 sự cố gắng c�
 những chuyên gia trong những lĩnh vực riêng phối hợp, hỗ trợ cùng nhau hoàn thành
 công việc.
 
-Đạo đức Y học: ngành Y khác biệt những ngành nghề khác bởi nghĩa vụ đạo đức. Y
+Đạo đức Y học: ngành Y khác biệt những ngành nghề khác bởi nghĩa vụ đạo đức.
+Y
 đức nhấn mạnh sự ưu tiên của lý tưởng đạo đức lên trên những cân nhắc lợi ích cá
 nhân. => Lời thề Hippocrates là quy ước đầu tiên về y đức, nói về trách nhiệm của
 thầy thuốc.
@@ -31,7 +32,8 @@ trách nhiệm với đồng nghiệp.
 ## Bài 2: Y đức trong thực hành lâm sàng – tính chuyên nghiệp trong y khoa
 
 Hội y học thế giới: "Đạo đức nghề y là 1 nhánh của đạo đức đề cập đến vấn đề đạo
-đức trong thực hành y học". Thể hiện qua các nguyên lý cơ bản:
+đức trong thực hành y học".
+Thể hiện qua các nguyên lý cơ bản:
 
 - Tôn trọng quyền tự quyết của người bệnh
 - Lòng nhân ái
@@ -150,7 +152,9 @@ Xung đột về quyền lợi giữa TT – BN:
 ## Bài 6: Bảo mật trong quan hệ thầy thuốc – bệnh nhân
 
 Bảo mật là đảm bảo rằng chỉ có những người có quyền tiếp cận thông tin mới có thể
-truy cập được thông tin. Bảo mật còn bao gồm việc bảo đảm sự sẵn có và tính toàn vẹn của thông tin. Cần biết điều tối thiểu là chỉ nên cung cấp thông tin cho những người cần nó để thực hiện nhiệm vụ đã được phân công.
+truy cập được thông tin.
+Bảo mật còn bao gồm việc bảo đảm sự sẵn có và tính toàn vẹn của thông tin.
+Cần biết điều tối thiểu là chỉ nên cung cấp thông tin cho những người cần nó để thực hiện nhiệm vụ đã được phân công.
 
 - Là một nguyên tắc đạo đức căn bản trong chăm sóc sức khoẻ.
 - Mặc dù duy trì sự tôn trọng thông tin cá nhân có thể là điểm xuất phát, nhưng sự cân bằng về lợi ích và tác hại của việc tiết lộ / không tiết lộ sẽ dẫn đến việc xem xét các hậu quả của hành động.

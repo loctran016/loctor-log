@@ -181,7 +181,8 @@ Bệnh học:
 - Viêm họng xuất tiết
 - Nhiễm khuẩn huyết
 - Viêm màng não là bệnh cảnh hay gặp nhất:
-  - sốt, nhức đầu, ói mửa, cứng cổ. Có thể hôn mê trong vài giờ.
+  - sốt, nhức đầu, ói mửa, cứng cổ.
+Có thể hôn mê trong vài giờ.
   - tử ban thường xuất hiện ở lưng, tay và chân
   - bệnh diễn tiến nhanh, có thể tử vong trong vài giờ
   - bệnh hay gặp ở trẻ từ 6 tháng đến 1 tuổi và người trẻ

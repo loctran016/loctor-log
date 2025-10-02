@@ -9,7 +9,8 @@ category: cls
 
 ### Nhiễm lao
 
-Vi khuẩn lao là vi khuẩn hiếu khí, xâm nhập vào phổi (khu trú ở đỉnh phổi). Do có thành acid myolic dày nên các ĐTB không thể tiêu huỷ, nhưng hệ MD vẫn đủ mạnh để khu trú lao -> nhiễm lao tiềm ẩn (không triệu chứng)
+Vi khuẩn lao là vi khuẩn hiếu khí, xâm nhập vào phổi (khu trú ở đỉnh phổi).
+Do có thành acid myolic dày nên các ĐTB không thể tiêu huỷ, nhưng hệ MD vẫn đủ mạnh để khu trú lao -> nhiễm lao tiềm ẩn (không triệu chứng)
 
 Không có triệu chứng gì, thử phản ứng lao tố trên da/máu sẽ có phản ứng dương tính
 
@@ -35,7 +36,8 @@ Tạo hang lao đỉnh phổi phải: VK lao hiếu khí tuyệt đối → tậ
 
 Phân loại: lao phổi mới, lao phổi, lao ngoài phổi…
 
-ĐTB có vai trò quan trọng trong đáp ứng lao, không có đáp ứng hoà màng với lysosome -> lôi kéo lympho… kéo tới -> khu trú trong u hạt. Khi không còn khu trú được thì con lao bùng lên
+ĐTB có vai trò quan trọng trong đáp ứng lao, không có đáp ứng hoà màng với lysosome -> lôi kéo lympho… kéo tới -> khu trú trong u hạt.
+Khi không còn khu trú được thì con lao bùng lên
 , trận chiến bự ra từ u hạt -> u nang (hoại tử bã đậu)
 
 ## Giải thích KQ XN
@@ -58,7 +60,8 @@ Vi khuẩn khi xâm nhập sẽ ẩn nấp trong ĐTB, sẽ  xảy ra 3 TH:
 
 1. Hệ MD mạnh: giết VK
 2. Hệ MD vừa: không diệt được mà các TB tua gai, lympho bào chỉ khu trú lại thành các u hạt nhỏ (lao nguyên phát) -> **Chụp phim phổi thấy nốt vôi hoá**
-3. Hệ MD suy yếu: lao sinh sôi trong u hạt (u hạt -> nang lao chứa xác của VK & hệ MD). Kho vỡ, phóng thích gây ra **hoại tử bã đậu**, có thể lây nhiễm. **Chụp phim phổi thấy nang lao**(thấy không: đã hết, còn bệnh: hoại tử bã đậu)
+3. Hệ MD suy yếu: lao sinh sôi trong u hạt (u hạt -> nang lao chứa xác của VK & hệ MD).
+Kho vỡ, phóng thích gây ra **hoại tử bã đậu**, có thể lây nhiễm. **Chụp phim phổi thấy nang lao**(thấy không: đã hết, còn bệnh: hoại tử bã đậu)
 
 Nhiễm lao -> bệnh lao phụ thuộc vào tình trạng cơ thể (MD & tuổi tác) và VK (số lượng & độc lực):
 
@@ -68,7 +71,8 @@ Nhiễm lao -> bệnh lao phụ thuộc vào tình trạng cơ thể (MD & tuổ
 
 Tại sao BN đã tiêm ngừa vẫn bệnh:
 
-- BN tiêm vaccine BCG có nguồn gốc từ bò (lao bò) -> HQ giảm dần theo thời gian (30 tuổi còn 20%). Một số nước đã bỏ vaccine lao vì thông thường người ta chỉ bắt buộc tiêm vaccine ngừa VK dễ gây ung thư/mức độ lây nhiễm cao tại nước đó
+- BN tiêm vaccine BCG có nguồn gốc từ bò (lao bò) -> HQ giảm dần theo thời gian (30 tuổi còn 20%).
+Một số nước đã bỏ vaccine lao vì thông thường người ta chỉ bắt buộc tiêm vaccine ngừa VK dễ gây ung thư/mức độ lây nhiễm cao tại nước đó
 - KT lưu hành trong máu, dịch nên tác dụng hạn chế lên vk lao ẩn nấp trong ĐTB
 
 ## 3. Trên cơ sở miễn dịch học giải thích các triệu chứng của bệnh nhân
@@ -125,7 +129,8 @@ chủng ngừa lao BCG sẽ giúp cơ thể đẩy mạnh việc cách ly VK v�
 
 Nếu bé bị suy giảm MD bẩm sinh → Không nên tiêm vì nếu tiêm vaccine lao
 (vaccine sống giảm độc lực) thì chuỗi VK sống vẫn có thể tăng sinh → trẻ có thể
-nhiễm lao thật. Còn lại vẫn tiêm.
+nhiễm lao thật.
+Còn lại vẫn tiêm.
 
 Người lớn tiêm không hiệu quả vì khả năng phơi nhiễm lao đã cao rồi, đằng nào
 cũng có VK trong người rồi, và vaccine cũng không hiệu quả lắm với lao phổi

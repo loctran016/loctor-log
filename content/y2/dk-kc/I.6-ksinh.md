@@ -18,7 +18,8 @@ Một số thuốc KS có sinh khả dụng cao như: cephalosporin, clindamycin
 
 KS không hấp thu thông qua đường uống như vanco, aminoglycoside
 
-Thức ăn hay thuốc uống cũng ảnh hưởng đến quá trình hấp thu. VD: khi tetracyclin đi chung với các ion kim loại (Antacid,...) sẽ giảm khả năng hấp thu thuốc
+Thức ăn hay thuốc uống cũng ảnh hưởng đến quá trình hấp thu.
+VD: khi tetracyclin đi chung với các ion kim loại (Antacid,...) sẽ giảm khả năng hấp thu thuốc
 
 Chia làm 2 khóm: KS ưa nước và KS ưa lipid
 
@@ -75,7 +76,8 @@ Do môi trường nuôi cấy in vitro nên có nhiều hạn chế:
 
 ### Tác dụng hậu KS
 
-Tác dụng hậu KS là tác dụng ức chế VK sau khi đã hết thuốc. Tác dụng này càng lớn thì càng giảm số lần dùng thuốc trong ngày
+Tác dụng hậu KS là tác dụng ức chế VK sau khi đã hết thuốc.
+Tác dụng này càng lớn thì càng giảm số lần dùng thuốc trong ngày
 
 Các thuốc ức chế tổng hợp DNA/protein thì thường có hậu KS dài (chui vô trong TB vi khuẩn) -> β-lactam không có hậu KS
 

@@ -13,11 +13,13 @@ tags: ['Vi khuẩn']
 - Nhuộm kháng acid: lao, phong (do k nhuộm Gr được)
 - Nhuộm Fotana – Tribondeau: Giang mai, Leptospira,…
 
-Không được kết luận định danh, chỉ mang tính sơ bộ, định hướng để test định danh. Ngoài ra còn có tốc độ nhanh giúp bsi điều trị KS ban đầu tốt hơn
+Không được kết luận định danh, chỉ mang tính sơ bộ, định hướng để test định danh.
+Ngoài ra còn có tốc độ nhanh giúp bsi điều trị KS ban đầu tốt hơn
 
 ### Nuôi cấy, định danh
 
-Nuôi cấy trong môi trường dd đặc biệt để phân lập và định danh. VD: kị khí tuỳ nghi, hiếu khí,... (phải ghi ra y lệnh - cấy kị khí, cấy lao,...)
+Nuôi cấy trong môi trường dd đặc biệt để phân lập và định danh.
+VD: kị khí tuỳ nghi, hiếu khí,... (phải ghi ra y lệnh - cấy kị khí, cấy lao,...)
 
 Một số vi khuẩn không nuôi cấy được trên môi trường nhân tạo: VK phong, giang mai,…
 

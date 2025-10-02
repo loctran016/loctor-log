@@ -121,7 +121,8 @@ IgM và IgG dương: xét nghiệm lặp lại trong 2 - 3 tuần, nhiễm gần
 - IgM, IgG đều âm: hiện tại cô không nhiễm, nhưng mà có thể nhiễm bất kì lúc nào (trứng họ mèo, thịt mèo…) (Có thể trong giai đoạn cửa sổ, xét nghiệm lại sau 1 tuần)
 - Chỉ có IgM: nhiễm cấp, không nên mang thai, nên chờ sau vài tháng
 - Chỉ có IgG: đang nhiễm mạn, không lây truyền từ mẹ sang con
-- Có cả IgM, IgG: nhiễm cấp, chờ thời gian mang thai lại tầm sau 2-3 tuần, xét nghiệm lại, nếu IgG còn đang tăng -> chờ vài tháng. Néu IgM đang giảm và IgG giảm thì man thai
+- Có cả IgM, IgG: nhiễm cấp, chờ thời gian mang thai lại tầm sau 2-3 tuần, xét nghiệm lại, nếu IgG còn đang tăng -> chờ vài tháng.
+Néu IgM đang giảm và IgG giảm thì man thai
 
 ### Các cơ chế né tránh đáp ứng miễn dịch
 

@@ -77,5 +77,3 @@ Biến đổi từ dạng hạt men sang dạng sợi để gây bệnh
 ## Lác đồng tiền
 
 Trung tâm trắng láng, bờ gồ cao, đỏ tiến triển ra ngoài
-
-

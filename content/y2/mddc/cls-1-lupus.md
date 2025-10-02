@@ -16,13 +16,17 @@ Thông tin bệnh án
 
 #default
 
-Bệnh nhân nữ, 18 tuổi trước đây hoàn toàn khoẻ mạnh. Sau chuyến đi phượt bằng xe máy từ TP.HCM đến Nha Trang và phơi nắng quá mức tại bãi biển, bệnh nhân thấy mình bị phát ban đỏ trên má khi soi gương. Bệnh nhân quyết định đến gặp bác sĩ chuyên khoa Da liễu. Bác sĩ khai thác thêm một số thông tin bệnh lý của bệnh nhân như sau:
+Bệnh nhân nữ, 18 tuổi trước đây hoàn toàn khoẻ mạnh.
+Sau chuyến đi phượt bằng xe máy từ TP.HCM đến Nha Trang và phơi nắng quá mức tại bãi biển, bệnh nhân thấy mình bị phát ban đỏ trên má khi soi gương.
+Bệnh nhân quyết định đến gặp bác sĩ chuyên khoa Da liễu.
+Bác sĩ khai thác thêm một số thông tin bệnh lý của bệnh nhân như sau:
 
 - 3-4 tháng nay bệnh nhân luôn thức dậy trong trạng thái mệt mỏi, ngày càng tăng dần.
 - Các khớp ngón tay và đầu gối thường cứng lại, đau nhức mỗi buổi sáng nhưng có giảm sau khi đi lại, co duỗi các khớp ngón tay.
 - Một số khớp ngón tay sưng đối xứng.
 - Bệnh nhân bị viêm họng với tần suất gần như 2 lần/tháng trong thời gian gần đây.
-Bác sĩ Da liễu không cho rằng bệnh nhân này mắc bệnh da liễu đơn thuần nên giới thiệu bệnh nhân sang phòng khám Nội khoa - Cơ xương khớp. Tại đây, bệnh nhân được bác sĩ thăm khám và ghi nhận:
+Bác sĩ Da liễu không cho rằng bệnh nhân này mắc bệnh da liễu đơn thuần nên giới thiệu bệnh nhân sang phòng khám Nội khoa - Cơ xương khớp.
+Tại đây, bệnh nhân được bác sĩ thăm khám và ghi nhận:
 - Huyết áp 150/95 mmHg (thường là 120/70 mmHg)
 - 3 vết loét nhỏ trong miệng, không đau
 - Hồng ban ở mặt, vùng da phát ban có màu hồng ở vùng gò má 2 bên (hồng ban cánh bướm)
@@ -38,11 +42,14 @@ thường ở nữ là 3,8 – 5 triệu/mm ) và bạch cầu là 3,8.10 /L (b�
 10.10 /L)
 - Các xét nghiệm miễn dịch có kết quả sau vài ngày.
 
-Do bác sĩ nghi ngờ bệnh nhân bị bệnh Lupus và có các biểu hiện cho thấy có các tổn thương ở thận, bệnh nhân bắt đầu được điều trị với thuốc Corticoid với liều lượng tương đối thấp. Bệnh nhân được hẹn trở lại tái khám sau 1 tuần và trong thời gian đó bệnh nhân được hướng dẫn làm xét nghiệm nước tiểu 24h để có thể đánh giá chức năng thận một cách chính xác hơn.
+Do bác sĩ nghi ngờ bệnh nhân bị bệnh Lupus và có các biểu hiện cho thấy có các tổn thương ở thận, bệnh nhân bắt đầu được điều trị với thuốc Corticoid với liều lượng tương đối thấp.
+Bệnh nhân được hẹn trở lại tái khám sau 1 tuần và trong thời gian đó bệnh nhân được hướng dẫn làm xét nghiệm nước tiểu 24h để có thể đánh giá chức năng thận một cách chính xác hơn.
 
-Vài ngày sau kết quả xét nghiệm đã có đầy đủ. Các kết quả xét nghiệm cho thấy ngoài tình trạng giảm nhẹ số lượng bạch cầu và tình trạng thiếu máu thì các kết quả khác được trình bày trong bảng kết quả sau:
+Vài ngày sau kết quả xét nghiệm đã có đầy đủ.
+Các kết quả xét nghiệm cho thấy ngoài tình trạng giảm nhẹ số lượng bạch cầu và tình trạng thiếu máu thì các kết quả khác được trình bày trong bảng kết quả sau:
 
-Khi bệnh nhân quay trở lại tái khám 1 tuần sau đó, bệnh nhân cho biết tình trạng viêm khớp có cải thiện, nhưng bác sĩ nhận thấy là tình trạng tăng huyết áp của bệnh nhân lại nhiều hơn, huyết áp của bệnh nhân tăng đến 165/98mmHg, và cân nặng của bệnh nhân tăng thêm khoảng 4kg. Ngoài ra bệnh nhân còn có tình trạng phù chân 2 bên.
+Khi bệnh nhân quay trở lại tái khám 1 tuần sau đó, bệnh nhân cho biết tình trạng viêm khớp có cải thiện, nhưng bác sĩ nhận thấy là tình trạng tăng huyết áp của bệnh nhân lại nhiều hơn, huyết áp của bệnh nhân tăng đến 165/98mmHg, và cân nặng của bệnh nhân tăng thêm khoảng 4kg.
+Ngoài ra bệnh nhân còn có tình trạng phù chân 2 bên.
 ::
 
 ### Giới thiệu
@@ -50,11 +57,13 @@ Khi bệnh nhân quay trở lại tái khám 1 tuần sau đó, bệnh nhân cho
 Bệnh tự miễn:
 
 - Hệ MD cơ thể nhầm lẫn mô bình thường thành lạ và tấn công chúng, gây viêm ảnh hưởng đến nhiều phần cơ thể, vị trí bị ảnh hưởng phụ thuộc vào loại bệnh tự miễn của BN.
-- Dấu hiệu: ốm, sốt, đau cơ, đau khớp, phù, bất thường ở da, đau bụng, bất thường tiêu hóa và sưng phù các tuyến, các triệu chứng có thể nhẹ hoặc nặng. Bệnh phổ biến ở phụ nữ và liên quan đến bệnh sử gia đình.
+- Dấu hiệu: ốm, sốt, đau cơ, đau khớp, phù, bất thường ở da, đau bụng, bất thường tiêu hóa và sưng phù các tuyến, các triệu chứng có thể nhẹ hoặc nặng.
+Bệnh phổ biến ở phụ nữ và liên quan đến bệnh sử gia đình.
 
 Bệnh Lupus là bệnh lý tự miễn ảnh hưởng đến da, viêm mô liên kết và cơ thể
 thường sản xuất ra các tự kháng thể tấn công vào các cơ quan khác nhau của
-bệnh nhân như thận, khớp, hệ thần kinh, tế bào máu. Các biến chứng của bệnh
+bệnh nhân như thận, khớp, hệ thần kinh, tế bào máu.
+Các biến chứng của bệnh
 Lupus tại các cơ quan trên cơ thể như sau:
 
 - Phát ban ở những bộ phận thường tiếp xúc với ánh sáng mặt trời
@@ -140,9 +149,14 @@ Bất thường bổ thể C1, C2, C4 → ảnh hưởng opsonin hóa TB apoptot
 
 Bất thường gen MHC, gen integrin.
 
-APC bắt giữ protein nhân (histone, dsDNA, sm, RO/SS-A), TBC (RO), màng (Cardiolipin, TC) → trình diện và hoạt hóa Th ở hạch gần đó. IL-4 tiết ra giúp biệt hóa theo hướng Th2 → MDDT → hoạt hóa B thành tương bào tạo tự KT, phần lớn tấn công ANA. Tự KT cũng tạo thành phức hợp MD khi gặp KN. Phức hợp MD gắn lên thụ thể Fc ở tế bào MD kích thích sx tiết cytokine gây viêm, tự KT gắn trực tiếp KN trên bề mặt KN cũng hoạt hóa bổ thể và kích thích TB sx cytokine. Các TB MD gần đó cũng mẫn cảm với tự KN nên khi gắn với KN thông qua TLR thì cũng tiết cytokine gây viêm (IFN, TNF-α) → gây viêm.
+APC bắt giữ protein nhân (histone, dsDNA, sm, RO/SS-A), TBC (RO), màng (Cardiolipin, TC) → trình diện và hoạt hóa Th ở hạch gần đó.
+IL-4 tiết ra giúp biệt hóa theo hướng Th2 → MDDT → hoạt hóa B thành tương bào tạo tự KT, phần lớn tấn công ANA.
+Tự KT cũng tạo thành phức hợp MD khi gặp KN.
+Phức hợp MD gắn lên thụ thể Fc ở tế bào MD kích thích sx tiết cytokine gây viêm, tự KT gắn trực tiếp KN trên bề mặt KN cũng hoạt hóa bổ thể và kích thích TB sx cytokine.
+Các TB MD gần đó cũng mẫn cảm với tự KN nên khi gắn với KN thông qua TLR thì cũng tiết cytokine gây viêm (IFN, TNF-α) → gây viêm.
 
-Cơ thể có thể hồi phục khi viêm được kìm hãm, khi có sự tiếp xúc với tự KN lại lần nữa (do apoptosis khi tiếp xúc UV, nhiễm trùng, stress, phẫu thuật, có thai). Người SLE có sẵn nguyên tương bào sản xuất tự KT, TB T nhiều hơn người bình thường khi cần tạo tự KT.
+Cơ thể có thể hồi phục khi viêm được kìm hãm, khi có sự tiếp xúc với tự KN lại lần nữa (do apoptosis khi tiếp xúc UV, nhiễm trùng, stress, phẫu thuật, có thai).
+Người SLE có sẵn nguyên tương bào sản xuất tự KT, TB T nhiều hơn người bình thường khi cần tạo tự KT.
 
 ## Quyết định của Bộ Y tế
 

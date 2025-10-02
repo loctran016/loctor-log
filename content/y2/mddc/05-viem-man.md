@@ -24,7 +24,8 @@ Trong viêm cấp thì tb BCTT quan trọng thì ở viêm mạn thì Lymphocyte
 
 Để khu trú, cách li vùng tổn thương nhờ ĐTB (hành sự):
 
-- U hạt: ĐTB biệt hoá thành **tb dạng biểu mô** → bắt giữ các **mảnh nhỏ**. Bao bọc bởi collagen (có thể thê chất vôi calcium)
+- U hạt: ĐTB biệt hoá thành **tb dạng biểu mô** → bắt giữ các **mảnh nhỏ**.
+Bao bọc bởi collagen (có thể thê chất vôi calcium)
 - ĐTB liên kết thành tế bào **khổng lồ** → thực bào **mảnh to**
 
 ![Tiến trình diễn tiến từ viêm cấp thành viêm mạn](/y2/mddc/5-u-hat.jpeg)
@@ -88,7 +89,8 @@ Hình thành sẹo: là thay thế mô bị phá huỷ bởi mô sẹo
 
 ## Lành vết thương
 
-Mô sẹo được hình thành từ các sợi collagen. Chỉ trong lành vết thương nguyên phát thì mô sẹo mới biệt hoá, giúp hồi phục tổn thương về như cũ
+Mô sẹo được hình thành từ các sợi collagen.
+Chỉ trong lành vết thương nguyên phát thì mô sẹo mới biệt hoá, giúp hồi phục tổn thương về như cũ
 
 ### Nguyên phát
 
@@ -104,7 +106,8 @@ Bao gồm 2 giai đoạn:
 Bao gồm 3 giai đoạn:
 
 - Viêm cấp:
-- Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen). Mô hạt → mô sẹo (collagen) và cuối cùng là co kéo vết thương
+- Pha tái cấu trúc: Biểu mô hoá (hình thành mô hạt, di trú fibroblast và tổng hợp collagen).
+Mô hạt → mô sẹo (collagen) và cuối cùng là co kéo vết thương
 - Pha lành sẹo: hình thành sẹo vô mạch
 
 ![Lành vết thương thứ phát](/y2/mddc/5-lanh-vthg-thu-phat.jpeg)

@@ -38,7 +38,8 @@ Nhiễm một lần là chống tái nhiễm hoàn toàn (nhiễm 1 loài và ch
 
 ## *Herpesvirus* (bệnh thuỷ đậu, zona)
 
-Varicella gây bệnh thuỷ đậu -> ẩn trong cơ thể. Khi gặp điều kiện thích hợp thì thành Zoster gây bệnh Zời leo
+Varicella gây bệnh thuỷ đậu -> ẩn trong cơ thể.
+Khi gặp điều kiện thích hợp thì thành Zoster gây bệnh Zời leo
 
 Vaccine hiệu quả ngừa thuỷ đậu
 
@@ -72,4 +73,3 @@ Vaccine tái tổ hợp, kích thí
 ## Virus khác
 
 *Parvoviruses* gây bệnh cho người: <i>virus B19</i>
-

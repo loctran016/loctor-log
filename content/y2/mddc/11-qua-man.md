@@ -64,7 +64,8 @@ Những thuốc gây phản ứng da nặng:
 
 Viêm u hạt (nhiễm M.tuberculosis, nấm…): Phản ứng quá mẫn muộn mạn tính có
 thể hình thành nếu đáp ứng Th1 với VSV gây hoạt hóa ĐTB nhưng không loại trừ
-được các VSV bị thực bào. VSV bị khu trú lại trong các u hạt (granulomas), tại đây
+được các VSV bị thực bào.
+VSV bị khu trú lại trong các u hạt (granulomas), tại đây
 các lympho T và ĐTB tiếp tục sản xuất các cytokine và yếu tố tăng trưởng, làm
 khuếch đại phản ứng viêm của các TB miễn dich, và biến đổi mô tại đó (hình thành
 mô sợi). ĐTB chuyển dạng thành TB dạng biểu mô (epithelioid cell), hoặc hoà nhập

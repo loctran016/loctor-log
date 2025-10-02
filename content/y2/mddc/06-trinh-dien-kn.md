@@ -56,7 +56,8 @@ VD: **KN polysaccharid, Lipopolysaccharides endotoxin (LPS) của vi khuẩn ho�
 
 ### Epitop – quyết định kháng nguyên
 
-Kháng thể hay tế bào T đặc hiệu chỉ nhận diện những phần nhỏ nhất định được cấu thành trong KN gọi là epitop. Một KN thường bao gồm nhiều epitop.
+Kháng thể hay tế bào T đặc hiệu chỉ nhận diện những phần nhỏ nhất định được cấu thành trong KN gọi là epitop.
+Một KN thường bao gồm nhiều epitop.
 
 Có 3 loại kháng nguyên:
 
@@ -90,7 +91,8 @@ Các chức năng, vai trò quan trọng nhất của từng APC:
 
 ### Bắt giữ và xử lý kháng nguyên
 
-APCs bắt giữ các tế bào lạ hay KN thông qua thực bào (phagocytosis) đối với KN hữu hình/ẩm bào đối với KN hoà tan. Sau đó tạo thành các hốc thực bào (phagosome) + lysosome → phagolysosome có nhiều men tiêu hoá, xử lý virus, vi khuẩn thành các mảnh KN
+APCs bắt giữ các tế bào lạ hay KN thông qua thực bào (phagocytosis) đối với KN hữu hình/ẩm bào đối với KN hoà tan.
+Sau đó tạo thành các hốc thực bào (phagosome) + lysosome → phagolysosome có nhiều men tiêu hoá, xử lý virus, vi khuẩn thành các mảnh KN
 
 Khi bắt gặp các VSV: APCs sẽ tiết ra các cytokinin như TNF hay interleukin - MD bẩm sinh
 
@@ -105,7 +107,8 @@ Các peptide KN sau khi được APCs xử lí sẽ được gắn lên trên c�
 Đặc tính quan trọng của MHC:
 
 - Phức hợp gene MHC có vai trò quan trọng trong quá trình cấy ghép mô: locus MHC giống nhau thì dung nạp, không thì thải loại.
-- MHC trình diện các KN cho **Lympho T đặc hiệu** với KN ấy nhận diện. Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác → ghép cùng loài vẫn có nguy cơ thải loại
+- MHC trình diện các KN cho **Lympho T đặc hiệu** với KN ấy nhận diện.
+Cấu trúc MHC giữa các con trong cùng loài cũng có thể khác → ghép cùng loài vẫn có nguy cơ thải loại
 - Ở người, MHC được gọi là **HLA** (KN bạch cầu của người), là các cụm gen trên *NST số 6*
 - Locus MHC có hai nhóm gene rất **đa kiểu hình** là các gene MHC lớp I và lớp II, lần lượt mã hoá cho MHC lớp I và lớp II
 

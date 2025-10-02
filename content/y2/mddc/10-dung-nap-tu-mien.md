@@ -38,7 +38,8 @@ Dung nạp MD chỉ xuất hiện ở các lympho bào T có thụ thể đặc 
 
 ![Dung nạp MD trung ương & ngoại biên](/y2/mddc/10-dnap-md-trg-uong-ngbien.jpeg)
 
-Cần sự kết hợp: liều lượng, đường truyền và quy trình gây mẫn cảm → tối ưu đáp ứng MD (VD: Ở chuột, polysaccharide vỏ phế cầu 0,5mg k kích thích nhưng 5x1000<sup>-4</sup>mg đáp ứng mạnh. K đáp ứng → dung nạp)
+Cần sự kết hợp: liều lượng, đường truyền và quy trình gây mẫn cảm → tối ưu đáp ứng MD (VD: Ở chuột, polysaccharide vỏ phế cầu 0,5mg k kích thích nhưng 5x1000<sup>-4</sup>mg đáp ứng mạnh.
+K đáp ứng → dung nạp)
 
 **Bệnh lao**: dung nạp VK *Mycobarterium tuberculosis* - không phát triển thành thành bệnh
 
@@ -136,7 +137,8 @@ Không có khả năng đáp ứng với KN vì 3 lí do:
 
 ## Bệnh tự miễn - Sự yên lặng MD
 
-Sự yên lặng MD: tự dung nạp của hệ MD đối với các thành phần cơ thể. Các thành phần của cơ thể có thể trở thành chất gây MD khi **kết hợp** với MHC II, nhờ ức chế, câm lặng bởi:
+Sự yên lặng MD: tự dung nạp của hệ MD đối với các thành phần cơ thể.
+Các thành phần của cơ thể có thể trở thành chất gây MD khi **kết hợp** với MHC II, nhờ ức chế, câm lặng bởi:
 
 - Không có gene mã hoá → thụ thể của lympho để chống lại KN tự thân
 - Loại bỏ các lympho có thụ thể *đặc hiệu* với KN tự thân
@@ -185,7 +187,8 @@ Ví dụ: Bệnh thấp tim chất hexosamine có trong liên cầu tan huyết 
 
 ### VSV thường trú
 
-Khoảng 10<sup>14</sup> vi khuẩn, virus thường trú sống cộng sinh với con người. Mặc dù chúng được các tb lympho nhận diện nhưng lại được dung nạp qua *T điều hoà* (ngoại biên)
+Khoảng 10<sup>14</sup> vi khuẩn, virus thường trú sống cộng sinh với con người.
+Mặc dù chúng được các tb lympho nhận diện nhưng lại được dung nạp qua *T điều hoà* (ngoại biên)
 
 Bệnh lao (gây ra bởi mtb - *mycobacterium tuberculosis*): thực nghiệm chứng minh rằng gia tăng tế bào lympho T chỉ gây tổn thương đến cơ thể mà không gây tổn hại gì cho Mtb
 

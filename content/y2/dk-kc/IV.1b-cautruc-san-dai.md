@@ -9,7 +9,8 @@ tags: ['KST']
 Dựa vào hình dạng, sán được chia làm 2 lớp:
 
 - Sán dải (cestoda): thân dẹp, có đốt
-- Sán lá (trematoda): thân dẹp, hình lá, không có đốt. Phân thành 2 nhóm: sán là thật sự và sán máng
+- Sán lá (trematoda): thân dẹp, hình lá, không có đốt.
+Phân thành 2 nhóm: sán là thật sự và sán máng
 
 ## Đặc điểm chung
 

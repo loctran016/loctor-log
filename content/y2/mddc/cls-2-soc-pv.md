@@ -40,7 +40,8 @@ BC ái kiềm vẫn có tính chất tương tự Mast nên IgE cũng sẽ có t
 
 Phân loại Quá mẫn type I làm 4 độ:
 
-1. Dị ứng: 1 cơ quan (chủ yếu là da) → mễ đay, ngứa, phù mạch. Dị ứng đối với các KN thông thường
+1. Dị ứng: 1 cơ quan (chủ yếu là da) → mễ đay, ngứa, phù mạch.
+Dị ứng đối với các KN thông thường
 2. Phản ứng phản vệ:  huyết áp có thể giao động không đáng kể, >= 2 trong 4 cơ quan bị ảnh hưởng:
     - Đa niêm: Nổi ban, mể day.....
     - Hô hấp: Khó thở, tức ngực, chảy nước mũi

@@ -26,7 +26,8 @@ Các bước cơ bản:
 
 - Antigen coating: KN đặc hiệu
 - Primary antibody: hỗn hợp chứa kháng thể muốn tìm (VD: serum)
-- Secondary antibody: kháng-kháng KT muốn tìm. Kháng thể này
+- Secondary antibody: kháng-kháng KT muốn tìm.
+Kháng thể này
 thường gắn với 1 loại enzyme (VD: conjugated anti-IgG antibody)
 - Substrate: Cơ chất của enzyme à màu
 - Stop: dung dịch làm ngưng phản ứng enzyme - cơ chất
@@ -41,7 +42,8 @@ Các bước cơ bản:
 
 - Primary (capture) antibody coating: KT đặc hiệu với nguyên cần tìm
 - Antigen: hỗn hợp chứa kháng nguyên muốn tìm (VD: serum)
-- Secondary antibody: KT kháng KN muốn tìm. KT này thường
+- Secondary antibody: KT kháng KN muốn tìm.
+KT này thường
 gắn với 1 loại enzyme (conjugated antibody)
 - Substrate: Cơ chất của enzyme à màu
 - Stop: dung dịch làm ngưng phản ứng enzyme - cơ chất
@@ -134,7 +136,8 @@ antibody, 2nd antibody có gắng với enzyme
 
 ![Immunoblot](/y2/mddc/th-2-immunoblot.png)
 
-Trong hạt phấn hoa hướng dương chứa rất nhiều protein khác nhau. Một sinh viên muốn xác định protein chính gây ra mẫn cảm IgE trên BN dị ứng với phấn hoa hướng dương.
+Trong hạt phấn hoa hướng dương chứa rất nhiều protein khác nhau.
+Một sinh viên muốn xác định protein chính gây ra mẫn cảm IgE trên BN dị ứng với phấn hoa hướng dương.
 Bạn hãy thiết kế một protocol tóm tắt các bước mà SV trên cần phải làm.
 
 ## Kỹ thuật Hoá mô MD

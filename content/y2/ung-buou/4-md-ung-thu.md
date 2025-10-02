@@ -4,9 +4,12 @@ date: 2025-10-01
 # draft: true
 ---
 
+<!-- markdownlint-disable MD018 -->
+
 ::badge{type="detail"}
 
 #title
+
 Giới thiệu tóm tắt
 
 #default

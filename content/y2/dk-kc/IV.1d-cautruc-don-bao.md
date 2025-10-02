@@ -81,7 +81,8 @@ Tính chất sinh học:
   - ẩm-mát: vài tuần (phù hợp nhất để tồn tại ngoài môi trường)
   - khô-AS mặt trời: vài ngày
 
-Thể bào nang *trưởng thành* vừa có thể tồn tại ngoài môi trường, vừa có thể lây nhiễm. Nếu nuốt vào thể hoạt động thì *Entamoeba histolytica* sẽ bị acid dạ dày tiêu diệt
+Thể bào nang *trưởng thành* vừa có thể tồn tại ngoài môi trường, vừa có thể lây nhiễm.
+Nếu nuốt vào thể hoạt động thì *Entamoeba histolytica* sẽ bị acid dạ dày tiêu diệt
 
 Chu trình phát triển của *Entamoeba histolytica*:
 

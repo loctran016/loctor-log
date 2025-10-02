@@ -30,9 +30,11 @@ Bệnh sử:
 
 Nhập viện:
 
-- BN tỉnh, tiếp xúc tốt, tổng trạng gầy, suy kiệt. Nặng 45kg, cao 165cm (BMI=16,5).
+- BN tỉnh, tiếp xúc tốt, tổng trạng gầy, suy kiệt.
+Nặng 45kg, cao 165cm (BMI=16,5).
 - Sinh hiệu: 38,5°C (sốt vừa), mạch 90 lần/phút (bình thường), huyết áp 120/80 mmHg (bình thường), nhịp thở 25 lần/phút (nhanh).
-- Vòm hầu có nhiều đốm trắng (nấm miệng), không hạch ngoại biên, phổi ran nổ (viêm phổi). Các cơ quan khác chưa ghi nhận bất
+- Vòm hầu có nhiều đốm trắng (nấm miệng), không hạch ngoại biên, phổi ran nổ (viêm phổi).
+Các cơ quan khác chưa ghi nhận bất
 thường.
 
 Xét nghiệm:
@@ -114,7 +116,8 @@ Cơ chế xâm nhập: xâm nhập vào bên trong TB T CD4 và tiêu diệt TB:
 hòa nhập DNA kí chủ → nhân lên cùng TB ký chủ → tổng hợp protein tạo virion
 → nảy chồi
 
-- → chết TB CD4, trung tâm của hệ thống miễn dịch. Giảm dần → suy giảm
+- → chết TB CD4, trung tâm của hệ thống miễn dịch.
+Giảm dần → suy giảm
 miễn dịch
 - Biến thành TB T trí nhớ chứa gen virus bên trong, sau này có bệnh nhiễm trùng cơ hội → nhân lên → tạo cơ hội cho virus bùng phát
 

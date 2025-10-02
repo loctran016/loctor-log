@@ -38,7 +38,8 @@ Phết ấn mo: các biểu hiện ngoài da của nấm nội tạng, lấy kim
 
 ## Vận chuyển bệnh phẩm
 
-- Càng nhanh càng tốt. Do vi nấm sống không được lâu ngoài môi trường → âm tính giả; dương tính giả đối với những con sống hoại sinh như Candida khi để lấy
+- Càng nhanh càng tốt.
+Do vi nấm sống không được lâu ngoài môi trường → âm tính giả; dương tính giả đối với những con sống hoại sinh như Candida khi để lấy
 - Để trong đồ chứa thích hợp, đảm bảo an toàn sinh học
 - Kèm theo phiếu chỉ định, tóm tắt bệnh
 - Nhiệt độ bảo quản trong thời gian ngắn là 4 độ → giúp cho vi nấm phát triển chậm cũng như đàm bảo hình dạng

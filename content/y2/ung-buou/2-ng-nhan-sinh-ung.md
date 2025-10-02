@@ -5,7 +5,8 @@ date: 2025-09-18
 
 ## Phân loại tác nhân gây ung thư
 
-Ung thư khởi nguồn từ các tác nhân bên trong cơ thể (cơ địa di truyền, rối loại nội tiết) chỉ chiếm 10%. Trong khi đó các tác nhân bên ngoài do môi trường và lối sống chiếm 70 – 80%, liên quan đến các yếu tố hóa học, vật lý và sinh học.
+Ung thư khởi nguồn từ các tác nhân bên trong cơ thể (cơ địa di truyền, rối loại nội tiết) chỉ chiếm 10%.
+Trong khi đó các tác nhân bên ngoài do môi trường và lối sống chiếm 70 – 80%, liên quan đến các yếu tố hóa học, vật lý và sinh học.
 
 Tác nhân ngoài môi trường
 
@@ -84,7 +85,8 @@ Chất gây độc tế bào (cytotoxicants)
 
 ### Khói thuốc lá
 
-Khói thuốc lá chứa ~ 7000 chất độc hại, trong đó ~ 72 chất sinh ung. Hút thuốc liên quan đến
+Khói thuốc lá chứa ~ 7000 chất độc hại, trong đó ~ 72 chất sinh ung.
+Hút thuốc liên quan đến
 
 - 90% UT phổi
 - 70% UT tai-mũi-họng
@@ -93,7 +95,7 @@ Khói thuốc lá chứa ~ 7000 chất độc hại, trong đó ~ 72 chất sinh
 
 Khói thuốc lá là thụ phạm của phần lớn =a=UT bàng quang==
 
-- Độc tố ngấm qua bằng máu 
+- Độc tố ngấm qua bằng máu
 - Thải loại qua thận
 - Nước tiểu được chứa đựng tại bàng quang
 
@@ -103,7 +105,8 @@ Bụi CN -> nguy cơ UT nhiều nhất: =a=UT đường hô hấp trên==
 
 ### Bụi mịn PM 2.5 và nguy cơ UT phổi
 
-Kích thước nhỏ 2.5µm -> khẩu trang y tế không thể phòng bụi PM 2.5. Chỉ có <u>khẩu trang chuyên dụng trong ICU</u> mới ngăn được
+Kích thước nhỏ 2.5µm -> khẩu trang y tế không thể phòng bụi PM 2.5.
+Chỉ có <u>khẩu trang chuyên dụng trong ICU</u> mới ngăn được
 
 Bụi mịn gây oxy hoá DNA -> Cơ chế ==gây độc gene==
 
@@ -120,6 +123,7 @@ Bộ phim Complicit phản ánh tình trạng sử dụng hoá chất benzen đ�
 Khói xe cộ: NO2, SO2, O3, CO, Hydrocacbon đa vòng thơm đều ==gây độc gene==
 
 Ung thư mũi xoang do:
+
 - Bụi gỗ: cơ chế ==gây độc gene== -> ==chất sinh ung nhóm I==
 - Bụi KL nặng: cơ chế không gây độc gene
 
@@ -136,14 +140,15 @@ Có 2 cơ chế sinh ung của thịt đỏ:
 
 - Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H202 gây viêm==
 - Gây độc gene: Các NOC (hợp chất nitrosamine) gây ==DNA adduct==, DNA damage và 4-HNE gây đột biến chọn lọc ung thư
-- 
-### Thịt chế biến dạng muối, mắm, phơi khô 
+-
+
+### Thịt chế biến dạng muối, mắm, phơi khô
 
 Thịt chế biến (=a=để lâu== -> muối, mắm, chua, phơi khô) là chất ==sinh ung nhóm I==, chứa các hợp chất nitrosamine NOC gây độc gene
 
 ### Thức ăn nướng
 
-### Thực phẩm mốc 
+### Thực phẩm mốc
 
 Đồ cứu trợ,... chủ yếu là ngũ cốc
 
@@ -179,13 +184,13 @@ Tia =a=UV-A== (và UV-B) chuyển =c=urocanic acid (UCA)== từ trans -> cis gâ
 
 - CagA: ức chế apoptosis
 - VacA: exotoxins, chủ yếu gây tổn thương niêm mạc dạ dày
- 
+
 ### Virus viêm gan B, C và ==UT gan==
- 
+
 Hàng đầu ở nước ta (học kĩ) vì Việt Nam:
- 
- - Vừa uống rượu
- - Vừa là vùng dịch tễ của virus
+
+- Vừa uống rượu
+- Vừa là vùng dịch tễ của virus
 
 Các tác nhân chính gây UT gan:
 
@@ -197,8 +202,8 @@ Viêm gan B dễ gây UT gan hơn viêm gan C vì: =a=HBV là gene DNA==, HCV l�
 
 Gen HBx của HBV có khả năng:
 
-- Ức chế p53, sửa chữa ,apoptosis 
-- Hoạt hoá dòng thác tín hiệu của MAPK, JAK, STAT -> kích thích phân bào 
+- Ức chế p53, sửa chữa ,apoptosis
+- Hoạt hoá dòng thác tín hiệu của MAPK, JAK, STAT -> kích thích phân bào
 
 ### Virus *HPV* - gây bướu gai ở người
 
@@ -244,7 +249,8 @@ Angelina Jolie
 
 Đột biến gene APC trên NST 5 -> 1% UT đại tràng
 
-Gen APC: đè nèn bướu, ức chế tăng trưởng TB và sự gắn kết TB. Khi APC đột biến -> hình thành hàng trăm, hàng ngàn polyp trong lòng ruột, 100% chuyển thành UT rất sớm
+Gen APC: đè nèn bướu, ức chế tăng trưởng TB và sự gắn kết TB.
+Khi APC đột biến -> hình thành hàng trăm, hàng ngàn polyp trong lòng ruột, 100% chuyển thành UT rất sớm
 
 Nên phẫu thuật cắt bỏ =r=toàn bộ đại tràng== và tầm soát trong gia đình
 
@@ -254,9 +260,9 @@ Nếu không còn thấy được niêm mạc bình thường nữa, nặng -> c
 
 Tình trạng viêm nhiễm lâu ngày:
 
-- Hang lao lâu ngày -> dễ UT phổi 
+- Hang lao lâu ngày -> dễ UT phổi
 
-Tình trạng béo phì 
+Tình trạng béo phì
 
 ### Cơ chế sinh ung trong điều kiện viêm mạn
 
@@ -267,6 +273,7 @@ Mô mỡ sản suất quá mức:
 - Estrogen: UT CQSD nữ
 - Insulin, IGF-1: UT đại tràng, thận, tuyến tiền liệt và nội mạc tử cung
 
-=> Cả 2 đều tăng phân bào 
+=> Cả 2 đều tăng phân bào
 
-Tỉ lệ ung thư vú tăng là do người phụ nữ béo phì tuổi trung niên. Hiện nay Việt Nam có số lượng phụ nữ béo phì tuổi trung niên đang tăng dần => Tỉ lệ ung thư vú Việt Nam sắp tăng 
+Tỉ lệ ung thư vú tăng là do người phụ nữ béo phì tuổi trung niên.
+Hiện nay Việt Nam có số lượng phụ nữ béo phì tuổi trung niên đang tăng dần => Tỉ lệ ung thư vú Việt Nam sắp tăng

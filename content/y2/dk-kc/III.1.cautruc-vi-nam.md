@@ -84,7 +84,8 @@ Gây ra bệnh =p=viêm màng não==, chích từ dịch não tuỷ
 - Thành TB có thêm =r=melanin==
 - Có thêm bao nang Muco-polysaccharide (*xylomannan*), =r=không bị nhuộm bởi mực tàu==
 
-=> Người ta hoà mực tàu, nang có 99% là nước (cùng chiết quang với dịch não tuỷ) nên bình thường không nhìn thấy. Hoà mực tàu vào thay đổi độ chiết quang của dịch não tuỷ bằng dịch tàu, không thấm màng nên vẫn thấy vi nấm
+=> Người ta hoà mực tàu, nang có 99% là nước (cùng chiết quang với dịch não tuỷ) nên bình thường không nhìn thấy.
+Hoà mực tàu vào thay đổi độ chiết quang của dịch não tuỷ bằng dịch tàu, không thấm màng nên vẫn thấy vi nấm
 
 Bao nang bao gồm:
 

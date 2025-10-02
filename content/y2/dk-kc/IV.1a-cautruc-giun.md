@@ -15,7 +15,8 @@ Thông tin chính của giun
 
 #default
 
-Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx. Lao (=r=AsAS==):
+Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx.
+Lao (=r=AsAS==):
 
 - g.Đũa (*==Ascris lumbricoides==*)
 - g.Mỏ (*==Necator americanus==*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)

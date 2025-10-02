@@ -36,7 +36,9 @@ KST sốt rét chuyển hoá:
 - Hấp thu, cắt bỏ thành phần heme, chuyển hoá phần globin -> aa
 - Chuyển hoá heme -> gây độc tế bào
 
-Thuốc là phân tử base yếu (approx. NH<sub>3</sub>), không ion hoá -> chui qua không bào -> proton hoá (approx. NH<sub>4</sub>+):
+Thuốc là phân tử base yếu (approx.
+NH<sub>3</sub>), không ion hoá -> chui qua không bào -> proton hoá (approx.
+NH<sub>4</sub>+):
 
 - pH
 - Ức chế trùng hợp =a=heme -> hemozoin== => Độc

@@ -6,7 +6,8 @@ tags: ['KST']
 
 ## Giun
 
-Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx. Lao (=r=AsAS==):
+Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx.
+Lao (=r=AsAS==):
 
 - g.Đũa (*Ascris lumbricoides*)
 - g.Mỏ (*Necator americanus*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
@@ -85,7 +86,8 @@ Không thành nang trùng nha, phải gặp nước mới tồn tại, phát tri
 - Cá lớn nuốt cá bé: kí chủ chờ thời
 - Gây =a=thiếu máu hồng cầu to== bằng:
   - Hấp thu B12, B9
-  - approx. Lysolecithine: tiêu huyết
+  - approx.
+Lysolecithine: tiêu huyết
 
 *Taenia solium* (sán dải bò)
 
@@ -154,5 +156,3 @@ Benzidimazoles:
 - Triclabendazole: đặc hiệu với <u>sán lá</u>
 
 Invermectin: giun chỉ, giun lươn, lava migrans dưới da
-
-

@@ -77,8 +77,10 @@ MCQ:
 
 Tiêm vaccine của phế cầu chỉ chứa 13 type của *S.pneumoniae* nhưng sau khi tiêm ngừa lại sinh MD chống lại 100 type khác nhau
 
-A. Có epitop giống nhau
-B. Phản ứng chéo
+A.
+Có epitop giống nhau
+B.
+Phản ứng chéo
 
 Đáp án: B vì:
 

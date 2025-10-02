@@ -14,7 +14,8 @@ Tổn thương DNA là không thể tránh khỏi trong quá trình sống, do:
 
 Ở Việt Nam, ung thư nhiều nhất là ung thư gan
 
-Mỗi ngày xảy ra khoảng 10<sup>4</sup> → 10<sup>6</sup> tổn thương DNA. Hậu quả của những tổn thương DNA
+Mỗi ngày xảy ra khoảng 10<sup>4</sup> → 10<sup>6</sup> tổn thương DNA.
+Hậu quả của những tổn thương DNA
 
 - Tích lũy các ĐB dần theo thời gian, tạo ra những protein có chức năng không phù hợp, gây bệnh lý
 - ĐB xảy ra ở TB mầm sinh dục: di truyền cho thế hệ sau
@@ -148,7 +149,8 @@ sinh ung
 Protein Rb (gen nằm trên NST 13): =r=điểm kiểm soát G1/S==
 
 - Trạng thái hoạt hóa: Rb gắn kết và gây bất hoạt yếu tố sao chép E2F → ngăn cản tế bào từ G1 vào S
-- Trạng thái bất hoạt: Rb mất chức năng và làm hoạt hóa E2F. E2F sẽ gắn với phần thúc đẩy (promoter) của gen Cyclin E → tăng biểu hiện protein Cyclin E và sự tổng hợp phức hợp Cdk2-cyclin E → thúc đẩy tăng sinh TB
+- Trạng thái bất hoạt: Rb mất chức năng và làm hoạt hóa E2F.
+E2F sẽ gắn với phần thúc đẩy (promoter) của gen Cyclin E → tăng biểu hiện protein Cyclin E và sự tổng hợp phức hợp Cdk2-cyclin E → thúc đẩy tăng sinh TB
 
 ### Giả thuyết Knudson – 2 cú đánh
 

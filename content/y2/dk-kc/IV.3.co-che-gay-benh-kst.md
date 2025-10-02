@@ -84,7 +84,8 @@ Fasciola hepatica: ký sinh trên da người, trâu bò sán non ăn mô gan k�
 Ruồi: Tabanus sp truyền các mầm bệnh
 
 - *Bacillus anthracis* gây bệnh than là bệnh từ thú
-- *Pasteurella tularensis* gây bệnh nhiễm khuẩn cấp tính. Bệnh gây sốt, viêm hach, viêm loét, tổn thương nhiều cơ quan
+- *Pasteurella tularensis* gây bệnh nhiễm khuẩn cấp tính.
+Bệnh gây sốt, viêm hach, viêm loét, tổn thương nhiều cơ quan
 
 Muỗi: Tùy theo mỗi loài truyền các mầm bệnh khác nhau
 
@@ -158,7 +159,8 @@ Tăng sản: Clonorchis sinensis, Fasciola sp kích thích tăng sinh biểu mô
 
 Chuyển sản: Paragonimus westermanii ở phổi biến các mô phổi thành mô xơ bao quanh ký sinh trùng
 
-Tân sinh: tế bào tăng trưởng hỗn loạn. Opisthorchis viverrini ký sinh ở ống mật gây ung thư biểu mô ống mật
+Tân sinh: tế bào tăng trưởng hỗn loạn.
+Opisthorchis viverrini ký sinh ở ống mật gây ung thư biểu mô ống mật
 
 ### 8. Đáp ứng quá mẫn - Dị ứng
 

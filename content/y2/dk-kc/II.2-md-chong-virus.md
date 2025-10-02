@@ -80,7 +80,8 @@ Nhiễm virus mạn gây "kiệt quệ" cho tế bào CTL
 
 - T CD8+ giảm phân bào, giảm sản xuất IFN-y, giảm tính độc tế bào, biểu hiện thụ thể ức chế PD-1
 
-Một số virus xâm nhiễm, tiêu diệt hay bất hoạt tế bào miễn dịch. VD: HIV gây nhiễm và giết chết T CD4+ bằng nhiều cơ chế:
+Một số virus xâm nhiễm, tiêu diệt hay bất hoạt tế bào miễn dịch.
+VD: HIV gây nhiễm và giết chết T CD4+ bằng nhiều cơ chế:
 
 - Trực tiếp làm chết T CD4+ do suy kiệt
 - Kích hoạt inflammasome bên trong tế bào, gây pyroptosis

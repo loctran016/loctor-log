@@ -69,7 +69,8 @@ Chuyên biệt cho 1 loài
 
 Sán dải bò: có thể bò ra ngoài, nhột nhột cái rụng ra xơ mít -> gần như chắc -> Kỹ thuật Graham tìm trứng sán dải
 
-**Kỹ thuật Baermann:** giúp tìm ấu trùng giun lươn. Dựa vào đặc tính: ấu trùng giun lươn có ái tính với nhiệt độ và ẩm độ (giun lươn đẻ ít -> soi khó thấy, 100gr phân) -> cồng kềnh, ít dùng
+**Kỹ thuật Baermann:** giúp tìm ấu trùng giun lươn.
+Dựa vào đặc tính: ấu trùng giun lươn có ái tính với nhiệt độ và ẩm độ (giun lươn đẻ ít -> soi khó thấy, 100gr phân) -> cồng kềnh, ít dùng
 
 ### Kỹ thuật nhuộm mẫu phân
 
@@ -141,7 +142,8 @@ Thường dùng hiện nay: kỹ thuật ELISA gián tiếp phát hiện kháng 
 
 ### ELISA
 
-Cho kết quả gián tiếp, không có giá trị tuyệt đối. Không thay thế hoàn toàn xét nghiệm
+Cho kết quả gián tiếp, không có giá trị tuyệt đối.
+Không thay thế hoàn toàn xét nghiệm
 tìm KST trực tiếp
 
 - Âm giả: mới bị nhiễm KST hoặc đã

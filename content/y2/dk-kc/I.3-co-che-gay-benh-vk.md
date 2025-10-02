@@ -13,7 +13,13 @@ tags: ['Vi khuẩn']
 
 ### Tình huống 2
 
-Một nam công nhân 30 tuổi sống tại TP.HCM, gầy sứt 5 kg trong 3 tháng, đến khám vì ho kéo dài. Ban đâu anh chỉ ho khan, về sau ho có đàm đặc lẫn vài tia máu tươi, kèm sốt nhẹ về chiều, ra mồ hôi trộm ban đếm. Bệnh nhân mệt mỏi, đau ngực âm ỉ. Tại phòng khám, bác sĩ nghe phổi có ran nổ đỉnh phải, nghi ngờ lao phổi. X-quang ngực cho thấy tổn thương thâm nhiễm đình phổi phải và có hang sáng đường kính ~3 cm. Kết quả xét nghiệm đàm: tìm thấy vi khuẩn kháng cồn-kháng toan (AFB) dương tính 3+. Bệnh nhãn được chuyen vao Bệnh viện Phạm Ngọc Thạch để điều trị theo phác đồ lao.
+Một nam công nhân 30 tuổi sống tại TP.HCM, gầy sứt 5 kg trong 3 tháng, đến khám vì ho kéo dài.
+Ban đâu anh chỉ ho khan, về sau ho có đàm đặc lẫn vài tia máu tươi, kèm sốt nhẹ về chiều, ra mồ hôi trộm ban đếm.
+Bệnh nhân mệt mỏi, đau ngực âm ỉ.
+Tại phòng khám, bác sĩ nghe phổi có ran nổ đỉnh phải, nghi ngờ lao phổi.
+X-quang ngực cho thấy tổn thương thâm nhiễm đình phổi phải và có hang sáng đường kính ~3 cm.
+Kết quả xét nghiệm đàm: tìm thấy vi khuẩn kháng cồn-kháng toan (AFB) dương tính 3+.
+Bệnh nhãn được chuyen vao Bệnh viện Phạm Ngọc Thạch để điều trị theo phác đồ lao.
 
 Ăn nhiều, uống nhiều, tiểu nhiều, sụt cân → đái đường
 
@@ -35,7 +41,11 @@ Phổi có ran: ran ẩm, ran khan
 
 ### Tình huống 3
 
-Ông B, 60 tuổi ở một vùng quê, giẫm phải đinh rỉ khi làm vườn nhưng chỉ rửa vết thương qua lọa và không đi tiêm phòng. Khoảng 7 ngày sau, ông bắt đầu thấy đau và cứng hàm ("khóa hàm", không mở miệng lớn được). Ông sốt nhẹ, căng cứng cơ cổ gáy và cảm thấy khó nuốt nước. Bệnh nhanh chóng nặng lên: bệnh nhân lên cơn co cứng toàn thân, cong ưỡn người khi bị kích thích nhẹ (tiếng động hoặc ánh sáng). Tại khoa Cấp cứu, ông liên tục có những cơn co giật, phải đặt nội khí quản để bảo đảm hô hấp. Bác sĩ chẩn đoán ngay bệnh uốn ván trên cơ địa bệnh nhân không tiêm ngừa, và chuyển ông vào hồi sức tích cực để điều trị bằng kháng độc tố và thuốc an thần.
+Ông B, 60 tuổi ở một vùng quê, giẫm phải đinh rỉ khi làm vườn nhưng chỉ rửa vết thương qua lọa và không đi tiêm phòng.
+Khoảng 7 ngày sau, ông bắt đầu thấy đau và cứng hàm ("khóa hàm", không mở miệng lớn được). Ông sốt nhẹ, căng cứng cơ cổ gáy và cảm thấy khó nuốt nước.
+Bệnh nhanh chóng nặng lên: bệnh nhân lên cơn co cứng toàn thân, cong ưỡn người khi bị kích thích nhẹ (tiếng động hoặc ánh sáng).
+Tại khoa Cấp cứu, ông liên tục có những cơn co giật, phải đặt nội khí quản để bảo đảm hô hấp.
+Bác sĩ chẩn đoán ngay bệnh uốn ván trên cơ địa bệnh nhân không tiêm ngừa, và chuyển ông vào hồi sức tích cực để điều trị bằng kháng độc tố và thuốc an thần.
 
 Có ánh sáng, giựt cái: uốn ván
 
@@ -51,7 +61,8 @@ nhiễm trùng thận rất dễ ntrg huyết, bàng quang thì chưa sao, thư�
 
 Đái tháo đường +
 
-Sốt cao, lạnh run: nhiễm trùng hệ thống (nhiễm khuẩn huyết). Phổi → kiểu gì cũng vô máu, lạnh
+Sốt cao, lạnh run: nhiễm trùng hệ thống (nhiễm khuẩn huyết).
+Phổi → kiểu gì cũng vô máu, lạnh
 
 Không có ở phổi mà ở trên (KQ trên) → k có vô máu, lạnh
 

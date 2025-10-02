@@ -13,7 +13,8 @@ Amip dạng ăn hồng cầu
 
 Bạch cầu trong áp xe gan tăng trên 10000 BC
 
-Eosinophil tăng có thể do nhiễm VSV khác. Không được kết luận tăng eosinophil, không nhiễm *E.hiítolytica*
+Eosinophil tăng có thể do nhiễm VSV khác.
+Không được kết luận tăng eosinophil, không nhiễm *E.hiítolytica*
 
 Thường thì ở thuỳ trái của gan
 
@@ -24,7 +25,8 @@ Chẩn đoán phù hợp: dựa trên dịch tễ, LS, cận LS
 Dịch tễ: vừa trở về từ vùng dịch tễ, chung xe với người bệnh nhiễm
 
 Lâm sàng (triệu chứng khi hỏi bệnh, thăm khám): đau thượng vị và ngày càng trầm
-trọng hơn trong khoảng thời gian 4 tuần. Sốt, vã mồ hôi
+trọng hơn trong khoảng thời gian 4 tuần.
+Sốt, vã mồ hôi
 
 Cận lâm sàng:
 

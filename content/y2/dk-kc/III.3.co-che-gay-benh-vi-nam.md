@@ -20,7 +20,8 @@ Vi nấm sử dụng keratin để phát triển
 
 ## Vi nấm ngoài da
 
-Sống ký sinh ở những mô keratin như da, tóc, lông, móng. Sử dụng keratin là nguồn dinh dưỡng.
+Sống ký sinh ở những mô keratin như da, tóc, lông, móng.
+Sử dụng keratin là nguồn dinh dưỡng.
 
 Mầm bệnh có thể từ người, thú, hoặc từ đất.
 
@@ -39,7 +40,7 @@ Adhesin trên bề mặt bào tử đính nhỏ của vi nấm kết dính với
 
 Sau khi kết dính bào tử đính sẽ phát triển sợi nấm và bào tử đốt
 
-### Lác đồng tiền
+Lác đồng tiền:
 
 - Bào tử nảy mầm và phát triển sâu vào lớp sừng với tốc độ nhanh hơn sự bong vảy của lớp sừng.
 - Trong khi ở lớp sâu hơn, các bào tử đốt mới được hình thành, ngắn và mỏng hơn bao phủ toàn bộ bề mặt tiếp xúc với vi nấm.
@@ -146,6 +147,7 @@ gắn kết với fibrinogen và laminin của màng đáy.
 
 Sợi tơ nấm tiết ra nhiều sản phẩm chuyển hóa tham
 gia cơ chế gây bệnh như:
+
 - Gliotoxin
 - Elastase
 - Phospholipase
@@ -186,12 +188,13 @@ qua lỗ nhỏ, giúp xâm nhập qua bề mặt tế bào biểu mô
 Các hình dạng khác nhau tạo ra sự khác nhau của các
 glycoprotein thành tế bào, và tiết các enzym tiêu
 protein khác nhau.
+
 - Thay đổi độc lực của nấm.
 - Làm thay đổi khả năng tiêu diệt vi nấm của bạch cầu
 trung tính qua cơ chế phụ thuộc oxy.
 - Làm thay đổi tính nhạy cảm đối với thuốc kháng nấm.
 
-### Bề mặt tế bào 
+### Bề mặt tế bào
 
 Loại và mức độ glycosyl
 hóa của các

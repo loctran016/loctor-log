@@ -33,7 +33,8 @@ Yếu tố tâm lý, xã hội:
 
 3 PC trị liệu:
 
-- Chân thật: dựa trên khả năng của bạn. VD nè
+- Chân thật: dựa trên khả năng của bạn.
+VD nè
   - BN hỏi hướng điều trị: Mẹ thấy nè, em bé … (**triệu chứng**), theo con đánh giá ở thời điểm hiện tại thì em bé vẫn có thể theo dõi thêm, con sẽ báo cáo để bác sĩ hỗ trợ
   - Con mới hỏi bệnh th, còn cần khám, con sẽ báo lại với bác sĩ để bác sĩ giải quyết mối lo lắng đó
   - Khuyến khích duy trì thói quen tốt, ngăn xấu

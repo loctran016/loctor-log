@@ -12,7 +12,8 @@ Viêm cấp xong có thể trở thành abces (nó chỉ khu trú lại chứ kh
 Viêm có 2 ý nghĩa - 2 POV:
 
 - Lâm sàng: có hại - gây đau, sốt
-- Bênh học: có lợi, loại trừ yếu tố gây bệnh và sữa chửa tổn thương. Nhưng nếu viêm quá mức (tự miễn) sẽ gây hại
+- Bênh học: có lợi, loại trừ yếu tố gây bệnh và sữa chửa tổn thương.
+Nhưng nếu viêm quá mức (tự miễn) sẽ gây hại
 
 Viêm là phản ứng toàn thân, nhưng chia làm 2 biểu hiện
 

@@ -54,7 +54,8 @@ KN K: KN nang
 
 ## Trực khuẩn kháng acid - Lao
 
-Không vỏ, không lông, không nha bào. Không ngoại nội độc tố
+Không vỏ, không lông, không nha bào.
+Không ngoại nội độc tố
 
 Độc lực là do lớp lipid dày -> gây miễn dịch
 
@@ -106,4 +107,3 @@ KS dự phòng: =r=trước khi phơi nhiễm==, chỉ mang tính tạm thời -
 Xơ gan -> chọn thuốc thải nhờ thận: Vancomycin, Penicillin
 
 Suy thận -> chọn thuốc thải qua gan: Macrolides, Clindamycin
-
