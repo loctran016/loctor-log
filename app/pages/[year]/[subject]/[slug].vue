@@ -76,9 +76,16 @@ useSeoMeta({
     letter-spacing: 0.02rem;
 }
 
-.post-wrapper u {
-    text-underline-offset: 4px;
+@media (max-width: 1024px) {
+
+    .post-wrapper u {
+        text-underline-offset: 4px;
+    }
 }
+.post-wrapper u {
+    text-underline-offset: 2px;
+}
+
 
 .post-wrapper th {
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
