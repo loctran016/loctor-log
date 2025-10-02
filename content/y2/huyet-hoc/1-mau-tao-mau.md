@@ -21,9 +21,11 @@ Máu là một =a=mô liên kết dịch==, thể tích khoảng 7% TL cơ thể
     - Hồng cầu (RBC): 40-45% thể tích của máu, 30ml/kg trọng lượng cơ thể (TLCT)
     - Bạch cầu (WBC) và Tiểu cầu (PLT): 1-2% TLCT
 
+Mất máu >= 30% gây sốc, tụt huyết áp
+
 Máu toàn phần không có chất chống đông
 
-Máu đông lại và sẽ tách thành 2 phần:
+Còn khi không có chất chống đông, máu sẽ bao gồm:
 
 - Màu đỏ: cục máu đông
 - Màu vàng: Huyết thanh máu toàn phần lấy đi các thành phần hữu hình (TB máu,
@@ -58,20 +60,21 @@ Chức năng chung của máu
 
 ### Protein HT
 
-**Albumin (54%)** là protein huyết tương quan trọng nhất của huyết tương, tham gia 2 chức năng:
+==Albumin (54%)== là protein huyết tương quan trọng nhất của huyết tương, tham gia 2 chức năng:
 
-- 70-80% áp suất keo trong huyết tương,
+- =a=70-80%== áp suất keo trong huyết tương,
 - Liên kết vận chuyển các chất có phân tử nhỏ
 
-**Globulin (38%)** là loại protein bao gồm enzym, kháng thể
+=p=Globulin (38%)== là loại protein bao gồm enzym, kháng thể
 
-- alpha1 - globulin: 4%: glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
-- alpha2 - globulin: 8% bao gồm haptoglobin( gắn Hbtdo trong huyết tương ), Erythropoietin( là hormon tạo hồng )
-- beta1 - globulin: 7%,beta2- globulin: 4%: vận chuyển lipid. các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò
-trong các bệnh tim mạch.
-- gama - globulin: 17% chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD ( GAMED).
+- alpha1 - globulin (4%): glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
+- alpha2 - globulin (8%) bao gồm Haptoglobin (Gắn với Hb tự do), Erythropoetin
+- beta1 - globulin (7%), beta2- globulin (4%): vận chuyển lipid. các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò trong các bệnh tim mạch.
+- gamma - globulin (17%) chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD (GAMED).
 
-**Tỷ lệ albumin/globulin (A/G)**: Tỷ lệ A/G bình thường 1-1.5.
+**Tỷ lệ Albumin/globulin (A/G)** bình thường: 1-1,5
+- A/G thấp: Bệnh lý thận, gan (giảm Albumin); tăng sản xuất Globulin (đa u tủy, bệnh tự miễn)
+- A/G cao: Sản xuất không đủ globulin
 
 #### Điện di
 
@@ -86,8 +89,6 @@ Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh
 
 ![Điện di protein huyết tương](y2/huyet-hoc/1-dien-di-prot-ht.jpeg)
 
-#### Chức năng
-
 ### Lipid HT
 
 Ngoài acid béo tự do, phần lớn ở dạng kết hợp protein (hoà tan).
@@ -96,15 +97,13 @@ Vận chuyển:
 
 - Chylomicron: TG-Chol-PL-vỏ beta-LP, vận chuyển lipid thức ăn vào hệ bạch huyết.
 - alpha-LP (HDL): lipid từ mô về gan.
-- beta-LP (LDL): phương tiện chủ yếu vận chuyển cholesterol ht (liên quan đến các bệnh tim mạch)
+- beta-LP (LDL): vận chuyển cholesterol huyết tương (liên quan đến các bệnh tim mạch)
 - Tiền beta-LP (VLDL): acid béo tới mô.
 
 Dinh dưỡng:
 
-- Acid béo: nguyên liệu tổng
-hợp lipid.
-- Thể ceton: nguồn NL (tăng khi nhịn
-đói)
+- Acid béo: nguyên liệu tổng hợp lipid.
+- Thể ceton: nguồn NL (tăng khi nhịn đói)
 - Cholesterol: tổng hợp hormon sinh dục, thượng thận, dịch mật.
 
 => Hàm lượng lipid toàn phần, tỉ lệ giữa các thành phần được điều hoà chặt chẽ.
@@ -118,9 +117,6 @@ Hầu hết ở dạng
 - glucose tự do
 - những chất chuyển hoá
 - một số protein chứa đường
-
-Nguồn năng lượng và nguyên liệu tổng hợp
-nhiều chất quan trọng của tế bào (não, tim).
 
 Chức năng chủ yếu là dinh dưỡng.
 
@@ -136,18 +132,23 @@ HC lưới tăng khi mất máu đột ngột phải huy động HC ở tủy v�
 
 ## Dòng Hồng cầu
 
-Hình dạng Hồng cầu
+### Giai đoạn phát triển
 
-- Không nhân
-- Hình dĩa, lõm hai mặt
+Giai đoạn trong tủy xương: Tiền nguyên HC -> Nguyên HC ưa kiềm -> Nguyên HC đa sắc ->
+Nguyên HC ưa acid -> HC lưới
 
-![Hồng cầu dưới kính hiển vi](y2/huyet-hoc/1-hong-cau-hien-vi.jpeg)
+Giai đoạn máu ngoại biên: HC lưới mất RNA -> HC trưởng thành
 
-KN vận chuyển khí:
+### Hình dạng Hồng cầu
+
+Không nhân. Hình dĩa, lõm hai mặt -> Tăng KN vận chuyển khí:
 
 - Tăng diện tích tiếp xúc
 - Tăng tốc độ khuếch tán khí
 - Dễ dàng biến dạng khi qua mao mạch
+
+![Hồng cầu dưới kính hiển vi](y2/huyet-hoc/1-hong-cau-hien-vi.jpeg)
+
 
 ### Thành phần cấu tạo hồng cầu
 
@@ -160,7 +161,15 @@ glycoprotein, band 3 và glycophorin
 spectrin, được kết dính với
 màng phospholipid.
 
-Bào tương: rất ít bào quan, chủ yếu Hb (4 bánh alpha, 2 bánh beta)
+Màng hồng cầu: (màng bán thấm, xác định sức bền của HC)
+- Lớp ngoài (Protein xuyên màng) (KN đặc hiệu của HC):
+glycoprotein, glycolipid, acid sialic, band 3, glycophorin
+    - Acid sialic tích điện âm, làm cho HC không dính vào
+nhau
+- Lớp lipid kép
+- Mạng lưới cytoskeletal: spectrin phong phú nhất, kết dính với màng lipid, làm cho HC mềm mại, uyển chuyển, có thể dễ lách qua nơi hẹp
+
+Bào tương: rất ít bào quan, chủ yếu Hb (2 bánh alpha, 2 bánh beta)
 
 ### Hemoglobin Hồng cầu
 
@@ -180,7 +189,7 @@ Thành phần:
 
 2,3-Disphosphoglycerate (2,3-DPG), thúc đẩy quá trình chuyển đổi hemoglobin từ trạng thái ái lực oxy cao sang trạng thái ái lực oxy thấp.
 
-2,3-BPG liên kết với ngăn trung tâm của tetramer hemoglobin, thay đổi cấu trúc của nó và dịch chuyển đường cong phân ly oxy sang phải.
+2,3-DPG liên kết với ngăn trung tâm của tetramer hemoglobin, thay đổi cấu trúc của nó và dịch chuyển đường cong phân ly oxy sang phải.
 
 ### Hemoglobin vận chuyển oxy
 
