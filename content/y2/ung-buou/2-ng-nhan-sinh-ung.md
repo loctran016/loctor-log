@@ -312,7 +312,7 @@ Mô mỡ sản suất quá mức:
 
 => Cả 2 đều tăng phân bào
 
-![Béo phì và nguy cơ UT](/y2/ung-buou/2-beo-phij.jpeg)
+![Béo phì và nguy cơ UT](/y2/ung-buou/2-beo-phi.jpeg)
 
 Tỉ lệ ung thư vú tăng là do người phụ nữ béo phì tuổi trung niên.
 Hiện nay Việt Nam có số lượng phụ nữ béo phì tuổi trung niên đang tăng dần => Tỉ lệ ung thư vú Việt Nam sắp tăng
