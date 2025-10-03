@@ -1,5 +1,5 @@
 ---
-title: Bài 5 - Sự xâm lấn, di căn của ung thư
+title: Bài 5 - Sự xâm lấn, di căn
 date: 2025-10-03
 ---
 
