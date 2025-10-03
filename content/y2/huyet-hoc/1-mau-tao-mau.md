@@ -10,7 +10,7 @@ trình đông và cầm máu
 
 ## Máu
 
-![Thành phần của máu ](y2/huyet-hoc/1-tp-mau.jpeg)
+![Thành phần của máu ](/y2/huyet-hoc/1-tp-mau.jpeg)
 
 ### Thành phần
 
@@ -33,7 +33,7 @@ fibrinogen)
 
 Định nghĩa huyết thanh là gì? Là thành phần máu sau khi đã loại bỏ hồng cầu và các chất đông máu
 
-![Cục máu đông tách lớp với huyết thanh](y2/huyet-hoc/1-mau-ht.jpeg)
+![Cục máu đông tách lớp với huyết thanh](/y2/huyet-hoc/1-mau-ht.jpeg)
 
 ### Tích chất
 
@@ -56,7 +56,7 @@ Chức năng chung của máu
 
 ## Huyết tương
 
-![Các thành phần chính của huyết tương](y2/huyet-hoc/1-tp-huyet-tuong.jpeg)
+![Các thành phần chính của huyết tương](/y2/huyet-hoc/1-tp-huyet-tuong.jpeg)
 
 ### Protein HT
 
@@ -73,6 +73,7 @@ Chức năng chung của máu
 - gamma - globulin (17%) chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD (GAMED).
 
 **Tỷ lệ Albumin/globulin (A/G)** bình thường: 1-1,5
+
 - A/G thấp: Bệnh lý thận, gan (giảm Albumin); tăng sản xuất Globulin (đa u tủy, bệnh tự miễn)
 - A/G cao: Sản xuất không đủ globulin
 
@@ -87,7 +88,7 @@ Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh
 - A - anemia (thiếu máu)
 - B - bone (huỷ xương)
 
-![Điện di protein huyết tương](y2/huyet-hoc/1-dien-di-prot-ht.jpeg)
+![Điện di protein huyết tương](/y2/huyet-hoc/1-dien-di-prot-ht.jpeg)
 
 ### Lipid HT
 
@@ -141,14 +142,14 @@ Giai đoạn máu ngoại biên: HC lưới mất RNA -> HC trưởng thành
 
 ### Hình dạng Hồng cầu
 
-Không nhân. Hình dĩa, lõm hai mặt -> Tăng KN vận chuyển khí:
+Không nhân.
+Hình dĩa, lõm hai mặt -> Tăng KN vận chuyển khí:
 
 - Tăng diện tích tiếp xúc
 - Tăng tốc độ khuếch tán khí
 - Dễ dàng biến dạng khi qua mao mạch
 
-![Hồng cầu dưới kính hiển vi](y2/huyet-hoc/1-hong-cau-hien-vi.jpeg)
-
+![Hồng cầu dưới kính hiển vi](/y2/huyet-hoc/1-hong-cau-hien-vi.jpeg)
 
 ### Thành phần cấu tạo hồng cầu
 
@@ -162,9 +163,10 @@ spectrin, được kết dính với
 màng phospholipid.
 
 Màng hồng cầu: (màng bán thấm, xác định sức bền của HC)
+
 - Lớp ngoài (Protein xuyên màng) (KN đặc hiệu của HC):
 glycoprotein, glycolipid, acid sialic, band 3, glycophorin
-    - Acid sialic tích điện âm, làm cho HC không dính vào
+  - Acid sialic tích điện âm, làm cho HC không dính vào
 nhau
 - Lớp lipid kép
 - Mạng lưới cytoskeletal: spectrin phong phú nhất, kết dính với màng lipid, làm cho HC mềm mại, uyển chuyển, có thể dễ lách qua nơi hẹp
@@ -185,7 +187,7 @@ Thành phần:
 - Globin: protein không màu, cấu trúc thay đổi
 - Nồng độ Hb trong HC: 14-16g/dl (g%)
 
-![Cấu trúc của Hemoglobin khi có và không có O2](y2/huyet-hoc/1-oxy-deoxyhaemoglobin.jpeg)
+![Cấu trúc của Hemoglobin khi có và không có O2](/y2/huyet-hoc/1-oxy-deoxyhaemoglobin.jpeg)
 
 2,3-Disphosphoglycerate (2,3-DPG): làm giảm ái lực của oxy với Hb bằng cách liên kết với trung tâm của tetramer Hb, thay đổi cấu trúc của nó
 (Cạnh tranh vị trí gắn Fe với Oxy)
@@ -222,7 +224,7 @@ HbE (Sóc Trăng)
 
 ### Hồng cầu lưới ( Reticulocyte )
 
-![Hồng cầu lưới dưới kính hiển vi](y2/huyet-hoc/1-hc-luoi.jpeg)
+![Hồng cầu lưới dưới kính hiển vi](/y2/huyet-hoc/1-hc-luoi.jpeg)
 
 Là hồng cầu được phóng thích từ tủy xương vào tuần hoàn máu một ngày trước khi nó mất RNA còn lại để trờ thành HC trưởng thành.
 
@@ -273,7 +275,7 @@ Nhiều loại CTBC, phân loại tùy theo mục đích nghiên cứu.
 - CT Arneth: Phân bố phần trăm của BC đa nhân trung tính dựa trên số thùy trong nhân (từ một đến năm).
 - CT Shilling: Phương pháp đếm các bạch cầu đa nhân trung tính tách thành bốn nhóm theo số lượng và sự sắp xếp các hạt nhân trong các tế bào này.
 
-![Arneth Blood Count](y2/huyet-hoc/1-Arneth.jpeg)
+![Arneth Blood Count](/y2/huyet-hoc/1-Arneth.jpeg)
 
 CTBC thông thường:
 
@@ -287,7 +289,7 @@ CTBC thông thường:
 
 Bạch cầu Xuyên mạch, Chuyển động bằng chân giả, Hóa ứng động
 
-![Bạch cầu di chuyển xuyên mạch và di chuyển trong dịch ngoại bào](y2/huyet-hoc/1-bc-tan-cong.jpeg)
+![Bạch cầu di chuyển xuyên mạch và di chuyển trong dịch ngoại bào](/y2/huyet-hoc/1-bc-tan-cong.jpeg)
 
 Các yếu tố ảnh hưởng tính thực bào:
 
@@ -295,11 +297,11 @@ Các yếu tố ảnh hưởng tính thực bào:
 - Điện tích vật lạ
 - Được opsonin hóa hay không.
 
-![BCTT thực bào và oxy hoá vi khuẩn bằng H2O2](y2/huyet-hoc/1-bctt-thuc-bao.jpeg)
+![BCTT thực bào và oxy hoá vi khuẩn bằng H2O2](/y2/huyet-hoc/1-bctt-thuc-bao.jpeg)
 
 ### Neutrophil
 
-![Tóm tắt về BCTT](y2/huyet-hoc/1-neutrophils.jpeg)
+![Tóm tắt về BCTT](/y2/huyet-hoc/1-neutrophils.jpeg)
 
 ### Eosinophil
 
@@ -343,9 +345,9 @@ Có hai loại:
 
 Nguồn gốc: tế bào gốc vạn năng ở tủy xương → tế bào gốc định hướng dòng lympho.
 
-![Sơ đồ TBG định hướng sinh lympho](y2/huyet-hoc/1-so-do-tbg-sinh-lympho.jpeg)
+![Sơ đồ TBG định hướng sinh lympho](/y2/huyet-hoc/1-so-do-tbg-sinh-lympho.jpeg)
 
-![Chức năng miễn dịch của lymphocyte](y2/huyet-hoc/1-cnang-md.jpeg)
+![Chức năng miễn dịch của lymphocyte](/y2/huyet-hoc/1-cnang-md.jpeg)
 
 ## Dòng tiểu cầu
 
@@ -359,7 +361,7 @@ Cơ chế hình thành: nội phân bào của mẫu tiểu cầu.
 
 Yếu tố điều hòa: =a=thrombopoietin(gan)==.
 
-![Platelets dưới kính hiển vi](y2/huyet-hoc/1-platelets-hien-vi.jpeg)
+![Platelets dưới kính hiển vi](/y2/huyet-hoc/1-platelets-hien-vi.jpeg)
 
 ### Cấu trúc tiểu cầu
 
@@ -376,7 +378,7 @@ Tế bào chất TC:
 
 Ngoài ra, màng và bào tương TC: hệ thống protein co giãn thrombosthenin.
 
-![Cấu trúc của tiểu cầu](y2/huyet-hoc/1-cau-truc-tc.jpeg)
+![Cấu trúc của tiểu cầu](/y2/huyet-hoc/1-cau-truc-tc.jpeg)
 
 ### Số lượng & phân bố
 
@@ -410,13 +412,13 @@ bào, như bạch cầu, hay do già cổi, như HC,
 Hàng ngày mô máu sản xuất mới khoảng 6 × 10<sup>9</sup> tế bào/Kg thể trọng. Ước tính có 10<sup>10</sup> HC và 10<sup>8</sup>-10<sup>9</sup> BC được
 sinh ra mỗi giờ, ở người trưởng thành
 
-![TBG tuỷ xương biệt hoá thành các dạng TB khác nhau](y2/huyet-hoc/1-tb-goc-tuy-xuong-pearson.jpeg)
+![TBG tuỷ xương biệt hoá thành các dạng TB khác nhau](/y2/huyet-hoc/1-tb-goc-tuy-xuong-pearson.jpeg)
 
 ### Cơ quan & thời gian tạo máu
 
-![Thời gian và cơ quan tham gia quá trình tạo máu ở người ](y2/huyet-hoc/1-cq-thoi-gian-tao-mau.jpeg)
+![Thời gian và cơ quan tham gia quá trình tạo máu ở người ](/y2/huyet-hoc/1-cq-thoi-gian-tao-mau.jpeg)
 
-![Sinh máu thời kỳ phát triển phôi & sau sinh](y2/huyet-hoc/1-cq-sinh-mau-truoc-sau-sinh.jpeg)
+![Sinh máu thời kỳ phát triển phôi & sau sinh](/y2/huyet-hoc/1-cq-sinh-mau-truoc-sau-sinh.jpeg)
 
 ### Quá trình tạo máu
 
@@ -463,11 +465,11 @@ Người ta nghiên cứu các tế bào tiền thân bằng nuôi cấy, nhờ 
 Do khả năng tạo khúm (colonies) người ta đặc tên là CFU (Colony Forming Units), thí dụ như CFU-E
 CFU-GM, CFU-G … Trong tủy, các tế bào tiền thân ấy định vị trong các “hốc” (niche) của tủy
 
-![TBG đa năng biệt hoá thành các loại bạch cầu](y2/huyet-hoc/1-tbg-da-nang-full.jpeg)
+![TBG đa năng biệt hoá thành các loại bạch cầu](/y2/huyet-hoc/1-tbg-da-nang-full.jpeg)
 
 ### Dấu ấn TBG
 
-![Dấu ấn TBG](y2/huyet-hoc/1-dau-an-tbg.jpeg)
+![Dấu ấn TBG](/y2/huyet-hoc/1-dau-an-tbg.jpeg)
 
 ### Điều hoà tạo máu
 

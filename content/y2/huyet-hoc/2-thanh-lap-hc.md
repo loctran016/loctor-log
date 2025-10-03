@@ -7,8 +7,7 @@ date: 2025-10-03
 
 Máu: thành phần hữu hình (huyết cầu) + huyết tương
 
-Chức năng của máu: duy trì cân bằng
-nội môi
+Chức năng của máu: duy trì cân bằng nội môi
 
 ## Cấu trúc HC
 

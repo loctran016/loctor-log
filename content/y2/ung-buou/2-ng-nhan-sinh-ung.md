@@ -41,6 +41,8 @@ IARC của WHO năm 1971 chia tác nhân ung thư thành
 - Nhóm 4: Không thể gây ung thư
 ::
 
+![IARC của WHO năm 1971 chia tác nhân ung thư dựa trên độ thuyết phục của các bằng chứng rằng tác nhân đó có gây ung thư hay không](/y2/ung-buou/2-nhóm-iarc.jpeg)
+
 Xác định nguyên nhân sinh ung:
 
 1. Kiểu cách sinh bệnh bằng Dịch tễ học mô tả và Dịch tễ học phân tích
@@ -51,6 +53,16 @@ Xác định nguyên nhân sinh ung:
 
 Phân loại tác nhân sinh ung hóa học theo kiểu hoạt động:
 Gây độc gen và không gây độc gen
+
+![Cơ chế gây độc gene](/y2/ung-buou/2-co-che-doc-gene.jpeg)
+
+![CYP450s hoạt hoá carcinogen](/y2/ung-buou/2-cyp450-hoat-hoa-carcinogene.jpeg)
+
+![Cơ chế gây ung](/y2/ung-buou/2-co-che-ung-thu.jpeg)
+
+### Nguy cơ và yếu tố nguy cơ
+
+![Phân biệt nguy cơ và yếu tố nguy cơ](/y2/ung-buou/2-hazard-risk.jpeg)
 
 ### Tác động trên tế bào
 
@@ -93,11 +105,19 @@ Hút thuốc liên quan đến
 - 40% UT bàng quang
 - 30% UT tụy
 
+![Nguy cơ UT khi sử dụng thuốc lá và thịt chế biến](/y2/ung-buou/2-tobacco-vs-meat.jpeg)
+
 Khói thuốc lá là thụ phạm của phần lớn =a=UT bàng quang==
 
 - Độc tố ngấm qua bằng máu
 - Thải loại qua thận
 - Nước tiểu được chứa đựng tại bàng quang
+
+### Rượu
+
+![Gen "tửu lượng"](/y2/ung-buou/2-gen-ruou.jpeg)
+
+![Tác động cộng gộp của rượu và thuốc lá lên nguy cơ UT thanh quản](/y2/ung-buou/2-ruou-thuoc-la-ut.jpeg)
 
 ### Khói thải từ nhà máy, bụi CN
 
@@ -138,15 +158,20 @@ Tiêu thụ quá nhiều thịt, nhất là thịt đỏ tăng nguy cơ UT đạ
 
 Có 2 cơ chế sinh ung của thịt đỏ:
 
-- Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H202 gây viêm==
+- Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sup>2</sup>0<sup>2</sup> gây viêm==
 - Gây độc gene: Các NOC (hợp chất nitrosamine) gây ==DNA adduct==, DNA damage và 4-HNE gây đột biến chọn lọc ung thư
--
+
+![Cơ chế thịt đỏ gây ung thư](/y2/ung-buou/2-thit-do.jpeg)
 
 ### Thịt chế biến dạng muối, mắm, phơi khô
 
 Thịt chế biến (=a=để lâu== -> muối, mắm, chua, phơi khô) là chất ==sinh ung nhóm I==, chứa các hợp chất nitrosamine NOC gây độc gene
 
 ### Thức ăn nướng
+
+![HCAs và PAHs là các chất sinh ung trong đồ nướng](/y2/ung-buou/2-do-nuong.jpeg)
+
+![Các phương pháp giúp hạn chế HCAs và PAHs trong đồ nướng](/y2/ung-buou/2-do-nuong-giam-hcas.jpeg)
 
 ### Thực phẩm mốc
 
@@ -157,6 +182,8 @@ Do *vi nấm Aspergillus* tiết ra ==Aflatoxin== không bị huỷ bởi nhiệ
 1. Hoá hoá chất sinh ung ở gan nhờ CYP3A4
 2. DNA adduct
 3. Sửa chữa DNA, nếu không sửa chữa/apoptosis thì sẽ tích luỹ ĐB -> UT gan
+
+![Aflatoxin do nấm Aspergillus tiết ra trong thực phẩm mốc](/y2/ung-buou/2-aflatoxin.jpeg)
 
 ## Bức xạ mặt trời & bức xạ ion-hoá (do con người)
 
@@ -185,6 +212,10 @@ Tia =a=UV-A== (và UV-B) chuyển =c=urocanic acid (UCA)== từ trans -> cis gâ
 - CagA: ức chế apoptosis
 - VacA: exotoxins, chủ yếu gây tổn thương niêm mạc dạ dày
 
+![Các độc tố do vi khuẩn HP tiết ra](/y2/ung-buou/2-hp-ut.jpeg)
+
+![CagA và VagA do vi khuẩn HP tiết ra gây UT](/y2/ung-buou/2-hp-ut-full.jpeg)
+
 ### Virus viêm gan B, C và ==UT gan==
 
 Hàng đầu ở nước ta (học kĩ) vì Việt Nam:
@@ -205,6 +236,8 @@ Gen HBx của HBV có khả năng:
 - Ức chế p53, sửa chữa ,apoptosis
 - Hoạt hoá dòng thác tín hiệu của MAPK, JAK, STAT -> kích thích phân bào
 
+![Cơ chế gây ung thư của HBx - viêm gan B](/y2/ung-buou/2-hbx.jpeg)
+
 ### Virus *HPV* - gây bướu gai ở người
 
 Vaccine HPV lấy mẫu gen L1 (vỏ ngoài HPV)
@@ -214,11 +247,15 @@ Hơn 120 típ:
 - <u>HPV 16, 18</u>: UT cổ tử cung
 - HPV 6, 11: không sinh ung
 
+![E6, E7 gây bất hoạt gene đè nén u trong khi E2 bất hoạt gen E6, E7](/y2/ung-buou/2-hpv.jpeg)
+
 Cơ chế gây ung của HPV-16:
 
 1. Bình thường Episome HPV-16 tự do ở dạng vòng, có gen E2 ức chế E6, E7
 2. Hoà nhập vào bộ gene người thì cắt đứt gen E2
 3. E6 và E7 tăng hoạt -> bất hoạt p53 và Rb
+
+![Epiosome HPV hoà nhập vào bộ gen TB làm đứt E2](/y2/ung-buou/2-hpv-hoa-nhap-virus.jpeg)
 
 ## UT do cơ địa di truyền
 
@@ -275,5 +312,9 @@ Mô mỡ sản suất quá mức:
 
 => Cả 2 đều tăng phân bào
 
+![Béo phì và nguy cơ UT](/y2/ung-buou/2-beo-phij.jpeg)
+
 Tỉ lệ ung thư vú tăng là do người phụ nữ béo phì tuổi trung niên.
 Hiện nay Việt Nam có số lượng phụ nữ béo phì tuổi trung niên đang tăng dần => Tỉ lệ ung thư vú Việt Nam sắp tăng
+
+![Tập thể dục giúp giảm nguy cơ UT vú, đại tràng và nội mạc tử cung](/y2/ung-buou/2-the-duc.jpeg)
