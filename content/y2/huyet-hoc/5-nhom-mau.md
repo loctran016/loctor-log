@@ -8,8 +8,6 @@ draft: true
 
 ABO có bản chất là oligosaccharides
 
-
-
 ### Phân loại
 
 ### Kháng nguyên A-B-O

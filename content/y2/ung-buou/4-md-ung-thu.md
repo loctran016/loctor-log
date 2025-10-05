@@ -69,9 +69,9 @@ Tìm ra ĐB driver rất quan trọng trong điều trị, giúp tìm ra cách �
 
 Giúp hệ MD nhận dạng được
 
-5 nhóm ung thư quan trọng có tiên lượng xấu, dễ kháng thuốc, đột biến nhiều là 5 nhóm khoanh đỏ góc phải: dạ dày, bàng quang, phổi và hắc tố 
+5 nhóm ung thư quan trọng có tiên lượng xấu, dễ kháng thuốc, đột biến nhiều là 5 nhóm khoanh đỏ góc phải: dạ dày, bàng quang, phổi và hắc tố
 
-Các UT dễ chữa, tiên lượng tốt nằm ở bên trái: 
+Các UT dễ chữa, tiên lượng tốt nằm ở bên trái:
 
 ### Nguồn gốc các TB hệ MD
 
