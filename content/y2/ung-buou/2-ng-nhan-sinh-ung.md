@@ -158,7 +158,7 @@ Tiêu thụ quá nhiều thịt, nhất là thịt đỏ tăng nguy cơ UT đạ
 
 Có 2 cơ chế sinh ung của thịt đỏ:
 
-- Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sup>2</sup>0<sup>2</sup> gây viêm==
+- Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sub>2</sub>0<sub>2</sub> gây viêm==
 - Gây độc gene: Các NOC (hợp chất nitrosamine) gây ==DNA adduct==, DNA damage và 4-HNE gây đột biến chọn lọc ung thư
 
 ![Cơ chế thịt đỏ gây ung thư](/y2/ung-buou/2-thit-do.jpeg)
