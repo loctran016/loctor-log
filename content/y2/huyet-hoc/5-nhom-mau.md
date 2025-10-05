@@ -1,7 +1,6 @@
 ---
 title: Bài 5 - Nhóm máu
-date: 2025-10-07
-draft: true
+date: 2025-10-06
 ---
 
 ## Hệ ABO

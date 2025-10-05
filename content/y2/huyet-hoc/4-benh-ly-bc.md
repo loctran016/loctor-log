@@ -1,6 +1,6 @@
 ---
 title: Bài 4 - Bệnh lí bạch cầu
-date: 2025-10-10
+date: 2025-10-05
 ---
 
 <!-- markdownlint-disable MD024 -->

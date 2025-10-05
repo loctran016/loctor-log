@@ -1,7 +1,6 @@
 ---
 title: Bài 6 - Sinh lý đông cầm máu
-date: 2025-10-10
-draft: true
+date: 2025-10-07
 ---
 
 ## Định nghĩa
