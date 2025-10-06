@@ -26,6 +26,16 @@ Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 - g.Kim (*Enterobius vermicularis*): ruột thừa + ban đêm chui ra ngoài nếp hậu môn -> ngứa đít
   - Phương pháp Graham: lấy băng dính trong hậu môn buổi sáng
 
+### Lava migrans
+
+Lava migrans dưới da: *Ancylostoma duodenale* kí sinh dưới da, gây ra mụn nước ngoằn nghèo dưới da
+
+Lava migrans nội tạng: *Toxocara canis* và *Gnathostoma spinigerum*
+
+- Đều gây viêm mắt
+
+
+
 ## Sán lá
 
 Sán trưởng thành sống ở:
@@ -89,9 +99,14 @@ Không thành nang trùng nha, phải gặp nước mới tồn tại, phát tri
   - approx.
 Lysolecithine: tiêu huyết
 
-*Taenia solium* (sán dải bò)
+*Taenia solium* (sán dải heo)
 
-*Taenia saginata* (heo)
+- Tử cung có: 7-13 tử cung, mập
+
+*Taenia saginata* (sán dải bò)
+
+- Tử cung có: 15-30 tử cung, nhưng ốm hơn
+- Giun tự bò ra vào ban dêm, gây nhột
 
 Heo và bò là KC trung gian, người mới là kí chủ chính của sán dải heo, bò
 
@@ -112,7 +127,12 @@ Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
 
 ### *Giardia lambilia*
 
-Trùng roi
+Chủ yếu bị đay bụng, tiêu chảy có chất nhầy (không xâm lấn). Nếu soi phân sẽ thấy cả thể bào nang và thể HĐ
+
+- Khi BN bị suy giảm MD sẽ có nguy cơ bị viêm túi mật
+- Hình quả lê, trùng roi
+- Gây bệnh ở <u>tá tràng</u>
+- Tập trung gây bệnh ở trẻ em
 
 ### *Plasmodium*
 
@@ -137,15 +157,28 @@ Thuốc diệt amip hệ thống: Metronidazole và Tinidazole
 
 *Balantidium coli*:
 
-- Là đơn bào lớn nhất
-- Là trùng <u>lông</u> -> trứng có lông
+- Là đơn bào ký sinh ở người có ==kích thước lớn nhất==
+- Là trùng <u>lông</u>, =a=trứng có lông==
+- Ký chủ chính: heo -> nhiễm bệnh do nuốt phải bào nang
+- Tổn thương <u>đại tràng</u>
 
 *Naegleria fowleri*:
 
 - Sống tự do, sặc nước ao hồ bị nhiễm
 - Viêm màng não, chết liền
 
-Chó, mèo: *Toxiplasma gondii* -> da
+*Cryptosporidium sp*:
+
+- Trùng bào tử
+- kí sinh trong tế bào ruột -> gây tiêu chảy ở =a=BN suy giảm MD==
+- Đơn bào hình cầu, bắt màu đỏ, bên trong có thoa trùng
+
+Chó, mèo: *Toxoplasma gondii* -> da
+
+### Trichomonas vaginalis
+
+Viêm âm đạo, nhiều huyết trắng -> Chỉ =c=SOI TƯƠI==
+
 
 ## Thuốc trị giun - sán
 

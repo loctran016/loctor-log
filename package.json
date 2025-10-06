@@ -55,6 +55,7 @@
     "@vueuse/nuxt": "^13.9.0",
     "markdownlint-cli": "^0.45.0",
     "remark-emoji": "^5.0.2",
+    "remark-extended-table": "^2.0.3",
     "remark-gfm": "^4.0.1",
     "run-script-os": "^1.1.6",
     "sentences-per-line": "^0.3.0",

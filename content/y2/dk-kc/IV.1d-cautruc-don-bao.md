@@ -187,17 +187,17 @@ Hít sặc các nguồn nước ao hồ nước đọng
 - Lâm sàng giống viêm màng não mủ
 - Mỹ: 1962-2011: có 123 ca bệnh, chỉ có 1 ca được cứu sống.
 
-## BALANTIDIUM COLI
+## *Balantidium coli*
 
 Con này kí sinh ở đại tràng, ăn nem là lấy khúc khác -> không có nhiễm
 
 Ăn phá lấu không gây bệnh vì nấu nhừ
 
-Bự nhất khi nhiễm vào người
+Đơn bào lớn nhat
 
 ký chủ chính: heo
 
-## Giardia lamblia
+## *Giardia lamblia*
 
 Đoạn đầu của ruột non (tá tràng), thường gặp ở trẻ em
 
@@ -210,7 +210,7 @@ Bệnh học:
 
 Soi phân thấy cả thể bào nang lẫn thể hoạt động (do tiêu chảy, các thể HĐ chưa kịp chuyển thành bào nang) nhưng không có hồng cầu (không gây xâm lấn)
 
-## Cryptosporidium sp
+## *Cryptosporidium sp*
 
 Trùng bảo tử ký sinh ở đường tiêu hoá, là tác nhân gây bệnh cơ hội (**AIDS**):
 
@@ -243,7 +243,7 @@ Thường chẩn đoán thông qua soi tươi huyết trắng...
 
 Nữ: thuốc đặt âm đạo, nam thì uống
 
-## Plasmodium sp
+## *Plasmodium sp*
 
 Gây bệnh sốt rét ở người:
 

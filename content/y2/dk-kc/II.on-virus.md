@@ -1,5 +1,5 @@
 ---
-title: Ôn tập thi GK
+title: Ôn tập Virus
 date: 2025-09-22
 tags: ['Virus']
 ---

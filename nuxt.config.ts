@@ -50,9 +50,9 @@ hooks: {
                         singleTilde: false
                   },
             },
-            'remark-flexible-markers': {
-              },
-            'remark-emoji': {}
+            'remark-flexible-markers': {},
+            'remark-emoji': {},
+            'remark-extended-table':{}
         },
         rehypePlugins: {},
         toc: {
