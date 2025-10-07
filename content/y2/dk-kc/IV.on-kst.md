@@ -66,9 +66,9 @@ Sán trưởng thành sống ở:
     - Tôm cua (<u>P</u>iển): *<u>P</u>aragonimus spp* (<u>p</u>hổi)
     - <u>C</u>á *<u>C</u>yprinidae* : *<u>C</u>.sinesis* (cá -> nhỏ gan) => sử dụng cầu tiêu cá tăng khả năng lây nhiễm
 
-*Fasciola* sp: nang trùng -> tá tráng -> **xuyên thành ruột** -> gan: lớn, ăn nhiều nên gây áp xe gan, eosin tăng -> =p=ống mật: viêm, sỏi ống mật
+*Fasciola* sp: nang trùng -> tá tráng -> **xuyên thành ruột** -> gan: lớn, ăn nhiều nên gây áp xe gan, eosin tăng -> =p=ống mật==: viêm, sỏi ống mật
 
-*C. sinensis* sp: tá tráng -> ngược lên =p=ống mật: =p=tắc ống mật -> gan: nhỏ nên ăn từ từ xơ gan tắc mật
+*C. sinensis* sp: tá tráng -> ngược lên =p=ống mật: =p=tắc ống mật== -> gan: nhỏ nên ăn từ từ xơ gan tắc mật
 
 Sán lá
 
