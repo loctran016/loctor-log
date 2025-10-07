@@ -1,8 +1,9 @@
 <script setup>
 import NotFound from "~/components/NotFound.vue";
+import { findPageChildren, findPageHeadline } from '@nuxt/content/utils'
 import { useDateFormat } from '@vueuse/core'
 import Giscus from '@giscus/vue';
-import { findPageHeadline } from '@nuxt/content/utils'
+// import { findPageHeadline } from '@nuxt/content/utils'
 
 definePageMeta({
   layout: "blog",
@@ -23,14 +24,13 @@ const { data: post } = await useAsyncData(`content-${slug}`, () => {
     .first();
 });
 
-// const { data: queryNav } = await useAsyncData(`content-${path}`, () =>
-//   queryCollectionNavigation("content",['title','date','path','icon','tags','category'])
-//     .where("path", "LIKE", `${path}%`)
-// );
+const { data: queryNav } = await useAsyncData(`content-${year}`, () =>
+  queryCollectionNavigation("content",['title'])
+    .where("path", "LIKE", `/${year}/${subject}%`)
+    .where("draft", "=", false)
+);
 
-// console.log(queryNav.value)
-
-// const headline = findPageHeadline(queryNav.value, path)
+const headline = findPageHeadline(queryNav.value, path)
 
 useSeoMeta({
   title: post.value?.title,
