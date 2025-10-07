@@ -424,21 +424,20 @@ sinh ra mỗi giờ, ở người trưởng thành
 
 Hiện tượng tạo máu phát nguồn từ các tế bào gốc (stem cells) của
 các huyết cầu. hành trình tạo ra các tế bào trưởng thành rất dài và
-được phân thành 2 ngăn:
+được phân thành 2 nhóm:
 
-- Ngăn chưa phân hóa theo dòng (non-committed compartment): gồm
+- Chưa phân hóa theo dòng (non-committed compartment): gồm
 các tế bào gốc toàn năng (totipotent); chúngphân bào và biệt hóa dần
 nhưng chưa phân định sẽ thành dòng tế bào nào.
-- Ngăn đã phân hóa thành từngdòng (committed compartment): gồm
-các tế bào gốc đa năng (pluripotent) và đã bắt đầu có xu hướngphân
-chia thành từngdòng riêng rẽ.
-- Sau khi tiến vào một hướng xácđịnh dòng, các tế bào được phân
-thành 2 bể chứa (pool): có hay không còn khả năngphân bào.
-  - Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới,  thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
+- Đã phân hóa thành từng dòng (committed compartment): gồm
+các tế bào gốc đa năng (pluripotent) và đã bắt đầu có xu hướng phân chia thành từng dòng riêng rẽ.
+
+Sau khi tiến vào một hướng xác định dòng, các tế bào được phân
+thành 2 bể chứa (pool): có hay không còn khả năng phân bào.
+  - Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới, thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
 năng phân bào và biệt hóa tiếp,
   - Bể không phân bào (non-mitotic pool) gồm các tế bào đã được biệt hóa rõ và
-chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa VD hậu tủy bào
-thì chì còn biệt hóa tiếp đến các giai đoạn trưởng thành cuối, mất khả năng
+chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa. VD hậu tủy bào thì chì còn biệt hóa tiếp đến các giai đoạn trưởng thành cuối, mất khả năng
 phân bào
 
 ### Các tế bào tham gia tạo máu
@@ -449,7 +448,7 @@ Tủy xương mang nhiều loại tế bào gốc tham gia tạo ra các thành 
 2. Tế bào gốc của tạo cốt bào (osteoblast)
 3. Tế bào gốc hệ tạo máu HSC (hematopoietic stem cell)
 
-Tế bào gốc tạo máu được nhận diện và clôn-hóa thành công từ 1961, qua nuôi cấy trên môi trường lách, nên được đặt tên là CFU-S (Colony Forming Unit -spleen).
+Tế bào gốc tạo máu được nhận diện và clôn-hóa thành công từ 1961, qua nuôi cấy trên môi trường lách, nên được đặt tên là CFU-S (Colony Forming Unit - spleen).
 
 Các tế bào gốc HSC toàn năng, còn gọi là hemocytoblast, rất ít khi phân bào, thường ở giai đoạn G0 của chu kỳ tế bào, do vậy rất ít bị ảnh hưởng của tác nhân hóa chất hay xạ.
 
@@ -459,8 +458,6 @@ Tế bào gốc tạo máu mang phân tử CD34 trên bề mặt nhờ đó có 
 
 Hầu hết thời gian tồn tại các tế bào gốc CD34 chỉ nằm ở tủy xương, một số cực ít di chuyển ra máu ngoại biên, nhờ tính chất ấy, có thể huy động các tế bào gốc bằng kỹ thuật đặc biệt dùng vào mục đích điều trị ghép tế
 bào gốc.
-
-Người ta nghiên cứu các tế bào tiền thân bằng nuôi cấy, nhờ đó đã clôn- hóa được chúng và nhận diện khả năng biệt hóa của chúng.
 
 Do khả năng tạo khúm (colonies) người ta đặc tên là CFU (Colony Forming Units), thí dụ như CFU-E
 CFU-GM, CFU-G … Trong tủy, các tế bào tiền thân ấy định vị trong các “hốc” (niche) của tủy
@@ -473,23 +470,18 @@ CFU-GM, CFU-G … Trong tủy, các tế bào tiền thân ấy định vị tro
 
 ### Điều hoà tạo máu
 
-Hiện tượng biệt hóa của các tế bào tạo máu, và định hướng thành một dòng tế bào này hay dòng tế bào khác tùy theo nhu cầu của cơ thể, xuất phát từ một số cơ chế rất phức tạp chưa được hoàn toàn hiểu sáng tỏ.
+Các phân tử này đã được xếp thành 2 nhóm: đầu và cuối của quá trình biệt hóa của các tế bào hệ tạo máu.
 
-Trong hiện tượng điều hòa này các hormon tăng trưởng đóng vai trò quan trọng nhất.
-
-Các phân tử này đã được nghiên cứu đến cấp độ gen, đã được clone-hóa thành công và sản xuất dạng tinh khiếttừ năm 1983, và được xếp thành 2 nhóm ở 2 cực: đầu và cuối của quá trình biệt hóa của các tế bào hệ tạo máu.
-
-Các yếu tố ở giai đoạn biệt hóa cuối:
+Giai đoạn biệt hóa cuối cùng:
 
 - Erythropoietin  cho dòng HC
 - Thrombopoietin cho dòng tiểu cầu
-- GM-CSF cho dòng BC, G-CSF riêng cho dòng BC hạt và M-CSF cho riêng dòng
-đơn nhân (monocyte)
+- GM-CSF cho dòng BC
+- G-CSF riêng cho dòng BC hạt 
+- M-CSF cho dòng đơn nhân (monocyte)
 - IL5 cho các BC eosinophil
 
-Các yếu tố ở giai đoạn thật sớm của biệt hóa:
+Giai đoạn thật sớm của biệt hóa:
 
 - SCF (Stem Cell Factor) hay Kit Ligand là yếu tố quan trọng nhất, một số interleukin như IL3, IL6 và chemokine như SDF1 huy động các tế bào gốc rời khỏi các hốc ra khoang tủy.
-- Các GM-CSF, G-CSF và thrombopoietincũng có tác dụng lên các tế bào gốc, chính vì vậy trong quy trình huy động tế bào gốc ra máu ngoại biên chuẩn bị thu gặt tế bào gốc cho mục tiêu ghép, người ta có thể dùng GM-CSF hoặc G-CSF.
-- Tác dụng trên của các yếu tố tăng trưởng lên các tế bào tiền thân là nhờ có các thụ thể (receptors) tương ứng với mỗi yếu tố tăng trưởng trên màng tế bào các tế bào trên
-- Tương tác của yếu tố tăng trưởng lên các thụ thể bằng cách ức chế gen mã hóa ra thụ thể thì hiện tượng biệt hóa bị ngưng trệ.
+- Các GM-CSF, G-CSF và thrombopoietin cũng có tác dụng lên các tế bào gốc, chính vì vậy trong quy trình huy động tế bào gốc ra máu ngoại biên chuẩn bị thu gặt tế bào gốc cho mục tiêu ghép, người ta có thể dùng GM-CSF hoặc G-CSF.
