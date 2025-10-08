@@ -21,7 +21,21 @@ Cơ chế: mất cân bằng giữa quá trình tạo và huỷ hồng cầu
 
 ### Theo hình thái
 
+- Thiếu máu đẳng sắc, HC to: Thiếu máu ác tính do thiếu B12, B9
+- Thiếu máu nhược sắc, HC nhỏ
+- Thiếu máu đẳng sắc, đẳng bào
+
+MCV: Thể tích trung bình của hồng cầu (Đẳng bào, nhỏ, to)
+
+MCH: Lượng Hb trung bình trong 1 HC (Đẳng sắc, ưu sắc, nhược
+sắc)
+
+MCHC (Mean corpuscular Hb Concentration): Nồng độ Hb trung
+bình trong 100ml hồng cầ
+
 ### Theo cơ chế bệnh sinh
+
+Phân chia ở dưới
 
 ## Thiếu máu do mất máu
 
@@ -278,10 +292,12 @@ lượng tim → tim to (hở van cơ năng), suy tim
 - Tái phân bố máu cho da và giảm Hb → da, niêm tái nhợt
 
 Hệ thần kinh trung ương
-– Chóng mặt, ngủ lịm, ngất
+
+- Chóng mặt, ngủ lịm, ngất
 
 Tăng tận dụng oxy ở mô
 
 Tuỷ xương tăng sản xuất HC (không do suy tuỷ)
-– Tăng erythropoietin → đau xương lan toả, đau xương ức
-– Gan, lách sinh HC như thời kỳ bào thai
+
+- Tăng erythropoietin → đau xương lan toả, đau xương ức
+- Gan, lách sinh HC như thời kỳ bào thai

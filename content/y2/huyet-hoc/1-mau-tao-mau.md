@@ -69,7 +69,8 @@ Chức năng chung của máu
 
 - alpha1 - globulin (4%): glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
 - alpha2 - globulin (8%) bao gồm Haptoglobin (Gắn với Hb tự do), Erythropoetin
-- beta1 - globulin (7%), beta2- globulin (4%): vận chuyển lipid. Các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesterol đóng vai trò trong các =a=bệnh tim mạch (VD: xơ vữa ĐM)==.
+- beta1 - globulin (7%), beta2- globulin (4%): vận chuyển lipid.
+Các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesterol đóng vai trò trong các =a=bệnh tim mạch (VD: xơ vữa ĐM)==.
 - gamma - globulin (17%) chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD (GAMED).
 
 **Tỷ lệ Albumin/globulin (A/G)** bình thường: 1-1,5
@@ -190,18 +191,17 @@ Fe<sup>2+</sup> -> Fe<sup>3+</sup> (MetHb) -> không nhả oxy => xanh tím
 - Nam: **4,3 - 5,8tr/mm3**
 - Nữ: **3,9 - 5,4tr/mm3**
 
+Các yếu tố ảnh hưởng đến số lượng HC:
 
-
-Các yếu tố ảnh hưởng đến số lượng HC:
 - Lượng Oxy đến mô
 
-Mức độ hoạt động▪
+Mức độ hoạt động▪
 
-Lứa tuổi (Tuổi càng nhỏ thì số lượng càng nhiều) - giới▪
+Lứa tuổi (Tuổi càng nhỏ thì số lượng càng nhiều) - giới▪
 
-Sự bài tiết▪
+Sự bài tiết▪
 
-Erythropoetin▪
+Erythropoetin▪
 
 Bệnh lý▪
 
@@ -431,10 +431,12 @@ các tế bào gốc đa năng (pluripotent) và đã bắt đầu có xu hướ
 
 Sau khi tiến vào một hướng xác định dòng, các tế bào được phân
 thành 2 bể chứa (pool): có hay không còn khả năng phân bào.
-  - Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới, thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
+
+- Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới, thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
 năng phân bào và biệt hóa tiếp,
-  - Bể không phân bào (non-mitotic pool) gồm các tế bào đã được biệt hóa rõ và
-chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa. VD hậu tủy bào thì chì còn biệt hóa tiếp đến các giai đoạn trưởng thành cuối, mất khả năng
+- Bể không phân bào (non-mitotic pool) gồm các tế bào đã được biệt hóa rõ và
+chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa.
+VD hậu tủy bào thì chì còn biệt hóa tiếp đến các giai đoạn trưởng thành cuối, mất khả năng
 phân bào
 
 ### Các tế bào tham gia tạo máu
@@ -474,7 +476,7 @@ Giai đoạn biệt hóa cuối cùng:
 - Erythropoietin  cho dòng HC
 - Thrombopoietin cho dòng tiểu cầu
 - GM-CSF cho dòng BC
-- G-CSF riêng cho dòng BC hạt 
+- G-CSF riêng cho dòng BC hạt
 - M-CSF cho dòng đơn nhân (monocyte)
 - IL5 cho các BC eosinophil
 

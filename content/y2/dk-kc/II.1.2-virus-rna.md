@@ -51,9 +51,6 @@ Họ: Picornavirus
 
 Vị trí gây bệnh
 
-
-
-
 <!-- ## 🧬 Virus DNA
 
 | Họ | Virus | Đặc điểm | Vị trí gây bệnh | Miễn dịch | Bệnh học | Điều trị | Vaccine |

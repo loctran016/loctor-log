@@ -34,8 +34,6 @@ Lava migrans nội tạng: *Toxocara canis* và *Gnathostoma spinigerum*
 
 - Đều gây viêm mắt
 
-
-
 ## Sán lá
 
 Sán trưởng thành sống ở:
@@ -127,7 +125,8 @@ Nhiễm sán dải heo, AT sán dải heo phụ thuộc vào:
 
 ### *Giardia lambilia*
 
-Chủ yếu bị đay bụng, tiêu chảy có chất nhầy (không xâm lấn). Nếu soi phân sẽ thấy cả thể bào nang và thể HĐ
+Chủ yếu bị đay bụng, tiêu chảy có chất nhầy (không xâm lấn).
+Nếu soi phân sẽ thấy cả thể bào nang và thể HĐ
 
 - Khi BN bị suy giảm MD sẽ có nguy cơ bị viêm túi mật
 - Hình quả lê, trùng roi
@@ -178,7 +177,6 @@ Chó, mèo: *Toxoplasma gondii* -> da
 ### Trichomonas vaginalis
 
 Viêm âm đạo, nhiều huyết trắng -> Chỉ =c=SOI TƯƠI==
-
 
 ## Thuốc trị giun - sán
 
