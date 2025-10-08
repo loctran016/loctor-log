@@ -10,7 +10,7 @@ trình đông và cầm máu
 
 ## Máu
 
-![Thành phần của máu ](/y2/huyet-hoc/1-tp-mau.jpeg)
+![Thành phần của máu](/y2/huyet-hoc/1-tp-mau.jpeg)
 
 ### Thành phần
 
@@ -69,19 +69,19 @@ Chức năng chung của máu
 
 - alpha1 - globulin (4%): glucoprotein,lipoprotein tỉ trọng cao (vận chuyển lipid)
 - alpha2 - globulin (8%) bao gồm Haptoglobin (Gắn với Hb tự do), Erythropoetin
-- beta1 - globulin (7%), beta2- globulin (4%): vận chuyển lipid. các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesteron đóng vai trò trong các bệnh tim mạch.
+- beta1 - globulin (7%), beta2- globulin (4%): vận chuyển lipid. Các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesterol đóng vai trò trong các =a=bệnh tim mạch (VD: xơ vữa ĐM)==.
 - gamma - globulin (17%) chứa các protein miễn dịch (kháng thể) IgG, IgA, IgM, IgE, IgD (GAMED).
 
 **Tỷ lệ Albumin/globulin (A/G)** bình thường: 1-1,5
 
-- A/G thấp: Bệnh lý thận, gan (giảm Albumin); tăng sản xuất Globulin (đa u tủy, bệnh tự miễn)
-- A/G cao: Sản xuất không đủ globulin
+- A/G thấp: Bệnh lý =c=thận, gan== (giảm Albumin); tăng sản xuất Globulin (=v=đa u tủy, bệnh tự miễn==)
+- A/G cao: Sản xuất =không đủ globulin
 
 #### Điện di
 
 Trong bệnh lý xơ vữa ĐM thì lưu ý beta-1, beta-2-globulin; các bệnh thoái hóa tinh bột (amyloidosis) ? thì beta 1,2 cũng tăng
 
-Đa u tuỷ xương - tăng gamma, giảm 4 cái còn lại (biểu hiện hình ảnh 1 con cua- crab)
+Đa u tuỷ xương - tăng gamma, giảm 4 cái còn lại (biểu hiện hình ảnh 1 con cua - crab)
 
 - C - tăng calci - thường hay gặp trong táo bón (?)
 - R - bệnh lý thận -
@@ -121,15 +121,7 @@ Hầu hết ở dạng
 
 Chức năng chủ yếu là dinh dưỡng.
 
-## Các thành phần hữu hình của máu
-
-- Dòng Hồng cầu (Nhức đầu, chóng mặt, sốt kéo dài)
-- Dòng Bạch cầu
-- Dòng tiểu cầu
-
-## Các giai đoạn phát triển và trưởng thành của hệ HC
-
-HC lưới tăng khi mất máu đột ngột phải huy động HC ở tủy vào máu hoặc khi có bệnh lý ác tính khi các dòng HC tăng sinh quá mức
+<!-- Dòng Hồng cầu (Nhức đầu, chóng mặt, sốt kéo dài) -->
 
 ## Dòng Hồng cầu
 
@@ -153,23 +145,14 @@ Hình dĩa, lõm hai mặt -> Tăng KN vận chuyển khí:
 
 ### Thành phần cấu tạo hồng cầu
 
-Màng hồng cầu bao gồm ba thành phần cơ bản:
-
-- Một lớp kép lipid, (1)
-- Các protein xuyên màng chính là
-glycoprotein, band 3 và glycophorin
-- Mạng lưới cytoskeletal trong đó protein phong phú nhất trong khung màng là
-spectrin, được kết dính với
-màng phospholipid.
-
-Màng hồng cầu: (màng bán thấm, xác định sức bền của HC)
+Màng hồng cầu (màng bán thấm, xác định sức bền của HC):
 
 - Lớp ngoài (Protein xuyên màng) (KN đặc hiệu của HC):
 glycoprotein, glycolipid, acid sialic, band 3, glycophorin
   - Acid sialic tích điện âm, làm cho HC không dính vào
 nhau
 - Lớp lipid kép
-- Mạng lưới cytoskeletal: spectrin phong phú nhất, kết dính với màng lipid, làm cho HC mềm mại, uyển chuyển, có thể dễ lách qua nơi hẹp
+- Mạng lưới cytoskeletal: =c=spectrin== phong phú nhất, kết dính với màng lipid, làm cho HC mềm mại, uyển chuyển, có thể dễ lách qua nơi hẹp
 
 Bào tương: rất ít bào quan, chủ yếu Hb (2 bánh alpha, 2 bánh beta)
 
@@ -178,14 +161,13 @@ Bào tương: rất ít bào quan, chủ yếu Hb (2 bánh alpha, 2 bánh beta)
 - Protein màu
 - Trọng lượng phân tử
 (TLPT): 68.000 Da
-
-Chức năng: chuyên chở khí
+- Chức năng: chuyên chở khí
 
 Thành phần:
 
 - Heme: sắc tố đỏ, giống nhau
 - Globin: protein không màu, cấu trúc thay đổi
-- Nồng độ Hb trong HC: 14-16g/dl (g%)
+- Nồng độ Hb trong HC: =r=14-16g/dl== (g%)
 
 ![Cấu trúc của Hemoglobin khi có và không có O2](/y2/huyet-hoc/1-oxy-deoxyhaemoglobin.jpeg)
 
@@ -201,14 +183,27 @@ Hemoglobin kết hợp với O<sup>2</sup> tuần tự
 
 Hình thành, phân ly HbO<sup>2</sup>: rất nhanh, tuỳ thuộc phân áp oxy.
 
-Fe++ -> Fe+++ (MetHb) -> không nhả oxy => xanh tím
+Fe<sup>2+</sup> -> Fe<sup>3+</sup> (MetHb) -> không nhả oxy => xanh tím
 
 ### Số lượng HC
 
 - Nam: **4,3 - 5,8tr/mm3**
 - Nữ: **3,9 - 5,4tr/mm3**
 
-Tuổi càng cao càng nhiều HC
+
+
+Các yếu tố ảnh hưởng đến số lượng HC:
+- Lượng Oxy đến mô
+
+Mức độ hoạt động▪
+
+Lứa tuổi (Tuổi càng nhỏ thì số lượng càng nhiều) - giới▪
+
+Sự bài tiết▪
+
+Erythropoetin▪
+
+Bệnh lý▪
 
 ### Miễn dịch
 
@@ -222,11 +217,11 @@ Thay đổi aa trên chuổi α hoặc β -> biến thể Hb (Hb E, HbS) bth HD.
 
 HbE (Sóc Trăng)
 
-### Hồng cầu lưới ( Reticulocyte )
-
-![Hồng cầu lưới dưới kính hiển vi](/y2/huyet-hoc/1-hc-luoi.jpeg)
+### Hồng cầu lưới (Reticulocyte)
 
 Là hồng cầu được phóng thích từ tủy xương vào tuần hoàn máu một ngày trước khi nó mất RNA còn lại để trờ thành HC trưởng thành.
+
+![Hồng cầu lưới dưới kính hiển vi](/y2/huyet-hoc/1-hc-luoi.jpeg)
 
 Tuỷ xương bình thường có khả năng đáp ứng thiếu máu bởi tăng HCL từ 6-8 lần.
 
@@ -234,6 +229,8 @@ Tuỷ xương bình thường có khả năng đáp ứng thiếu máu bởi tă
 - Nếu thiếu máu do tăng phá hủy HC hoặc mất máu thì HC lưới tăng cao
 
 Tủy bình thường hoặc suy tủy không thấy HCL được
+
+HC lưới tăng khi mất máu đột ngột phải huy động HC ở tủy vào máu hoặc khi có bệnh lý ác tính khi các dòng HC tăng sinh quá mức
 
 ### Đếm số lượng HC lưới
 
@@ -243,7 +240,7 @@ Số lượng tuyệt đối:
 
 - 0.5% X 5,000,000/mm3 = 25,000/mm3
 - 1.5% X 5,000,000/mm3 = 75,000/mm3
-- 25.000  75.000/mm3
+- 25.000 -> 75.000/mm3
 
 Hiệu chỉnh số lượng HC lưới (RI)
 
