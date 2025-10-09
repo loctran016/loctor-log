@@ -13,11 +13,23 @@ Giết chết tế bào bằng cách: ức chế phiên mã tạo protein của 
 - Vi khuẩn: ồ ạt hơn, đùng đùng đùng
 - Virus: nhẹ nhàng hơn, biểu hiện thường ít rõ ràng
 
-Lệch hay trôi KN
+So sánh Trôi kháng nguyên và Chuyển đổi kháng nguyên
+
+| Đặc điểm | *Trôi kháng nguyên (Antigenic drift)* | *Chuyển đổi kháng nguyên (Antigenic shift)* |
+|-----------|------------------------------------------|-----------------------------------------------|
+| *Cơ chế* | Đột biến điểm nhỏ trong gen mã hóa kháng nguyên bề mặt (HA, NA) | Tái tổ hợp hoặc trao đổi đoạn gen giữa 2 chủng virus cúm khác nhau |
+| *Mức độ thay đổi* | Nhỏ, dần dần | Lớn, đột ngột |
+| *Loại virus xảy ra* | Cả *Influenza A* và *B* | Chỉ *Influenza A* |
+| *Tần suất* | Xảy ra *thường xuyên, liên tục* | Xảy ra *hiếm, theo chu kỳ dài* |
+| *Hậu quả dịch tễ* | Gây *dịch địa phương, dịch nhỏ hằng năm (seasonal flu)* | Gây *đại dịch toàn cầu (pandemic)* |
+| *Ví dụ* | Thay đổi nhẹ trong cúm mùa hằng năm | Hình thành chủng mới như H1N1 (cúm lợn), H5N1 (cúm gia cầm) |
+| *Khả năng miễn dịch bị vượt qua* | Một phần (miễn dịch cũ vẫn còn tác dụng phần nào) | Hầu như hoàn toàn mất miễn dịch bảo vệ |
 
 Interferon
 
 HPV
+
+
 
 ## Virus đậu mùa (Variola)
 
@@ -73,3 +85,16 @@ Vaccine tái tổ hợp, kích thí
 ## Virus khác
 
 *Parvoviruses* gây bệnh cho người: <i>virus B19</i>
+
+## Đáp ứng MD chống lại vi khuẩn
+
+INF-alpha: Do TB đã bị nhiễm virus tiết ra -> ức chế sự nhân lên của virus
+
+- Kích hoạt: protein ức chế dịch mã và RNAse
+- Ức chế giai đoạn =a=tổng hợp protein==
+
+## HIV
+
+Test nhanh giúp xác định
+
+Giai đoạn cửa sổ

@@ -1,7 +1,7 @@
 ---
 title: Nguyên tắc điều trị - hệ MD chống VSV
 date: 2025-09-22
-tags: ['Điều trị]
+tags: ['Điều trị']
 ---
 
 Nếu bệnh nguy cấp, sốt… thì dùng thuốc kháng sinh liền
