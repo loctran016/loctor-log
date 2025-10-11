@@ -31,8 +31,6 @@ HPV:
 
 - Xét nghiệm ở phụ nữ sử dụng phương pháp nào
 
-
-
 ## Virus đậu mùa (Variola)
 
 Lây qua đường hô hấp, chủ yếu vào mùa đông

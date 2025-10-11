@@ -24,9 +24,9 @@ Gluten:
 
 Hình đĩa lõm hai mặt, không nhân
 
--Tăng diện tích tiếp xúc → ƩS# 3000 m2
--Tăng tốc độ khuyếch tán
--Dễ biến dạng khi qua mao mạch
+- Tăng diện tích tiếp xúc → ƩS# 3000 m2
+- Tăng tốc độ khuyếch tán
+- Dễ biến dạng khi qua mao mạch
 
 HC trưởng thành không có bào quan, không nhân, không ti thể.
 
