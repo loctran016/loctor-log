@@ -27,7 +27,9 @@ So sánh Trôi kháng nguyên và Chuyển đổi kháng nguyên
 
 Interferon
 
-HPV
+HPV:
+
+- Xét nghiệm ở phụ nữ sử dụng phương pháp nào
 
 
 
