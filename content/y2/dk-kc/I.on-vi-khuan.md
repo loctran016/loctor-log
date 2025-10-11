@@ -23,7 +23,7 @@ tags: ['Vi khuẩn']
     - Dễ chết ngoài môi trường -> chỉ lây qua đường tình dục
     - Chữa cho nam thì nhớ chữa cho nữ luôn (bạn tình)
     - Ở trẻ em gây viêm kết mạc
-  
+
 *Neisseria meningitidis*: viêm não mô cầu (lây qua đường hô hấp):
     - Xuất hiện tử ban -> tử vong sau vài giờ
     - Người là ký chủ tự nhiên
@@ -37,6 +37,7 @@ tags: ['Vi khuẩn']
     - Oxidase (-)
     - Catalase (+)
     - Pili
+    - Toxin bền với nhiệt ST của ETEC gây bệnh bằng cách hoạt hoá =a=guanylyl cyclase==
 *Shigella*:
     - KN K, O
     - Nội độc tố LPS
