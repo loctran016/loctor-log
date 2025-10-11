@@ -18,12 +18,12 @@ Hiện tượng tăng sản xảy ra khi <u>các tín hiệu tăng sinh TB</u> m
 
 ### Truyền tin TB
 
-![Tín hiệu ngoại bào quyết định số phận tế bào](y2/ung-buou/6-tin-hieu-ngu-bao.jpeg)
+![Tín hiệu ngoại bào quyết định số phận tế bào](y2/ung-buou/6-tin-hieu-ngoai-bao.jpeg)
 
 ![Mô hình truyền tín hiệu tế bào](y2/ung-buou/6-truyen-tin-hieu.jpeg)
 ![Thụ thể bề mặt và thụ thể nội bào](y2/ung-buou/6-tt-bemat-noi-bao.jpeg)
 ![Các kiểu tương tác giữa ligand và thụ thể](y2/ung-buou/6-cac-kieu-tac-ligand-tt.jpeg)
-![Các nhóm thụ thể bề mặt](y2/ung-buou/6-thu-che-bmat.jpeg)
+![Các nhóm thụ thể bề mặt](y2/ung-buou/6-thu-the-bmat.jpeg)
 
 Nhiều đường tín hiệu truyền vào nhân TB:
 
@@ -45,7 +45,7 @@ Cấu trúc thụ thể:
 
 ![Cấu trúc thụ thể tyrosine kinase](y2/ung-buou/6-cautruc-tyrosine.jpeg)
 
-![Cơ chế hoạt hoá thụ thể tyrosine kinase](y2/ung-buou/6-hoat-hoa-tyrosine.jpeg)
+![Cơ chế hoạt hoá thụ thể tyrosine kinase](y2/ung-buou/6-hoathoa-tyrosine.jpeg)
 
 ### Biến liên quan đến gene liên quan đến ung thư
 
