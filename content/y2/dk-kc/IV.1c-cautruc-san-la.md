@@ -30,7 +30,10 @@ Còn lại thì eosinophil đều tăng (sán lá lớn ở gan tăng mạnh nh�
 
 Sán trưởng thành sống ở:
 
-- Ống mật (người, chó, mèo, heo, chuột)
+- Ống mật:
+  - người: sán lá gan nhỏ/lớn
+  - chó, mèo, heo, chuột: sán lá gan nhỏ
+  - trâu bò: sán lá gan lớn
 - Ruột (người, heo): buski
 - Phổi (người, chó, mèo)
 
