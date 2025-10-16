@@ -68,6 +68,10 @@ hooks: {
     name: 'LocTor Log',
     description: 'Loc\'s log on the way to become a doctor at UMP!!!',
     defaultLocale: 'vi', // not needed if you have @nuxtjs/i18n installed
+    },
+
+   pwa: {
+    /* PWA options */
   },
 
 
@@ -87,6 +91,7 @@ hooks: {
     "@nuxtjs/color-mode",
     '@nuxtjs/seo',
     '@vueuse/nuxt',
+    '@vite-pwa/nuxt'
       // "nuxt-svgo",
     // not sure why?
   ],

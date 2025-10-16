@@ -23,6 +23,7 @@ useHead({
   <div class="min-w-screen min-h-screen select-text wrapper relative">
     <NavBar></NavBar>
     <slot></slot>
+    <NuxtPwaManifest />
   </div>
 </template>
 

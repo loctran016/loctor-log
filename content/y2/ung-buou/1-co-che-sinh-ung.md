@@ -170,7 +170,7 @@ Alfred Knudson (1971): đề xuất ra giả thuyết “2 cú đánh”, cần 
 | Tỉ lệ | 1/3 | 2/3 |
 | Độ tuổi mắc bệnh | < 1 tuổi | 2-5 tuổi |
 | Tổn thương | 2 bên mắt | 1 bên mắt |
-| Lưu ý | Có bệnh lý kèm theo. Bị 2 bên mắt là do toàn bộ TB đã bị ĐB 1 bản sao sẵn | Không |
+| Lưu ý | Có bệnh lý kèm theo.<br> Bị 2 bên mắt là do toàn bộ TB đã bị ĐB 1 bản sao sẵn | Không |
 
 
 <!-- ### Cơ chế gây đột biến mất chức năng
@@ -237,7 +237,7 @@ Caspases: yếu tố khơi mào và gây chết trực tiếp
 
 - Đường nội sinh: ty thể
   - =c=Bax, Bak (Bcl)==: hoạt hoá apoptosis -> ti thể giải phóng Cytochrome c & protein pro-apoptotic
-  - =c=Bcl-2, Bcl-x<sup>L</sup>==: chống lại apoptosis
+  - =c=Bcl-x<sup>L</sup>, Bcl-2==: chống lại apoptosis
 - Đường ngoại sinh: thụ thể gây chết
   - =v=Fas==
   - Thụ thể yếu tố hoại tử bướu
