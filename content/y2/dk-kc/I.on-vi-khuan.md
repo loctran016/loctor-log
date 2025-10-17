@@ -32,20 +32,25 @@ tags: ['Vi khuẩn']
 ## Trực khuẩn Gram âm
 
 *E.coli*:
-    - Ngoại độc tố shiga toxin
-    - KN O, H, K
-    - Oxidase (-)
-    - Catalase (+)
-    - Pili
-    - Toxin bền với nhiệt ST của ETEC gây bệnh bằng cách hoạt hoá =a=guanylyl cyclase==
+
+- Ngoại độc tố shiga toxin
+- KN O, H, K
+- Oxidase (-)
+- Catalase (+)
+- Pili
+- Toxin bền với nhiệt ST của ETEC gây bệnh bằng cách hoạt hoá =a=guanylyl cyclase==
+
 *Shigella*:
-    - KN K, O
-    - Nội độc tố LPS
-    - Ngoại độc tố shiga toxin -> lỵ do trực trùng
+
+- KN K, O
+- Nội độc tố LPS
+- Ngoại độc tố shiga toxin -> lỵ do trực trùng
+
 *Pseudomonas aeruginosa*: trực khuẩn =a=mủ xanh==
-    - Extoxin A
-    - Oxidase (+)
-    - Catalase (+)
+    
+- Extoxin A
+- Oxidase (+)
+- Catalase (+)
 
 KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm
 
@@ -87,6 +92,27 @@ Không ngoại nội độc tố
 
 - Viêm đại tràng giả mạc
 - Gây bệnh bằng ngoại độc tố sau khi dùng KS kéo dài
+
+## Chlamydia - vi khuẩn nội bào
+
+Chlamydia là vi khuẩn, ký sinh nội bào bắt buộc
+
+Có 2 dạng: thể sơ khởi để gây nhiễm và thể lưới để sinh
+sản
+
+*Chlamydia trachomatis* gây bệnh đau mắt hột
+
+- Dịch tễ học
+	- Tiếp xúc gần gũi lâu ngày
+	- Dùng chung khăn mặt, chậu rửa mặt
+	- Xảy ra ở các nước đang phát triển, châu Phi, c
+- Điều trị
+	- Sulfonamide, tetracycline, erythromycin
+	- Phẫu thuật khi có biến chứng
+
+*Chlamydia pneumoniae* gây viêm phổi không điển hình
+
+- Điều trị: macrolid, tetracycline, fluoroquinolone
 
 ## Vaccine
 

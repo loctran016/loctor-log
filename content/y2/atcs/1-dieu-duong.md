@@ -1,9 +1,9 @@
 ---
-title: Kĩ năng điều dưỡng
+title: Trạm 1: Kĩ năng điều dưỡng
 date: 2025-08-20
 ---
 
-## Giao tiếp
+## Lưu ý chung
 
 ### Thông tin BN
 
@@ -17,14 +17,39 @@ Với tiêm/tiêm truyền: bữa giờ có tiêm truyền gì hay không? Nên 
 
 Nếu có vết thương thì dặn dò đừng gãi, làm tổn thương thêm
 
-## Thực hành
+### Thủ thuật
 
-### Rửa tay
+Rửa tay:
 
-Trước và sau khi tiếp xúc với bệnh nhân
-Sau khi tiếp xúc máu /dịch
+- trước khi tiếp xúc người bệnh
+- trước khi làm thủ tục vô trùng
+- Sau khi tiếp xúc với máu và dịch cơ thể
+- Sau khi tiếp xúc người bệnh
+- Sau khi chạm vào đồ vật, bề mặt xung quanh người bệnh
 
-### Tiêm
+Phân loại rác:
+
+- Bao rác xanh:
+- Bao rác vàng:
+- Thùng rác nhựa màu vàng:
+
+- 3 tra: tên người bệnh, tên thuốc, liều dùng thuốc
+- 5 đối: số giường - số phòng, nhãn thuốc, chất lượng thuốc, đường dùng thuốc, thời gian dùng thuốc
+- 5 đúng: đúng người bệnh, đúng thuốc, đúng liều, đúng đường dùng, đúng thời gian
+
+- Đọc kĩ phiếu thuốc: tên thuốc, hàm lượng, liều lượng, đường dùng, HSD
+- Đọc kĩ đề để chọn kim tiêm, ống tiêm phù hợp
+
+
+## Soạn mâm vô khuẩn
+
+## Đặt ống thông mũi dạ dày
+
+## Cắt chỉ vết thương sạch
+
+## Thay băng vết thương sạch
+
+## Tiêm thuốc
 
 Khó nhất là tiêm TM, quan trọng nhất là nhớ quá trình sau:
 
