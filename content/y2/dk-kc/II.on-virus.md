@@ -98,3 +98,6 @@ INF-alpha: Do TB đã bị nhiễm virus tiết ra -> ức chế sự nhân lên
 Test nhanh giúp xác định
 
 Giai đoạn cửa sổ
+
+- Ngày 10: PCR
+- Ngày 14 - 20: test nhanh

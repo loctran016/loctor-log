@@ -1,5 +1,5 @@
 ---
-title: Kỹ năng hỏi bệnh sử
+title: Trạm 3 - Hỏi bệnh sử
 date: 2025-09-03
 ---
 <!-- markdownlint-disable MD029 -->

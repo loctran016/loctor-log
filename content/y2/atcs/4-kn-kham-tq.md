@@ -1,5 +1,5 @@
 ---
-title: Kỹ năng khám tổng quát
+title: Trạm 4 - Khám tổng quát
 date: 2025-09-17
 ---
 <!-- markdownlint-disable MD029 -->

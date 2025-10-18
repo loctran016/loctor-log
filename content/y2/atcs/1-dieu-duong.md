@@ -1,5 +1,5 @@
 ---
-title: Trạm 1: Kĩ năng điều dưỡng
+title: Trạm 1 - Kĩ năng điều dưỡng
 date: 2025-08-20
 ---
 
