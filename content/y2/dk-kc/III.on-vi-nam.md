@@ -79,3 +79,22 @@ Biến đổi từ dạng hạt men sang dạng sợi để gây bệnh
 Trung tâm trắng láng, bờ gồ cao, đỏ tiến triển ra ngoài
 
 ## Talaromyces marneffei
+
+## Thuốc kháng vi nấm
+
+Ức chế thành TB:
+
+- Tổng hợp Glucan: Echinocandins - Ức chế 1,3 beta-glucan synthase
+
+- Tổng hợp Chitin: Nikkomycin
+
+Ức chế màng TB:
+
+- Tổng hợp Ergosterol: Azoles, Allylamines
+  - Azoles (Imidazoles, Triazoles): Ức chế hệ các enzyme phụ thuộc cytochrome P450 (14-alpha demethylase)
+- Tổn thương màng TB: Polyenes
+  - Gắn vào ergosterol, tạo các lỗ hỏng rò rỉ các ion trong tế bào nấm ra ngoài -> chết TB
+
+Ức chế tổng hợp acid nucleic: Flucytosine
+
+Ức chế tổng hợp protein: Sordarins, Azasordarins

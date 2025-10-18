@@ -47,7 +47,7 @@ tags: ['Vi khuẩn']
 - Ngoại độc tố shiga toxin -> lỵ do trực trùng
 
 *Pseudomonas aeruginosa*: trực khuẩn =a=mủ xanh==
-    
+
 - Extoxin A
 - Oxidase (+)
 - Catalase (+)
@@ -71,7 +71,7 @@ Không ngoại nội độc tố
 
 *Chlamydiae trachomatis*: đau mắt hột do lây nhiễm trực tiếp
 
-*Chlamydiae pneumoniae*: đau mắt hột do lây nhiễm trực tiếp
+*Chlamydiae pneumoniae*: viêm phổi không đặc hiệu
 
 ## Vi khuẩn kị khí
 
@@ -103,12 +103,12 @@ sản
 *Chlamydia trachomatis* gây bệnh đau mắt hột
 
 - Dịch tễ học
-	- Tiếp xúc gần gũi lâu ngày
-	- Dùng chung khăn mặt, chậu rửa mặt
-	- Xảy ra ở các nước đang phát triển, châu Phi, c
+  - Tiếp xúc gần gũi lâu ngày
+  - Dùng chung khăn mặt, chậu rửa mặt
+  - Xảy ra ở các nước đang phát triển, châu Phi, c
 - Điều trị
-	- Sulfonamide, tetracycline, erythromycin
-	- Phẫu thuật khi có biến chứng
+  - Sulfonamide, tetracycline, erythromycin
+  - Phẫu thuật khi có biến chứng
 
 *Chlamydia pneumoniae* gây viêm phổi không điển hình
 
