@@ -6,8 +6,7 @@ tags: ['KST']
 
 ## Giun
 
-Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx.
-Lao (=r=AsAS==):
+Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx. Lao (=r=As N AS==):
 
 - g.Đũa (*Ascris lumbricoides*)
 - g.Mỏ (*Necator americanus*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
@@ -19,6 +18,8 @@ Lao (=r=AsAS==):
   - Phương pháp Baerman
   - Đau rát thượng vị, <u>nóng rát</u>, tiêu chảy phân lỏng <u>như nước</u>
   - Tự nhiễm: AT1 ẩn nhẫn lại trong ruột non
+
+Khi các giun trên đến phổi gây hội chứng Loeffler thì eosinophil đã tăng cao nhất (sau khi xuyên qua máu mới đến phổi)
 
 Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 
@@ -98,7 +99,7 @@ Không thành nang trùng nha, phải gặp nước mới tồn tại, phát tri
 - Gây =a=thiếu máu hồng cầu to== bằng:
   - Hấp thu B12, B9
   - approx.
-Lysolecithine: tiêu huyết
+- Lysolecithine: tiêu huyết
 
 *Taenia solium* (sán dải heo)
 
@@ -138,7 +139,10 @@ Nếu soi phân sẽ thấy cả thể bào nang và thể HĐ
 
 ### *Plasmodium*
 
-*Plasmodium falciparum*: thiếu máu hồng cầu ác ính
+*Plasmodium falciparum*: thiếu máu hồng cầu ác tính
+
+- Sốt cách nhật
+- **HRP2 (+)**
 
 *Plasmodium vivax*:
 
@@ -176,6 +180,8 @@ Thuốc diệt amip hệ thống: Metronidazole và Tinidazole
 - Đơn bào hình cầu, bắt màu đỏ, bên trong có thoa trùng
 
 Chó, mèo: *Toxoplasma gondii* -> da
+
+- Biến đổi KN -> lẫn tránh hệ MD
 
 ### Trichomonas vaginalis
 

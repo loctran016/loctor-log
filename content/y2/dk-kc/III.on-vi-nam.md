@@ -98,3 +98,12 @@ Trung tâm trắng láng, bờ gồ cao, đỏ tiến triển ra ngoài
 Ức chế tổng hợp acid nucleic: Flucytosine
 
 Ức chế tổng hợp protein: Sordarins, Azasordarins
+
+Amphotericin B: rối loạn điện giải, thiếu máu, suy thận; không làm độc gan
+
+## Cơ chế né tránh MD
+
+Để tồn tại trong ĐTB, một số vi nấm tiết Urease, thuỷ phân ure thành NH3, giúp tăng pH lên
+
+Các vi nấm lây từ người sang người thường gây đáp ứng MD nhẹ -> tồn tại lâu dài và lây nhiễm được.
+Trong khi vi nấm từ chó, mèo, đất -> người => Đáp ứng MD mạnh -> loại bỏ lập tức

@@ -9,9 +9,9 @@ tags: ['Vi khuẩn']
 *Staphyloccoci aureus*: gây tán huyết
     - **Catalase**: chống lại gốc oxy hoá tự do của hệ MD -> đặc trưng
     - =a=*Coagulase*==: gây đông máu, đặc trưng của *S.aureus*
-    - Độc tố ruột TSST
+    - Độc tố ruột TSST - *Enterotoxin*
 
-*Streptococci*: sợ -> ức chế hệ bổ thể
+*Streptococci*: sợ -> ức chế hệ bổ thể (protein M)
     - Cơ chế chung của bệnh hậu nhiễm (sau khi nhiễm): phản ứng KN-KT gây tổn thương mô, TB
 
 *Streptococcus pneumoniae*:
@@ -39,12 +39,14 @@ tags: ['Vi khuẩn']
 - Catalase (+)
 - Pili
 - Toxin bền với nhiệt ST của ETEC gây bệnh bằng cách hoạt hoá =a=guanylyl cyclase==
+- Tiêu chảy phân đàm máu
 
 *Shigella*:
 
 - KN K, O
 - Nội độc tố LPS
-- Ngoại độc tố shiga toxin -> lỵ do trực trùng
+- Ngoại độc tố shiga toxin -> lỵ do trực trùng (tiêu phân nhầy/máu + <u>có sốt</u>)
+- Hoạt hoá =r=caspase-1==, làm ĐTB apoptosis
 
 *Pseudomonas aeruginosa*: trực khuẩn =a=mủ xanh==
 
@@ -52,11 +54,11 @@ tags: ['Vi khuẩn']
 - Oxidase (+)
 - Catalase (+)
 
-KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm
+KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm. Khoảng 100 loại khác nhau
 
 KN H: KT kháng KN IgG, chiêm mao
 
-KN K: KN nang
+KN K: KN nang, nằm ở vạch TB vi khuẩn
 
 ## Trực khuẩn kháng acid - Lao
 
@@ -69,7 +71,7 @@ Không ngoại nội độc tố
 
 =a=Kí sinh nội bào bắt buộc== -> Không dùng các KS tiêu diệt màng peptidoglycan (như Penicillin, Vancomycin...)
 
-*Chlamydiae trachomatis*: đau mắt hột do lây nhiễm trực tiếp
+*Chlamydiae trachomatis*: đau mắt hột do **lây nhiễm trực tiếp**
 
 *Chlamydiae pneumoniae*: viêm phổi không đặc hiệu
 
@@ -79,12 +81,16 @@ Không ngoại nội độc tố
 
 - Có chữ clo ở đầu -> kị khí
 - Kị khí -> ít dám đi (sợ O<sub>2</sub>) => không gây nhiễm trùng máu, thường phát triển và tiết độc tại chỗ
+
 *Clostridium botulinum*: ngộ độc đồ hộp
-  - Liệt cơ: vùng đầu mặt, sau đó đến cơ hô hấp => suy hô hấp => khó, ngưng thở
+
+- Ức chế =r=ACH==: liệt mềm
+- Liệt cơ: vùng đầu mặt, sau đó đến cơ hô hấp => suy hô hấp => khó, ngưng thở
 
 *Clostridium tetani*: uốn ván
-    - Tetanopasmin: ức chế GABA và glycin gây co giựt
-    - Tetanolysin: hemolysin bị huỷ
+
+- Tetanopasmin: ức chế GABA và glycin gây co giựt
+- Tetanolysin: hemolysin bị huỷ
 
 *Clostridium perfrigens*: vết thương chiến tranh/tai nạn GT => Hoại thư sinh hơi
 
@@ -131,6 +137,18 @@ Gentamycin: dùng liều cao 1 lần/ngày
 
 KS dự phòng: =r=trước khi phơi nhiễm==, chỉ mang tính tạm thời -> không dùng để điều trị đối với BN suy giảm MD
 
+Các thuốc KS beta-lactams ít cần chuyển hoá qua gan, khi thải qua thận dưới dạng 100% hoạt tính
+
 Xơ gan -> chọn thuốc thải nhờ thận: Vancomycin, Penicillin
 
 Suy thận -> chọn thuốc thải qua gan: Macrolides, Clindamycin
+
+## Chẩn đoán triệu chứng
+
+### Tiêu chảy
+
+- *E.coli*: tiêu phần đàm máu
+- *Shigella*: lị do trực trùng, có sốt
+- *Vibrio cholerae*: tả, tiêu chảy và nôn mửa ồ ạt
+- *Clostridium difficile*: sau dùng KS
+- *Staphylococcus aureus*: có thể nhiễm từ thịt nguội, tôm, cá, trứng chưa được nấu chín, bơ, sữa, bánh kem hoặc từ bàn tay, da của người chế biến thức ăn. Bệnh nhân sẽ có triệu chứng chính là nôn ói dữ dội, không kèm sốt hoặc tiêu chảy xuất hiện trong thời gian ngắn (dưới 8 giờ) và kéo dài khoảng 20 tiếng.
