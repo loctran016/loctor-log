@@ -5,11 +5,13 @@ date: 2025-09-23
 
 ## Chuẩn bị
 
-Chào người bệnh, tự giới thiệu. Hôm nay con phụ trách phòng khám này.
+Chào người bệnh, tự giới thiệu.
+Hôm nay con phụ trách phòng khám này.
 
 Hỏi thông tin người bệnh (1đ): tên, tuổi, địa chỉ, nghề nghiệp
 
 Hỏi lí do đến khám bệnh, thông báo sẽ đo HA cho BN (1đ)
+
 - Hôm nay có điều gì về sức khỏe khiến mình lo lắng mà mình đi khám vậy cô/chú?
 - Bây giờ con sẽ tiến hành đo huyết áp cho cô/chú trước nha
 
@@ -21,6 +23,7 @@ mình có thấy khó thở, tức ngực hay mệt mỏi không ạ?
 - Mình có đi nơi nào lạnh trước khi vào đây k?
 
 Tư thế người bệnh (1đ): Người bệnh ngồi, tựa lưng, chân để trên sàn, không bắt chéo
+
 - Trong lúc đo cô/chú nhớ là mình không nói chuyện hay nghe điện thoại gì nha.
 - Rồi bây giờ con sẽ bắt đầu cho cô/chú ngồi đúng tư thế: mình ngồi thả lỏng tựa lưng vào ghế, chân để trên sàn và nhớ không bắt chéo chân trong suốt quá trình con thực hiện đo HA cho cô/chú nha
 

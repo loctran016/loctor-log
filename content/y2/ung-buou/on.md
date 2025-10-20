@@ -1,6 +1,6 @@
 ---
-title: Bài 3 - Tăng sinh lành tính và ác tính
-date: 2025-09-25
+title: Ôn tập
+date: 2025-10-02
 ---
 
 ## Khái niệm
@@ -10,27 +10,36 @@ U: Sự thay đổi di truyền trong các tế bào -> sự tăng trưởng b�
 - U lành: Phát triển tại chỗ, không xâm lấn (không tiếc các chất gây hại cho các TB xung quanh), không di căn (không phá huỷ mạch để di căn)
 - Ung thư: Tế bào ác tính khi có: xâm lấn, di căn, gieo rắc tế bào ung thư đến mô khác
 
-Phân loại Ung thư (nhóm chính):
+Phân loại ung thư:
 
 - U của biểu mô
 - U của trung mô
 - U của hạch lympho và hệ thống MD
 - U của hệ tạo máu
 
-Định nghĩa tiếng Anh:
+Xâm lấn: tế bào ung thư vượt qua màng đáy
 
-- Tumor: bao gồm cả khả năng là giả u/tế bào to hơn bình thường
-- Neoplasms: chắc chắn đó là u, chưa biết là u lành hay u ác
+Di căn: xâm lấn lan tràn **các mô xung quanh**
 
-### Phân loại bướu
-
-Hành vi sinh học:
+Phân loại u dựa trên đặc tính hành vi của tế bào u:
 
 - U lành
 - U giáp biên
-- U ác tính
+- U ác
 
-Mô bênh học: xác định <u>loại u</u>, tất cả u luôn có 2 thành phần
+Ung thư có thể chia thành 4 nhóm chính
 
-- Mô chủ: tế bào u -> xác định đặc tính sinh học và phân loại -> biện pháp điều trị thích hợp
-- Mô nâng đỡ: mô liên kết và mạch máu
+## Các loại ung thư
+
+### Ung thư gan
+
+Nguyên nhân chủ yếu do:
+
+- Viêm gan B
+- Rượu bia
+- Thực phẩm bị mốc: Aflatoxin do *Aspergillus sp.* tiết ra
+
+Phòng ngừa:
+
+- Tránh xa các tác nhân trên
+- Hiện tại chưa có vaccine chống viêm gan C

@@ -28,7 +28,8 @@ Trong khi đó TB ung thư, không cần tín hiệu vẫn phát triển đượ
 
 ![Tín hiệu ngoại bào quyết định số phận tế bào](y2/ung-buou/6-tin-hieu-ngoai-bao.jpeg)
 
-Thay đổi gene thường liên quan đến ung thư. Bất thường trong dẫn truyền tín hiệu không nhiều bằng bất thường thụ thể
+Thay đổi gene thường liên quan đến ung thư.
+Bất thường trong dẫn truyền tín hiệu không nhiều bằng bất thường thụ thể
 
 ![Mô hình truyền tín hiệu tế bào](y2/ung-buou/6-truyen-tin-hieu.jpeg)
 

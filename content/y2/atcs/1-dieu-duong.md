@@ -40,7 +40,6 @@ Phân loại rác:
 - Đọc kĩ phiếu thuốc: tên thuốc, hàm lượng, liều lượng, đường dùng, HSD
 - Đọc kĩ đề để chọn kim tiêm, ống tiêm phù hợp
 
-
 ## Soạn mâm vô khuẩn
 
 ## Đặt ống thông mũi dạ dày

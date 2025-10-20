@@ -56,7 +56,8 @@ tags: ['Vi khuẩn']
 - Oxidase (+)
 - Catalase (+)
 
-KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm. Khoảng 100 loại khác nhau
+KN O: =r=lypopolysaccharide== -> độc lực, độc tố, là yếu tố đặc trưng của Gram âm.
+Khoảng 100 loại khác nhau
 
 KN H: KT kháng KN IgG, chiêm mao
 
@@ -155,4 +156,5 @@ Suy thận -> chọn thuốc thải qua gan: Macrolides, Clindamycin
 - *Shigella*: lị do trực trùng, có sốt
 - *Vibrio cholerae*: tả, tiêu chảy và nôn mửa ồ ạt
 - *Clostridium difficile*: sau dùng KS
-- *Staphylococcus aureus*: có thể nhiễm từ thịt nguội, tôm, cá, trứng chưa được nấu chín, bơ, sữa, bánh kem hoặc từ bàn tay, da của người chế biến thức ăn. Bệnh nhân sẽ có triệu chứng chính là nôn ói dữ dội, không kèm sốt hoặc tiêu chảy xuất hiện trong thời gian ngắn (dưới 8 giờ) và kéo dài khoảng 20 tiếng.
+- *Staphylococcus aureus*: có thể nhiễm từ thịt nguội, tôm, cá, trứng chưa được nấu chín, bơ, sữa, bánh kem hoặc từ bàn tay, da của người chế biến thức ăn.
+Bệnh nhân sẽ có triệu chứng chính là nôn ói dữ dội, không kèm sốt hoặc tiêu chảy xuất hiện trong thời gian ngắn (dưới 8 giờ) và kéo dài khoảng 20 tiếng.

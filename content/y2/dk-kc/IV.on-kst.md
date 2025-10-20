@@ -6,7 +6,8 @@ tags: ['KST']
 
 ## Giun
 
-Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx. Lao (=r=As N AS==):
+Giun kí sinh ở ruột non <=> có qua phổi - gây triệu chứng Loeffler approx.
+Lao (=r=As N AS==):
 
 - g.Đũa (*Ascris lumbricoides*)
 - g.Mỏ (*Necator americanus*): hút máu mạn -> đâm xuyên từ đất qua da (không mang dép)
