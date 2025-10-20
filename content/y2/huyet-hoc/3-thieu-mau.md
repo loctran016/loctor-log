@@ -37,7 +37,7 @@ bình trong 100ml hồng cầu
 Nguyên nhân:
 
 - =r=Chấn thương==:
- 	- Chấn thương bụng kín có thể gây **xuất huyết nội**
+  - Chấn thương bụng kín có thể gây **xuất huyết nội**
 - XH tiêu hoá: =r=xơ gan== gây tăng áp lực TM cửa -> lâu dần TM thực quản giãn ra và bị vỡ -> nôn ra máu; hoặc loét dạ dày -> loét mạch máu
 
 Biểu hiện lâm sàng khi mất máu:
@@ -84,14 +84,14 @@ Là tình trạng HC bị vỡ sớm hơn đời sống bình thường
 Tán huýet do tổn thương bản thân HC:
 
 - Khiếm khuyết màng HC:
- 	- Bệnh HC hình cầu di truyền Minkowski Chauffard
- 	- Bệnh tiểu Hb về đêm
+  - Bệnh HC hình cầu di truyền Minkowski Chauffard
+  - Bệnh tiểu Hb về đêm
 - Thiếu enzyme
- 	- Thiếu enzyme G6PD
+  - Thiếu enzyme G6PD
 - Rối loạn tổng hợp Hb:
- 	- Bệnh huyết sắc tố
- 	- Bệnh thiếu máu HC hình liềm
- 	- Thalassemia
+  - Bệnh huyết sắc tố
+  - Bệnh thiếu máu HC hình liềm
+  - Thalassemia
 
 ### Bệnh HC hình cầu di truyền Minkowski Chauffard
 
@@ -183,9 +183,9 @@ Thuốc:
 
 - Do tính oxy hóa của thuốc (HC thiếu G6PD): Aspirin :star:
 - Do miễn dịch:
- 	- Thuốc là hapten bám trên bề mặt HC
- 	- KN-KT gắn trên thụ thể CR1C3b trên HC
- 	- Phá vỡ sự tự dung nạp
+  - Thuốc là hapten bám trên bề mặt HC
+  - KN-KT gắn trên thụ thể CR1C3b trên HC
+  - Phá vỡ sự tự dung nạp
 
 - Thuốc: α Methyl dopa, PNC.
 - Ác tính: leukemia mạn dòng lympho, lymphoma
@@ -271,9 +271,9 @@ Nguyên nhân:
   - Cắt dạ dày, hồi tràng, lao ruột, tiêu chảy kéo dài
   - *Diphyllobotrium latum*
 - Thiếu yếu tố nội tại IF
- 	- Tự KT chống IF
- 	- Teo niêm mạc bẩm sinh (gastric atrophy)
- 	- KT chống tế bào thành dạ dày
+  - Tự KT chống IF
+  - Teo niêm mạc bẩm sinh (gastric atrophy)
+  - KT chống tế bào thành dạ dày
 
 ## Thiếu máu do bệnh lý tuỷ xương
 

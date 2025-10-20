@@ -27,6 +27,8 @@ Phân loại u dựa trên đặc tính hành vi của tế bào u:
 - U giáp biên
 - U ác
 
+Chẩn đoán u lành hay ác dưa vào sự =r=tăng sinh mạch máu==
+
 Ung thư có thể chia thành 4 nhóm chính
 
 ## Các loại ung thư
