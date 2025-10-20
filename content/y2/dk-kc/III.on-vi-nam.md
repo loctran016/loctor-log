@@ -85,7 +85,6 @@ Trung tâm trắng láng, bờ gồ cao, đỏ tiến triển ra ngoài
 Ức chế thành TB:
 
 - Tổng hợp Glucan: Echinocandins - Ức chế 1,3 beta-glucan synthase
-
 - Tổng hợp Chitin: Nikkomycin
 
 Ức chế màng TB:
@@ -107,3 +106,5 @@ Amphotericin B: rối loạn điện giải, thiếu máu, suy thận; không l�
 
 Các vi nấm lây từ người sang người thường gây đáp ứng MD nhẹ -> tồn tại lâu dài và lây nhiễm được.
 Trong khi vi nấm từ chó, mèo, đất -> người => Đáp ứng MD mạnh -> loại bỏ lập tức
+
+*Histoplasma capsulatum* tiêu biến alpha-1,3-glucan để né tránh hệ MD

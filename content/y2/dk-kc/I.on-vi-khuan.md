@@ -9,10 +9,11 @@ tags: ['Vi khuẩn']
 *Staphyloccoci aureus*: gây tán huyết
     - **Catalase**: chống lại gốc oxy hoá tự do của hệ MD -> đặc trưng
     - =a=*Coagulase*==: gây đông máu, đặc trưng của *S.aureus*
-    - Độc tố ruột TSST - *Enterotoxin*
+    - Độc tố ruột TSST: gây sốc nhiễm độc
+    - *Enterotoxin*: gây tiêu chảy
 
 *Streptococci*: sợ -> ức chế hệ bổ thể (protein M)
-    - Cơ chế chung của bệnh hậu nhiễm (sau khi nhiễm): phản ứng KN-KT gây tổn thương mô, TB
+    - Cơ chế chung của bệnh hậu nhiễm (sau khi nhiễm) gây sốt thấp: phản ứng KN-KT gây tổn thương mô, TB
 
 *Streptococcus pneumoniae*:
     - Gây độc bằng =a=nang ức chế khả năng thực bào==
@@ -23,6 +24,7 @@ tags: ['Vi khuẩn']
     - Dễ chết ngoài môi trường -> chỉ lây qua đường tình dục
     - Chữa cho nam thì nhớ chữa cho nữ luôn (bạn tình)
     - Ở trẻ em gây viêm kết mạc
+    - Ngoài ra còn có thể gây viêm khớp
 
 *Neisseria meningitidis*: viêm não mô cầu (lây qua đường hô hấp):
     - Xuất hiện tử ban -> tử vong sau vài giờ
@@ -134,6 +136,8 @@ sản
 Penicillin: đảm bảo trên 50% liên tục
 
 Gentamycin: dùng liều cao 1 lần/ngày
+
+Đối với các thuốc beta-lactams thường tấn công màng vi khuẩn -> tập trung ngoại bào -> thay đổi thể tích phân bố khi giảm albumin máu/tăng tính thấm thành mạch
 
 KS dự phòng: =r=trước khi phơi nhiễm==, chỉ mang tính tạm thời -> không dùng để điều trị đối với BN suy giảm MD
 

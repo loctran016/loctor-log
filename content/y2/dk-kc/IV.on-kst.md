@@ -31,6 +31,8 @@ Giun kí sinh ở ruột già - manh tràng (già thì té -> =a=TE==):
 
 Lava migrans dưới da: *Ancylostoma duodenale* kí sinh dưới da, gây ra mụn nước ngoằn nghèo dưới da
 
+*Angiostrongylus cantonensis* là nguyên nhân hàng đầu gây **viêm não tăng eosinophil** ở Đông Nam Á
+
 Lava migrans nội tạng: *Toxocara canis* và *Gnathostoma spinigerum*
 
 - Đều gây viêm mắt
@@ -45,6 +47,8 @@ Sán trưởng thành sống ở:
   - trâu bò: sán lá gan lớn
 - Ruột (người, heo): buski
 - Phổi (người, chó, mèo)
+
+Tất cả các loài sán lá được học đều gây bệnh ĐV hoàn chỉnh, ngoại trừ *Clonorchis sinesis* (Sán lá gan nhỏ)
 
 1. Sán KS đẻ trứng đi ra khỏi cơ thể tuỳ thuộc vào vị trí kí sinh:
     - Gan, ruột: phân
@@ -149,6 +153,12 @@ Nếu soi phân sẽ thấy cả thể bào nang và thể HĐ
 - Sốt cách nhật
 - Thể nhẫn cực kì nhiều
 
+*Plasmodium malariae*:
+
+- Sốt cách 72 giờ (sốt cách 3 ngày – sốt tư nhật) - sốt không liên tục
+- Gây hội chứng thận hư (do lắng đọng phức hợp miễn dịch)
+- Mật độ ký sinh trong máu thường thấp
+
 Thuốc:
 
 - Artemisin: chúa, thuốc KS đầu tay diệt ở giai đoạn HC
@@ -158,6 +168,14 @@ Thuốc:
 ### *Entamoeba histolytica*
 
 Thuốc diệt amip hệ thống: Metronidazole và Tinidazole
+
+Nếu chỉ tiêu phân nhầy máu (lỵ) thì ưu tiên soi phân tìm amip
+
+- Không nội soi đại tràng vì có nguy cơ gây thủng ruột: trong lỵ amip cấp, niêm mạc đại tràng bị loét, hoại tử và rất dễ vỡ
+
+Sau khi di chuyển lên gan và gây áp xe gan: ưu tiên phương pháp huyết thanh MD hơn soi phân tìm amip
+
+- Không chọc mủ áp xe gan vì không cần thiết: *E.histolytica* tập trung sống ở rìa ổ áp xe
 
 ### Khác
 
@@ -183,9 +201,9 @@ Chó, mèo: *Toxoplasma gondii* -> da
 
 - Biến đổi KN -> lẫn tránh hệ MD
 
-### Trichomonas vaginalis
+*Trichomonas vaginalis*:
 
-Viêm âm đạo, nhiều huyết trắng -> Chỉ =c=SOI TƯƠI==
+- Viêm âm đạo, nhiều huyết trắng -> Chỉ =c=SOI TƯƠI==
 
 ## Thuốc trị giun - sán
 
@@ -196,3 +214,5 @@ Benzidimazoles:
 - Triclabendazole: đặc hiệu với <u>sán lá</u>
 
 Invermectin: giun chỉ, giun lươn, lava migrans dưới da
+
+Niclosamide: sán dải
