@@ -21,7 +21,7 @@ Các tiêu chí trên tiêu bản tế bào học:
 
 Các tiêu chí trên tiêu bản GPB
 
-- Bất thường TB: nhân lớn, dị dạng; tỷ lệ nhân/ TB chất thay đổi
+- Bất thường TB: nhân lớn, dị dạng; tỷ lệ nhân/TB chất thay đổi
 - Bất thường cấu trúc: ống tuyến không còn rõ; tạo thành những ổ dầy đặc TB hoặc thành dải
 - Mô bướu xâm lấn:
   - TB “bướu” xâm lấn lan tràn trong mô đệm
@@ -29,18 +29,19 @@ Các tiêu chí trên tiêu bản GPB
 
 ## Câu hỏi 2: Tại sao tế bào UT vú có thể xâm lấn cấu trúc xung quanh, di căn hạch nách và di căn xương?
 
-Sự gắn kết của TB với các TB lân cận và mô xung quanh:
+Ở các TB bình thường:
 
-- Các TB bình thường gắn kết với nhau bởi các mối nối tế bào (desmosome), thành phần chính là các glycoprotein kết dính E-cadherins.
-- Các tế bào gắn với mô nền xung quanh và màng đáy bằng integrin (laminin, fibronectin).
-- Điều này giúp các TB kế cận thông tin cho nhau để giữ kích thước khoang mô bình thường và duy trì cân bằng nội môi.
+- Gắn kết với nhau bởi các mối nối tế bào (desmosome), thành phần chính là các glycoprotein kết dính E-cadherins.
+- Gắn với mô nền xung quanh và màng đáy bằng integrin (laminin, fibronectin).
+
+=> Các TB kế cận thông tin cho nhau để giữ kích thước khoang mô bình thường và duy trì cân bằng nội môi.
 
 Tế bào ung thư xâm lấn mô xung quanh:
 
-- Các TB UT tăng trưởng thoát khỏi sự kiểm soát của hệ miễn dịch, của các TB và mô xung quanh, gây tăng áp lực trong khối bướu.
-- Các TB UT giảm tiết E- cadherin nên dễ tách ra khỏi các TB xung quanh,
-- Sản xuất trực tiếp hay kích thích các nguyên bào sợi tiết ra MMP (matrix metalloproteases) phân hủy integrin giúp chúng có thể tách rời, xâm lấn màng đáy vào mô nền xung quanh
-- Các TB UT tiết ra các men tiêu đạm (proteases) như là hyaluranidase, aminopeptidase, phá hủy mô đệm và di chuyển vào mô đệm, xâm lấn các mô xung quanh bằng các chân giả kiểu a míp.
+- Thoát khỏi hệ miễn dịch, của các TB và mô xung quanh.
+- Giảm tiết E-cadherin -> dễ tách ra khỏi các TB xung quanh.
+- Sản xuất trực tiếp hay kích thích các nguyên bào sợi tiết ra MMP phân hủy integrin giúp chúng có thể tách rời, xâm lấn màng đáy vào mô nền xung quanh
+- Tiết các proteases (hyaluranidase, aminopeptidase) phá hủy mô đệm và xâm lấn vào mô đệm hay các mô xung quanh bằng các chân giả kiểu a míp.
 
 ### Di căn hạch
 
@@ -52,7 +53,7 @@ Tế bào ung thư xâm lấn mô xung quanh:
 - Xâm lấn vỏ bao hạch
 - Đi xuyên qua hạch qua chỗ nối lymphô-tĩnh mạch
 - Di chuyển tiếp vào mạch lymphô đi (efferent lymphatics) và lan đến các hạch khác.
-- Hạch lymphô gần bướu nhất gọi là hạch lính gác (hạch tiền đồn-SLN Sentimel lymph node)
+- Hạch lymphô gần bướu nhất gọi là hạch lính gác (hạch tiền đồn-SLN)
 
 Trong UT vú, mạng lưới mạch lymphô phong phú từ trong mô vú dẫn lưu về quanh quầng vú, sau đó về hạch nách hay hạch vú trong tùy theo vị trí.
 
@@ -60,35 +61,26 @@ Khi bướu xâm lấn vào mô đệm, các TB UT có thể đi vào hệ thố
 
 ### Di căn xa
 
-Các bước của dòng thác di căn
+Các bước của dòng thác di căn xa
 
 1. Tế bào bướu xâm lấn
     - Chuyển dạng tb
     - Ly giải chất nền ngoại bào
     - Xâm lấn
 2. Xâm nhập mạch máu
+  - Sau khi xâm nhập vào lòng mạch, chúng phải chịu được các lực tác động cơ học của hệ tuần hoàn và sự tấn công của các TB miễn dịch.
+  - Các TB bướu đặc thường không thể sống sót ở dạng đơn lẻ, mà phải bám dính liên kết nhau và tương tác với các thành phần trong máu để hình thành các huyết khối bướu trong lòng mạch máu.
 3. Luân lưu trong tuần hoàn
 4. Kẹt lại và thoát mạch
-5. Tạo lập ổ di căn
-
-Xâm nhập mạch máu:
-
-- Một khi các TB bướu chui được vào lòng mạch, chúng phải chịu được các lực tác động cơ học của hệ tuần hoàn và sự tấn công của các TB miễn dịch.
-- Các TB bướu đặc thường không thể sống sót ở dạng đơn lẻ, mà phải bám dính liên kết nhau và tương tác với các thành phần trong máu để hình thành các huyết khối bướu trong lòng mạch máu.
-
-TB UT bị kẹt lại ở mao mạch, sau đó thoát mạch:
-
-- Khi bị kẹt trong hệ thống mao mạch của cơ quan xa, các TB bướu phải thoát mạch để ra khỏi vòng tuần hoàn, đi vào bên trong nhu mô của mô khác.
-- Thoát mạch do cơ học: TB bướu phát triển trong lòng mạch đến lúc nào đó sẽ phá vỡ các mao mạch nhỏ,
-- TB bướu còn thoát mạch bằng cách tiết ra các men tiêu đạm, phá hủy thành mạch
-
-TB UT phát triển trong cơ quan xa
-
-- Đây là bước có ý nghĩa lâm sàng lớn nhất.
-Chỉ một tỉ lệ rất nhỏ các TB bướu hoàn tất bước này.
-- Trên lâm sàng, bướu nguyên phát có thể đã được phẫu thuật, nhưng một thời gian dài sau đó, di căn có thể xuất hiện.
-- Khả năng của bướu thích ứng với các điều kiện phát triển ở cơ quan mới, sẽ quyết định di căn xuất hiện nhanh hay chậm.
-- Di căn xa có thể phát triển và phát triển như thế nào minh họa cho thuyết “hạt giống và đất”.
+  - Khi bị kẹt trong hệ thống mao mạch của cơ quan xa, các TB bướu phải thoát mạch để ra khỏi vòng tuần hoàn, đi vào bên trong nhu mô của mô khác.
+  - Thoát mạch do cơ học: TB bướu phát triển trong lòng mạch đến lúc nào đó sẽ phá vỡ các mao mạch nhỏ,
+  - TB bướu còn thoát mạch bằng cách tiết ra các men tiêu đạm, phá hủy thành mạch
+5. Tạo lập ổ di căn: TB UT phát triển trong cơ quan xa
+  - Ý nghĩa lâm sàng lớn nhất.
+  - Chỉ một tỉ lệ rất nhỏ các TB bướu hoàn tất bước này.
+  - Trên lâm sàng, bướu nguyên phát có thể đã được phẫu thuật, nhưng một thời gian dài sau đó, di căn có thể xuất hiện.
+  - Khả năng của bướu thích ứng với các điều kiện phát triển ở cơ quan mới, sẽ quyết định di căn xuất hiện nhanh hay chậm.
+  - Di căn xa có thể phát triển và phát triển như thế nào minh họa cho thuyết “hạt giống và đất”.
 
 Thuyết hạt giống và đất
 “The seeds and the soil” Paget’s hypothesis
@@ -97,7 +89,7 @@ Thuyết hạt giống và đất
 - Phát triển được ở cơ quan xa phải thích ứng được vi môi trường mới (điều kiện đủ) mang tính sinh học (thuyết “Hạt giống và đất”).
 - Trong quá trình di chuyển cơ học và đặc biệt trong quá trình thích ứng với môi trường mới, TB bướu có những biến đổi về di truyền tương ứng.
 
-### Hay di căn xương ?
+### Hay di căn xương
 
 Cơ học: hệ thống tĩnh mạch Batson trước cột sống không có van. Các TB UT vú đã xâm nhập vào tĩnh mạch có thể lọt ngược vào hệ tĩnh mạch Batson và kẹt trong mạng lưới mao mạch phong phú ở xương cột sống
 
