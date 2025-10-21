@@ -92,7 +92,7 @@ useSeoMeta({
 
 <template>
     <!-- Header section & tag selector -->
-    <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-4 lg:mt-8 items-center gap-3">
+    <section class="grid grid-rows-[max-content,1fr] grid-cols-[max-content,1fr] max-lg:gap-2 lg:flex mx-6 lg:mx-10 xl:mx-20 mb-6 mt-2 lg:mt-8 items-center gap-3">
         <Icon :name="headlineIcon" class="align-middle text-2xl lg:text-3xl"/>
         <h2 class="text-xl flex-shrink-0 lg:text-2xl font-bold text-slate-900 dark:text-white tracking-wide align-middle flex items-center gap-1 lg:gap-2 max-w-8/10"> {{ headline }}</h2>
         <ul class="flex flex-wrap lg:ml-auto gap-2 max-lg:col-start-2" v-if="uniqueTags.size > 1">
