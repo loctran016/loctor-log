@@ -29,7 +29,6 @@ BC trong một số bệnh lý thường gặp
 
 Tăng/Giảm của các quần thể tế bào nhỏ có thể xảy ra mà không có sự gia tăng tổng số tế bào BC.
 
-
 ## BC hạt
 
 ### Tăng BCHTT
@@ -63,7 +62,8 @@ Right Shift: thường liên quan =r=thiếu máu HC to== -> kiểm tra
 
 Nguy cơ nhiễm trùng khi BCHTT ==< 500/mm3==: nguy cơ cao -> nhập viện ngay lập tức
 
-- Sốt -> cấy máu, cấy các dịch tiết. Sử dụng thêm KS bao vây phổ rộng, xuống thang (KS mạnh nhất rồi giảm từ từ)
+- Sốt -> cấy máu, cấy các dịch tiết.
+Sử dụng thêm KS bao vây phổ rộng, xuống thang (KS mạnh nhất rồi giảm từ từ)
 
 Nguy cơ nhiễm trùng phụ thuộc
 
@@ -140,8 +140,6 @@ Infectious Mononucleosis:
 - Chẩn đoán:
   - Monospot test.
   - Huyết thanh EBV.
-
-
 
 ### Basophile
 
