@@ -64,3 +64,43 @@ Tốc độ tăng sinh khai thắc bằng phương pháp hỏi bệnh sử (VD: 
 ### Hệ tạo máu -->
 
 ## Đặc điểm u - ung thư
+
+<!-- markdownlint-disable -->
+
+| HÌNH ẢNH | LÀNH | ÁC |
+|---|---|---|
+| 1. Vỏ bao | Có vỏ bao, giới hạn rõ | Thường không vỏ bao, giới hạn không rõ |
+| 2. Mô quanh u | Thường bị chèn ép | Thường bị xâm lấn |
+| 3. Kích thước | Thường nhỏ | Thường lớn |
+| 4. Màu sắc | Đồng nhất | Không đồng nhất, xuất huyết, hoại tử |
+
+<!-- markdownlint-enable -->
+## Di căn
+
+Di căn (metastasis): quá trình hình thành của các khối u thứ phát.
+Di
+căn; mạch bạch huyết, mạch máu, khoang cơ thể.
+
+Các bước:
+
+1. Xâm lấn mô liên kết xung quanh
+2. Xâm lấn lòng mạch (intravasation)
+3. Thoát khỏi các hệ MD (tế bào NK)
+4. Gắn kết vào tế bào nội mô mạch máu
+5. Tế bào ung thư thoát mạch (extravasation) và xâm lấn mô xung quanh
+
+### Di căn qua mạch lympho
+
+Tế bào ung thư di căn hạch thông qua mạch đến (affrent lymphatic channel)
+
+Hạch bị di căn thường lớn và cứng, có thể dính nhau, dính mô xung quanh, gây phù
+
+Cần chú ý không phải tất cả hạch lớn đều là do di căn
+
+### Di căn qua các khoang cơ thể
+
+Khoang màng bụng, màng phổi, màng tim: tràn dịch vào các khoang
+
+Dịch tiết (exudate): nhiều protein, tế bào ung thư
+
+Tìm thấy tế bào ung thư trong dịch: chẩn đoán

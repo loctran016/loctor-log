@@ -1,6 +1,6 @@
 ---
 title: Bài 4 - Bệnh lí bạch cầu
-date: 2025-10-05
+date: 2025-10-21
 ---
 
 <!-- markdownlint-disable MD024 -->
@@ -11,17 +11,28 @@ Ngưỡng số lượng BC bình thường: 4,5 - 10 x 10<sup>9</sup>/L
 
 ==LEUCOCYTOSIS==: tăng tổng số bạch cầu
 
-- Do bởi tăng bất kỳ của đơn dòng bạch cầu.
-- Gia tăng của các quần thể tế bào nhỏ có thể xảy ra mà không có sự gia tăng tổng số tế bào BC.
+- Netrophiia:
+- Lymphocytosis:
 
-==LEUCOPENIA==: Giảm tổng số BC so với ngưỡng theo tuổi
+==LEUCOPENIA==: giảm tổng số BC so với ngưỡng theo tuổi
 
-- Giảm bạch cầu có thể ảnh hưởng đến một hoặc nhiều dòng TB
-- Có thể bị suy giảm nặng BCTT (Neutropenia) hoặc Lymphocyte (lymphopenic) mà không làm giảm tổng số tế bào bạch cầu.
+- Giảm BCTT (Neutropenia)
+- Lymphopenic: Giảm Lymphocyte
+- Pancytopenia: giảm 3 dòng TB máu (HC, BC, TC)
 
-## Tăng số lượng BC lành tính: =a=BC > 10 x 10<sup>9</sup>/L==
+Số lượng bạch cầu thay đổi theo tuổi
 
-### BC hạt
+BC trong một số bệnh lý thường gặp
+
+- Nhiễm trùng, điều trị steroid, cắt lách: BC tăng
+- Nhiễm virus, hoá trị: giảm BC (trong hoá trị còn tăng Mono bào)
+
+Tăng/Giảm của các quần thể tế bào nhỏ có thể xảy ra mà không có sự gia tăng tổng số tế bào BC.
+
+
+## BC hạt
+
+### Tăng BCHTT
 
 Sinh lý:
 
@@ -34,7 +45,83 @@ Bệnh lý:
 - Tình trạng viêm cấp tính (viêm cơ tim cấp, phỏng,…)
 - Hội chứng tủy tăng sinh: CML, đa HC
 
-Left Shift
+Khi tán huyết cấp -> tăng tạo HC, kéo theo tăng BC
+
+Bỏ CT Acnes
+
+Left Shift = tăng BCTT non trong máu
+
+- Thường gặp nhất trong nhiễm khuẩn cấp tính -> tiên lượng =a=mức độ viêm nhiễm==
+
+Right Shift: thường liên quan =r=thiếu máu HC to== -> kiểm tra
+
+- Vitamin B12, B9
+- MCV, hình thái HC
+- Chức năng tuỷ xương
+
+### Giảm BCHTT
+
+Nguy cơ nhiễm trùng khi BCHTT ==< 500/mm3==: nguy cơ cao -> nhập viện ngay lập tức
+
+- Sốt -> cấy máu, cấy các dịch tiết. Sử dụng thêm KS bao vây phổ rộng, xuống thang (KS mạnh nhất rồi giảm từ từ)
+
+Nguy cơ nhiễm trùng phụ thuộc
+
+- Thời gian kéo dài > 2 tuần, nguy cơ tử vong > 5 lần
+- Thường đi kèm giảm các BC khác
+- Giảm BC sau hoá trị nặng nhất
+- Da, niêm mạc, ống sonde dưới da, thiếu máu, dinh dưỡng kém tăng nguy cơ nhiễm trùng
+
+### Giảm BCTT bẩm sinh nặng (SCN)
+
+Hội chứng Kostmann
+
+-
+
+### Giảm BCTT chu kỳ
+
+### Giảm BCTT mắc phải
+
+KS phổ rộng xuống thang 7 ngày không giảm -> thêm thuốc trị nấm
+
+## Eosinophile
+
+- Nhiễm KST: giun xoắn, nhiễm khuẩn giardia, nhiễm KST echinococcus.
+- Dị ứng: viêm mũi dị ứng, hen, sốt phát ban, dị ứng thuốc (nguyên nhân chính khiến BN nhập viện).
+- Hội chứng tăng eosinophile (hội chứng Loeffler).
+- Bệnh collagen.
+- Các bệnh lý ác tính: bệnh CML, ung thư di căn hoặc hoại tử u.
+
+Xâm nhiễm Eosinophil:
+
+- 1000 nguy cơ báo động
+- 5000 nguy cơ
+- 10000 nguy cơ tử vong
+
+## Basophill
+
+THƯỜNG ÁC TÍNH
+
+hEN, PHẾ QUẢN, SỐT PHÁT BAN
+
+Tình trạng viêm mạn\
+
+## Tăng Mono
+
+EBV (5/8 tiêu chuẩn -> hội chứng HMH, chủ yếu gây ra bởi EBV):
+
+- Gan/ lách/ hạch to
+- Giảm 2 dòng TB máu/3
+- Tăng feritin
+- Giảm fibrinogen
+- Tăng triglyceride
+- Có HT thực bào máu (chọc tuỷ xương/hạch ->BC ăn máu,...)
+- Giảm hoạt hoá các tế bào NK
+- Giảm CD25 hoà tan
+
+EBV nhiễm vô T, kích họat ĐTB, tăng tiết cytokinin -> Chết vì cơn bão cytokin
+
+## Tăng số lượng BC lành tính: =a=BC > 10 x 10<sup>9</sup>/L==
 
 ### Lymphocyte
 
@@ -54,13 +141,7 @@ Infectious Mononucleosis:
   - Monospot test.
   - Huyết thanh EBV.
 
-### Eosinophile
 
-- Nhiễm KST: giun xoắn, nhiễm khuẩn giardia, nhiễm KST echinococcus.
-- Dị ứng: viêm mũi dị ứng, hen, sốt phát ban, dị ứng thuốc (nguyên nhân chính khiến BN nhập viện).
-- Hội chứng tăng eosinophile (hội chứng Loeffler).
-- Bệnh collagen.
-- Các bệnh lý ác tính: bệnh CML, ung thư di căn hoặc hoại tử u.
 
 ### Basophile
 
