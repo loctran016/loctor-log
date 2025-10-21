@@ -8,18 +8,17 @@ category: cls
 
 ## Câu hỏi 1: Tiêu chuẩn nào giúp chẩn đoán ác tính trên tế bào học và giải phẫu bệnh?
 
-Các tiêu chí trên tiêu bản tế bào học:
+Tiêu bản tế bào học:
 
 - Sắp xếp TB:
   - Nhiều TB, rời rạc
   - Tập trung thành đám dày đặc mất trật tự hoặc liên kết lỏng lẻo
 - Tính chất TB:
-  - Nhân lệch về một phía, nhân to, kích thước không
-đều, tăng sắc
+  - Nhân lệch về một phía, nhân to, kích thước không đều, tăng sắc
   - Nhiễm sắc chất thô
   - Hạt nhân to HOẶC nhỏ bất thường
 
-Các tiêu chí trên tiêu bản GPB
+Tiêu bản GPB
 
 - Bất thường TB: nhân lớn, dị dạng; tỷ lệ nhân/TB chất thay đổi
 - Bất thường cấu trúc: ống tuyến không còn rõ; tạo thành những ổ dầy đặc TB hoặc thành dải
@@ -31,29 +30,32 @@ Các tiêu chí trên tiêu bản GPB
 
 Ở các TB bình thường:
 
-- Gắn kết với nhau bởi các mối nối tế bào (desmosome), thành phần chính là các glycoprotein kết dính E-cadherins.
-- Gắn với mô nền xung quanh và màng đáy bằng integrin (laminin, fibronectin).
+- Glycoprotein kết dính E-cadherins: tạo thành mối nối tế bào (desmosome), nối các TB lại với nhau.
+- Integrin (laminin, fibronectin): liên kết TB  với mô nền và màng đáy.
 
-=> Các TB kế cận thông tin cho nhau để giữ kích thước khoang mô bình thường và duy trì cân bằng nội môi.
+=> Truyền tin tiếp xúc trực tiếp -> ức chế phân bào quá mức -> giữ kích thước khoang mô bình thường và duy trì cân bằng nội môi.
 
 Tế bào ung thư xâm lấn mô xung quanh:
 
-- Thoát khỏi hệ miễn dịch, của các TB và mô xung quanh.
+- Thoát khỏi sự ức chế của hệ miễn dịch, của các TB và mô xung quanh.
 - Giảm tiết E-cadherin -> dễ tách ra khỏi các TB xung quanh.
 - Sản xuất trực tiếp hay kích thích các nguyên bào sợi tiết ra MMP phân hủy integrin giúp chúng có thể tách rời, xâm lấn màng đáy vào mô nền xung quanh
 - Tiết các proteases (hyaluranidase, aminopeptidase) phá hủy mô đệm và xâm lấn vào mô đệm hay các mô xung quanh bằng các chân giả kiểu a míp.
 
 ### Di căn hạch
 
-- TB UT tiết ra các cytokine (VEGF) kích thích sự tăng sinh và giãn nở mạch lymphô,
-- Theo áp lực của dòng chảy của dịch ngoại bào, các TB UT di chuyển về phía các mao mạch lymphô
-- Các TB bướu di chuyển dọc theo mặt ngoài của các TB nội mạc và chui vào lòng mạch lymphô qua các khe hở giữa các TB nội mạc.
-- Khi vào mao mạch lymphô, các TB bướu gây thuyên tắc. Đa số TB UT bị tiêu diệt bởi các TB miễn dịch
-- TB bướu đi vào xoang vỏ hạch qua mạch lymphô đến (afferent lymphatics)
-- Xâm lấn vỏ bao hạch
-- Đi xuyên qua hạch qua chỗ nối lymphô-tĩnh mạch
-- Di chuyển tiếp vào mạch lymphô đi (efferent lymphatics) và lan đến các hạch khác.
-- Hạch lymphô gần bướu nhất gọi là hạch lính gác (hạch tiền đồn-SLN)
+Quá trình:
+
+1. Tiết ra các cytokine (VEGF) kích thích sự tăng sinh và giãn nở mạch lympho
+2. Di chuyển về phía các mao mạch lympho, dưới áp lực của dòng chảy của dịch ngoại bào
+3. Di chuyển dọc theo mặt ngoài của các TB nội mạc và chui vào lòng mạch lympho qua các khe hở giữa các TB nội mạc.
+4. Trong mao mạch lymphô, các TB bướu gây thuyên tắc. Đa số TB UT bị tiêu diệt bởi các TB miễn dịch
+5. TB bướu đi vào xoang vỏ hạch thông qua mạch lympho đến
+6. Xâm lấn vỏ bao hạch
+7. Đi xuyên qua hạch qua chỗ nối lympho-tĩnh mạch
+8. Di chuyển tiếp vào mạch lymphô đi và lan đến các hạch khác.
+
+Hạch lymphô gần bướu nhất gọi là hạch lính gác (hạch tiền đồn-SLN)
 
 Trong UT vú, mạng lưới mạch lymphô phong phú từ trong mô vú dẫn lưu về quanh quầng vú, sau đó về hạch nách hay hạch vú trong tùy theo vị trí.
 
@@ -82,8 +84,7 @@ Các bước của dòng thác di căn xa
   - Khả năng của bướu thích ứng với các điều kiện phát triển ở cơ quan mới, sẽ quyết định di căn xuất hiện nhanh hay chậm.
   - Di căn xa có thể phát triển và phát triển như thế nào minh họa cho thuyết “hạt giống và đất”.
 
-Thuyết hạt giống và đất
-“The seeds and the soil” Paget’s hypothesis
+Thuyết hạt giống và đất (“The seeds and the soil”):
 
 - Đến được cơ quan xa chỉ là điều kiện cần, mang tính cơ học (“thuyết cơ học”),
 - Phát triển được ở cơ quan xa phải thích ứng được vi môi trường mới (điều kiện đủ) mang tính sinh học (thuyết “Hạt giống và đất”).
@@ -101,11 +102,11 @@ Sinh học: các TB UT vú rất thích hợp với vi môi trường ở xươn
 
 Estrogen được sinh tổng hợp từ cholesterol, qua nhiều trong đó có vai trò của men aromatase
 
-Vai trò của thụ thể estrogen (ER)
+Estrogen receptor (ER) thụ thể gắn trên màng nhân một số TB, trong đó có TB tuyến vú:
 
-- Estrogen receptor (ER) thụ thể gắn trên màng nhân một số TB, trong đó có TB tuyến vú.
-- Bình thường, khi estrogen đến gắn lên ER sẽ làm ER thay đổi cấu hình để đi vào trong nhân TB.
-- Tại đây, nó gắn lên DNA trong vùng khởi động của những gen đích. Các gen này sẽ được “bật” hoặc “tắt” để tạo những mRNA, rồi giải mã sản xuất ra các protein có chức năng duy trì hoạt động TB tuyến vú như tăng sinh và sống sót.
+1. Estrogen đến gắn lên ER sẽ làm ER thay đổi cấu hình để đi vào trong nhân TB.
+2. Tại đây, nó gắn lên DNA trong vùng khởi động của các gen đích.
+3. Các gen này sẽ được “bật” hoặc “tắt” -> duy trì hoạt động TB tuyến vú như tăng sinh và sống sót.
 
 Phức hợp thụ thể - estrogen  khơi mào quá trình kích hoạt các gen
 
@@ -115,7 +116,7 @@ Estrogen + ER tăng biểu hiện -> kích thích TB UT vú phát triển
 
 ### Progesterone - thụ thể PR
 
-PR nằm ở màng nhân, cần có phối tử là progesterone gắn lên để khởi động quá trình di chuyển vào nhân, giúp “bật” hoặc “tắt” một số gen đích, làm thay đội hoạt động TB
+PR nằm ở màng nhân, cần có phối tử là progesterone gắn lên để khởi động quá trình di chuyển vào nhân.
 
 Sự hiện diện của PR ảnh hưởng đến hoạt động của ER, ức chế một phần tác động thúc đẩy tăng sinh tế bào của ER.
 
@@ -128,7 +129,7 @@ khác.Tác động kích thích TB sinh sản giảm đi nhiều so với khi PR
 
 HER2: Human epidermal growth factor receptor type 2
 
-- Các yếu tăng trưởng (growth factor) có vai trò quan trọng trong sự phát triển tuyến vú và trong UT vú.
+- Đáp ứng với các yếu tố tăng trưởng (growth factor).
 - Trong UT vú, thụ thể yếu tố tăng trưởng biểu bì HER2 được nghiên cứu nhiều nhất.
 - Tình trạng khuếch đại gen HER2, thường tương ứng với tăng biểu hiện protein HER2, gặp trong khoảng 20% ung thư vú.
 
