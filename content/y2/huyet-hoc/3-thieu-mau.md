@@ -5,7 +5,7 @@ date: 2025-10-21
 
 ## Định nghĩa thiếu máu
 
-Thiếu máu: giảm số lượng hồng cầu và/ hoặc hemoglobin
+Thiếu máu: ==giảm số lượng hồng cầu và/hoặc hemoglobin==
 
 Biểu hiện thiếu máu gồm:
 
@@ -15,7 +15,10 @@ Biểu hiện thiếu máu gồm:
 
 Cơ chế: mất cân bằng giữa quá trình tạo và huỷ hồng cầu
 
-### Đời sống hồng cầu
+Đời sống hồng cầu: approx. ==120 ngày==
+
+- Sau khi liên hơp bởi glucuronyl transferase, thải qua ruột thông qua *dịch mật*
+- Bilirubin: phân, nước tiểu có máu vàng
 
 ### Thiếu máu theo hình thái
 
@@ -23,12 +26,13 @@ Cơ chế: mất cân bằng giữa quá trình tạo và huỷ hồng cầu
 - Thiếu máu nhược sắc, HC nhỏ
 - Thiếu máu đẳng sắc, đẳng bào
 
-**MCV**: Thể tích trung bình của hồng cầu -> Đẳng bào, nhỏ, to
+Chỉ số phân biệt:
 
-**MCH**: Lượng Hb trung bình trong 1 HC -> Đẳng sắc, ưu sắc, nhược sắc
+- **MCV**: Thể tích trung bình của hồng cầu -> Đẳng bào, nhỏ, to
+- **MCH**: Lượng Hb trung bình trong 1 HC -> Đẳng sắc, ưu sắc, nhược sắc
+- **MCHC** (Mean corpuscular Hb Concentration): Nồng độ Hb trung bình trong 100ml hồng cầu
 
-**MCHC** (Mean corpuscular Hb Concentration): Nồng độ Hb trung
-bình trong 100ml hồng cầu
+### Thiếu máu theo cơ chế bệnh sinh
 
 ## Thiếu máu do mất máu
 
@@ -38,8 +42,10 @@ Nguyên nhân:
 
 - =r=Chấn thương==:
   - Chấn thương bụng kín có thể gây **xuất huyết nội**
-- XH tiêu hoá: =r=xơ gan== gây tăng áp lực TM cửa -> lâu dần TM thực quản giãn ra và bị vỡ -> nôn ra máu; hoặc loét dạ dày -> loét mạch máu
-
+- XH tiêu hoá:
+    - =r=xơ gan== gây tăng áp lực TM cửa -> lâu dần TM thực quản giãn ra và bị vỡ -> nôn ra máu; hoặc loét dạ dày -> loét mạch máu
+    - Loét dạ dày, ói ra máu
+    - Giãn TM -> vỡ TM
 Biểu hiện lâm sàng khi mất máu:
 
 - =c=Mất < 10%==: cơ chế bù trừ, BN không bị rối loạn huyết động (<u>không tụt HA</u>).
