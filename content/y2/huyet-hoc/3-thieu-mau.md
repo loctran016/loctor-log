@@ -43,9 +43,9 @@ Nguyên nhân:
 - =r=Chấn thương==:
   - Chấn thương bụng kín có thể gây **xuất huyết nội**
 - XH tiêu hoá:
-    - =r=xơ gan== gây tăng áp lực TM cửa -> lâu dần TM thực quản giãn ra và bị vỡ -> nôn ra máu; hoặc loét dạ dày -> loét mạch máu
-    - Loét dạ dày, ói ra máu
-    - Giãn TM -> vỡ TM
+  - =r=xơ gan== gây tăng áp lực TM cửa -> lâu dần TM thực quản giãn ra và bị vỡ -> nôn ra máu; hoặc loét dạ dày -> loét mạch máu
+  - Loét dạ dày, ói ra máu
+  - Giãn TM -> vỡ TM
 Biểu hiện lâm sàng khi mất máu:
 
 - =c=Mất < 10%==: cơ chế bù trừ, BN không bị rối loạn huyết động (<u>không tụt HA</u>).

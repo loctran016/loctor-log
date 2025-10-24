@@ -1,10 +1,10 @@
 ---
-title: CLS 1 - Ung thư vú
+title: CLS - Ung thư vú
 date: 2025-10-24
 category: cls
 ---
 
-## Bệnh án
+<!-- ## Bệnh án -->
 
 ## Câu hỏi 1: Tiêu chuẩn tế bào học và giải phẫu bệnh nào giúp chẩn đoán ác tính?
 
