@@ -20,7 +20,7 @@ const posts = findPageChildren(queryNav.value,`/${year}/${subject}`)
 const headline = findPageHeadline(queryNav.value, posts[0].path)
 const headlineIcon: string = <string>queryNav.value?.[0]?.children?.[0]?.icon ?? 'material-symbols-light:book-2'
 
-type CategoryKey = 'bv' | 'tbl' | 'cls' | 'lab';
+type CategoryKey = 'bv' | 'tbl' | 'cls' | 'lab' | 'exam';
 type CategoryData = {
     [key in CategoryKey]: {
         name: string;
@@ -54,6 +54,12 @@ const categoryData: CategoryData = {
         class: 'text-sky-700 dark:text-sky-400',
         containerClass: '',
         icon: 'healthicons:lab-search-outline'
+    },
+    exam: {
+        name: 'Thi',
+        class: 'text-yellow-700 dark:text-yellow-400',
+        containerClass: 'right-1 top-1',
+        icon: 'material-symbols-light:family-star'
     },
 };
 

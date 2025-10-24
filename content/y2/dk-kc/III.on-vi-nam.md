@@ -2,6 +2,7 @@
 title: Ôn tập Vi nấm
 date: 2025-09-22
 tags: ['Vi nấm']
+category: exam
 ---
 
 ## PAMPs

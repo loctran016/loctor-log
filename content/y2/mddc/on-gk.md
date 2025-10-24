@@ -1,6 +1,7 @@
 ---
 title: Ôn thi GK - 20
 date: 2025-08-25
+category: exam
 ---
 
 ## Thụ thể - Hoá mô MD

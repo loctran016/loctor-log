@@ -2,6 +2,7 @@
 title: Ôn tập KST
 date: 2025-09-22
 tags: ['KST']
+category: exam
 ---
 
 ## Giun

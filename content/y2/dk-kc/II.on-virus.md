@@ -2,6 +2,7 @@
 title: Ôn tập Virus
 date: 2025-09-22
 tags: ['Virus']
+category: exam
 ---
 
 ## Đại cương

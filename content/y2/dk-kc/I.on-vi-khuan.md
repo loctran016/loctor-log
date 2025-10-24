@@ -2,6 +2,7 @@
 title: Ôn tập vi khuẩn
 date: 2025-09-22
 tags: ['Vi khuẩn']
+category: exam
 ---
 
 ## Cầu khuẩn Gram dương

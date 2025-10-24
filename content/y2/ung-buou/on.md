@@ -1,6 +1,7 @@
 ---
 title: Ôn tập thi CK
 date: 2025-10-27
+category: exam
 ---
 
 ## Tác nhân sinh ung
