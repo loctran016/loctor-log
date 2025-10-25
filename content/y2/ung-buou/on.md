@@ -20,26 +20,25 @@ Một số yếu tố nguy cơ ung thư:
 Thịt đỏ là chất sinh ung nhóm IIA.
 Có 2 cơ chế sinh ung của thịt đỏ:
 
-- Không gây độc gene: Do Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sub>2</sub>0<sub>2</sub> gây viêm==
+- Không gây độc gene: Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sub>2</sub>O<sub>2</sub> gây viêm==
 - Gây độc gene: Các NOC (hợp chất nitrosamine) gây ==DNA adduct==, DNA damage và 4-HNE gây đột biến chọn lọc ung thư
 
 Thịt đã qua chế biến là chất sinh ung nhóm I
 
-- Ở Nhật Bản: thay đổi 
+- Ở Nhật Bản: thay đổi
 
 Phân loại các gen, protein dựa trên khả năng gây ung thư
 
 - Tiền sinh ung:
   - Bcl-2
-  - KRAS: đột biến điểm 
-- Đè nén khối u: 
+  - KRAS: đột biến điểm
+- Đè nén khối u:
   - PTEN: PTEN là một enzyme tham gia ức chế con đường truyền tín hiệu nội bào  (con đường PI3K/AKT)
   - p53
 
 Trong nghiên cứu quá trình sinh ung: ung thư đại tràng phù hợp cho nghiên cứu nhất\\
 
 1. Đầu tiên, ĐB mất chức năng gene APC -> tạo polyp
-
 2. Đột biến thêm gen K-ras, p53...
 
 Tổn thương DNA <u>chưa chắc</u> đã phát triển thành bệnh lý
@@ -51,16 +50,12 @@ Telomere: TTAGGG (giàu Guanin)
 Telomerase: tổng hợp kéo dài đoạn telomere
 
 - Hoạt động mạnh: TB mầm (VD: trứng, tinh trùng -> mạnh nhất để đảm bảo đời sau) và TB gốc
-
 - TB sinh dưỡng bình thường: bất hoạt
-  
-  
-  
-  *Helicopactor pylori*
-  
-  - CagA
-  
-  - VagA
+
+*Helicopactor pylori*:
+
+- CagA: cấm apoptosis
+- VagA: tổn thương niêm mạc dạ dày
 
 ### Ung thư gan
 
@@ -98,18 +93,18 @@ Các cơ chế sữa chữa ĐB thường gặp:
 - Đột biến điểm: MLH1 và MSH2
 
 - LK chéo 2 đoạn DNA đối nhau/đứt đôi chuỗi DNA: BRCA1 và BRCA2
-  
+
   ### Viêm và béo phì
-  
+
   Béo phì: tăng tiết các chất kích thích phân bào
-  
+
   - Estrogen -> UT vú, nội mạc tử cung và buồng trứng (không phải cổ tử cung)
-  
+
   - Insulin và IGF-1: UT đại tràng, thận, tuyến tiền liệt, nội mạc tử cung (các cơ quan dưới đại tràng -> không có UT vú, không có buồng trứng)
-  
+
   Tập thể dục giúp giảm: UT đại tràng, nội mạc tử cung, vú
 
-## Đặc điểm của khối u
+## U lành hay U ác
 
 U: Sự thay đổi di truyền trong các tế bào -> sự tăng trưởng bất thường, bền bỉ, *không cần sự tồn tại của tác nhân kích thích ban đầu*
 
@@ -118,8 +113,17 @@ U: Sự thay đổi di truyền trong các tế bào -> sự tăng trưởng b�
 
 Phân loại ung thư:
 
-- U của biểu mô
-- U của trung mô
+- U của biểu mô:
+    - Tế bào chuyển tiếp: hệ tiết niệu
+    - Gan
+    - Mô đệm nuôi
+    - Nevi: lành (Melanoma: ác)
+    - *Tuyến*
+- U của trung mô:
+  - Mô mỡ, sợi, sụn
+  - Xương
+  - Hạch
+  - Mô cơ trơn, mô cơ vân
 - U của hạch lympho và hệ thống MD
 - U của hệ tạo máu
 
@@ -127,14 +131,19 @@ Xâm lấn: tế bào ung thư vượt qua màng đáy
 
 Di căn: xâm lấn lan tràn **các mô xung quanh**
 
-Phân loại u dựa trên đặc tính hành vi của tế bào u:
+Phân loại u dựa trên đặc tính hành vi (đặc tính hành vi) của tế bào u:
 
-- U lành
+- U lành: thường gọi là u -> chủ yếu tăng sản
 - U giáp biên
-- U ác
+- U ác: carcinoma (biểu mô), sarcom (trung mô)
+
+<!-- TODO: Xem lại u nào không phải là u ác -->
+
+
 
 Chẩn đoán u lành hay ác dưa vào sự =r=tăng sinh mạch máu==
 
+U trung mô không có giai đoạn tại chỗ trong khi u biểu mô thì có giai đoạn tại chỗ (chưa xâm nhậ qua màng đáy)
 <!-- Ung thư có thể chia thành 4 nhóm chính -->
 
 ### Di căn
@@ -148,8 +157,10 @@ Di căn qua mạch bạch huyết, mạch máu, khoang cơ thể.
 2. Xâm lấn lòng mạch (intravasation)
 3. Thoát khỏi các hệ MD (tế bào NK)
 4. Gắn kết vào tế bào nội mô mạch máu
-5. Tế bào ung thư thoát mạch (extravasation): chủ yếu là ở tĩnh mạch 
+5. Tế bào ung thư thoát mạch (extravasation): chủ yếu là ở tĩnh mạch
 6. Xâm lấn và phát triển ở mô xung quanh: bước khó nhất
+
+TM là nơi dễ bị các TB bướu xâm lấn vào nhưng mà MM là vị trí bướu dễ bị kẹt nhất
 
 Di căn qua mạch lympho:
 
@@ -162,17 +173,15 @@ Di căn qua các khoang cơ thể:
 - Khoang màng bụng, màng phổi, màng tim: tràn dịch vào các khoang
 - Dịch tiết (exudate): nhiều protein, tế bào ung thư
 - Tìm thấy tế bào ung thư trong dịch: chẩn đoán
-  
-  
-  
-  Ung thư nội mạc tử cung (từ lớp nội mạc lót trong lòng tử cung): lớp cơ dày của tử cung là rào cản tự nhiên của bướu. Phải mất khoảng thời gian khá lâu thì bướu mới xâm lấn khỏi lớp cơ và thanh mạc. 
-  
-  
-  
-  Ung thư cổ tử cung:
-  - Ít xâm lấn trực tràng do vách âm đạo-trực tràng rất chắc chắn. 
-  
+
+Ung thư nội mạc tử cung (từ lớp nội mạc lót trong lòng tử cung): lớp cơ dày của tử cung là rào cản tự nhiên của bướu.
+
+
+Ung thư cổ tử cung:
+  - Ít xâm lấn trực tràng do vách âm đạo-trực tràng rất chắc chắn.
   - Chủ yếu: vào âm đạo, thân tử cung và phần bên cạnh tử cung (chu cung)
+
+
 
 Lưu ý:
 
@@ -187,9 +196,13 @@ Lưu ý:
 
 KN liên quan bướu -> cơ thể nhìn nhận lạ hay quen
 
-Khối u biểu hiện các KN sau nhằm ức chế hệ MD:
+- Kháng nguyên khuếch đại
+- Kháng nguyên biệt hóa
+- Kháng nguyên virus
 
-<!-- - CTLA-4 (gắn kết B7 - CD80 hay CD86):  -->
+Sinh MD mạnh nhất: ung thư đại tràng
+
+Khối u biểu hiện các KN sau nhằm ức chế hệ MD:
 
 - <u>Lympho T<sub>h</sub>:</u>
   - B7 (gắn CTLA-4): bất hoạt tế bào T
@@ -200,7 +213,7 @@ Khối u biểu hiện các KN sau nhằm ức chế hệ MD:
   - CRT (già rồi)
   - CD 47 (còn trẻ, đừng ăn)
 - <u>Chung:</u>
-  - TGF-beta: ức chế viêm -> ức chế TB tua, ĐTB, Lympho T
+  - TGF-beta: ức chế viêm -> chống lại sự trưởng thành, gây apoptosis tế bào tua, ĐTB và ức chế TB T
   - IL-10: ức chế T độc và ĐTB
 - <u>Thu hút T-reg:</u> ức chế lympho T (CD4 và CD8)
   1. CCL22 (gắn lên CCR4 của T-reg) + TGF-beta
@@ -239,6 +252,13 @@ Protein Rb (gen nằm trên NST 13): điểm kiểm soát G1/S (điểm R)
 
 Thuốc Palbocilib: cạnh tranh với =r=Cyclin D== bằng cách gắn vào =a=CDK4/6== tại điểm T-loop -> ngăn cản ATP gắn vào điểm P-stare -> ngăn phosphoryl hoá Rb -> bất hoạt =a=E2F==.
 
+Hoạt hóa phức hợp Cyclin - CDK bằng cách:
+
+- Tăng biểu hiện gen CCND1
+- Giảm p16
+- Giảm biểu hiện protein CIP/KIP
+- Giảm biểu hiện p53
+
 ### Hodgkin
 
 Là u ác TB lympho
@@ -263,8 +283,8 @@ Chức năng bình thường của gen p53:
 
 Cơ chế bệnh sinh:
 
-1. ĐB <u>chuyển vị</u> NST 14-18 
-2. =c=Tăng== biểu hiện protein Bcl-2 (ức chế apoptosis) 
+1. ĐB <u>chuyển vị</u> NST 14-18
+2. =c=Tăng== biểu hiện protein Bcl-2 (ức chế apoptosis)
 3. TB =a=tăng sinh bình thường== nhưng không chết
 4. Số lượng TB tích luỹ chậm dần (bệnh mạn tính)
 
@@ -298,6 +318,12 @@ EML4-ALK (NST 2):
 - Ung thư phổi không tế bào nhỏ
 - Đảo đoạn -> xoay EML4 -> EML4 tăng hoạt -> tăng cường hoạt động phiên mã của **gen ALK**
 
+### Epigenetics
+
+Methyl hóa DNA: câm nín
+
+microRNAs
+
 ## Rối loạn chết TB trong ung thư
 
 Mạng lưới tín hiệu gây apoptosis
@@ -311,6 +337,8 @@ Các TB ung thư ức chế sự hoạt hoá =r=procaspase 3== -> ứ đọng pr
 
 Sau khi có hình ảnh chụp X-quang/CT/MRI, là các bằng chứng gián tiếp -> cần sinh thiết hạch để làm bằng chứng trực tiếp
 
+Khi phát hiện hạch, trước tiên phải test TB học trước, sau đó mới tới GPB
+
 Hay di căn xương ức: hệ thống tĩnh mạch Bason
 
 ER: bệnh năng thêm
@@ -320,4 +348,11 @@ PR: bệnh tiến triển tốt hơn
 HER2: Human epidermal growth factor receptor type 2
 
 - Đáp ứng với các yếu tố tăng trưởng (growth factor).
-- Khuếch đại gen HER2 -> tăng protein HER2: 20% ung thư vú.
+- Khuếch đại số gen HER2 -> tăng protein HER2: 20% ung thư vú.
+
+## Thực hành
+
+Cố định bệnh phẩm càng nhanh càng tốt, tối ưu là 30 - 60 phút trong dung dịch gấp 10 lần thể tích bệnh phẩm:
+
+- Chọc hút TB hoch FNA thì cố định bằng Alcohol 70% - 95%
+- GPB: cố định bằng Formol 10% đệm trung tính

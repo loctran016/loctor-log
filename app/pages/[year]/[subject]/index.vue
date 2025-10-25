@@ -34,25 +34,25 @@ const categoryData: CategoryData = {
     bv: {
         name: 'TH Bệnh Viện',
         class: 'text-fuchsia-700 dark:text-fuchsia-500',
-        containerClass: '',
+        containerClass: 'right-2 top-2',
         icon: 'healthicons:hospital-outline'
     },
     tbl: {
         name: 'Team-based Learning',
         class: 'text-green-700 dark:text-green-500',
-        containerClass: 'group-hover:bg-green-600/20',
+        containerClass: 'group-hover:bg-green-600/20 right-2 top-2',
         icon: 'healthicons:group-discussion-meetingx3-outline'
     },
     cls: {
         name: 'CLS',
         class: 'text-amber-700 dark:text-amber-400',
-        containerClass: 'group-hover:bg-amber-600/30',
+        containerClass: 'group-hover:bg-amber-600/30 right-2 top-2',
         icon: 'healthicons:virus-patient-outline'
     },
     lab: {
         name: 'TH tại Trường',
         class: 'text-sky-700 dark:text-sky-400',
-        containerClass: '',
+        containerClass: 'right-2 top-2',
         icon: 'healthicons:lab-search-outline'
     },
     exam: {
@@ -114,7 +114,7 @@ useSeoMeta({
               <h3 class="font-[Montserrat] dark:text-white font-semibold lg:text-lg flex-grow tracking-wide lg:tracking-wider max-w-[90%]">
                 {{ post.title }}
               </h3>
-              <div v-if="post.category" class="absolute right-2 top-2 flex items-center justify-center p-2 aspect-square rounded-full transform-gpu duration-200" :class="categoryData[post.category as CategoryKey].containerClass">
+              <div v-if="post.category" :class="categoryData[post.category as CategoryKey].containerClass" class="absolute flex items-center justify-center p-2 aspect-square rounded-full transform-gpu duration-200">
                   <LazyIcon  :class="categoryData[post.category as CategoryKey].class" class="text-2xl lg:text-3xl" :name="categoryData[post.category as CategoryKey].icon" />
                 </div>
                 <LazyIcon v-else class="text-xl lg:text-2xl absolute right-3 top-3" name="material-symbols-light:arrow-outward-rounded" />
