@@ -132,6 +132,7 @@ KN liên quan bướu -> cơ thể nhìn nhận lạ hay quen
 Khối u biểu hiện các KN sau nhằm ức chế hệ MD:
 
 <!-- - CTLA-4 (gắn kết B7 - CD80 hay CD86):  -->
+
 - <u>Lympho T<sub>h</sub>:</u>
   - B7 (gắn CTLA-4): bất hoạt tế bào T
   - PD-L1 và PD-L2: gây chết tế bào T thông qua thụ thể PD-1 và PD-2
@@ -144,8 +145,8 @@ Khối u biểu hiện các KN sau nhằm ức chế hệ MD:
   - TGF-beta: ức chế viêm -> ức chế TB tua, ĐTB, Lympho T
   - IL-10: ức chế T độc và ĐTB
 - <u>Thu hút T-reg:</u> ức chế lympho T (CD4 và CD8)
-    1. CCL22 (gắn lên CCR4 của T-reg) + TGF-beta
-    2. T-reg biểu hiện CD25 -> ức chế lympho T (CD4 và CD8)
+  1. CCL22 (gắn lên CCR4 của T-reg) + TGF-beta
+  2. T-reg biểu hiện CD25 -> ức chế lympho T (CD4 và CD8)
 
 Trong giai đoạn viêm mãn, TGF-beta chuyển TB biểu mô -> TB trung mô => =a=fibroblast== hoạt động quá mức -> viêm mạnh mẽ -> tăng sinh mạch (VEGF) <u>nuôi</u> TB ung thư
 
@@ -155,7 +156,7 @@ TB UT có thể nguỵ trang bằng các tiểu cầu bao quanh
 
 Các liệu pháp MD rất nhanh sẽ bị TB ung thư kháng lại -> cần điều trị kết hợp với liệu pháp tại chỗ (hoá, xạ trị)
 
-## Các bệnh ung thư - các gen liên quan tương ứng
+## Các bệnh ung thư - các gen tương ứng
 
 ### HC Lynch (UT đại trực tràng di truyền không polyp)
 
@@ -176,7 +177,7 @@ Protein Rb (gen nằm trên NST 13): điểm kiểm soát G1/S (điểm R)
 
 - Không phosphoryl hoá: Rb gắn kết yếu tố sao chép E2F -> bất hoạt E2F -> ngăn từ G1 vào S
 - Phosphoryl hoá: Rb mất chức năng -> giải phóng E2F ->
-E2F hoạt hoá gen Cyclin E → tăng biểu hiện protein Cyclin E -> phức hợp Cdk2-cyclin E -> tăng sinh TB
+  E2F hoạt hoá gen Cyclin E → tăng biểu hiện protein Cyclin E -> phức hợp Cdk2-cyclin E -> tăng sinh TB
 
 Thuốc Palbocilib: cạnh tranh với =r=Cyclin D== bằng cách gắn vào =a=CDK4/6== tại điểm T-loop -> ngăn cản ATP gắn vào điểm P-stare -> ngăn phosphoryl hoá Rb -> bất hoạt =a=E2F==.
 
@@ -202,7 +203,12 @@ Chức năng bình thường của gen p53:
 
 ### Bệnh BC lympho mạn (CLL)
 
-ĐB <u>chuyển vị</u> NST 14-18 → =c=tăng== biểu hiện protein Bcl-2 (ức chế apoptosis) → TB tăng sinh bình thường nhưng không chết → số lượng TB tích luỹ chậm dần (bệnh mạn tính)
+Cơ chế bệnh sinh:
+
+1. ĐB <u>chuyển vị</u> NST 14-18 
+2. =c=Tăng== biểu hiện protein Bcl-2 (ức chế apoptosis) 
+3. TB =a=tăng sinh bình thường== nhưng không chết
+4. Số lượng TB tích luỹ chậm dần (bệnh mạn tính)
 
 ## Các ĐB gen liên quan đến ung thư
 

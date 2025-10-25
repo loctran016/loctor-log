@@ -47,7 +47,7 @@ useSeoMeta({
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article class="post-wrapper prose prose-headings:font-[Montserrat] prose-h2:underline-offset-8 prose-h3:underline-offset-6 prose-headings:underline-offset-4 dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw] prose-h2:scroll-mt-20 prose-h3:scroll-mt-20" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
+   <article class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-800/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw] prose-h2:scroll-mt-20 prose-h3:scroll-mt-20 prose-headings:duration-100 prose-headings:transform-gpu" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
@@ -74,6 +74,9 @@ useSeoMeta({
 .post-wrapper strong {
     font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 0.02rem;
+}
+.post-wrapper h2 a, .post-wrapper h3 a, .post-wrapper h4 a, .post-wrapper h5 a {
+    text-decoration-line: none;
 }
 
 @media (max-width: 1024px) {

@@ -13,7 +13,7 @@ Tác nhân ngoài môi trường
 - Tác nhân hóa học
 - Tác nhân vật lý (bức xạ ion-hóa)
 - Tác nhân sinh học
-(virút, vi khuẩn, KST)
+  (virút, vi khuẩn, KST)
 
 Tác nhân bên trong cơ thể
 
@@ -39,7 +39,7 @@ IARC của WHO năm 1971 chia tác nhân ung thư thành
 - Nhóm 2B: Có thể gây ung thư (possibly)
 - Nhóm 3: Không phân loại là yếu tố gây ung thư
 - Nhóm 4: Không thể gây ung thư
-::
+  ::
 
 ![IARC của WHO năm 1971 chia tác nhân ung thư dựa trên độ thuyết phục của các bằng chứng rằng tác nhân đó có gây ung thư hay không](/y2/ung-buou/2-nhóm-iarc.jpeg)
 
@@ -264,7 +264,7 @@ Nguyên lý:
 - Đột biến này nắm trên tất cả các TB trong cơ thể
 - Gia tăng nguy cơ mắc UT nếu đó là gen có vai trò quan trọng trong việc kiếm soát sinh sản TB.
 - Khoảng 10% UT mang tính di truyền.
-Sự mát dị hợp tứ: là hiện tượng bán sao tự nhiên còn lại trong TB bị đột biến.
+  Sự mát dị hợp tứ: là hiện tượng bán sao tự nhiên còn lại trong TB bị đột biến.
 
 ### Bướu nguyên bào võng mạc (Retinoblastoma)
 
