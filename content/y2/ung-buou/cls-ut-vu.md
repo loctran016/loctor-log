@@ -21,6 +21,7 @@ Tiêu bản tế bào học:
 - Chỉ số XN hoá mô MD:
   - ER ++
   - PR +++
+
   - HER2 -
 
 Tiêu bản GPB
@@ -71,23 +72,23 @@ Khi bướu xâm lấn vào mô đệm, các TB UT có thể đi vào hệ thố
 Các bước của dòng thác di căn xa
 
 1. Tế bào bướu xâm lấn
-    - Chuyển dạng tb
-    - Ly giải chất nền ngoại bào
-    - Xâm lấn
+   - Chuyển dạng tb
+   - Ly giải chất nền ngoại bào
+   - Xâm lấn
 2. Xâm nhập mạch máu
-    - Sau khi xâm nhập vào lòng mạch, chúng phải chịu được các lực tác động cơ học của hệ tuần hoàn và sự tấn công của các TB miễn dịch.
-    - Các TB bướu đặc thường không thể sống sót ở dạng đơn lẻ, mà phải bám dính liên kết nhau và tương tác với các thành phần trong máu để hình thành các huyết khối bướu trong lòng mạch máu.
+   - Sau khi xâm nhập vào lòng mạch, chúng phải chịu được các lực tác động cơ học của hệ tuần hoàn và sự tấn công của các TB miễn dịch.
+   - Các TB bướu đặc thường không thể sống sót ở dạng đơn lẻ, mà phải bám dính liên kết nhau và tương tác với các thành phần trong máu để hình thành các huyết khối bướu trong lòng mạch máu.
 3. Luân lưu trong tuần hoàn
 4. Kẹt lại và thoát mạch
-    - Khi bị kẹt trong hệ thống mao mạch của cơ quan xa, các TB bướu phải thoát mạch để ra khỏi vòng tuần hoàn, đi vào bên trong nhu mô của mô khác.
-    - Thoát mạch do cơ học: TB bướu phát triển trong lòng mạch đến lúc nào đó sẽ phá vỡ các mao mạch nhỏ,
-    - TB bướu còn thoát mạch bằng cách tiết ra các men tiêu đạm, phá hủy thành mạch
+   - Khi bị kẹt trong hệ thống mao mạch của cơ quan xa, các TB bướu phải thoát mạch để ra khỏi vòng tuần hoàn, đi vào bên trong nhu mô của mô khác.
+   - Thoát mạch do cơ học: TB bướu phát triển trong lòng mạch đến lúc nào đó sẽ phá vỡ các mao mạch nhỏ,
+   - TB bướu còn thoát mạch bằng cách tiết ra các men tiêu đạm, phá hủy thành mạch
 5. Tạo lập ổ di căn: TB UT phát triển trong cơ quan xa
-    - Ý nghĩa lâm sàng lớn nhất.
-    - Chỉ một tỉ lệ rất nhỏ các TB bướu hoàn tất bước này.
-    - Trên lâm sàng, bướu nguyên phát có thể đã được phẫu thuật, nhưng một thời gian dài sau đó, di căn có thể xuất hiện.
-    - =r=Khả năng thích nghi== của bướu với cơ quan mới, sẽ quyết định di căn xuất hiện nhanh hay chậm.
-    - Di căn xa có thể phát triển và phát triển như thế nào minh họa cho thuyết “hạt giống và đất”.
+   - Ý nghĩa lâm sàng lớn nhất.
+   - Chỉ một tỉ lệ rất nhỏ các TB bướu hoàn tất bước này.
+   - Trên lâm sàng, bướu nguyên phát có thể đã được phẫu thuật, nhưng một thời gian dài sau đó, di căn có thể xuất hiện.
+   - =r=Khả năng thích nghi== của bướu với cơ quan mới, sẽ quyết định di căn xuất hiện nhanh hay chậm.
+   - Di căn xa có thể phát triển và phát triển như thế nào minh họa cho thuyết “hạt giống và đất”.
 
 Thuyết hạt giống và đất (“The seeds and the soil”):
 
@@ -142,7 +143,7 @@ Bằng các biện pháp sau:
 - Xạ trị làm mất chức năng hai buồng trứng (mất chức năng vĩnh viễn)
 - Thuốc ức chế chức năng buồng trứng (ức chế tạm thời)
 
-### Ức chế tổng hợp estrogen từ mô ngoai vi - đã mãn kinh
+### Ức chế tổng hợp estrogen từ mô ngoại vi - đã mãn kinh
 
 Khi đã mãn kinh, buồng trứng không còn sản xuất ra estrogen.
 
@@ -177,10 +178,10 @@ Tầm soát ung thư vú - =r=Tự khám vú==
 Ngoài ra có 3 phương pháp tầm soát và phát hiện sớm UT vú:
 
 1. Nhũ ảnh tầm soát:
-    - Hiệu quả hơn hẳn siêu âm và khám lâm sàng
-    - Đôi khi bỏ sót tổn thương ở phụ nữ còn kinh.
-    - Độ nhạy: 68-78%; độ đặc hiệu: 75%
+   - Hiệu quả hơn hẳn siêu âm và khám lâm sàng
+   - Đôi khi bỏ sót tổn thương ở phụ nữ còn kinh.
+   - Độ nhạy: 68-78%; độ đặc hiệu: 75%
 2. Siêu âm vú: phụ nữ trẻ, còn kinh.
 3. MRI vú:
-    - Độ nhạy cao
-    - Dành cho các trường hợp cơ địa nguy cơ cao (UT vú gia đình, người mang đột biến gen BRCA1, BRCA2, có tiền căn xạ trị vào ngực lúc còn trẻ.
+   - Độ nhạy cao
+   - Dành cho các trường hợp cơ địa nguy cơ cao (UT vú gia đình, người mang đột biến gen BRCA1, BRCA2, có tiền căn xạ trị vào ngực lúc còn trẻ.

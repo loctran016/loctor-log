@@ -39,7 +39,8 @@ IARC của WHO năm 1971 chia tác nhân ung thư thành
 - Nhóm 2B: Có thể gây ung thư (possibly)
 - Nhóm 3: Không phân loại là yếu tố gây ung thư
 - Nhóm 4: Không thể gây ung thư
-  ::
+
+::
 
 ![IARC của WHO năm 1971 chia tác nhân ung thư dựa trên độ thuyết phục của các bằng chứng rằng tác nhân đó có gây ung thư hay không](/y2/ung-buou/2-nhóm-iarc.jpeg)
 

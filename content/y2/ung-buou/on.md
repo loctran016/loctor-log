@@ -8,10 +8,14 @@ category: exam
 
 Tác nhân gây độc gen:
 
-Tác nhân không gây độc gen:
+Tác nhân không gây độc gen: Hoạt hoá receptor, ức chế hệ MD, viêm
 
 Yếu tố nguy cơ: có khả năng gây ung thư (VD: thuốc lá, rượu, bia).
 Nguy cơ: tần suất phơi nhiễm với chất sinh ung
+
+Một số yếu tố nguy cơ ung thư:
+
+- Benzen: ung thư máu
 
 Thịt đỏ là chất sinh ung nhóm IIA.
 Có 2 cơ chế sinh ung của thịt đỏ:
@@ -21,12 +25,42 @@ Có 2 cơ chế sinh ung của thịt đỏ:
 
 Thịt đã qua chế biến là chất sinh ung nhóm I
 
+- Ở Nhật Bản: thay đổi 
+
 Phân loại các gen, protein dựa trên khả năng gây ung thư
 
 - Tiền sinh ung:
   - Bcl-2
-  - KRAS: đột biến điểm t
-- Đè nén khối u: PTEN,
+  - KRAS: đột biến điểm 
+- Đè nén khối u: 
+  - PTEN: PTEN là một enzyme tham gia ức chế con đường truyền tín hiệu nội bào  (con đường PI3K/AKT)
+  - p53
+
+Trong nghiên cứu quá trình sinh ung: ung thư đại tràng phù hợp cho nghiên cứu nhất\\
+
+1. Đầu tiên, ĐB mất chức năng gene APC -> tạo polyp
+
+2. Đột biến thêm gen K-ras, p53...
+
+Tổn thương DNA <u>chưa chắc</u> đã phát triển thành bệnh lý
+
+### Telomere, Telomerase
+
+Telomere: TTAGGG (giàu Guanin)
+
+Telomerase: tổng hợp kéo dài đoạn telomere
+
+- Hoạt động mạnh: TB mầm (VD: trứng, tinh trùng -> mạnh nhất để đảm bảo đời sau) và TB gốc
+
+- TB sinh dưỡng bình thường: bất hoạt
+  
+  
+  
+  *Helicopactor pylori*
+  
+  - CagA
+  
+  - VagA
 
 ### Ung thư gan
 
@@ -41,7 +75,7 @@ Phòng ngừa:
 - Tránh xa các tác nhân trên
 - Hiện tại chưa có vaccine chống viêm gan C
 
-### UV
+### Tia UV
 
 Tia UV-A: không gây dimer hoá, chỉ tạo ra gốc tự do -> **tổn thương DNA**
 
@@ -60,8 +94,20 @@ Thường gây ra ung thư da:
 Các cơ chế sữa chữa ĐB thường gặp:
 
 - Di-pyrymidine: ERCC1 và ERCC4
+
 - Đột biến điểm: MLH1 và MSH2
+
 - LK chéo 2 đoạn DNA đối nhau/đứt đôi chuỗi DNA: BRCA1 và BRCA2
+  
+  ### Viêm và béo phì
+  
+  Béo phì: tăng tiết các chất kích thích phân bào
+  
+  - Estrogen -> UT vú, nội mạc tử cung và buồng trứng (không phải cổ tử cung)
+  
+  - Insulin và IGF-1: UT đại tràng, thận, tuyến tiền liệt, nội mạc tử cung (các cơ quan dưới đại tràng -> không có UT vú, không có buồng trứng)
+  
+  Tập thể dục giúp giảm: UT đại tràng, nội mạc tử cung, vú
 
 ## Đặc điểm của khối u
 
@@ -96,13 +142,14 @@ Chẩn đoán u lành hay ác dưa vào sự =r=tăng sinh mạch máu==
 Quá trình hình thành của các khối u thứ phát.
 Di căn qua mạch bạch huyết, mạch máu, khoang cơ thể.
 
-Các bước:
+Đường máu đi đến các cơ quan khác trong cơ thể gọi là di căn xa, đây là con đường chính của di căn. (VD: phổi -> phổi đối bên) Các bước:
 
 1. Xâm lấn mô liên kết xung quanh
 2. Xâm lấn lòng mạch (intravasation)
 3. Thoát khỏi các hệ MD (tế bào NK)
 4. Gắn kết vào tế bào nội mô mạch máu
-5. Tế bào ung thư thoát mạch (extravasation) và xâm lấn mô xung quanh
+5. Tế bào ung thư thoát mạch (extravasation): chủ yếu là ở tĩnh mạch 
+6. Xâm lấn và phát triển ở mô xung quanh: bước khó nhất
 
 Di căn qua mạch lympho:
 
@@ -115,6 +162,17 @@ Di căn qua các khoang cơ thể:
 - Khoang màng bụng, màng phổi, màng tim: tràn dịch vào các khoang
 - Dịch tiết (exudate): nhiều protein, tế bào ung thư
 - Tìm thấy tế bào ung thư trong dịch: chẩn đoán
+  
+  
+  
+  Ung thư nội mạc tử cung (từ lớp nội mạc lót trong lòng tử cung): lớp cơ dày của tử cung là rào cản tự nhiên của bướu. Phải mất khoảng thời gian khá lâu thì bướu mới xâm lấn khỏi lớp cơ và thanh mạc. 
+  
+  
+  
+  Ung thư cổ tử cung:
+  - Ít xâm lấn trực tràng do vách âm đạo-trực tràng rất chắc chắn. 
+  
+  - Chủ yếu: vào âm đạo, thân tử cung và phần bên cạnh tử cung (chu cung)
 
 Lưu ý:
 
