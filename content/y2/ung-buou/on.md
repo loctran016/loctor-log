@@ -6,7 +6,7 @@ category: exam
 
 ## Tác nhân sinh ung
 
-Tác nhân gây độc gen:
+Tác nhân gây độc gen: HBV, HCV, HPV, tia UV (UV-A, B), nhân heme, Aflatoxin, rượu, thuốc lá
 
 Tác nhân không gây độc gen: Hoạt hoá receptor, ức chế hệ MD, viêm
 
@@ -31,10 +31,14 @@ Phân loại các gen, protein dựa trên khả năng gây ung thư
 
 - Tiền sinh ung:
   - Bcl-2
-  - KRAS: đột biến điểm
+  - KRAS: đột biến điểm -> **UT đại trực tràng**, phổi và tuỵ
+  - CCND 1: u lympho tế bào phủ
+  - BCR-ABL (9,22): CML
+  - BRAF: melanoma, carcinoma u nhú tuyến giáp
 - Đè nén khối u:
-  - PTEN: PTEN là một enzyme tham gia ức chế con đường truyền tín hiệu nội bào  (con đường PI3K/AKT)
-  - p53
+  - PTEN:ức chế con đường truyền tín hiệu nội bào (con đường PI3K/AKT)
+  - p53: 50% ung thư
+  - APC: ức chế tổng hợp β-catenin (β-catenin tăng phân bào) -> bệnh polyp đại tràng
 
 Trong nghiên cứu quá trình sinh ung: ung thư đại tràng phù hợp cho nghiên cứu nhất\\
 
@@ -42,6 +46,41 @@ Trong nghiên cứu quá trình sinh ung: ung thư đại tràng phù hợp cho 
 2. Đột biến thêm gen K-ras, p53...
 
 Tổn thương DNA <u>chưa chắc</u> đã phát triển thành bệnh lý
+
+### Phân nhóm tác nhân sinh ung
+
+Nhóm 1: Có bằng chứng xác thực, liên quan rõ ràng đến ung thư
+
+- Alcohol
+- Ánh nắng mặt trời
+- Cá muối (chứa nitrosamine) → UT vòm hầu ở người TQ
+- Thức  ăn  nướng (HCAs)
+- Thịt chế biến
+- Bụi gỗ, sơn
+- Hóa chất phu ̣ gia trong CN thực phẩm
+- Helicobacter pylori
+- Benzene
+
+Nhóm 2A: Probably gây ung thư
+
+- Thịt đỏ
+- Thức ăn nóng
+
+Nhóm 2B: Possibly gây ung thư
+
+- Sóng điện tử -> UT TK ốc tai
+
+Nhóm 3: Không phân loại là yếu tố gây ung thư
+
+- Caffeine (trà, café)
+- Cholesterol
+- Ánh sáng huỳnh quang
+
+Nhóm 4: Không thể gây ung thư
+
+- Caprolactam, một chất trong nilon
+
+
 
 ### Telomere, Telomerase
 
@@ -108,6 +147,8 @@ U: Sự thay đổi di truyền trong các tế bào -> sự tăng trưởng b�
 - U lành: Phát triển tại chỗ, không xâm lấn (không tiếc các chất gây hại cho các TB xung quanh), không di căn (không phá huỷ mạch để di căn)
 - Ung thư: Tế bào ác tính khi có: xâm lấn, di căn, gieo rắc tế bào ung thư đến mô khác
 
+Hamartoma (u mô thừa), Choristoma (mô lạc chỗ): không phải U ác
+
 Phân loại ung thư:
 
 - U của biểu mô:
@@ -121,6 +162,7 @@ Phân loại ung thư:
   - Xương
   - Hạch
   - Mô cơ trơn, mô cơ vân
+  - Màng não, TB ngoại bì TK
 - U của hạch lympho và hệ thống MD
 - U của hệ tạo máu
 
