@@ -23,9 +23,16 @@ Có 2 cơ chế sinh ung của thịt đỏ:
 - Không gây độc gene: Oxysterol aldehyde gây tạo TGF-beta gây tăng sinh và Fe2+ quá nhiều tạo ra =r=H<sub>2</sub>O<sub>2</sub> gây viêm==
 - Gây độc gene: Các NOC (hợp chất nitrosamine) gây ==DNA adduct==, DNA damage và 4-HNE gây đột biến chọn lọc ung thư
 
-Thịt đã qua chế biến là chất sinh ung nhóm I
+Ở Nhật Bản: thay đổi ăn cá chế biến sẵn
 
-- Ở Nhật Bản: thay đổi ăn cá chế biến sẵn
+Virus HPV:
+
+- L1 hay L2 làm vaccine
+- E6: ức chế p53
+- E7: ức chế Rb
+
+Asbestos (amiăng): gây ung thư màng phổi
+
 
 Phân loại các gen, protein dựa trên khả năng gây ung thư
 
