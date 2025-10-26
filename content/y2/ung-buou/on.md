@@ -238,7 +238,7 @@ Hậu quả của xâm lấn tại chỗ:
 | **UT gan** | **Suy chức năng gan**: *nguyên nhân tử vong thường gặp.* <br> Xâm lấn TM cửa gan → rối loạn động máu, chảy máu. <br> Xâm lấn đến vỏ bao gan → vỡ bướu vào trong ổ bụng → **xuất huyết nội**  |
 | **UT não, màng não** | Tăng áp lực nội sọ và xâm lấn dây thần kinh. |
 | **UT vùng hầu họng** | Nuốt khó, nuốt đau, nuốt nghẹn, ăn uống kém gây suy kiệt, chảy máu từ hầu họng.<br> **Tổn thương dẫn đến thiếu máu:** |
-| **UT thanh quản** | Che lấp khí đạo → khàn tiếng, khó thở. <br> Bướu hoại tử rơi vào đường hô hấp → **nguy cơ tắc nghẽn khí đạo** và **nhiễm trùng phổi**. |
+| **UT thanh quản** | Che lấp khí đạo → khàn tiếng, khó thở. <br> Bướu hoại tử rơi vào đường hô hấp → **nguy cơ tắc nghẽn khí đạo** và **nhiễm trùng phổi**. <br> Ít di căn hạch vì ít mạch BH |
 | **UT dạ dày, đại trực tràng** | **Chảy máu đường tiêu hóa**, hoại tử bướu, xâm lấn sâu *xuyên thành* đường tiêu hóa → **thủng ruột** và bít tắc một vài đoạn ống tiêu hóa. |
 | **UT cổ tử cung** | Xâm lấn **chu cung và vách chậu**: nguy hiểm nhất → suy thận -> tử vong.|
 
@@ -375,7 +375,7 @@ BCR-ABL (chuyển vị nhánh dài NST 9 và nhánh dài NST 22):
 EML4-ALK (NST 2):
 
 - EML-4 là vùng ĐH
-- Ung thư phổi không tế bào nhỏ
+- Ung thư phổi không tế bào nhỏ (10% case UT phổi)
 - Đảo đoạn -> xoay EML4 -> EML4 tăng hoạt -> tăng cường hoạt động phiên mã của **gen ALK**
 
 ### Epigenetics
