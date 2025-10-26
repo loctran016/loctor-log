@@ -25,7 +25,7 @@ Có 2 cơ chế sinh ung của thịt đỏ:
 
 Thịt đã qua chế biến là chất sinh ung nhóm I
 
-- Ở Nhật Bản: thay đổi
+- Ở Nhật Bản: thay đổi ăn cá chế biến sẵn
 
 Phân loại các gen, protein dựa trên khả năng gây ung thư
 
@@ -88,21 +88,18 @@ Thường gây ra ung thư da:
 
 Các cơ chế sữa chữa ĐB thường gặp:
 
-- Di-pyrymidine: ERCC1 và ERCC4
-
+- Di-pyrymidine: ERCC1 và ERCC4 (đột biến gây bệnh khô da sắc tố)
 - Đột biến điểm: MLH1 và MSH2
-
 - LK chéo 2 đoạn DNA đối nhau/đứt đôi chuỗi DNA: BRCA1 và BRCA2
 
-  ### Viêm và béo phì
+### Viêm và béo phì
 
-  Béo phì: tăng tiết các chất kích thích phân bào
+Béo phì: tăng tiết các chất kích thích phân bào
 
-  - Estrogen -> UT vú, nội mạc tử cung và buồng trứng (không phải cổ tử cung)
+- Estrogen -> UT vú, nội mạc tử cung và buồng trứng (không phải cổ tử cung)
+- Insulin và IGF-1: UT đại tràng, thận, tuyến tiền liệt, nội mạc tử cung (các cơ quan dưới đại tràng -> không có UT vú, không có buồng trứng)
 
-  - Insulin và IGF-1: UT đại tràng, thận, tuyến tiền liệt, nội mạc tử cung (các cơ quan dưới đại tràng -> không có UT vú, không có buồng trứng)
-
-  Tập thể dục giúp giảm: UT đại tràng, nội mạc tử cung, vú
+Tập thể dục giúp giảm: UT đại tràng, nội mạc tử cung, vú
 
 ## U lành hay U ác
 
@@ -114,11 +111,11 @@ U: Sự thay đổi di truyền trong các tế bào -> sự tăng trưởng b�
 Phân loại ung thư:
 
 - U của biểu mô:
-    - Tế bào chuyển tiếp: hệ tiết niệu
-    - Gan
-    - Mô đệm nuôi
-    - Nevi: lành (Melanoma: ác)
-    - *Tuyến*
+  - Tế bào chuyển tiếp: hệ tiết niệu
+  - Gan
+  - Mô đệm nuôi
+  - Nevi: lành (Melanoma: ác)
+  - *Tuyến*
 - U của trung mô:
   - Mô mỡ, sợi, sụn
   - Xương
@@ -139,14 +136,12 @@ Phân loại u dựa trên đặc tính hành vi (đặc tính hành vi) của t
 
 <!-- TODO: Xem lại u nào không phải là u ác -->
 
-
-
 Chẩn đoán u lành hay ác dưa vào sự =r=tăng sinh mạch máu==
 
 U trung mô không có giai đoạn tại chỗ trong khi u biểu mô thì có giai đoạn tại chỗ (chưa xâm nhậ qua màng đáy)
 <!-- Ung thư có thể chia thành 4 nhóm chính -->
 
-### Di căn
+## Xâm lấn & Di căn
 
 Quá trình hình thành của các khối u thứ phát.
 Di căn qua mạch bạch huyết, mạch máu, khoang cơ thể.
@@ -176,11 +171,34 @@ Di căn qua các khoang cơ thể:
 
 Ung thư nội mạc tử cung (từ lớp nội mạc lót trong lòng tử cung): lớp cơ dày của tử cung là rào cản tự nhiên của bướu.
 
-
 Ung thư cổ tử cung:
-  - Ít xâm lấn trực tràng do vách âm đạo-trực tràng rất chắc chắn.
-  - Chủ yếu: vào âm đạo, thân tử cung và phần bên cạnh tử cung (chu cung)
 
+- Ít xâm lấn trực tràng do vách âm đạo-trực tràng rất chắc chắn.
+- Chủ yếu: vào âm đạo, thân tử cung và phần bên cạnh tử cung (chu cung)
+
+Các rào cản GP học tự nhiên:
+*(Cơ tử cung, lớp xương và màng xương, sụn và màng sụn, cân, mạc, vỏ bao cơ quan, vách giữa các cơ quan)* -> ảnh hưởng đến khả năng di căn của bướu
+
+| **Ung thư** | **Rào cản giải phẫu học** | **Đặc điểm** |
+|--------------|-----------------------------|---------------|
+| **UT nội mạc tử cung** | Cơ tử cung | Từ lớp nội mạc tử cung -> rất khó xâm lấn khỏi lớp cơ và thanh mạc. <br> => Phát hiện ở **giai đoạn sớm, tiên lượng tốt**. |
+| **UT cổ tử cung** | Vách trực tràng – âm đạo | Xâm lấn âm đạo, thân tử cung, phần bên của tử cung (chu cung) |
+| **Sarcoma cơ vân** | Cơ văn | Lan trong cùng khoang giải phẫu học trước → khoang kế cận do vách ngăn cách giữa khoang cơ. |
+| **UT xương** | Màng xương | — |
+| **UT vú** | Cân ngực | **cân ngực** hạn chế xâm lấn vào cơ thành ngực. |
+| **UT đường tiêu hóa** | Thanh mạc | - Không có thanh mạc: dễ xâm lấn ra ngoài. <br> Có thanh mạc: khó hơn. <br>→ **Ung thư thực quản:** có bướu lan ra xung quanh nhiều, nhanh. |
+| **Bướu sau phúc mạc** | Phúc mạc | Bướu tiến đến **cận mạc** một cơ quan mà có khi không xâm nhiễm vào lớp vỏ bọc của cơ quan. <br>Bướu vùng sau phúc mạc phát triển quanh thận nhưng không xâm nhiễm vào thận. |
+
+Hậu quả của xâm lấn tại chỗ:
+
+| **Ung thư** | **Cơ chế** |
+|--------------|-------------|
+| **UT gan** | **Suy chức năng gan**: *nguyên nhân tử vong thường gặp.* <br> Xâm lấn TM cửa gan → rối loạn động máu, chảy máu. <br> Xâm lấn đến vỏ bao gan → vỡ bướu vào trong ổ bụng → **xuất huyết nội**  |
+| **UT não, màng não** | Tăng áp lực nội sọ và xâm lấn dây thần kinh. |
+| **UT vùng hầu họng** | Nuốt khó, nuốt đau, nuốt nghẹn, ăn uống kém gây suy kiệt, chảy máu từ hầu họng.<br> **Tổn thương dẫn đến thiếu máu:** |
+| **UT thanh quản** | Che lấp khí đạo → khàn tiếng, khó thở. <br> Bướu hoại tử rơi vào đường hô hấp → **nguy cơ tắc nghẽn khí đạo** và **nhiễm trùng phổi**. |
+| **UT dạ dày, đại trực tràng** | **Chảy máu đường tiêu hóa**, hoại tử bướu, xâm lấn sâu *xuyên thành* đường tiêu hóa → **thủng ruột** và bít tắc một vài đoạn ống tiêu hóa. |
+| **UT cổ tử cung** | Xâm lấn **chu cung và vách chậu**: nguy hiểm nhất → suy thận -> tử vong.|
 
 
 Lưu ý:
@@ -296,7 +314,7 @@ Gen HER2 gây UT vú
 
 ### Đột biến điểm - Tăng chức năng
 
-Gen EGFR (Ung thư phổi): ĐB điểm -> thụ thể hoạt hoá không cần phối tử -> Ung thư phổi không tế bào nhỏ
+Gen EGFR (Ung thư phổi): ĐB điểm -> biến đổi =r=tyrosine kinase nội bào== -> thụ thể hoạt hoá không cần phối tử -> Ung thư phổi không tế bào nhỏ
 
 Gen KRAS (thuộc họ RAS):
 
