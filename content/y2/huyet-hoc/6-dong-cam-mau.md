@@ -1,6 +1,6 @@
 ---
 title: Bài 6 - Sinh lý đông cầm máu
-date: 2025-10-07
+date: 2025-10-17
 ---
 
 ## Định nghĩa
@@ -8,6 +8,15 @@ date: 2025-10-07
 Cầm máu là toàn bộ hiện tượng làm ngưng chảy máu sau khi mạch máu bị tổn thương.
 
 Vai trò: Mạch máu, tiểu cầu, các yếu tố đông máu
+
+Bao gồm
+
+1. Giai đoạn cầm máu sơ khởi: co mạch máu + tiểu cầu -> máu trắng tiểu cầu
+2. Giai đoạn đông máu huyết tương:
+    - Nội sinh: khuếch đại đông máu (XII, XI, IX, VIII)
+    - Ngoại sinh: khởi phát đông máu, là đường đông máu chính (VII)
+    - Đường chung (I, V, II, X)
+3. Giai đoạn tiêu sợi huyết: plasminogen -> plasmin
 
 ## 1. Giai đoạn cầm máu sơ khởi (ban đầu)
 
@@ -51,8 +60,7 @@ Kết dính/ngưng tập: hình thành nút chận tiểu cầu
 
 ## 2. Giai đoạn đông máu huyết tương
 
-Hoạt hóa các yếu tố đông máu để tạo cục máu
-đông.
+Hoạt hóa các yếu tố đông máu để tạo cục máu đông.
 Gồm 3 con đường
 
 - Nội sinh: khuếch đại đông máu
@@ -70,7 +78,7 @@ Gồm 3 con đường
 
 ### Khuếch đại đông máu
 
-- Thrombin  được tạo ra tiếp tục khuếch đại dòng thác đông máu
+- Thrombin được tạo ra tiếp tục khuếch đại dòng thác đông máu
 - Thrombin kích hoạt XI, VIII
 - Tiếp tục hoạt hóa X, tạo thêm Thrombin
 - Sau đó chuyển Fibrinogen thành Fibrin
@@ -88,12 +96,10 @@ Vai trò
 
 ## 3. Giai đoạn tiêu sợi huyết
 
-Tế bào nội mạch cũng tiết ra yếu tố hoạt hóa
-plasminogen: tPA (Cùng lúc với dòng thác đông máu được hoạt hóa)
+Tế bào nội mạch cũng tiết ra yếu tố hoạt hóa plasminogen: tPA (Cùng lúc với dòng thác đông máu được hoạt hóa)
 
 - Plasminogen chuyển thành plasmin
-- Plasmine làm phân hủy cả fibrinogen và fibrin
-tạo ra sản phảm thoái giáng của fibrinogen:
+- Plasmine làm phân hủy cả fibrinogen và fibrin tạo ra sản phảm thoái giáng của fibrinogen:
 (FDP)
 
 ### Plasminogen
