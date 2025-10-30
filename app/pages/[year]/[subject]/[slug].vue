@@ -79,6 +79,12 @@ useSeoMeta({
     text-decoration-line: none;
 }
 
+.post-wrapper li > ul > li {
+    /* list-style-type: "- "; */
+    list-style-position: inside;
+    list-style-type: square;
+}
+
 @media (max-width: 1024px) {
 
     .post-wrapper u {

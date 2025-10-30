@@ -13,7 +13,7 @@ Bao gồm
 
 1. Giai đoạn cầm máu sơ khởi: co mạch máu + tiểu cầu -> máu trắng tiểu cầu
 2. Giai đoạn đông máu huyết tương:
-    - Nội sinh: khuếch đại đông máu (XII, XI, IX, VIII)
+    - Nội sinh: khuếch đại đông máu (VIII, IX, XI, XII)
     - Ngoại sinh: khởi phát đông máu, là đường đông máu chính (VII)
     - Đường chung (I, V, II, X)
 3. Giai đoạn tiêu sợi huyết: plasminogen -> plasmin

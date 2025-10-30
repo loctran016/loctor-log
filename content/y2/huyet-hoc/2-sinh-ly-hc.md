@@ -4,6 +4,25 @@ date: 2025-10-08
 category: tbl
 ---
 
+## TBL - Quiz
+
+Acid folic + vit B12: phần cuối hỗng tràng + hồi tràng = 1/3 cuối ruột non
+
+Intrinsic Factor (IF): được tiết bởi =r=dạ dày== tham gia hấp thu 80% - 90% vit B12.
+IF mất đi khi:
+
+- Cắt bỏ dạ dày
+- Ung thư dạ dày
+- Uống thuốc chống *Helicobactor pylori* -> Loạn sản niêm mạc dạ dày
+- Cơ thể sản xuất Ig phá huỷ IF
+
+Bù lại lượng IF: tiêm bắp bổ sung IF
+
+B12 & acid folic tham gia chu trình chuyển hoá: Folate -> Deoxythymidylate (thymidine monophosphate - dTMP) -> nguyên liệu cho T (DNA)
+
+Thiếu B12 & acid folic: hc phân chia không hoàn toàn -> HC to.
+2 TB khác cũng bị ảnh hưởng => Biểu hiện toàn thân: viêm đa dây TK, bất thường phân chia TB thai nhi
+
 ## Đại cương
 
 Máu: thành phần hữu hình (huyết cầu) + huyết tương
@@ -340,9 +359,3 @@ Phản ứng trong truyền máu
 - Gây tán huyết
   - Nguyên nhân miễn dịch: quá mẫn, bệnh tự miễn liên quan đến HC
   - Nguyên nhân ngoài MD: Nhiệt độ giữ máu, tốc độ truyền máu, thiếu men G6PD…
-
-<!-- ## Bất thường cấu trúc, hình dạng hồng cầu
-
-## Đặc điểm nhóm máu
-
-## An toàn truyền máu -->

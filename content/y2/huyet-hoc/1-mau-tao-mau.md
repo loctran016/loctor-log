@@ -419,25 +419,16 @@ sinh ra mỗi giờ, ở người trưởng thành
 
 ### Quá trình tạo máu
 
-Hiện tượng tạo máu phát nguồn từ các tế bào gốc (stem cells) của
-các huyết cầu. hành trình tạo ra các tế bào trưởng thành rất dài và
-được phân thành 2 nhóm:
+Hành trình trưởng thành của tế bào gốc được phân thành 2 nhóm:
 
-- Chưa phân hóa theo dòng (non-committed compartment): gồm
-các tế bào gốc toàn năng (totipotent); chúngphân bào và biệt hóa dần
-nhưng chưa phân định sẽ thành dòng tế bào nào.
-- Đã phân hóa thành từng dòng (committed compartment): gồm
-các tế bào gốc đa năng (pluripotent) và đã bắt đầu có xu hướng phân chia thành từng dòng riêng rẽ.
+- Chưa phân hóa theo dòng: tế bào gốc toàn năng -> chưa phân định sẽ thành dòng tế bào nào.
+- Đã phân hóa thành từng dòng: tế bào gốc đa năng -> phân chia thành từng dòng riêng rẽ.
 
-Sau khi tiến vào một hướng xác định dòng, các tế bào được phân
-thành 2 bể chứa (pool): có hay không còn khả năng phân bào.
+Sau khi tiến vào một hướng xác định dòng, các tế bào được phân thành 2 bể chứa (pool): có hay không còn khả năng phân bào.
 
-- Bể phân bào (mitotic pool) gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới, thí dụ như dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả
-năng phân bào và biệt hóa tiếp,
-- Bể không phân bào (non-mitotic pool) gồm các tế bào đã được biệt hóa rõ và
-chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa.
-VD hậu tủy bào thì chì còn biệt hóa tiếp đến các giai đoạn trưởng thành cuối, mất khả năng
-phân bào
+- Bể phân bào (gồm các tế bào vừa phân bào vừa biệt hóa tiếp tới): dòng BC hạt, các nguyên tủy bào, tiền tủy bào và tủy bào có khả năng phân bào và biệt hóa tiếp,
+- Bể không phân bào (các tế bào đã được biệt hóa rõ và
+chỉ trưởng thành dần tiếp tới chứ không phân bào được nữa): hậu tủy bào chỉ còn biệt hóa tiếp, mất khả năng phân bào
 
 ### Các tế bào tham gia tạo máu
 

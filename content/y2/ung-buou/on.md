@@ -33,7 +33,6 @@ Virus HPV:
 
 Asbestos (amiăng): gây ung thư màng phổi
 
-
 Phân loại các gen, protein dựa trên khả năng gây ung thư
 
 - Tiền sinh ung:
@@ -86,8 +85,6 @@ Nhóm 3: Không phân loại là yếu tố gây ung thư
 Nhóm 4: Không thể gây ung thư
 
 - Caprolactam, một chất trong nilon
-
-
 
 ### Telomere, Telomerase
 
@@ -248,7 +245,6 @@ Hậu quả của xâm lấn tại chỗ:
 | **UT thanh quản** | Che lấp khí đạo → khàn tiếng, khó thở. <br> Bướu hoại tử rơi vào đường hô hấp → **nguy cơ tắc nghẽn khí đạo** và **nhiễm trùng phổi**. <br> Ít di căn hạch vì ít mạch BH |
 | **UT dạ dày, đại trực tràng** | **Chảy máu đường tiêu hóa**, hoại tử bướu, xâm lấn sâu *xuyên thành* đường tiêu hóa → **thủng ruột** và bít tắc một vài đoạn ống tiêu hóa. |
 | **UT cổ tử cung** | Xâm lấn **chu cung và vách chậu**: nguy hiểm nhất → suy thận -> tử vong.|
-
 
 Lưu ý:
 
