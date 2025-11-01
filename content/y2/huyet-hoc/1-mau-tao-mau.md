@@ -3,11 +3,6 @@ title: Bài 1 - Máu & Sự sinh máu
 date: 2025-10-02
 ---
 
-- Trình bày được nguồn gốc, đặc điểm sinh lý, hình thái và
-chức năng dòng hồng cầu, bạch cầu và tiểu cầu;
-- Trình bày được đặc điểm và các yếu tố hình thành quá
-trình đông và cầm máu
-
 ## Máu
 
 ![Thành phần của máu](/y2/huyet-hoc/1-tp-mau.jpeg)
@@ -51,8 +46,8 @@ Chức năng chung của máu
 3. Đào thải: thu nhận, vận chuyển các chất chuyển hóa của tế bào
 4. Bảo vệ cơ thể: kháng thể và lympho T & NK
 5. Điều hòa tình trạng đông máu và chảy máu
-6. Thống nhất và điều hòa hoạt động cơ thể: các hormone nội tiết
-7. Máu còn có khả năng điều hòa nhiệt độ cơ thể:điều tiết nhiệt độ khi có sự thay đổi, ~ 37<sup>o</sup>
+6. Điều hòa hoạt động cơ thể: các hormone nội tiết
+7. Điều hòa nhiệt độ cơ thể: ~ 37<sup>o</sup>
 
 ## Huyết tương
 

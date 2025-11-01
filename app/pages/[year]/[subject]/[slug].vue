@@ -4,8 +4,8 @@ import { findPageChildren, findPageHeadline } from '@nuxt/content/utils'
 import { useDateFormat } from '@vueuse/core'
 import Giscus from '@giscus/vue';
 // import { findPageHeadline } from '@nuxt/content/utils'
-import { useScroll } from '@vueuse/core'
-import { useTemplateRef } from 'vue'
+// import { useScroll } from '@vueuse/core'
+// import { useTemplateRef } from 'vue'
 
 definePageMeta({
   layout: "blog",
@@ -40,8 +40,8 @@ useSeoMeta({
 });
 
 
-const article = useTemplateRef<HTMLElement>('article')
-const { isScrolling } = useScroll(article)
+// const article = useTemplateRef<HTMLElement>('article')
+// const { isScrolling } = useScroll(article)
 
 
 </script>
@@ -55,7 +55,7 @@ const { isScrolling } = useScroll(article)
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article ref="article" class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-700/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]  prose-headings:duration-100 prose-headings:transform-gpu prose-h1:scroll-mt-0 prose-h2:scroll-mt-20 prose-h3:scroll-mt-20" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
+   <article class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-700/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]  prose-headings:duration-100 prose-headings:transform-gpu prose-h1:scroll-mt-0 prose-h2:scroll-mt-20 prose-h3:scroll-mt-20" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>
