@@ -71,7 +71,7 @@ Các lipoprotein tỷ trọng thấp đóng vai trò lắng động cholesterol 
 **Tỷ lệ Albumin/globulin (A/G)** bình thường: 1-1,5
 
 - A/G thấp: Bệnh lý =c=thận, gan== (giảm Albumin); tăng sản xuất Globulin (=v=đa u tủy, bệnh tự miễn==)
-- A/G cao: Sản xuất =không đủ globulin
+- A/G cao: Sản xuất không đủ globulin
 
 #### Điện di
 
