@@ -27,32 +27,29 @@ Vai trò:
 - Thành mạch: gây co mạch
 - Tiểu cầu
 
- Kết quả: tạo ra cục máu trắng tiểu cầu
+Kết quả: tạo ra cục máu trắng tiểu cầu
 
 ### Thành mạch
 
-- Không kích hoạt hệ thống đông máu
-- Tạo ra một màng bảo vệ liên tục để ngăn ngừa đông máu:
-  - Tiết ra Nitric Oxid (NO): ức chế tiểu cầu
-  - Tiết ra Prostaglandin I2 (Prostacyclin)
+Thành mạch bình thường có chức năng ngăn ngừa đông máu:
 
-Vai trò
+- Tiết ra Nitric Oxid (NO): ức chế tiểu cầu
+- Tiết ra Prostaglandin I2 (Prostacyclin)
 
-- Thành mạch bị tổn thương gây co mạch
+Thành mạch bị tổn thương gây co mạch:
+
 - Co mạch làm giảm luồng máu chảy
 - Tạo điều kiện tiểu cầu dính và lớp dưới nội mạc mạch máu
 - Kích hoạt hệ thống đông máu
 
 ### Tiểu cầu
 
-Vai trò:
+Quá trình:
 
 1. Kết dính tiểu cầu vào lớp dưới nội mạc mạch máu, cần yếu tố Von Willebrand
 2. Kích hoạt tiểu cầu: tiết ra TXA 2, ADP, PAF và Serotonin
-3. Kết chụm tiểu cầu: hình thành nút chận tiểu cầu
-4. Cung cấp yếu tố 3 tiểu cầu: phospholipid tiểu cầu,
-
-tham gia vào dòng thác đông máu
+3. Kết cụm tiểu cầu: hình thành nút chặn tiểu cầu
+4. Cung cấp yếu tố 3 tiểu cầu: phospholipid tiểu cầu, tham gia vào dòng thác đông máu
 
 Cấu trúc
 
