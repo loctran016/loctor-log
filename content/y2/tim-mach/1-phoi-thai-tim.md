@@ -1,6 +1,6 @@
 ---
 title: Bài I.1 - Phôi thai học hệ tuần hoàn
-date: 2025-11-04
+date: 2025-11-05
 tags: ['Mô phôi']
 ---
 

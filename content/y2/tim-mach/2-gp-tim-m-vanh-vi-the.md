@@ -1,6 +1,6 @@
 ---
-title: Bài I.2 - GP tim và hệ mạch vành
-date: 2025-11-04
+title: Bài 2 -  GP đại thể tim - mạch máu lồng ngực – vi thể hệ tuần hoàn
+date: 2025-11-11
 tags: ['GP']
 ---
 
@@ -51,3 +51,5 @@ vàTM chủ dưới.
 ## Cấu tạo thành tim
 
 ## Mạch máu và thần kinh tim
+
+## Cấu trúc vi thể của hệ tuần hoàn
