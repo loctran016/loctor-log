@@ -3,6 +3,8 @@ title: Bài 6 - SHPT ung thư
 date: 2025-10-02
 ---
 
+<!-- markdownlint-disable -->
+
 ## Rối loạn tăng sinh TB trong ung thư
 
 2 đặc tính đầu là đặc tính quan trọng nhất của ung thư:
