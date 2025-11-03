@@ -1,5 +1,5 @@
 ---
-title: Bài I.2 - Sự hình thành và phát triển của hệ tuần hoàn
+title: Bài I.2 - GP tim và hệ mạch vành
 date: 2025-11-04
 tags: ['GP']
 ---

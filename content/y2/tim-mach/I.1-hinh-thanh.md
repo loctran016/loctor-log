@@ -1,5 +1,5 @@
 ---
-title: Bài I.1 - Sự hình thành và phát triển của hệ tuần hoàn
+title: Bài I.1 - Phôi thai học hệ tuần hoàn
 date: 2025-11-04
 tags: ['Mô phôi']
 ---
