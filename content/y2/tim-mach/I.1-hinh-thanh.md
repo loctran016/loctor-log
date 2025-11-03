@@ -1,25 +1,22 @@
 ---
 title: Bài I.1 - Sự hình thành và phát triển của hệ tuần hoàn
-date: 2025-11-05
+date: 2025-11-04
+tags: ['Mô phôi']
 draft: true
 ---
 
 ## Đại cương
 
-Hệ tim mạch hình thành từ mô nguyên bào sinh mạch (trung mô).
+Hệ tim mạch hình thành từ mô nguyên bào sinh mạch (trung mô), bắt đầu từ tuần 3 vì:
 
 - Phôi trong giai đoạn sớm → dinh dưỡng nhờ thẩm thấu
-- Phôi lớn rất nhanh → phương thức cung cấp năng lượng và loại bỏ chất thải hiệu quả hơn.
+- Phôi lớn nên phương thức cung cấp năng lượng và loại bỏ chất thải hiệu quả hơn.
 
-Dấu hiệu hình thành tim sớm nhất: xuất
-hiện cặp ống tim nội mô (tuần 3).
+Dấu hiệu hình thành tim sớm nhất: xuất hiện cặp ống tim nội mô (tuần 3).
 
-Sau đó, ống tim nội mô tạo lòng, hoà
-nhập vào nhau
+Sau đó, ống tim nội mô tạo lòng, hoànhập vào nhau
 
-Dù chưa có buồng rõ rệt cũng như các
-cơ tim chưa biệt hoá hoàn toàn nhưng
-tim đã bắt đầu hoạt động (ngày 21).
+Dù chưa có buồng rõ rệt cũng như các cơ tim chưa biệt hoá hoàn toàn nhưng tim đã bắt đầu hoạt động (ngày 21).
 
 ## Phát triển của tim
 
