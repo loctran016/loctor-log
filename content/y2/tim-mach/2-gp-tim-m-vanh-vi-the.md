@@ -13,9 +13,9 @@ Trọng lượng trung bình của tim 260-270g.
 Hình thể ngoài:
 
 - Ba mặt:
-    - Mặt trước (mặt ức sườn)
-    - Mặt dưới (mặt hoành)
-    - Mặt trái (mặt phổi)
+  - Mặt trước (mặt ức sườn)
+  - Mặt dưới (mặt hoành)
+  - Mặt trái (mặt phổi)
 - Một đáy (sau)
 - Một đỉnh (trước dưới)
 - Bờ trái và bờ phải (hay bờ dưới)
