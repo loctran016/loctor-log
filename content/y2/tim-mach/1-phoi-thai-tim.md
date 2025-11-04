@@ -8,14 +8,18 @@ tags: ['Mô phôi']
 
 Hệ tim mạch hình thành từ mô nguyên bào sinh mạch (trung mô), bắt đầu từ tuần 3 vì:
 
-- Phôi trong giai đoạn sớm → dinh dưỡng nhờ thẩm thấu
-- Phôi lớn nên phương thức cung cấp năng lượng và loại bỏ chất thải hiệu quả hơn.
+- Hình thành sớm nhất để đáp ứng nhu cầu trao đổi chất của phôi thay vì nhờ thẩm thấu.
+- Phôi lớn hơn thì nhu cầu dinh dưỡng tăng lên.
 
 Dấu hiệu hình thành tim sớm nhất: xuất hiện cặp ống tim nội mô (tuần 3).
 
 Sau đó, ống tim nội mô tạo lòng, hoà nhập vào nhau
 
-Dù chưa có buồng rõ rệt cũng như các cơ tim chưa biệt hoá hoàn toàn nhưng tim đã bắt đầu hoạt động (ngày 21).
+Dù chưa có buồng rõ rệt cũng như các cơ tim chưa co được nhưng đã có máu lưu thông (ngày 21).
+
+Vùng trung bì bên: hình thành tim
+
+- Ban đầu là khối mô đặc, sau đó hình thành khoang dạng ống là ống tim nội mô
 
 ![Tóm tắt quá trình hình thành hệ tuần hoàn](y2/tim-mach/1-1969.jpeg)
 
@@ -27,17 +31,31 @@ Vùng sinh tim (hình cung) phát triển từ trung bì bên phía trước t�
 
 Vùng sinh tim tách thành hai lá thành và tạng, tạo thành khoang ngoài màng tim, thông nối với khoang ngoài phôi.
 
+Vùng sinh tim đầu phôi, từ trung bì bên, nằm ở phía trước tấm trước dây sống.
+
 ![](y2/tim-mach/1-1925.jpeg)
-![](y2/tim-mach/1-1926.jpeg)
-![](y2/tim-mach/1-1927.jpeg)
-![](y2/tim-mach/1-1928.jpeg)
+
+### Hai ống tim hoà nhập (ngày 20 - 22)
+
+Vì vòng cung nên nhìn có 2 ống 2 bên, sẽ có giai đoạn hòa nhập
+
+![2 ống tim 2 bên tiến gần với nhau và nhập dần lại thành một](y2/tim-mach/1-1926.jpeg)
+![2 ống tim 2 bên đang nhập dần lại thành một](y2/tim-mach/1-1927.jpeg)
+![2 ống tim nhập với nhau làm 1](y2/tim-mach/1-1928.jpeg)
 
 Phôi khép mình:
 
 - Hai bên gấp về hướng bụng: hai ống tim tiến sát → một ống duy nhất ở mặt bụng của ruột trước.
-- Đầu gập vào thân 1800 quanh trục phải-trái → vùng sinh tim thành phía sau của tấm trước dây sống.
+  - 2 ống sáp nhập lại nhờ quá trình phôi khép mình, làm xê dịch vùng sinh tim, thành phía sau tấm trước dây sống.
+- Đầu gập vào thân 180<sup>0</sup> quanh trục phải-trái → vùng sinh tim thành phía sau của tấm trước dây sống.
+  - Ban đầu được cố định nhờ mạc treo lưng chung, treo lơ lửng
 
 ![](y2/tim-mach/1-1929.jpeg)
+
+Nội bì là ruột trước, giữa, sau
+
+Ổ nhớp là hậu môn trực tràng và bàng quang
+
 ![](y2/tim-mach/1-1930.jpeg)
 
 Các mạch máu định danh dựa vào:
@@ -55,11 +73,15 @@ Các mạch máu định danh dựa vào:
 - Tâm nhĩ nguyên thủy
 - Xoang tĩnh mạch
 
-Để có hình dáng của tim trong tương lai, ống tim trải qua 3 quá trình chính:
+### Uốn cong và gấp khúc ống tim (ngày 23 - 28)
+
+Để tạo ra quai tim trong tương lai, ống tim trải qua 3 quá trình chính:
 
 1. Phát triển theo chiều dài và gấp khúc
 2. Phát triển không đồng đều buồng tim
 3. Ngăn buồng tim
+
+Nhờ sự uốn cong và gấp khúc, do không gian phát triển bị giới hạn, do ống tim phát triển nhanh hơn khoang, do đó sẽ có sự uốn lại.
 
 Ống tim tiếp tục kéo dài và uốn lại vào ngày 23, hoàn thành ở ngày thứ 28, tạo nên quai tim.
 
@@ -67,11 +89,22 @@ Các mạch máu định danh dựa vào:
 - Phần nhĩ (phần đuôi) của ống được nâng lên theo chiều đầu lưng và về bên trái
 - Do sự thay đổi hình dạng tế bào.
 
-![](y2/tim-mach/1-1932.jpeg)
-![](y2/tim-mach/1-1933.jpeg)
-![](y2/tim-mach/1-1934.jpeg)
-![](y2/tim-mach/1-1935.jpeg)
-![](y2/tim-mach/1-1936.jpeg)
+![Phát triển theo chiều dài và sau đó gấp khúc](y2/tim-mach/1-1932.jpeg)
+![Phát triển không đồng đều các buồng tim](y2/tim-mach/1-1933.jpeg)
+
+Xoay chuyển theo chiều như ngược chiều kim đồng hồ.
+
+Hành tim sẽ ngang với tâm thất nguyên thủy.
+
+Tâm nhĩ nguyên thủy di chuyển lên trên tâm thất nguyên thủy.
+
+![Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1-1934.jpeg)
+
+![Ngày 23 - Quá trình kéo dài và uốn lại của ống tim nhìn từ trước](y2/tim-mach/1-1935.jpeg)
+
+![Ngày 28 - Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1-1936.jpeg)
+
+### Phát triển các buồng tim
 
 Phát triển các buồng tim
 
