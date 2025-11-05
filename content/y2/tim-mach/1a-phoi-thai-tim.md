@@ -21,7 +21,7 @@ Vùng trung bì bên: hình thành tim
 
 - Ban đầu là khối mô đặc, sau đó hình thành khoang dạng ống là ống tim nội mô
 
-![Tóm tắt quá trình hình thành hệ tuần hoàn](y2/tim-mach/1-1969.jpeg)
+![Tóm tắt quá trình hình thành hệ tuần hoàn](y2/tim-mach/1a-1969.jpeg)
 
 <!-- markdownlint-disable MD045 -->
 
@@ -33,15 +33,15 @@ Vùng sinh tim tách thành hai lá thành và tạng, tạo thành khoang ngoà
 
 Vùng sinh tim đầu phôi, từ trung bì bên, nằm ở phía trước tấm trước dây sống.
 
-![](y2/tim-mach/1-1925.jpeg)
+![](y2/tim-mach/1a-1925.jpeg)
 
 ### Hai ống tim hoà nhập (ngày 20 - 22)
 
 Vì vòng cung nên nhìn có 2 ống 2 bên, sẽ có giai đoạn hòa nhập
 
-![2 ống tim 2 bên tiến gần với nhau và nhập dần lại thành một](y2/tim-mach/1-1926.jpeg)
-![2 ống tim 2 bên đang nhập dần lại thành một](y2/tim-mach/1-1927.jpeg)
-![2 ống tim nhập với nhau làm 1](y2/tim-mach/1-1928.jpeg)
+![2 ống tim 2 bên tiến gần với nhau và nhập dần lại thành một](y2/tim-mach/1a-1926.jpeg)
+![2 ống tim 2 bên đang nhập dần lại thành một](y2/tim-mach/1a-1927.jpeg)
+![2 ống tim nhập với nhau làm 1](y2/tim-mach/1a-1928.jpeg)
 
 Phôi khép mình:
 
@@ -50,20 +50,20 @@ Phôi khép mình:
 - Đầu gập vào thân 180<sup>0</sup> quanh trục phải-trái → vùng sinh tim thành phía sau của tấm trước dây sống.
   - Ban đầu được cố định nhờ mạc treo lưng chung, treo lơ lửng
 
-![](y2/tim-mach/1-1929.jpeg)
+![](y2/tim-mach/1a-1929.jpeg)
 
 Nội bì là ruột trước, giữa, sau
 
 Ổ nhớp là hậu môn trực tràng và bàng quang
 
-![](y2/tim-mach/1-1930.jpeg)
+![](y2/tim-mach/1a-1930.jpeg)
 
 Các mạch máu định danh dựa vào:
 
 - Mối quan hệ với tim (đầu phôi - cực động mạch và đuôi phôi - cực tĩnh mạch)
 - hoạt động được hình thành sau đó (dẫn máu đi hay đem máu tới).
 
-![](y2/tim-mach/1-1931.jpeg)
+![](y2/tim-mach/1a-1931.jpeg)
 
 Ống tim theo thứ tự hướng đầu-đuôi:
 
@@ -89,8 +89,8 @@ Nhờ sự uốn cong và gấp khúc, do không gian phát triển bị giới 
 - Phần nhĩ (phần đuôi) của ống được nâng lên theo chiều đầu lưng và về bên trái
 - Do sự thay đổi hình dạng tế bào.
 
-![Phát triển theo chiều dài và sau đó gấp khúc](y2/tim-mach/1-1932.jpeg)
-![Phát triển không đồng đều các buồng tim](y2/tim-mach/1-1933.jpeg)
+![Phát triển theo chiều dài và sau đó gấp khúc](y2/tim-mach/1a-1932.jpeg)
+![Phát triển không đồng đều các buồng tim](y2/tim-mach/1a-1933.jpeg)
 
 Xoay chuyển theo chiều như ngược chiều kim đồng hồ.
 
@@ -98,11 +98,11 @@ Hành tim sẽ ngang với tâm thất nguyên thủy.
 
 Tâm nhĩ nguyên thủy di chuyển lên trên tâm thất nguyên thủy.
 
-![Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1-1934.jpeg)
+![Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1a-1934.jpeg)
 
-![Ngày 23 - Quá trình kéo dài và uốn lại của ống tim nhìn từ trước](y2/tim-mach/1-1935.jpeg)
+![Ngày 23 - Quá trình kéo dài và uốn lại của ống tim nhìn từ trước](y2/tim-mach/1a-1935.jpeg)
 
-![Ngày 28 - Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1-1936.jpeg)
+![Ngày 28 - Quá trình kéo dài và uốn lại của ống tim](y2/tim-mach/1a-1936.jpeg)
 
 ### Phát triển các buồng tim
 
@@ -126,7 +126,7 @@ dưới và TM vành.
 
 ### Ngăn vách các buồng tim
 
-![](y2/tim-mach/1-1937.jpeg)
+![](y2/tim-mach/1a-1937.jpeg)
 
 Ngăn ống nhĩ thất chung: vách ngăn chia ống nhĩ thất thành hai buồng trái và phải.
 
@@ -138,27 +138,27 @@ thất)
 - Vách ngăn ống nhĩ thất
 - Hành động mạch chủ
 
-![](y2/tim-mach/1-1938.jpeg)
-![](y2/tim-mach/1-1939.jpeg)
-![](y2/tim-mach/1-1940.jpeg)
-![](y2/tim-mach/1-1941.jpeg)
-![](y2/tim-mach/1-1942.jpeg)
-![](y2/tim-mach/1-1943.jpeg)
+![](y2/tim-mach/1a-1938.jpeg)
+![](y2/tim-mach/1a-1939.jpeg)
+![](y2/tim-mach/1a-1940.jpeg)
+![](y2/tim-mach/1a-1941.jpeg)
+![](y2/tim-mach/1a-1942.jpeg)
+![](y2/tim-mach/1a-1943.jpeg)
 
 Ngăn buồng nhĩ
 
 - Vách nguyên phát → lỗ nguyên phát → lỗ thứ phát
 - Vách thứ phát → lỗ bầu dục
 
-![](y2/tim-mach/1-1944.jpeg)
-![](y2/tim-mach/1-1945.jpeg)
-![](y2/tim-mach/1-1946.jpeg)
-![](y2/tim-mach/1-1947.jpeg)
-![](y2/tim-mach/1-1948.jpeg)
-![](y2/tim-mach/1-1949.jpeg)
+![](y2/tim-mach/1a-1944.jpeg)
+![](y2/tim-mach/1a-1945.jpeg)
+![](y2/tim-mach/1a-1946.jpeg)
+![](y2/tim-mach/1a-1947.jpeg)
+![](y2/tim-mach/1a-1948.jpeg)
+![](y2/tim-mach/1a-1949.jpeg)
 
-![](y2/tim-mach/1-1951.jpeg)
-![](y2/tim-mach/1-1952.jpeg)
+![](y2/tim-mach/1a-1951.jpeg)
+![](y2/tim-mach/1a-1952.jpeg)
 
 Ngăn hành động mạch chủ: Trong tuần thứ 5, gờ thân phải trên và gờ thân trái dưới xuất hiện ở thân chung động mạch -> vách ngăn xoắn 225<sup>0</sup>
 
@@ -183,8 +183,8 @@ Ngăn buồng thất
 - Khi vách nón được hình thành xong, lỗ liên thất nhỏ lại.
 Sau đó, lỗ này được bít kín bởi vách liên thất màng, được hình thành từ sự hợp nhất của một màng xuất phát từ gờ nội tâm mạc
 
-![](y2/tim-mach/1-1953.jpeg)
-![](y2/tim-mach/1-1954.jpeg)
+![](y2/tim-mach/1a-1953.jpeg)
+![](y2/tim-mach/1a-1954.jpeg)
 
 ### Phát triển ĐM
 
@@ -194,8 +194,8 @@ Gồm:
 - Động mạch gian đốt
 - Động mạch các chi và mạch não
 
-![](y2/tim-mach/1-1955.jpeg)
-![](y2/tim-mach/1-1956.jpeg)
+![](y2/tim-mach/1a-1955.jpeg)
+![](y2/tim-mach/1a-1956.jpeg)
 
 Cung ĐM chủ:
 
@@ -216,13 +216,13 @@ Gồm:
 - Tĩnh mạch rốn
 - Tĩnh mạch chính chung
 
-![](y2/tim-mach/1-1957.jpeg)
-![](y2/tim-mach/1-1958.jpeg)
-![](y2/tim-mach/1-1959.jpeg)
-![](y2/tim-mach/1-1960.jpeg)
+![](y2/tim-mach/1a-1957.jpeg)
+![](y2/tim-mach/1a-1958.jpeg)
+![](y2/tim-mach/1a-1959.jpeg)
+![](y2/tim-mach/1a-1960.jpeg)
 
-![Trước sinh](y2/tim-mach/1-1961.jpeg)
-![](y2/tim-mach/1-1962.jpeg)
+![Trước sinh](y2/tim-mach/1a-1961.jpeg)
+![](y2/tim-mach/1a-1962.jpeg)
 
 ### Tuần hoàn nhau thai
 
@@ -237,15 +237,15 @@ Sau khi ra đời: vai trò của phổi
 
 ### Thông liên nhĩ
 
-![](y2/tim-mach/1-1963.jpeg)
+![](y2/tim-mach/1a-1963.jpeg)
 
 ### Thông liên thất
 
-![](y2/tim-mach/1-1964.jpeg)
+![](y2/tim-mach/1a-1964.jpeg)
 
 ### Chuyển vị đại ĐM
 
-![](y2/tim-mach/1-1965.jpeg)
+![](y2/tim-mach/1a-1965.jpeg)
 
 ### Tứ chứng Fallot
 
@@ -257,9 +257,9 @@ Tứ chứng Fallot:
 cưỡi ngựa
 - Phì đại thất phải
 
-![](y2/tim-mach/1-1966.jpeg)
+![](y2/tim-mach/1a-1966.jpeg)
 
 ### Còn ống ĐM
 
-![](y2/tim-mach/1-1967.jpeg)
-![](y2/tim-mach/1-1968.jpeg)
+![](y2/tim-mach/1a-1967.jpeg)
+![](y2/tim-mach/1a-1968.jpeg)
