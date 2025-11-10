@@ -58,7 +58,7 @@ Mặt trong của phổi chính là mặt trung thất, tại nó quay vô trung
 Trọng lượng trung bình của tim 260-270g.
 
 - Càng về già tim càng lớn, vì cơ tim ngày càng giãn ra nên tim càng lớn, vị trí mỏm tim càng thấp xuống.
-- Tim sẽ đập suốt cuộc đờI, nên sẽ dãn ra.
+- Tim sẽ đập suốt cuộc đời, nên sẽ dãn ra.
 - Kích thước tim phụ thuộc HA, do phải tăng co bóp dể
 thích nghi với sức cản lớn của thành mạch -> suy tim do tăng HA
 
