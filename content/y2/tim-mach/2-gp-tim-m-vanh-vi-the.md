@@ -1,5 +1,5 @@
 ---
-title: Bài 2 -  GP đại thể tim - mạch máu lồng ngực – vi thể hệ tuần hoàn
+title: Bài 2 -  GP đại thể tim - mạch máu lồng ngực
 date: 2025-11-11
 tags: ['GP']
 ---
@@ -26,7 +26,7 @@ Vòng đại tuần hoàn và tiểu tuần hoàn đi cùng nhau, về cùng nha
 
 <!-- markdownlint-disable MD018 -->
 
-::badge {type="info"}
+::badge{type="info"}
 
 #title
 Vị trí của tim
@@ -36,7 +36,7 @@ Tim nằm trong trung thất giữa, lệch sang bên trái lồng ngực, đ�
 
 ::
 
-::badge {type="tip"}
+::badge{type="tip"}
 
 #title
 Trung thất
