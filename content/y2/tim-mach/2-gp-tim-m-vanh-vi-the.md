@@ -4,13 +4,67 @@ date: 2025-11-11
 tags: ['GP']
 ---
 
+## Hệ tuần hoàn
+
+Trên xác:
+
+- TM: bóp vô sẽ xẹp xuống
+- ĐM: bóp vô nó đàn hồi, có cảm giác dày hơn, một vết thương ở ĐM phun thành vòi và tia
+- TK: cứng ngắc
+
+Hệ BH -> TM rồi mới có thể -> tim
+
+ĐM và TM là 2 con đường ngược chiều nhau, TM chiếm tỉ lệ lớn hơn
+
+Ngoài TM đi song song ĐM ra, còn có hệ thống TM đi dưới da và không đi song song với ĐM, gọi là TM nông, không đi cùng ĐM.
+
+Lượng máu từ tim bơm ra và về tim không khác nhau nhưng TM nhiều hơn ĐM do tốc độ máu khác nhau ở 2 loại mạch, ĐM nách và ĐM dưới đòn, 1 ĐM có 1 TM, Còn từ cẳng tay tới bàn tay, 1 ĐM sẽ có 2 TM đi cùng.
+
+Vòng đại tuần hoàn và tiểu tuần hoàn đi cùng nhau, về cùng nhau, điều đó máu chảy trong ĐMC nhanh hơn ĐMP
+
 ## Vị trí, hình thể ngoài của tim
 
-Tim nằm trong trung thất giữa, sau xương ức, trước cột sống ngực, giữa hai phổi và hơi lệch sang trái.
+<!-- markdownlint-disable MD018 -->
+
+::badge {type="info"}
+
+#title
+Vị trí của tim
+#default
+Tim nằm trong trung thất giữa, lệch sang bên trái lồng ngực, đè lên cơ hoàng, ở giữa 2 phổi, trước thực quản và các thành phần khác của trung thất sau. Trục của tim đi từ phía sau ra phía trước, hướng chếch sang trái và xuống dưới
+ <!-- sau xương ức, trước cột sống ngực, giữa hai phổi và hơi lệch sang trái. -->
+
+::
+
+::badge {type="tip"}
+
+#title
+Trung thất
+#default
+1 khoảng không giann trong ngực nằm trên xương hoành, phía trên là lỗ trên lồng ngực, 2 phổi chỉ nằm trong lồng ngực và không thuộc trung thất.
+
+Giao cán và thân xương ức là góc ức, góc ức nối với khoảng giữa T4, T5 là mặt phẳng ngang ngực chia trung thát thành trên và dưới.
+
+Tim nằm ở trung thất giữa, ngoại tâm mạc trước đến
+xương ức là trung thất trước, ngoại tâm mạc sau đến cột sồng là trung thất sau chứa thực quản.
+
+Dưới là cơ hoành trên là nền cổ (giữa cổ và ngực), trước là xương ức và các xương sườn, sau là cột sống và các xương sườn khoang ngực - phổi = trung thất
+
+Thực quản đi qua trung thất trên và trung thất sau
+Mặt trong của phổi chính là mặt trung thất, tại nó quay vô trung thất
+
+::
 
 Trọng lượng trung bình của tim 260-270g.
 
-Hình thể ngoài:
+- Càng về già tim càng lớn, vì cơ tim ngày càng giãn ra nên tim càng lớn, vị trí mỏm tim càng thấp xuống.
+- Tim sẽ đập suốt cuộc đờI, nên sẽ dãn ra.
+- Kích thước tim phụ thuộc HA, do phải tăng co bóp dể
+thích nghi với sức cản lớn của thành mạch -> suy tim do tăng HA
+
+=> X quang, bóng tim lớn bất thường -> nguy cơ bệnh lí
+
+Tim có hình tháp 3 mặt, 1 đáy và 1 đỉnh. Ðáy ở trên, quay ra sau và hơi sang phải. Ðỉnh ở trước, lệch sang trái
 
 - Ba mặt:
   - Mặt trước (mặt ức sườn)
