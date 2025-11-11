@@ -36,12 +36,14 @@ Tim nằm trong trung thất giữa, lệch sang bên trái lồng ngực, đ�
 
 ::
 
+<br>
+
 ::badge{type="tip"}
 
 #title
 Trung thất
 #default
-1 khoảng không giann trong ngực nằm trên xương hoành, phía trên là lỗ trên lồng ngực, 2 phổi chỉ nằm trong lồng ngực và không thuộc trung thất.
+1 khoảng không gian trong ngực nằm trên xương hoành, phía trên là lỗ trên lồng ngực, 2 phổi chỉ nằm trong lồng ngực và không thuộc trung thất.
 
 Giao cán và thân xương ức là góc ức, góc ức nối với khoảng giữa T4, T5 là mặt phẳng ngang ngực chia trung thát thành trên và dưới.
 
@@ -71,14 +73,14 @@ Tim có hình tháp 3 mặt, 1 đáy và 1 đỉnh. Ðáy ở trên, quay ra sau
   - Mặt dưới (mặt hoành)
   - Mặt trái (mặt phổi)
 - Một đáy (sau)
-- Một đỉnh (trước dưới)
+- Một đỉnh (trước dưới) hay gọi là mỏm tim:
 - Bờ trái và bờ phải (hay bờ dưới)
 
 <u>Mặt trước (mặt ức sườn):</u>
 
 - Liên quan với xương ức và sụn sườn III-VI
 - Rãnh vành (rãnh nhĩ – thất)
-- Rãnh gian thất trước: Có ĐM gian thất trước và TM tim lớn.
+- Rãnh gian thất trước: Có ĐM gian thất trước đi cùng TM tim lớn.
 
 <u>Mặt dưới (mặt hoành):</u>
 
@@ -97,8 +99,8 @@ Tim có hình tháp 3 mặt, 1 đáy và 1 đỉnh. Ðáy ở trên, quay ra sau
 
 <u>Đỉnh tim:</u> Còn gọi là mỏm tim.
 
-- Ở khoảng liên sườn IV-V trên đường qua
-điểm giữa xương đòn.
+- Ở khoảng liên sườn IV-V trên đường qua điểm giữa xương đòn.
+- Nằm gần thành ngực nhất, lệch về bên trái -> lầm tưởng tim nằm ở ngực trái
 
 Bờ tim:
 

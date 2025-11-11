@@ -1,5 +1,5 @@
 ---
-title: Bài 3 - Điều hòa, chức năng bơm máu của tim
+title: Bài 3 - Sinh lý bơm máu của tim
 date: 2025-11-12
 tags: ['Sinh lý']
 category: tbl
