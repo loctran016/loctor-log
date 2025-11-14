@@ -3,7 +3,6 @@ title: Bài 3 - Sinh lý bơm máu của tim
 date: 2025-11-12
 tags: ['Sinh lý']
 category: tbl
-# draft: true
 ---
 
 ## Đại cương
@@ -189,12 +188,13 @@ Thành phần các sóng điện tim:
   - Vai trò của hô hấp đối với nhịp tim
 - Cơ chế thể dịch: hormon, ion, khí hô hấp trong máu
 
+Trung tâm ức chế tim: hành não
+
 ### Phó giao cảm
 
-Từ các tế bào ở nhân lưng thần kinh X và nhân
-hoài nghi tại hành não, đi xuống tim tiếp hợp với tế bào hạch của tim nằm gần nút xoang và mô dẫn truyền nhĩ – thất.
+Từ các tế bào ở nhân lưng thần kinh X và nhân hoài nghi tại hành não (trung tâm ức chế tip), đi xuống tim tiếp hợp với tế bào hạch của tim nằm gần nút xoang và mô dẫn truyền nhĩ – thất.
 
-- Tác dụng trên mô nút: làm nhịp chậm.
+- Làm nhịp chậm.
 - Hóa chất trung gian: acetylcholin
 - Tác dụng: nhanh, thời gian tiềm tàng ngắn (50 – 100 msec).
 - Dây X phải ức chế chính trên nút xoang.
@@ -211,13 +211,13 @@ Dây thần kinh:
 
 Tác động
 
+- Làm nhịp nhanh.
 - Hóa chất trung gian: norepinephrin.
-- Tác dụng của giao cảm trên mô nút: làm nhịp nhanh.
 - Tác dụng: chậm hơn phó giao cảm (norepinephrin bị lấy lại một phần ở đầu tận cùng thần kinh)
 - Giao cảm bên trái: tăng co bóp hơn tăng nhịp.
 - Giao cảm bên phải: tăng nhịp hơn tăng co bóp.
 
-### Các phản xạ khác
+### Phản xạ thụ thể áp suất
 
 Phản xạ thụ thể áp suất:
 
@@ -233,15 +233,15 @@ Phản xạ do thụ thể ở tâm thất:
 - Gây phản xạ giống thụ thể áp suất ở động mạch
 - Khi thụ thể bị kích thích ->  giảm nhịp tim
 
-Vai trò của hô hấp đối với nhịp tim: Hít vào -> nhịp tim tăng và ngược lại
+### Hô hấp - nhịp tim
 
-- Yếu tố phản xạ:
-Hít vào -> áp suất trong ngực giảm -> máu về tim phải tăng ->
+Hít vào -> nhịp tim tăng, và ngược lại.
+
+- Yếu tố phản xạ: Hít vào -> áp suất trong ngực giảm -> máu về tim phải tăng ->
 phản xạ Bainbridge nhịp tim tăng -> khi lưu lượng thất trái
 tăng và gây tăng huyết áp -> phản xạ thụ thể áp suất làm nhịp
 chậm.
-- Yếu tố trung ương:
-Trung tâm hô hấp trong hành não ảnh hưởng đến trung tâm ức chế tim ở hành não
+- Yếu tố trung ương: Trung tâm hô hấp trong hành não ảnh hưởng đến trung tâm ức chế tim ở hành não.
 
 ## Điều hoà hoạt động CƠ tim
 
@@ -261,17 +261,27 @@ Tự điều hòa bên trong tim
   - Khí trong máu
   - Các ion trong máu
 
+
+::badge{type=quiz}
+
+#title
+Chống mặt sau gì bật dậy đột suất
+#default
+
+Hồng là một nhân viên văn phòng 27 tuổi. Một buổi sáng, cô thức dậy sau một giấc ngủ sâu và nhận ra cô đã muộn giờ đi làm 1 giờ. Cô nhanh chóng bật dậy và rời khỏi giường. Ngay sau đó, cô cảm thấy chóng mặt và mất thăng bằng. Đồng thời cô cũng cảm thấy hơi hấp, tim đập nhanh. Cô hoảng sợ và trở lại giường nằm. Một lúc sau, cô đứng dậy từ từ và đi lại, lần này cô không còn thấy chóng mặt nữa. Và cả ngày đi làm hôm ấy cô cũng không có triệu chứng chóng mặt.
+
+Do máu chưa kịp về tim -> thể tích cuối tâm trương giảm -> tăng nhịp tim
+::
+
 ### Cơ chế Frank Starling
 
-Ý nghĩa: Khi tiền tải tăng, tim đáp ứng bằng cách co mạnh hơn
+Khi tiền tải tăng, tim đáp ứng bằng cách co mạnh hơn
 
 Cơ chế: Lượng máu về thất nhiều -> cơ tim bị kéo dài -> sợi actin và myosin gối vào nhau ở vị trí thuận lợi tạo lực co cơ -> co mạnh hơn.
 
 ### Nhịp tim
 
-Thay đổi tần số co bóp sẽ làm thay đổi lực phát sinh do cơ: nhịp chậm làm tim co bóp mạnh hơn.
-
-Cơ chế: do tăng nồng độ Ca++ trong tế bào
+Nhịp chậm làm tim co bóp mạnh hơn, do tăng nồng độ Ca++ trong tế bào
 
 - Ca++ đi vào cơ tim trong giai đoạn bình nguyên.
 - Khi khoảng cách giữa các nhịp giảm, thời gian bình nguyên trong một phút tăng -> tăng nồng độ Ca++ trong tế bào
@@ -285,6 +295,7 @@ Giao cảm: tăng co bóp
 
 Phó giao cảm: giảm co bóp
 
+- Trung tâm ức chế tim (hành não) phát ra xung phó giao cảm
 - Chất trung gian là acetylcholin
 
 Phản xạ thụ thể áp suất
