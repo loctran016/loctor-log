@@ -31,7 +31,8 @@ Vòng đại tuần hoàn và tiểu tuần hoàn đi cùng nhau, về cùng nha
 #title
 Vị trí của tim
 #default
-Tim nằm trong trung thất giữa, lệch sang bên trái lồng ngực, đè lên cơ hoàng, ở giữa 2 phổi, trước thực quản và các thành phần khác của trung thất sau. Trục của tim đi từ phía sau ra phía trước, hướng chếch sang trái và xuống dưới
+Tim nằm trong trung thất giữa, lệch sang bên trái lồng ngực, đè lên cơ hoàng, ở giữa 2 phổi, trước thực quản và các thành phần khác của trung thất sau.
+Trục của tim đi từ phía sau ra phía trước, hướng chếch sang trái và xuống dưới
  <!-- sau xương ức, trước cột sống ngực, giữa hai phổi và hơi lệch sang trái. -->
 ::
 
@@ -81,11 +82,14 @@ Mặt ức sườn:
 
 - Xương ức và sụn sườn III-VI
 - Rãnh nhĩ – thất: hay còn gọi là rãnh vành, ngăn cách phần tâm nhĩ và tâm thất
-    - Rãnh vành phải giữa nhĩ phải và thất phải, tương tự với rãnh vành trái
-    - Nhưng mà nó liên tục
+  - Rãnh vành phải giữa nhĩ phải và thất phải, tương tự với rãnh vành trái
+  - Nhưng mà nó liên tục
 - Rãnh gian thất trước: Có ĐM gian thất trước đi cùng TM tim lớn.
 
-Phần tâm nhĩ bị thân động mạch phổi và động mạch chủ lên che lấp. Hai bên chỗ hai tiểu nhĩ phải và trái. Phần tâm thất có rãnh gian thất trước chạy dọc từ sau ra trước, lệch sang bên phải đỉnh tim, ngăn cách tâm thất phải và tâm thất trái. Tâm thất phải chiếm diện tích phần lớn mặt này.
+Phần tâm nhĩ bị thân động mạch phổi và động mạch chủ lên che lấp.
+Hai bên chỗ hai tiểu nhĩ phải và trái.
+Phần tâm thất có rãnh gian thất trước chạy dọc từ sau ra trước, lệch sang bên phải đỉnh tim, ngăn cách tâm thất phải và tâm thất trái.
+Tâm thất phải chiếm diện tích phần lớn mặt này.
 
 ### Mặt hoành - mặt dưới
 
@@ -195,7 +199,9 @@ Suy tim phải: ứ máu thất phải -> ứ máu ở nhĩ phải -> ứ TM ch�
 
 Ngoài ra còn ứ máu ở gan, khi ấn ở hạ sườn phải sẽ nổi TM cảnh ở cổ lên -> =c=ấn gan phồng cảnh==, gan chứa máu rất nhiều, ấn vô thì nó đẩy lên trên
 
-Cơ chế: Đặt áp lực lên 1/4 trên bụng phải giúp máu tĩnh mạch trở về tim phải qua tĩnh mạch chủ dưới. Tăng thể tích máu về tim phải cộng thêm tăng áp lực cuối tâm thu và tâm trương trong nhĩ và thất phải (do rối loạn chức năng/tăng tải phải) và máu tĩnh mạch và áp lực thì dội ngược lại vào tĩnh mạch cảnh. Thất phải không thể chứa thêm máu tĩnh mạch trở ngược lại.
+Cơ chế: Đặt áp lực lên 1/4 trên bụng phải giúp máu tĩnh mạch trở về tim phải qua tĩnh mạch chủ dưới.
+Tăng thể tích máu về tim phải cộng thêm tăng áp lực cuối tâm thu và tâm trương trong nhĩ và thất phải (do rối loạn chức năng/tăng tải phải) và máu tĩnh mạch và áp lực thì dội ngược lại vào tĩnh mạch cảnh.
+Thất phải không thể chứa thêm máu tĩnh mạch trở ngược lại.
 ::
 
 ### Thất T - Nhĩ T
@@ -214,7 +220,8 @@ Xoang ĐM chủ còn gọi là xoang valsalva có 3 xoang:
 Vị trí lỗ ĐM vành nằm dưới đường SJ giúp đường đi ra của mạch sẽ thẳng và lỗ của mạch vành sẽ tròn (diện tích sẽ lí tưởng nhất)
 
 - Khi lá van mở lúc thất co thì lá van sẽ che mất lỗ vào ĐM vành -> máu không vào được DO LÚC ĐẦY CẦN NUÔI CÁC CƠ QUAN
-- Ngược lại máu ĐM chủ dội ngược về lúc tim giãn sẽ đổ đầy xoang ĐM vành trái và phải nên máu đi vào ĐM vành ở tâm trương. Lỗ nằm ở vị trí đó máu sẽ dâng lên phù hợp để đổ vào ĐM vành.
+- Ngược lại máu ĐM chủ dội ngược về lúc tim giãn sẽ đổ đầy xoang ĐM vành trái và phải nên máu đi vào ĐM vành ở tâm trương.
+Lỗ nằm ở vị trí đó máu sẽ dâng lên phù hợp để đổ vào ĐM vành.
 
 Nếu lỗ cao quá thì máu dâng lên sẽ không thể đổ vào lỗ ĐM vành
 
@@ -223,16 +230,22 @@ Nếu lỗ cao quá thì máu dâng lên sẽ không thể đổ vào lỗ ĐM v
 Khớp nối xoang ống (ST Junction)
 
 #default
-Đây là một gờ nhỏ nằm ngang cấu tạo bởi collagen và sợi elastic, nằm vòng quanh phía trên các xoang Valsalva và các mép van động mạch chủ (commissures). Tỉ lệ đường kính ST Junction với vòng van vào khoảng 0.9 ở người trẻ, ở người già, khớp nối có khuynh hướng giãn ra nên tỉ lệ này tăng lên trên 1.
+Đây là một gờ nhỏ nằm ngang cấu tạo bởi collagen và sợi elastic, nằm vòng quanh phía trên các xoang Valsalva và các mép van động mạch chủ (commissures).
+Tỉ lệ đường kính ST Junction với vòng van vào khoảng 0.9 ở người trẻ, ở người già, khớp nối có khuynh hướng giãn ra nên tỉ lệ này tăng lên trên 1.
 
-Các xoang Valsalva là chỗ phình ra của mô động mạch chủ, giới hạn phía trên là khớp nối xoang ống, phía dưới là vòng van động mạch chủ. Xoang vành trái (Left coronary sinus) có kích thước nhỏ hơn xoang vành phải (Right coronary sinus) và xoang không vành (Non coronary sinus). Chu vi của gốc động mạch chủ ngang qua các xoang Valsalva thường lớn hơn 50% so với chu vi ngang qua khớp nối xoang ống.
+Các xoang Valsalva là chỗ phình ra của mô động mạch chủ, giới hạn phía trên là khớp nối xoang ống, phía dưới là vòng van động mạch chủ.
+Xoang vành trái (Left coronary sinus) có kích thước nhỏ hơn xoang vành phải (Right coronary sinus) và xoang không vành (Non coronary sinus).
+Chu vi của gốc động mạch chủ ngang qua các xoang Valsalva thường lớn hơn 50% so với chu vi ngang qua khớp nối xoang ống.
 ::
 
 Bệnh lý hở 2 lá sẽ gặp DO 2 LÁ ĐÓNG KHÔNG KÍN ở tâm thu
 
-Hẹp 2 lá gặp ở tâm trương -> ứ máu phổi. Đây là tình trạng van tim hai lá không thể mở ra hoàn toàn, vì thế máu không thể đổ hết từ tâm nhĩ trái xuống tâm thất trái. Từ đó, dẫn đến ứ máu tại nhĩ trái, gây ứ máu tại phổi. Máu ứ tại phổi làm tăng áp phổi, gây suy tim phải.
+Hẹp 2 lá gặp ở tâm trương -> ứ máu phổi. Đây là tình trạng van tim hai lá không thể mở ra hoàn toàn, vì thế máu không thể đổ hết từ tâm nhĩ trái xuống tâm thất trái.
+Từ đó, dẫn đến ứ máu tại nhĩ trái, gây ứ máu tại phổi.
+Máu ứ tại phổi làm tăng áp phổi, gây suy tim phải.
 
-Hẹp 3 lá -> ứ máu ở ngoại biên -> phù. Hẹp van 3 lá là tình trạng van 3 lá không thể mở ra hoàn toàn trong thời kì tâm trương để máu từ nhĩ phải đổ đầy vào tâm thất phải.
+Hẹp 3 lá -> ứ máu ở ngoại biên -> phù.
+Hẹp van 3 lá là tình trạng van 3 lá không thể mở ra hoàn toàn trong thời kì tâm trương để máu từ nhĩ phải đổ đầy vào tâm thất phải.
 
 Điều này làm gia tăng áp lực trong tâm nhĩ phải và hệ thống tĩnh mạch ngoại vi gây ứ trệ tuần hoàn, lâu dần sẽ khiến nhĩ phải phình to ra, trong khi buồng tâm thất bị thu nhỏ lại vì lượng máu nhận được bị giảm sút.
 

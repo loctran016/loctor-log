@@ -261,14 +261,19 @@ Tự điều hòa bên trong tim
   - Khí trong máu
   - Các ion trong máu
 
-
 ::badge{type=quiz}
 
 #title
 Chống mặt sau gì bật dậy đột suất
 #default
 
-Hồng là một nhân viên văn phòng 27 tuổi. Một buổi sáng, cô thức dậy sau một giấc ngủ sâu và nhận ra cô đã muộn giờ đi làm 1 giờ. Cô nhanh chóng bật dậy và rời khỏi giường. Ngay sau đó, cô cảm thấy chóng mặt và mất thăng bằng. Đồng thời cô cũng cảm thấy hơi hấp, tim đập nhanh. Cô hoảng sợ và trở lại giường nằm. Một lúc sau, cô đứng dậy từ từ và đi lại, lần này cô không còn thấy chóng mặt nữa. Và cả ngày đi làm hôm ấy cô cũng không có triệu chứng chóng mặt.
+Hồng là một nhân viên văn phòng 27 tuổi.
+Một buổi sáng, cô thức dậy sau một giấc ngủ sâu và nhận ra cô đã muộn giờ đi làm 1 giờ.
+Cô nhanh chóng bật dậy và rời khỏi giường.
+Ngay sau đó, cô cảm thấy chóng mặt và mất thăng bằng. Đồng thời cô cũng cảm thấy hơi hấp, tim đập nhanh.
+Cô hoảng sợ và trở lại giường nằm.
+Một lúc sau, cô đứng dậy từ từ và đi lại, lần này cô không còn thấy chóng mặt nữa.
+Và cả ngày đi làm hôm ấy cô cũng không có triệu chứng chóng mặt.
 
 Do máu chưa kịp về tim -> thể tích cuối tâm trương giảm -> tăng nhịp tim
 ::
