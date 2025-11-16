@@ -31,10 +31,10 @@ definePageMeta({ layout: "home" });
 
 <template>
     <main class="grid grid-flow-col lg:grid-cols-2 max-lg:place-items-center grow">
-        <ul class="grid font-bold grid-cols-[repeat(auto-fit,minmax(12rem,1fr))] w-4/5 mx-auto gap-3 items-center lg:my-auto" v-for="year in queryDatas">
+        <ul class="grid font-bold grid-cols-[repeat(auto-fit,minmax(12rem,1fr))] w-4/5 mx-auto gap-3 lg:my-auto" v-for="year in queryDatas">
           <li
             v-for="(subject,index) in year.children"
-            class="h-30 rounded-lg cursor-pointer pl-4 hover:rounded-xl duration-300 transform-gpu backdrop-blur"
+            class="h-30 rounded-lg cursor-pointer pl-4 hover:rounded-xl duration-300 transform-gpu backdrop-blur flex items-center"
             :class="colorsStyle[(year.children.length - index) % colorsStyle.length]"
           >
           <!-- hover:-translate-y-1 -->
