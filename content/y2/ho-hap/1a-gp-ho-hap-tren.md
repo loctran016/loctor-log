@@ -201,7 +201,6 @@ Hai dây TK thanh quản chính:
 
 ![TK thanh quản trên và TK thanh quản quặt ngược](y2/ho-hap/1-40.jpeg)
 
-
 Trước khi mổ u bướu vùng tuyến giáp, bác sĩ phải nói rõ
 cho bệnh nhân về nguy cơ thay đổi giọng nói sau phẫu thuật vì có thể ảnh hưởng thần kinh.
 Có những bệnh nhân thay đổi giọng liền, có những bệnh nhân 3 - 6 tháng sau mới thay đổi.
@@ -246,12 +245,18 @@ Bảng các cơ tham gia hoạt động của dây thanh âm:
 Câu hỏi 3
 #default
 
-**Một bệnh nhân nữ bị khàn tiếng ngày càng nhiều *sau phẫu thuật tuyến giáp* trước đó 3 tháng. Khám và soi thanh quản thấy hình dạng dây thanh bình thường (không phù nề, không sần sùi) nhưng <u>dây thanh không căng được và khép không kín</u> khi phát âm cao. Vậy cơ nào sau đây có tác dụng vừa làm căng vừa khép được hai dây thanh âm:**
+**Một bệnh nhân nữ bị khàn tiếng ngày càng nhiều *sau phẫu thuật tuyến giáp* trước đó 3 tháng.
+Khám và soi thanh quản thấy hình dạng dây thanh bình thường (không phù nề, không sần sùi) nhưng <u>dây thanh không căng được và khép không kín</u> khi phát âm cao.
+Vậy cơ nào sau đây có tác dụng vừa làm căng vừa khép được hai dây thanh âm:**
 
-A. Cơ nhẫn giáp
-B. Cơ nhẫn–phễu sau
-C. Cơ nhẫn–phễu bên
-D. Cơ phễu ngang
+A.
+Cơ nhẫn giáp
+B.
+Cơ nhẫn–phễu sau
+C.
+Cơ nhẫn–phễu bên
+D.
+Cơ phễu ngang
 
 👉 Chọn câu A.
 ::
@@ -263,10 +268,14 @@ Câu hỏi 3
 
 **Ở bệnh nhân khàn tiếng này, nghĩ nhiều đến dây thần kinh nào bị chèn ép hay tổn thương *sau phẫu thuật tuyến giáp*:**
 
-A. Nhánh ngoài thần kinh thanh quản trên
-B. Nhánh trong thần kinh thanh quản trên
-C. Nhánh trước thần kinh thanh quản quặt ngược
-D. Nhánh sau thần kinh thanh quản quặt ngược
+A.
+Nhánh ngoài thần kinh thanh quản trên
+B.
+Nhánh trong thần kinh thanh quản trên
+C.
+Nhánh trước thần kinh thanh quản quặt ngược
+D.
+Nhánh sau thần kinh thanh quản quặt ngược
 
 👉 Chọn câu A.
 ::

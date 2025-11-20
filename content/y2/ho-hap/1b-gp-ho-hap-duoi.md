@@ -74,7 +74,8 @@ Những người bị hen thường là do bị hẹp từ PQ tiểu thùy
 
 ![Các đường dẫn khí trong phổi](y2/ho-hap/1-53.jpeg)
 
-PQ tiểu thuỳ (dẫn tiểu thuỳ phổi không có sụn): chỉ có cơ trơn. Khi bị hen thì co thắt PQ tiểu thuỳ -> tác
+PQ tiểu thuỳ (dẫn tiểu thuỳ phổi không có sụn): chỉ có cơ trơn.
+Khi bị hen thì co thắt PQ tiểu thuỳ -> tác
 
 ### ĐM và TM phổi
 
@@ -84,13 +85,6 @@ Khuynh hướng dị vật vào khí quản sẽ dễ đi vào phế quản chí
 ![ĐM và TM phổi](y2/ho-hap/1-55.jpeg)
 
 ## Màng phổi
-
-
-
-
-
-
-
 
 ![](y2/ho-hap/1-56.jpeg)
 ![](y2/ho-hap/1-57.jpeg)
