@@ -19,8 +19,8 @@ Các nhóm vi nấm có hình dạng tương tự nhau:
     - <u>*Aspergillus sp.*</u>: nở bông, tròn tròn
     - <u>*Penicillium sp.*</u>: chuỗi hạt, dài ra như lúa
 - Vi nấm có bào tử ĐÍNH
-- <u>*Trichophyton rubrum*</u>: đính hình giọt nước song song
-- <u>*Sporothrix schenckii*</u>: giọt nước, mọc lan ran
+    - <u>*Trichophyton rubrum*</u>: đính hình giọt nước song song
+    - <u>*Sporothrix schenckii*</u>: giọt nước, mọc lan ran
 
 Nhóm <u>*Malassezia furfur*</u> & <u>*Candida albicans*</u> (vi nấm có tế bào hạt men):
 
