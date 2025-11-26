@@ -1,6 +1,7 @@
 ---
 title: Tóm tắt lí thuyết
 date: 2025-09-06
+draft: true
 ---
 
 ## Bài 1: Giới thiệu về trách nhiệm của người thầy thuốc

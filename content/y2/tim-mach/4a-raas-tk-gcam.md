@@ -107,7 +107,6 @@ Phân loại suy tim thường dùng trên lâm sàng:
 - Suy tim với EF giảm vừa 40 - 50%
 - Suy tim giảm rõ <= 40%
 
-
 ### Suy tim trái - phải
 
 <u>**Biểu hiện suy tim trái:**</u>
@@ -142,6 +141,7 @@ Phân loại suy tim thường dùng trên lâm sàng:
 Suy tim cung lượng thấp: bệnh tim thiếu máu cục bộ, bệnh van tim, viêm màng ngoài tim, tăng huyết áp…
 
 Suy tim cung lượng cao:
+
 - RL chuyển hóa: cường giáp, thai nghén
 - Nhu cầu lưu lượng máu cao: thiếu máu
 
@@ -157,7 +157,6 @@ Suy tim tâm thu: tim không co bóp bình thường và không đẩy đủ má
 
 Suy tim tâm trương: tim không giãn và nhận máu bình thường
 
-
 ## Cơ chế bệnh sinh
 
 Suy tim là một rối loạn tiến triển dần sau biến cố ban đầu, làm:
@@ -166,6 +165,7 @@ Suy tim là một rối loạn tiến triển dần sau biến cố ban đầu, 
 2. Rối loạn khả năng tạo lực co của cơ tim → ngăn cản co cơ tim bình thường
 
 Ví dụ:
+
 - đột ngột: NMCT
 - từ từ: quá tải về áp lực hay thể tích
 - di truyền
@@ -173,10 +173,10 @@ Ví dụ:
 Cung lượng tim = thể tích tống máu x nhịp tim
 
 - Thể tích tống máu
-    - Tiền tải (thể tích tâm thất cuối tâm trương) chủ yếu phụ thuộc vào áp lực đổ đầy cuối tâm trương
-    - Cơ chế bù trừ của tăng tiền tải là dãn tế bào cơ tim
-    - Hậu tải khi tăng lên thì tim sẽ bù trừ bằng cách phì đại tế bào cơ tim
-    - Khả năng co bóp cơ tim giảm có thể gặp trong các bệnh lý như nhồi máu cơ tim, viêm cơ tim,….
+  - Tiền tải (thể tích tâm thất cuối tâm trương) chủ yếu phụ thuộc vào áp lực đổ đầy cuối tâm trương
+  - Cơ chế bù trừ của tăng tiền tải là dãn tế bào cơ tim
+  - Hậu tải khi tăng lên thì tim sẽ bù trừ bằng cách phì đại tế bào cơ tim
+  - Khả năng co bóp cơ tim giảm có thể gặp trong các bệnh lý như nhồi máu cơ tim, viêm cơ tim,….
 - Nhịp tim
 
 ### Tiền tải
@@ -229,6 +229,7 @@ Ba cơ chế bù trừ tại tim:
 - Hệ thần kinh giao cảm bị kích thích kéo dài sẽ giảm độ nhạy cảm các thụ thể β trong sợi cơ tim đối với...
 
 Tại sao tim thiếu oxy sẽ suy tim ?
+
 - Bình thường, tim sử dụng 70–75% oxy của ĐM vành
 - Hệ mao mạch của tim không tăng sinh khi tim phì đại -> Tim kém khả năng chịu đựng sự thiếu oxy
 
@@ -249,7 +250,8 @@ Hệ quả:
 ### Phì đại tâm thất
 
 - Tăng bề dày thành tim
-- Đối phó tình trạng tăng hậu tải. Do tăng hậu tải sẽ làm giảm V tống máu → tăng áp lực ở các buồng tim → tăng bề dày thành tim để bù trừ
+- Đối phó tình trạng tăng hậu tải.
+Do tăng hậu tải sẽ làm giảm V tống máu → tăng áp lực ở các buồng tim → tăng bề dày thành tim để bù trừ
 → tăng công, tăng tiêu thụ oxy → suy tim tiến triển
 → vòng xoắn bệnh lý
 
@@ -269,7 +271,6 @@ Hệ quả:
     - Hệ renin-angiotensin-aldosterone (RAAS)
     - Hệ arginin-vasopressin
 
-
 ### Hệ thần kinh giao cảm - Hệ RAAS
 
 Cường giao cảm sẽ gây co mạch (da, thận, tạng, cơ)
@@ -287,7 +288,6 @@ Trong suy tim =a=giai đoạn muộn==, vùng hạ đồi – tuyến yên đư�
 - Tăng tác dụng co mạch của AG II
 - Tăng tái hấp thu nước ở ống thận
 
-
 Nếu mà hệ thống RAA và AV hoạt động quá mức thì sẽ gây tăng thể tích dịch lại nên lại tăng gánh cho tim
 
 Vasopressin là một dẫn xuất của ADH
@@ -301,7 +301,8 @@ Vasopressin là một dẫn xuất của ADH
 
 ## Đáo ứng bù trừ
 
-Bằng những cơ chế bù trừ này, CLT sẽ được điều chỉnh lại gần với mức bình thường. Tuy nhiên các cơ chế này cũng chỉ có thể đáp ứng trong giai đoạn đầu.
+Bằng những cơ chế bù trừ này, CLT sẽ được điều chỉnh lại gần với mức bình thường.
+Tuy nhiên các cơ chế này cũng chỉ có thể đáp ứng trong giai đoạn đầu.
 
 - Theo thời gian:
   - tăng tiền tải và hậu tải
