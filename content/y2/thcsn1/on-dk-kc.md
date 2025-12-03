@@ -46,6 +46,53 @@ Giun:
     - <u>*Ascaris lumbricoides*</u> T chắc: tròn tròn, nhiều vòng đồng tâm
     - <u>*Ascaris lumbricoides*</u> T lép: bên trong nâu đục, vỏ ngoài XÙ XÌ
 
+## Giun & Sán
+
+## Đơn bào
+
+Độ phóng to: 40x - 100x
+
+Trùng chân giả - amip có 2 thể
+
+- Thể HĐ:
+	- *Entamoeba histolytica* HĐ: chân giả, nhân thể nằm trung tâm ở nhân.
+	- *Entamoeba coli* HĐ: bắt màu xanh, không thấy chân giả, nhân thể lệch.
+- Thể BN:
+	- *Entamoeba histolytica* BN: không có chân giả, có 1-4 nhân.
+	- *Entamoeba coli* BN: trên 4 nhân, nhân thể lệch.
+
+*Balantidium coli*: lớn nhất, nhân lớn hình hạt đậu.
+
+- *Balantidium coli* HĐ: bầu dục, nhân lớn hình hạt đậu, có miệng.
+- *Balantidium coli* BN: tròn, nhân hạt đậu.
+
+Trùng roi:
+
+- *Giardia lamblia* HĐ: hình quả lê, hai nhân đối xứng qua
+trục dọc.
+- *Giardia lamblia* BN: hình bầu dục, dài dài, nhấp nháy thấy 2-4 nhân đ/x qua trục dọc
+- *Trichomonas vaginalis*: nhấp nháy vi cấp thấy có roi
+
+Chấm đỏ đỏ:
+
+- *Toxoplasma gondii*: hình liềm, chấm li ti tụ lại 1 bầy (tương tự *P.vivax PL*).
+- *Leishmania* sp: chấm tròn tròn đỏ NHỎ và cực nhiều ở giữa đám hồng.
+- *Cryptosporidium sp* TN: x100, khoảng cách khá xa
+
+KST sốt rét phải thấy hồng cầu: tư dưỡng, giao bào, phân liệt
+
+- *Plasmodium falciparum*:
+	- *Plasmodium falciparum* TD: nhẫn khoảng ¼ đến 1/5 đường kính hồng cầu, một HC có thể chứa nhiều hơn 1 nhẫn.
+	- *Plasmodium falciparum* GB: trái chuối trong đám hồng cầu.
+- *Plasmodium vivax*: HC có *Plasmodium vivax* kí sinh có kích thước lớn hơn HC bình thường.
+	- *Plasmodium vivax* TD: nhẫn đường kính khoảng ½ đường kính hồng cầu -> tối đa 1 nhẫn/1 HC.
+	- *Plasmodium vivax* GB: khối đậm chiếm gần hết HC.
+	- *Plasmodium vivax* PL: nhân chia thành nhiều nhân -> nhìn như hồng cầu bị vỡ ra.
+- *Plasmodium malariae*:
+	- *Plasmodium malariae* TD: kích thước bằng HC, tối đa 1 nhẫn/1 TB; nhân lệch 1 bên/song song 2 đường
+	- *Plasmodium malariae* GB: 
+
+
 <!-- ## Giun
 
 ### AT
