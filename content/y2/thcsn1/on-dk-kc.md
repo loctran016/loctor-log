@@ -26,7 +26,7 @@ Nhóm <u>*Malassezia furfur*</u> & <u>*Candida albicans*</u> (vi nấm có tế 
 
 - <u>*Malassezia furfur*</u>: sợi tơ nấm ngắn -> như nui cắt đứt đứt không liên tục
 - <u>*Candida albicans*</u>:
-  - <u>*Candida albicans*</u> sợi tơ nấm giả: cục cục đứt -> giống mấy đốt xương lóng tay
+  - <u>*Candida sp*</u> sợi tơ nấm giả: cục cục đứt -> giống mấy đốt xương lóng tay
   - <u>*Candida albicans*</u> BTBD: tròn tròn, bao dày, đính trên sợi nấm
   - <u>*Candida albicans*</u> sinh ống mầm: tìm ống mầm approx. tinh trùng
 
