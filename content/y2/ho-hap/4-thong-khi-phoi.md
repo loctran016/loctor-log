@@ -1,7 +1,7 @@
 ---
 title: Bài 4 - Quá trình thông khí
-tags: ['Sinh lý']
 date: 2025-12-03
+tags: ['Sinh lý']
 ---
 
 ## Hô hấp
@@ -60,7 +60,7 @@ Màng phổi là một khoang khí ==không thông thương với bên ngoài== 
 Khi bị đâm thủng vô màng phổi thì màng phổi thông thương với ngoài môi trường luôn.
 
 - P màng phổi luôn bằng P khí quyển -> mất áp suất âm -> xẹp phổi.
-- X quang: Phổi đen và không thấy mạch máu trên X quang -> hít thở không còn hiệu quả ==> xử lý: đặt ống dẫn lưu
+- X quang: Phổi đen và không thấy mạch máu trên X quang -> hít thở không còn hiệu quả => xử lý: đặt ống dẫn lưu
 
 ### Áp suất xuyên phổi
 
@@ -136,7 +136,7 @@ Toàn bộ V<sub>CO<sub>2</sub> thở ra</sub>: ==V<sub>ECO<sub>2</sub></sub> = 
 - V<sub>A</sub> = V<sub>PN</sub> / TKPN
 - F<sub>ACO<sub>2</sub></sub>: Phân suất CO<sub>2</sub> PN
 
-Lượng CO<sub>2</sub> thải ra hay thông khí phế nang tăng càng nhiều thì CO<sub>2</sub> trong máu càng ít ==> PaCO<sub>2</sub> tỉ lệ nghịch với VA ==> khi mình thấy CO<sub>2</sub> trong khí máu động mạch giảm thì thông khí phế nang tăng
+Lượng CO<sub>2</sub> thải ra hay thông khí phế nang tăng càng nhiều thì CO<sub>2</sub> trong máu càng ít => PaCO<sub>2</sub> tỉ lệ nghịch với VA => khi mình thấy CO<sub>2</sub> trong khí máu động mạch giảm thì thông khí phế nang tăng
 
 Lượng CO<sub>2</sub> trong máu động mạch tăng thì lượng CO<sub>2</sub> thải ra ở phổi thấp hơn lượng CO<sub>2</sub> tạo ra
 
@@ -206,7 +206,7 @@ Vậy cơ thể của chúng ta sẽ chống lại bằng chất hoạt diện s
   - Apoprotein
   - Ca++
 - Vai trò surfactant
-  - Giảm sức căng bề mặt: P = 2T/R ==> Phế nang có đường kính nhỏ có ít nguy cơ bị xẹp hơn
+  - Giảm sức căng bề mặt: P = 2T/R => Phế nang có đường kính nhỏ có ít nguy cơ bị xẹp hơn
   - Ổn định đường kính các phế nang
   - Chống phù phế nang
 
@@ -215,7 +215,7 @@ Tế bào phế nang type I: tạo thành vách PN
 ## Các thể tích, dung tích phổi
 
 Hô hấp ký cho biết các thể tích, dung tích của phổi và tình trạng đường dẫn khí của hệ hô hấp
-==> đo được dung tích sống của phổi -> biết được tìnnh trạng tắt nghẽn của đường dẫn khí
+=> đo được dung tích sống của phổi -> biết được tìnnh trạng tắt nghẽn của đường dẫn khí
 
 ::badge{type="detail"}
 #title
@@ -275,7 +275,7 @@ Thời tiết khô -> bị mất nước nhiều -> co thắt phế quản gắn
 Hít quá nhiều hạt PM -> hoại tử vùng phổi của mình -> chết
 - Gây khoảng chết
 
-Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc sẽ giảm xuống ==> hạt PM. 2.5 sẽ lắng động trong phế quản tận cùng, phế nang.
+Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc sẽ giảm xuống => hạt PM. 2.5 sẽ lắng động trong phế quản tận cùng, phế nang.
 Như vậy, vận tốc trao đổi khi gần như bằng 0 và sự trao đổi khí sẽ dựa vào gradient nồng độ giữa các khí
 
 ### Điều hòa co cơ trơn đường dẫn khí
