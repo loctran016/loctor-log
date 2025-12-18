@@ -28,3 +28,9 @@
 .flexible-marker-purple {
     @apply bg-transparent font-bold bg-gradient-to-r from-pink-500  to-violet-800 dark:from-pink-300  dark:to-violet-700 bg-clip-text text-transparent select-all
 }
+.flexible-marker-default * {
+    @apply bg-transparent font-bold bg-gradient-to-r from-orange-500  to-orange-900 dark:from-orange-300  dark:to-orange-700 bg-clip-text
+}
+.flexible-marker-purple * {
+    @apply bg-transparent font-bold bg-gradient-to-r from-pink-500  to-violet-800 dark:from-pink-300  dark:to-violet-700 bg-clip-text
+}

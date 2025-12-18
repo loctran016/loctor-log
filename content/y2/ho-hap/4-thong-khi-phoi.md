@@ -27,7 +27,7 @@ Quy tắc khi hít vào: ==P phế nang < 760mmHg (P khí trời)== -> khí vào
 
 Cơ hoành co giảm áp suất phổi khi hít vào =c=(PV=const)==:
 
-- Trong thì hít vào, cơ hoành dạng hình vòm co lại, khoang bụng bắt buộc hạ xuống và đi ra phía trước, và xương sườn thì mở rộng ra -> tăng thể tích khoang ngực —> giảm áp suất lồng ngực —> giảm áp suất màn phổi —> giảm áp suất phế nang
+- Trong thì hít vào, cơ hoành dạng hình vòm co lại, khoang bụng bắt buộc hạ xuống và đi ra phía trước, và xương sườn thì mở rộng ra -> tăng thể tích khoang ngực -> giảm áp suất lồng ngực -> giảm áp suất màn phổi -> giảm áp suất phế nang
 - Trong thì thở ra, cơ bụng co lại và đẩy cơ hoành lên
 
 ![Cơ hoành co khi hít vào](/y2/ho-hap/4-4.jpeg)
@@ -44,7 +44,7 @@ Cuối thì thở ra, đầu thì hít vào: P khí quyển = P phế nang
     - P phế nang giảm dần sau đó tăng lên dần cho đến khi đạt cân bằng với P khí quyển thì dừng lại
     - Áp suất màng phổi giảm
 3. Khi thở ra thì thể tích phổi giảm
-    - P phế nang tăng lên —> không khí đi ra làm P phế nang giảm xuống cho đến khi đạt cân bằng với P khí quyển thì dừng lại
+    - P phế nang tăng lên -> không khí đi ra làm P phế nang giảm xuống cho đến khi đạt cân bằng với P khí quyển thì dừng lại
     - Áp suất màng phổi tăng
 
 ![Sự thay đổi áp suất phế nang, màng phổi trong quá trình hô hấp](/y2/ho-hap/4-6.jpeg)
@@ -60,7 +60,7 @@ Màng phổi là một khoang khí ==không thông thương với bên ngoài== 
 Khi bị đâm thủng vô màng phổi thì màng phổi thông thương với ngoài môi trường luôn.
 
 - P màng phổi luôn bằng P khí quyển -> mất áp suất âm -> xẹp phổi.
-- X quang: Phổi đen và không thấy mạch máu trên X quang —> hít thở không còn hiệu quả ==> xử lý: đặt ống dẫn lưu
+- X quang: Phổi đen và không thấy mạch máu trên X quang -> hít thở không còn hiệu quả ==> xử lý: đặt ống dẫn lưu
 
 ### Áp suất xuyên phổi
 
@@ -76,7 +76,7 @@ Từ khoảng giữa thì hít vào đến cuối thì hít vào, áp suất xuy
 - Màng phổi âm hơn làm phổi nở ra
 - P phế nang tăng lên (do có khí hít vào) cho đến khi cân bằng với P môi trường.
 
-=> Lúc này, áp suất xuyên phổi càng kéo dài ra —> lực đàn hồi phổi tăng lên —> phổi càng có xu hướng co lại.
+=> Lúc này, áp suất xuyên phổi càng kéo dài ra -> lực đàn hồi phổi tăng lên -> phổi càng có xu hướng co lại.
 Càng hít vào sâu thì càng cần dùng sức nhiều hơn và sẽ mệt hơn
 
 Những người bị bệnh có tăng áp suất xuyên phổi -> nguy cơ khó thở
@@ -110,7 +110,7 @@ So sánh TKP và TKPN giữa 2 kiểu thở của người này, khoảng chết
 Kết luận: Thở chậm sâu tốt hơn
 
 - Thở sâu giúp huy động oxi tốt hơn và thải O<sub>2</sub> tốt hơn
-- Thở nhanh nông thường gặp ở mấy đứa bé khi mới sinh, có khi lên đến 50 - 60 lần/phút —> thở rất nông => đứa bé bị suy ho hấp thì sẽ nhanh chống kiệt sức vì không đủ cho khoảng thời gian hít vào
+- Thở nhanh nông thường gặp ở mấy đứa bé khi mới sinh, có khi lên đến 50 - 60 lần/phút -> thở rất nông => đứa bé bị suy ho hấp thì sẽ nhanh chống kiệt sức vì không đủ cho khoảng thời gian hít vào
 ::
 
 ### Khoảng chết giải phẫu
@@ -176,7 +176,7 @@ Giữa thì hít vào:
 ![Sợi đàn hổi làm phổi co lại](/y2/ho-hap/4-10.jpeg)
 
 Lực cơ hô hấp còn thắng lực kéo thắng lực kéo vào của phổi <=> hít vào.
-Khi nó chấm dứt thì mình thở ra do lúc này lực của cơ hô hấp biến mất, lực kéo vào của phổi lớn hơn lực kéo ra của thành ngực —> thở ra thụ động
+Khi nó chấm dứt thì mình thở ra do lúc này lực của cơ hô hấp biến mất, lực kéo vào của phổi lớn hơn lực kéo ra của thành ngực -> thở ra thụ động
 
 ### Tính đàn hồi của phổi nhờ vào dịch lót PN surfactant
 
@@ -188,7 +188,7 @@ Thể tích tối đa của phổi:
 => thể tích tối đa của phổi chứa khí gấp khoảng 3 lần phổi chứa nước
 => Sức căng bề mặt chiếm 2/3 tính đàn hồi phổi
 
-<!-- - Có xu hướng làm cho diện tích bề mặt thoáng của phổi nhất (nghe không được) —> làm xẹp phế nang -->
+<!-- - Có xu hướng làm cho diện tích bề mặt thoáng của phổi nhất (nghe không được) -> làm xẹp phế nang -->
 
 Định luật LaPlace: ==P = 2T/r==
 
@@ -215,7 +215,7 @@ Tế bào phế nang type I: tạo thành vách PN
 ## Các thể tích, dung tích phổi
 
 Hô hấp ký cho biết các thể tích, dung tích của phổi và tình trạng đường dẫn khí của hệ hô hấp
-==> đo được dung tích sống của phổi —> biết được tìnnh trạng tắt nghẽn của đường dẫn khí
+==> đo được dung tích sống của phổi -> biết được tìnnh trạng tắt nghẽn của đường dẫn khí
 
 ::badge{type="detail"}
 #title
@@ -226,7 +226,7 @@ Công hô hấp:
 - Công thắng lực kháng của mô: Khi phổi mình đứng im mà muốn phổi mình di động thì mình phải thắng được tính trơ của nó
 - Công thắng lực ma sát: quan tâm ở người có đường thở hẹp (COPD, hen), khi họ thở nhanh thì lực ma sát của đường dẫn khí tăng lên vì
   - Đường dẫn khí của mình là một cái ống: thiết diện càng bé thì lực ma sát sẽ càng lớn.
-  - Khi đường dẫn khí của mình co thắt thì sẽ tăng kháng trở đường dẫn khí —> tăng lực ma sát
+  - Khi đường dẫn khí của mình co thắt thì sẽ tăng kháng trở đường dẫn khí -> tăng lực ma sát
 ::
 
 ### Biểu đồ thành phần khí trong phổi
@@ -264,7 +264,7 @@ bằng CO2
 Vai trò:
 
 - Làm ẩm, Làm ấm: nhờ vùng mũi hầu, đặc biệt là vùng mũi của chúng ta có nhiều mạch máu.
-Thời tiết khô -> bị mất nước nhiều —> co thắt phế quản gắng sức
+Thời tiết khô -> bị mất nước nhiều -> co thắt phế quản gắng sức
 - Phát âm:
   - Khi mình hít thở thì dây thanh âm sẽ mở ra
   - Khi phát âm thì dây thanh âm sẽ khép lại, rung rung tạo thành âm thanh nguyên thuỷ (âm thanh ban đầu), sau đó qua mũi và miệng thì tạo thành âm thanh ta nghe được
@@ -272,7 +272,7 @@ Thời tiết khô -> bị mất nước nhiều —> co thắt phế quản g�
     – Vùng mũi hầu: hạt > 10µm
     – Khí phế quản: hạt 2-10µm
     – Phế nang: hạt < 2µm (Hạt PM) - gây ra bệnh phù phổi ở những người làm ở hầm than, hầm mỏ, ở thành phố bị ô nhiễm quá.
-Hít quá nhiều hạt PM -> hoại tử vùng phổi của mình —> chết
+Hít quá nhiều hạt PM -> hoại tử vùng phổi của mình -> chết
 - Gây khoảng chết
 
 Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc sẽ giảm xuống ==> hạt PM. 2.5 sẽ lắng động trong phế quản tận cùng, phế nang.
@@ -300,12 +300,12 @@ Phản xạ:
 
 ### Phản xạ hắt hơi
 
-Phản xạ hắt hơi: Kích thích ở mũi —> kích thích dây thần kinh số V (thần kinh sinh ba), dây này phân bố ở vùng mũi họng —> co cơ hoành trước, hút không khí vào rồi đóng nắp thanh môn.
+Phản xạ hắt hơi: Kích thích ở mũi -> kích thích dây thần kinh số V (thần kinh sinh ba), dây này phân bố ở vùng mũi họng -> co cơ hoành trước, hút không khí vào rồi đóng nắp thanh môn.
 Sau đó cơ hoành co tống khí ra, mở nắp thanh môn ra, hạ lưỡi gà xuống và không khí đi ra vùng mũi họng
 
 ### Phản xạ ho
 
-Phản xạ ho: Vị trí kích thích là vùng thanh quản —> kích thích dây thần kinh phân bố vùng thanh quản là dây thần kinh số X (thần kinh lang thang) —> ho
+Phản xạ ho: Vị trí kích thích là vùng thanh quản -> kích thích dây thần kinh phân bố vùng thanh quản là dây thần kinh số X (thần kinh lang thang) -> ho
 
 Ho là phản xạ làm sạch đường dẫn khí
 
@@ -322,4 +322,4 @@ Thụ thể ho gồm:
 
 ### Phản xạ nuốt
 
-Khi nuốt thì nắm thanh môn sẽ đóng lại để tránh thức ăn vào thanh quản mà đi mà thực quản —>người bị mất phản xạ nuốt thì người ta phải đặt ống thông mũi dạ dày
+Khi nuốt thì nắm thanh môn sẽ đóng lại để tránh thức ăn vào thanh quản mà đi mà thực quản ->người bị mất phản xạ nuốt thì người ta phải đặt ống thông mũi dạ dày
