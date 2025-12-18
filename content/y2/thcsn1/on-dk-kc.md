@@ -12,12 +12,12 @@ category: lab
 Các nhóm vi nấm có hình dạng tương tự nhau:
 
 - Có khoang dạng ô vuông, ô vuông:
-    - <u>*Microsporum canis*</u>: sắc nét, đầu nhọn -> phân giải cao -> số khoang >= 6
-    - <u>*Microsporum gypseum*</u>: mờ hơn, đầu tròn, mập -> phân giải thấp -> số khoang < 6
-    - <u>*Epidermophyton floccosum*</u>: tương tự *M.gypseum* nhưng ốm hơn và thưa thớt hơn (bào tử hình vợt)
+  - <u>*Microsporum canis*</u>: sắc nét, đầu nhọn -> phân giải cao -> số khoang >= 6
+  - <u>*Microsporum gypseum*</u>: mờ hơn, đầu tròn, mập -> phân giải thấp -> số khoang < 6
+  - <u>*Epidermophyton floccosum*</u>: tương tự *M.gypseum* nhưng ốm hơn và thưa thớt hơn (bào tử hình vợt)
 - Vi nấm có tiểu bào ĐÀI (liên tưởng đến ĐÀI hoa)
-    - <u>*Aspergillus sp.*</u>: nở bông, tròn tròn
-    - <u>*Penicillium sp.*</u>: chuỗi hạt, dài ra như lúa
+  - <u>*Aspergillus sp.*</u>: nở bông, tròn tròn
+  - <u>*Penicillium sp.*</u>: chuỗi hạt, dài ra như lúa
 - Vi nấm có bào tử ĐÍNH
     - <u>*Trichophyton rubrum*</u>: đính hình giọt nước song song
     - <u>*Sporothrix schenckii*</u>: giọt nước, mọc lan ran
@@ -43,8 +43,8 @@ Khác, nhóm độc lạ bình dương với 1 đặc trưng duy nhất:
 Giun:
 
 - *Ascaris lumbricoides*</u>:
-    - <u>*Ascaris lumbricoides*</u> T chắc: tròn tròn, nhiều vòng đồng tâm
-    - <u>*Ascaris lumbricoides*</u> T lép: bên trong nâu đục, vỏ ngoài XÙ XÌ
+  - <u>*Ascaris lumbricoides*</u> T chắc: tròn tròn, nhiều vòng đồng tâm
+  - <u>*Ascaris lumbricoides*</u> T lép: bên trong nâu đục, vỏ ngoài XÙ XÌ
 
 ## Giun & Sán
 
