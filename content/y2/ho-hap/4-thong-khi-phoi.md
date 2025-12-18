@@ -322,4 +322,4 @@ Thụ thể ho gồm:
 
 ### Phản xạ nuốt
 
-Khi nuốt thì nắm thanh môn sẽ đóng lại để tránh thức ăn vào thanh quản mà đi mà thực quản ->người bị mất phản xạ nuốt thì người ta phải đặt ống thông mũi dạ dày
+Khi nuốt thì nắm thanh môn sẽ đóng lại để tránh thức ăn vào thanh quản mà đi mà thực quản -> người bị mất phản xạ nuốt thì người ta phải đặt ống thông mũi dạ dày
