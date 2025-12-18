@@ -19,8 +19,8 @@ Các nhóm vi nấm có hình dạng tương tự nhau:
   - <u>*Aspergillus sp.*</u>: nở bông, tròn tròn
   - <u>*Penicillium sp.*</u>: chuỗi hạt, dài ra như lúa
 - Vi nấm có bào tử ĐÍNH
-    - <u>*Trichophyton rubrum*</u>: đính hình giọt nước song song
-    - <u>*Sporothrix schenckii*</u>: giọt nước, mọc lan ran
+  - <u>*Trichophyton rubrum*</u>: đính hình giọt nước song song
+  - <u>*Sporothrix schenckii*</u>: giọt nước, mọc lan ran
 
 Nhóm <u>*Malassezia furfur*</u> & <u>*Candida albicans*</u> (vi nấm có tế bào hạt men):
 
@@ -55,11 +55,11 @@ Giun:
 Trùng chân giả - amip có 2 thể
 
 - Thể HĐ:
-	- *Entamoeba histolytica* HĐ: chân giả, nhân thể nằm trung tâm ở nhân.
-	- *Entamoeba coli* HĐ: bắt màu xanh, không thấy chân giả, nhân thể lệch.
+ 	- *Entamoeba histolytica* HĐ: chân giả, nhân thể nằm trung tâm ở nhân.
+ 	- *Entamoeba coli* HĐ: bắt màu xanh, không thấy chân giả, nhân thể lệch.
 - Thể BN:
-	- *Entamoeba histolytica* BN: không có chân giả, có 1-4 nhân.
-	- *Entamoeba coli* BN: trên 4 nhân, nhân thể lệch.
+ 	- *Entamoeba histolytica* BN: không có chân giả, có 1-4 nhân.
+ 	- *Entamoeba coli* BN: trên 4 nhân, nhân thể lệch.
 
 *Balantidium coli*: lớn nhất, nhân lớn hình hạt đậu.
 
@@ -82,16 +82,15 @@ Chấm đỏ đỏ:
 KST sốt rét phải thấy hồng cầu: tư dưỡng, giao bào, phân liệt
 
 - *Plasmodium falciparum*:
-	- *Plasmodium falciparum* TD: nhẫn khoảng ¼ đến 1/5 đường kính hồng cầu, một HC có thể chứa nhiều hơn 1 nhẫn.
-	- *Plasmodium falciparum* GB: trái chuối trong đám hồng cầu.
+ 	- *Plasmodium falciparum* TD: nhẫn khoảng ¼ đến 1/5 đường kính hồng cầu, một HC có thể chứa nhiều hơn 1 nhẫn.
+ 	- *Plasmodium falciparum* GB: trái chuối trong đám hồng cầu.
 - *Plasmodium vivax*: HC có *Plasmodium vivax* kí sinh có kích thước lớn hơn HC bình thường.
-	- *Plasmodium vivax* TD: nhẫn đường kính khoảng ½ đường kính hồng cầu -> tối đa 1 nhẫn/1 HC.
-	- *Plasmodium vivax* GB: khối đậm chiếm gần hết HC.
-	- *Plasmodium vivax* PL: nhân chia thành nhiều nhân -> nhìn như hồng cầu bị vỡ ra.
+ 	- *Plasmodium vivax* TD: nhẫn đường kính khoảng ½ đường kính hồng cầu -> tối đa 1 nhẫn/1 HC.
+ 	- *Plasmodium vivax* GB: khối đậm chiếm gần hết HC.
+ 	- *Plasmodium vivax* PL: nhân chia thành nhiều nhân -> nhìn như hồng cầu bị vỡ ra.
 - *Plasmodium malariae*:
-	- *Plasmodium malariae* TD: kích thước bằng HC, tối đa 1 nhẫn/1 TB; nhân lệch 1 bên/song song 2 đường
-	- *Plasmodium malariae* GB: 
-
+ 	- *Plasmodium malariae* TD: kích thước bằng HC, tối đa 1 nhẫn/1 TB; nhân lệch 1 bên/song song 2 đường
+ 	- *Plasmodium malariae* GB:
 
 <!-- ## Giun
 

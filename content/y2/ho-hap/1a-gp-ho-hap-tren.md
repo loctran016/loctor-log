@@ -249,10 +249,14 @@ Câu hỏi 3
 Khám và soi thanh quản thấy hình dạng dây thanh bình thường (không phù nề, không sần sùi) nhưng <u>dây thanh không căng được và khép không kín</u> khi phát âm cao.
 Vậy cơ nào sau đây có tác dụng vừa làm căng vừa khép được hai dây thanh âm:**
 
-A. Cơ nhẫn giáp
-B. Cơ nhẫn–phễu sau
-C. Cơ nhẫn–phễu bên
-D. Cơ phễu ngang
+A.
+Cơ nhẫn giáp
+B.
+Cơ nhẫn–phễu sau
+C.
+Cơ nhẫn–phễu bên
+D.
+Cơ phễu ngang
 
 👉 Chọn câu A.
 ::

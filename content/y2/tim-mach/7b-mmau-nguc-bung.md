@@ -11,8 +11,8 @@ tags: ['GP']
 - ĐM chủ lên
 - Cung ĐM chủ
 - ĐM chủ xuống, gồm 2 phần
-	- ĐM chủ ngực: ngực 4 -> 12
-	- ĐM chủ bụng: ngực 12 -> L4
+ 	- ĐM chủ ngực: ngực 4 -> 12
+ 	- ĐM chủ bụng: ngực 12 -> L4
 
 ::badge{type=“tip}
 #title
@@ -45,16 +45,16 @@ Phân nhánh:
 
 - Các nhánh màng ngoài tim.
 - Các động mạch phế quản: đều chạy phía sau phế quản.
-	- Một ĐM phế quản phải
-	- Hai ĐM phế quản trái: ĐM phế quản **TRÊN/DƯỚI** trái
-	- Cung cấp dinh dưỡng cho phế quản vì ĐM và TM phổi *chỉ* trao đổi khí
+ 	- Một ĐM phế quản phải
+ 	- Hai ĐM phế quản trái: ĐM phế quản **TRÊN/DƯỚI** trái
+ 	- Cung cấp dinh dưỡng cho phế quản vì ĐM và TM phổi *chỉ* trao đổi khí
 - Các động mạch thực quản: 4-5 nhánh
 - Các nhánh trung thất
 - Các nhánh hoành trên
 - Các ĐM gian sườn sau: có 9 cặp => cấp máu cho KLS 3 - 11.
-	- Còn gọi là ĐM liên sườn
-	- Nhánh gian sườn đầu tiên của ĐM chủ ngực: =c=ĐM gian sườn sau phải thứ 3==
-	- Thân sườn cổ của động mạch dưới đòn -> ĐM liên sườn trên -> cấp máu cho =c=KLS 1 và 2==.
+ 	- Còn gọi là ĐM liên sườn
+ 	- Nhánh gian sườn đầu tiên của ĐM chủ ngực: =c=ĐM gian sườn sau phải thứ 3==
+ 	- Thân sườn cổ của động mạch dưới đòn -> ĐM liên sườn trên -> cấp máu cho =c=KLS 1 và 2==.
 - Các động mạch dưới sườn: đây là cặp cuối cùng tách ra từ động mạch chủ ngực
 
 ## ĐM chủ bụng
@@ -67,9 +67,9 @@ Vị trí: T12 -> L4
 Phân nhánh: có 4 loại nhánh
 
 - Nhánh bụng: 3 nhánh
-	- ĐM thân tạng
-	- ĐM mạc treo tràng trên
-	- ĐM mạc treo tràng dưới.
+ 	- ĐM thân tạng
+ 	- ĐM mạc treo tràng trên
+ 	- ĐM mạc treo tràng dưới.
 - Nhánh lưng: các ĐM thắt lưng và ĐM cùng giữa.
 - Nhánh bên: các ĐM hoành dưới, ĐM thượng thận giữa, ĐM thận, ĐM sinh dục (tinh hoàn/buồng trứng).
 - Nhánh cùng: ĐM chậu chung
@@ -82,10 +82,10 @@ Vị trí & tính chất:
 - Dài khoảng 1.25cm
 - Chạy
 ngang ra trước và hơi lệch sang phải
-- Chia thành 3 nhánh tận: 
-	- động mạch vị trái: nhánh nhỏ nhất của ĐM thân tạng
-	- động mạch gan chung
-	- động mạch lách: nhánh lớn nhất của ĐM thân tạng
+- Chia thành 3 nhánh tận:
+ 	- động mạch vị trái: nhánh nhỏ nhất của ĐM thân tạng
+ 	- động mạch gan chung
+ 	- động mạch lách: nhánh lớn nhất của ĐM thân tạng
 
 <u>1. Động mạch vị trái.</u>
 
@@ -99,24 +99,25 @@ ngang ra trước và hơi lệch sang phải
 - Nhánh lớn nhất tách ra từ động mạch thân tạng
 - Chạy ngang sang trái dọc bờ trên tụy đến đuôi tụy, rồi chạy ra mặt trước đuôi tụy để đi vào dây chằng hoành lách tới rốn lách.
 - 4 nhánh tụy:
-	- Động mạch tụy lớn
-	- Động mạch tụy lưng
-	- Động mạch tụy dưới
-	- Động mạch tụy đuôi
+ 	- Động mạch tụy lớn
+ 	- Động mạch tụy lưng
+ 	- Động mạch tụy dưới
+ 	- Động mạch tụy đuôi
 - 3 nhánh vị:
-	- Các động mạch vị ngắn: nuôi đáy vị
-	- Động mạch vị sau cấp máu cho mặt sau đáy vị
-	- Động mạch vị mạc nối trái: là nhánh lớn nhất của động mạch lách, phát sinh gần cuống lách
+ 	- Các động mạch vị ngắn: nuôi đáy vị
+ 	- Động mạch vị sau cấp máu cho mặt sau đáy vị
+ 	- Động mạch vị mạc nối trái: là nhánh lớn nhất của động mạch lách, phát sinh gần cuống lách
 - 2-3 nhánh tận cho lách
 
 <u>3.Động mạch gan chung</u>: Tách ra từ động mạch thân tạng, khi tới bờ trái của tĩnh mạch cửa thì chia làm 2 ngành cùng là động mạch vị tá tràng và động mạch gan riêng
+
 - =r=Động mạch gan riêng== chạy ngược lên trên trước tĩnh mạch cửa, lách giữa 2 lá của mạc nối nhỏ rồi chia ở cửa gan thành 2 ngành cùng phải và trái, =a=cần nhớ là
 ngành phải tách ra động mạch túi mật==.
-	- Ngành bên: động mạch vị phải -> nối với động mạch vị trái của động mạch thân tạng dọc =c=bờ cong nhỏ của dạ dày==.
+ 	- Ngành bên: động mạch vị phải -> nối với động mạch vị trái của động mạch thân tạng dọc =c=bờ cong nhỏ của dạ dày==.
 - =r=Động mạch vị tá tràng==: tách ra từ động mạch gan chung ở phía sau phần trên tá tràng, chạy xuống dưới ở giữa tá tràng và cổ tụy, tách thành 2 nhánh ở sau
 tá tràng:
-	- Động mạch vị mạc nối phải: nối với động mạch vị
-mạc nối trái của động mạch lách, =c=chạy dọc bờ cong lớn dạ dày== 
-	- Các động mạch tá tụy trên: tách ra 2 nhánh trước và sau -> cấp máu cho khối tá tụy
+ 	- Động mạch vị mạc nối phải: nối với động mạch vị
+mạc nối trái của động mạch lách, =c=chạy dọc bờ cong lớn dạ dày==
+ 	- Các động mạch tá tụy trên: tách ra 2 nhánh trước và sau -> cấp máu cho khối tá tụy
 
 ### ĐM mạc treo tràng trên
