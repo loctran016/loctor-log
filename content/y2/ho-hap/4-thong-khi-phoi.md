@@ -23,10 +23,16 @@ Quy tắc khi hít vào: ==P phế nang < 760mmHg (P khí trời)== -> khí vào
 - Chênh lệch P phế nang < 0 (P phế nang < P khí quyển): =a=kiểu thở âm== -> Sinh lí bình thường - giảm áp suất của phổi
 - Chênh lệch P phế nang > 0 (P phế nang >= P khí quyển): kiểu thở dương => thở mặt nạ hay thông ống nội khí quản - tăng áp suất khí bên ngoài
 
+![Hít vào - cơ hoành co, thở ra - cơ hoành dãn](/y2/ho-hap/4-3.jpeg)
+
 Cơ hoành co giảm áp suất phổi khi hít vào =c=(PV=const)==:
 
 - Trong thì hít vào, cơ hoành dạng hình vòm co lại, khoang bụng bắt buộc hạ xuống và đi ra phía trước, và xương sườn thì mở rộng ra -> tăng thể tích khoang ngực —> giảm áp suất lồng ngực —> giảm áp suất màn phổi —> giảm áp suất phế nang
 - Trong thì thở ra, cơ bụng co lại và đẩy cơ hoành lên
+
+![Cơ hoành co khi hít vào](/y2/ho-hap/4-4.jpeg)
+
+![Chênh lệch P phế nang và P khí quyển trong thì hít vào và thở ra](/y2/ho-hap/4-5.jpeg)
 
 Trong thời kì thở bình thường thì thời gian thở ra gấp đôi thời gian hít vào.
 Cuối thì thở ra, đầu thì hít vào: P khí quyển = P phế nang
@@ -40,6 +46,8 @@ Cuối thì thở ra, đầu thì hít vào: P khí quyển = P phế nang
 3. Khi thở ra thì thể tích phổi giảm
     - P phế nang tăng lên —> không khí đi ra làm P phế nang giảm xuống cho đến khi đạt cân bằng với P khí quyển thì dừng lại
     - Áp suất màng phổi tăng
+
+![Sự thay đổi áp suất phế nang, màng phổi trong quá trình hô hấp](/y2/ho-hap/4-6.jpeg)
 
 ### Màng phổi
 
@@ -60,6 +68,8 @@ Khi bị đâm thủng vô màng phổi thì màng phổi thông thương với 
 
 - Chênh lệch áp suất giữa phế nang và áp suất màng phổi
 - Cho biết lực đàn hồi của phổi: là lực có xu hướng kéo phổi xẹp lại
+
+![Áp suất xuyên phổi](/y2/ho-hap/4-7.jpeg)
 
 Từ khoảng giữa thì hít vào đến cuối thì hít vào, áp suất xuyên phổi rất lớn, vì khi hít vào thì:
 
@@ -130,12 +140,15 @@ Lượng CO<sub>2</sub> thải ra hay thông khí phế nang tăng càng nhiều
 
 Lượng CO<sub>2</sub> trong máu động mạch tăng thì lượng CO<sub>2</sub> thải ra ở phổi thấp hơn lượng CO<sub>2</sub> tạo ra
 
+![Liên hệ giữa TKPN và PaCO2](/y2/ho-hap/4-9.jpeg)
+
 Lượng PaCO<sub>2</sub> phụ thuộc vào:
 
 - Lượng CO<sub>2</sub> tạo ra qua chu trình Krebs
 - Lượng CO<sub>2</sub> thải ra qua phổi
 
-=> Bất kì biến động nào của PaCO<sub>2</sub> cũng do ảnh hưởng của hai quá trình này. Vậy nên khi PaCO<sub>2</sub> tăng thì chứng tỏ lượng CO<sub>2</sub> thải qua phổi ít hơn lượng CO<sub>2</sub> được tạo ra
+=> Bất kì biến động nào của PaCO<sub>2</sub> cũng do ảnh hưởng của hai quá trình này.
+Vậy nên khi PaCO<sub>2</sub> tăng thì chứng tỏ lượng CO<sub>2</sub> thải qua phổi ít hơn lượng CO<sub>2</sub> được tạo ra
 
 ## Tính đàn hồi của phổi và lồng ngực
 
@@ -144,7 +157,7 @@ Tính đàn hồi của phổi:
 - 1/3 do sợi đàn hồi
 - 2/3 do dịch lót PN surfactant
 
-Suất đàn của phổi:
+<!-- Suất đàn của phổi: -->
 
 ### Tính đàn hồi của phổi nhờ vào sợi đàn hồi
 
@@ -160,7 +173,10 @@ Giữa thì hít vào:
 - Sự chênh lệch áp suất tăng lên -> cơ hô hấp có xu hướng kéo thành ngực ra (hướng ra ngoài)
 - Lực phổi kéo vô trong làm phổi co lại
 
-Lực cơ hô hấp còn thắng lực kéo thắng lực kéo vào của phổi <=> hít vào. Khi nó chấm dứt thì mình thở ra do lúc này lực của cơ hô hấp biến mất, lực kéo vào của phổi lớn hơn lực kéo ra của thành ngực —> thở ra thụ động
+![Sợi đàn hổi làm phổi co lại](/y2/ho-hap/4-10.jpeg)
+
+Lực cơ hô hấp còn thắng lực kéo thắng lực kéo vào của phổi <=> hít vào.
+Khi nó chấm dứt thì mình thở ra do lúc này lực của cơ hô hấp biến mất, lực kéo vào của phổi lớn hơn lực kéo ra của thành ngực —> thở ra thụ động
 
 ### Tính đàn hồi của phổi nhờ vào dịch lót PN surfactant
 
@@ -179,19 +195,20 @@ Thể tích tối đa của phổi:
 - Phế nang có nhiều kích thước khác nhau.
 - Cùng một lực tác động lên là T, với đường kính (r) khác nhau thì áp suất (P) tác động lên sẽ khác nhau
 
-=> Đường kính bé nhất sẽ dễ bị xẹp nhất, đường kính lớn hơn thì khó bị xẹp hơn. Vậy cơ thể của chúng ta sẽ chống lại bằng chất hoạt diện surfactant
+=> Đường kính bé nhất sẽ dễ bị xẹp nhất, đường kính lớn hơn thì khó bị xẹp hơn.
+Vậy cơ thể của chúng ta sẽ chống lại bằng chất hoạt diện surfactant
 
 ==Surfactant (chất hoạt diện)==:
 
 - Tế bào biểu bì loại 2 tiết ra
 - Gồm:
-    - Dipalmitoyl phosphatidyl choline -> chất nhũ tương hoá (có 1 đầu ưa nước, 1 đầu kị nước) -> =a=ngăn cản nước co cụm lại 1 bề mặt==
-    - Apoprotein
-    - Ca++
+  - Dipalmitoyl phosphatidyl choline -> chất nhũ tương hoá (có 1 đầu ưa nước, 1 đầu kị nước) -> =a=ngăn cản nước co cụm lại 1 bề mặt==
+  - Apoprotein
+  - Ca++
 - Vai trò surfactant
-    - Giảm sức căng bề mặt: P = 2T/R ==> Phế nang có đường kính nhỏ có ít nguy cơ bị xẹp hơn
-    - Ổn định đường kính các phế nang
-    - Chống phù phế nang
+  - Giảm sức căng bề mặt: P = 2T/R ==> Phế nang có đường kính nhỏ có ít nguy cơ bị xẹp hơn
+  - Ổn định đường kính các phế nang
+  - Chống phù phế nang
 
 Tế bào phế nang type I: tạo thành vách PN
 
@@ -204,11 +221,12 @@ Hô hấp ký cho biết các thể tích, dung tích của phổi và tình tr�
 #title
 Công hô hấp:
 #default
+
 - Công thắng đàn hồi: Là lực thắng lực co lại của phổi
 - Công thắng lực kháng của mô: Khi phổi mình đứng im mà muốn phổi mình di động thì mình phải thắng được tính trơ của nó
 - Công thắng lực ma sát: quan tâm ở người có đường thở hẹp (COPD, hen), khi họ thở nhanh thì lực ma sát của đường dẫn khí tăng lên vì
-    - Đường dẫn khí của mình là một cái ống: thiết diện càng bé thì lực ma sát sẽ càng lớn.
-    - Khi đường dẫn khí của mình co thắt thì sẽ tăng kháng trở đường dẫn khí —> tăng lực ma sát
+  - Đường dẫn khí của mình là một cái ống: thiết diện càng bé thì lực ma sát sẽ càng lớn.
+  - Khi đường dẫn khí của mình co thắt thì sẽ tăng kháng trở đường dẫn khí —> tăng lực ma sát
 ::
 
 ### Biểu đồ thành phần khí trong phổi
@@ -219,9 +237,12 @@ Phân tích biểu đồ:
 - Thể tích dự trữ hít vào: khi mình hít vào sâu hơn thì mình sẽ hít vào nhiều hơn
 - Thể tích dự trữ thở ra: Khi mình thở ra hết sức thì mình sẽ thở ra nhiều hơn
 - Dung tích cặn cơ năng: Khi mình hít thở bình thường thì mình lúc nào cũng có.
-- Thể tích cặn: dù mình có cố gắng hít thở như thế nào đi nữa thì phổi vẫn giữ cho phổi có khí và phế nang -> đảm bảo khí và PN lúc nào cũng mở ra -> hô hấp sẽ hiệu quả hơn là phế nang đóng lại. Khi phế nang đóng lại thì tim bơm máu lên phổi không thể trao đổi khí được, hơn nữa mình phải tốn công hô hấp rất là nhiều để mở phế nang ra (giống tình trạng của đứa bé lúc mới sinh ra nó phải khóc rất to mới đủ công để mở phế nang ra).
+- Thể tích cặn: dù mình có cố gắng hít thở như thế nào đi nữa thì phổi vẫn giữ cho phổi có khí và phế nang -> đảm bảo khí và PN lúc nào cũng mở ra -> hô hấp sẽ hiệu quả hơn là phế nang đóng lại.
+Khi phế nang đóng lại thì tim bơm máu lên phổi không thể trao đổi khí được, hơn nữa mình phải tốn công hô hấp rất là nhiều để mở phế nang ra (giống tình trạng của đứa bé lúc mới sinh ra nó phải khóc rất to mới đủ công để mở phế nang ra).
 - Tổng dung lượng phổi là toàn bộ thể tích phổi
 - Dung tích sống là tổng của dung tích hít vào, thể tích lưu thông và thể tích thở ra, =c=đo dung tích sống bằng hô hấp ký==
+
+![Thể tích khí lưu thông trong phổi](/y2/ho-hap/4-11.jpeg)
 
 Thành phần và phân áp khí:
 
@@ -232,39 +253,42 @@ Thành phần và phân áp khí:
 #title
 Tốc độ làm sạch khí phế nang tỉ lệ thuận với thông khí phế nang, đánh giá bằng CO2 thay vì O2 vì:
 #default
+
 - O2 liên tục hấp thu vào nên khó có thể đo chính xác được.
 - O2 của mình không tương quan tốt đối với thông khí phế nang
 bằng CO2
 ::
 
-
 ## Chức năng đường dẫn khí
 
 Vai trò:
 
-- Làm ẩm, Làm ấm: nhờ vùng mũi hầu, đặc biệt là vùng mũi của chúng ta có nhiều mạch máu. Thời tiết khô -> bị mất nước nhiều —> co thắt phế quản gắng sức
+- Làm ẩm, Làm ấm: nhờ vùng mũi hầu, đặc biệt là vùng mũi của chúng ta có nhiều mạch máu.
+Thời tiết khô -> bị mất nước nhiều —> co thắt phế quản gắng sức
 - Phát âm:
-    - Khi mình hít thở thì dây thanh âm sẽ mở ra
-    - Khi phát âm thì dây thanh âm sẽ khép lại, rung rung tạo thành âm thanh nguyên thuỷ (âm thanh ban đầu), sau đó qua mũi và miệng thì tạo thành âm thanh ta nghe được
+  - Khi mình hít thở thì dây thanh âm sẽ mở ra
+  - Khi phát âm thì dây thanh âm sẽ khép lại, rung rung tạo thành âm thanh nguyên thuỷ (âm thanh ban đầu), sau đó qua mũi và miệng thì tạo thành âm thanh ta nghe được
 - Ngăn cản vật lạ
     – Vùng mũi hầu: hạt > 10µm
     – Khí phế quản: hạt 2-10µm
-    – Phế nang: hạt < 2µm (Hạt PM) - gây ra bệnh phù phổi ở những người làm ở hầm than, hầm mỏ, ở thành phố bị ô nhiễm quá. Hít quá nhiều hạt PM -> hoại tử vùng phổi của mình —> chết
+    – Phế nang: hạt < 2µm (Hạt PM) - gây ra bệnh phù phổi ở những người làm ở hầm than, hầm mỏ, ở thành phố bị ô nhiễm quá.
+Hít quá nhiều hạt PM -> hoại tử vùng phổi của mình —> chết
 - Gây khoảng chết
 
-Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc sẽ giảm xuống ==> hạt PM. 2.5 sẽ lắng động trong phế quản tận cùng, phế nang. Như vậy, vận tốc trao đổi khi gần như bằng 0 và sự trao đổi khí sẽ dựa vào gradient nồng độ giữa các khí
+Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc sẽ giảm xuống ==> hạt PM. 2.5 sẽ lắng động trong phế quản tận cùng, phế nang.
+Như vậy, vận tốc trao đổi khi gần như bằng 0 và sự trao đổi khí sẽ dựa vào gradient nồng độ giữa các khí
 
 ### Điều hòa co cơ trơn đường dẫn khí
 
 Điều hoà co cơ trơn đường dẫn khí dựa vào hai hệ:
 
 - **Hệ andrenergic:** qua thụ thể beta-2 ở cơ trơn tiểu PQ (loại Galphaq)
-    - Thuốc đồng vận beta-2: phá huỷ subunit-alpha -> dãn cơ trơn đường dẫn khí (mao mạch, tạng rỗng) -> =c=điều trị hen==
-    - Thuốc đồng vận beta-1: tim làm tăng nhịp tim (trong trường hợp đồng vận không chọn lọc beta-1 và beta-2)
+  - Thuốc đồng vận beta-2: phá huỷ subunit-alpha -> dãn cơ trơn đường dẫn khí (mao mạch, tạng rỗng) -> =c=điều trị hen==
+  - Thuốc đồng vận beta-1: tim làm tăng nhịp tim (trong trường hợp đồng vận không chọn lọc beta-1 và beta-2)
 - **Hệ cholinergic:** acetylcholin có thể gắn lên thụ thể muscarinic ở => có thuốc anti-cholinergic có tác động dãn cơ trơn đường dẫn khí
-    - Sợi tiền hạch (M1): kích thích co thắt cơ trơn phế quản
-    - Sợi hậu hạch (M2): ức chế co thắt cơ trơn phế quản nhưng rất yếu
-    - Cơ trơn (M3): kích thích co thắt cơ trơn phế quản
+  - Sợi tiền hạch (M1): kích thích co thắt cơ trơn phế quản
+  - Sợi hậu hạch (M2): ức chế co thắt cơ trơn phế quản nhưng rất yếu
+  - Cơ trơn (M3): kích thích co thắt cơ trơn phế quản
 
 ## Các phản xạ bảo vệ đường dẫn khí
 
@@ -276,7 +300,8 @@ Phản xạ:
 
 ### Phản xạ hắt hơi
 
-Phản xạ hắt hơi: Kích thích ở mũi —> kích thích dây thần kinh số V (thần kinh sinh ba), dây này phân bố ở vùng mũi họng —> co cơ hoành trước, hút không khí vào rồi đóng nắp thanh môn. Sau đó cơ hoành co tống khí ra, mở nắp thanh môn ra, hạ lưỡi gà xuống và không khí đi ra vùng mũi họng
+Phản xạ hắt hơi: Kích thích ở mũi —> kích thích dây thần kinh số V (thần kinh sinh ba), dây này phân bố ở vùng mũi họng —> co cơ hoành trước, hút không khí vào rồi đóng nắp thanh môn.
+Sau đó cơ hoành co tống khí ra, mở nắp thanh môn ra, hạ lưỡi gà xuống và không khí đi ra vùng mũi họng
 
 ### Phản xạ ho
 

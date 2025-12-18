@@ -11,22 +11,22 @@ Nhóm triệu chứng hệ hô hấp (khó thở):
 - Khó thở khi gắng sức: Khi gắng sức → mô cần oxy → =c=kích thích hệ TK giao cảm== → tăng nhịp tim, tăng sức co bóp cơ tim mà tim suy nên k co đc → ↑ nhịp tim → ↓ thời gian tâm trương → máu ứ thất T nhiều hơn → máu ở nhĩ T nhiều hơn → ứ đọng ↑ → khó thở
 - Khó thở khi nằm: Khi nằm thì máu về tim nhiều  -> ứ thất T → phù mô kẽ phổi → đường kính PN nhỏ lại, giảm S<sup>t/x</sup> -> kích thích dây X (thiếu O<sup>2</sup>) → nằm cao hơn hoặc ngồi dậy
 - Khó thở kịch phát về đêm:
- 	- Đêm: đối GC hoạt động nhiều hơn, sự bù trừ của GC ↓ → dễ sung huyết
- 	- Nằm thẳng → khó thở khi nằm
- 	- Về đêm KK lạnh, ↑ kích thích đường thở → người suy tim khó thở kịch phát về đêm
- 	- *Kịch phát*: Khi khó thở, người ta thức dậy thì thấy dễ thở dần → nằm xuống ngủ lại → khó thở → ngồi dậy → dễ thở…
+  - Đêm: đối GC hoạt động nhiều hơn, sự bù trừ của GC ↓ → dễ sung huyết
+  - Nằm thẳng → khó thở khi nằm
+  - Về đêm KK lạnh, ↑ kích thích đường thở → người suy tim khó thở kịch phát về đêm
+  - *Kịch phát*: Khi khó thở, người ta thức dậy thì thấy dễ thở dần → nằm xuống ngủ lại → khó thở → ngồi dậy → dễ thở…
 - Rale ở phổi: Khi dịch thoát vào PN → dính PN lại với nhau, khi BN hít thở → PN bóc tách ra → rale ẩm
 
 Các triệu chứng khác:
 
 - TM cảnh nổi: Thất P bị suy → bơm máu lên phổi bị hạn chế → máu ứ ở thất P, nhĩ P, TM chủ trên và TMC dưới
- 	- Ứ ở TMC trên → TM cảnh ứ
- 	- Ứ ở TMC dưới (TMC dưới là hợp lưu TM gan) → gan to → ứ ở lách, ruột (có thể dẫn đến tràn dịch màng bụng) → ứ dần xuống chân → phù chân
+  - Ứ ở TMC trên → TM cảnh ứ
+  - Ứ ở TMC dưới (TMC dưới là hợp lưu TM gan) → gan to → ứ ở lách, ruột (có thể dẫn đến tràn dịch màng bụng) → ứ dần xuống chân → phù chân
 - =a=Phù (trong suy tim: mềm, ấn lõm, k đau, phù 2 chân)==: ↑ áp lực thủy tĩnh toàn bộ, nên =r=phù 2 chân== (phù 1 chân k thể do suy tim)
- 	- RAAS: tăng áp suất thuỷ tĩnh toàn cơ thể
+  - RAAS: tăng áp suất thuỷ tĩnh toàn cơ thể
 - Gan to - trong suy tim: to đều hết gan, bờ gan tù, căng tức k đau đớn dữ dằn
- 	- Thất P co bóp yếu -> ứ máu TM chủ dưới, TM trên gan, xoang gan
- 	- Ứ máu kéo dài -> TB gan thiếu Oxy, hoại tử -> mô xơ phát triển -> =a=xơ gan cổ trướng và rối loạn chức năng gan==
+  - Thất P co bóp yếu -> ứ máu TM chủ dưới, TM trên gan, xoang gan
+  - Ứ máu kéo dài -> TB gan thiếu Oxy, hoại tử -> mô xơ phát triển -> =a=xơ gan cổ trướng và rối loạn chức năng gan==
 
 ### Bất thường của sóng P và phức bộ QRS trên ECG và giải thích tại sao
 
@@ -44,8 +44,8 @@ ST ở DII, DIII, aVF chênh xuống và âm: là tái cực bất thường
 
 - Thông thường tái cực bất thường theo sau khử cực bất thường
 - Không có khử cực bất thường → Loại trừ ST thay đổi do khử cực bất thường, hay do dày thất, hay do block nhánh -> ST chênh xuống do TMCT cục bộ, sự thay đổi PT, ST bất thường có thể ngphat hay thứ phát
- 	- Thứ phát: khử cực bất thường → tái cực bất thường
- 	- Ngphat: TMCT dưới nội tâm mạc
+  - Thứ phát: khử cực bất thường → tái cực bất thường
+  - Ngphat: TMCT dưới nội tâm mạc
 
 ## Tại sao BN đang ổn định với điều trị suy tim, khi bị rung nhĩ bệnh nhân suy tim nặng hơn
 
