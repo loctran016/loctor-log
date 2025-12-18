@@ -258,7 +258,7 @@ Cùng một lực hít vào, khi mà diện tích càng tăng thì vận tốc s
 
 Điều hoà co cơ trơn đường dẫn khí dựa vào hai hệ:
 
-- **Hệ andrenergic:** qua thụ thể beta-2 ở cơ trơn tiểu PQ (loại G<sub>S</sub>)
+- **Hệ andrenergic:** qua thụ thể beta-2 ở cơ trơn tiểu PQ (loại Galphaq)
     - Thuốc đồng vận beta-2: phá huỷ subunit-alpha -> dãn cơ trơn đường dẫn khí (mao mạch, tạng rỗng) -> =c=điều trị hen==
     - Thuốc đồng vận beta-1: tim làm tăng nhịp tim (trong trường hợp đồng vận không chọn lọc beta-1 và beta-2)
 - **Hệ cholinergic:** acetylcholin có thể gắn lên thụ thể muscarinic ở => có thuốc anti-cholinergic có tác động dãn cơ trơn đường dẫn khí
