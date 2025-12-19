@@ -102,9 +102,13 @@ CÂU HỎI CLICKER (1)
 Bệnh nhân nam, 50 tuổi. Nhập viện vì ho, sốt kéo dài, thỉnh thoảng ho ra máu, không sụt cân. Tiền sử bị lao cách 5 năm, điều trị đúng và đủ liều. Chụp x quang phổi phát hiện thấy một khối u tròn, có liềm hơi phía trên. Bệnh nhân được chẩn đoán là bướu nấm ở phổi do vi nấm Aspergillus sp.
 
 Cơ chế bệnh sinh trong trường hợp bệnh này là gì?
+
 A. Vi nấm phát triển xâm nhập nhu mô phổi.
+
 B. Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
+
 C. Vi nấm gây hoại tử nhu mô.
+
 D. Vi nấm phát triển bên trong hang lao có sẵn.
 
 ĐÁP ÁN: D
