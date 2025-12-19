@@ -1,5 +1,5 @@
 ---
-title: Bài 3 - Vi khuẩn, virus, vi nấm tấn công hệ hô hấp
+title: Bài 3 - ĐK-KC hệ hô hấp
 date: 2025-12-01
 tags: ['SL bệnh']
 ---
