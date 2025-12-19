@@ -231,7 +231,10 @@ Công hô hấp:
 
 ### Biểu đồ thành phần khí trong phổi
 
-Phân tích biểu đồ:
+::badge{type="detail"}
+#title
+Giải thích biểu đồ
+#default
 
 - Thể tích lưu thông (những cái sóng trên hình): hít thở bình thường.
 - Thể tích dự trữ hít vào: khi mình hít vào sâu hơn thì mình sẽ hít vào nhiều hơn
@@ -241,7 +244,7 @@ Phân tích biểu đồ:
 Khi phế nang đóng lại thì tim bơm máu lên phổi không thể trao đổi khí được, hơn nữa mình phải tốn công hô hấp rất là nhiều để mở phế nang ra (giống tình trạng của đứa bé lúc mới sinh ra nó phải khóc rất to mới đủ công để mở phế nang ra).
 - Tổng dung lượng phổi là toàn bộ thể tích phổi
 - Dung tích sống là tổng của dung tích hít vào, thể tích lưu thông và thể tích thở ra, =c=đo dung tích sống bằng hô hấp ký==
-
+::
 ![Thể tích khí lưu thông trong phổi](/y2/ho-hap/4-11.jpeg)
 
 Thành phần và phân áp khí:
