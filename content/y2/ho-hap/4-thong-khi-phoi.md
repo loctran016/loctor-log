@@ -217,7 +217,7 @@ Tế bào phế nang type I: tạo thành vách PN
 Hô hấp ký cho biết các thể tích, dung tích của phổi và tình trạng đường dẫn khí của hệ hô hấp
 => đo được dung tích sống của phổi -> biết được tìnnh trạng tắt nghẽn của đường dẫn khí
 
-::badge{type="detail"}
+::detail
 #title
 Công hô hấp:
 #default
@@ -231,7 +231,7 @@ Công hô hấp:
 
 ### Biểu đồ thành phần khí trong phổi
 
-::badge{type="detail"}
+::detail
 #title
 Giải thích biểu đồ
 #default

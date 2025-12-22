@@ -82,7 +82,7 @@ Sau đó có thể phát tán ra toàn thân, lan đến não
   - Không xâm nhập nhu mô phổi.
   - Hình thành quả banh nấm (fungus ball): không có TB ký chủ
 
-::badge{type="detail"}
+::detail
 #title
 BN COVID và nguy cơ lây nhiễm nấm *Aspergillus spp*
 #default
@@ -179,7 +179,7 @@ Các tổn thương tại phổi:
 - Nốt và u hạt: chỉ thấy ở giai đoạn mạn
 - Vôi hóa
 
-::badge{type="detail"}
+::detail
 
 #title
 Điều trị bằng thuốc cochimocxadon

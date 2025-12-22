@@ -5,7 +5,7 @@ date: 2025-10-03
 
 <!-- markdownlint-disable MD018 -->
 
-::badge{type="detail"}
+::detail
 
 #title
 
