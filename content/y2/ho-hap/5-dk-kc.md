@@ -91,7 +91,8 @@ ngày thì sẽ xuất hiện nấm *Aspergillus spp* rất nhiều.
 
 Vì khi miễn dịch người bệnh suy giảm, chúng ta can thiệp với nội khí quản,
 đặt ống thở vào đường hô hấp thì đó là một trong những yêu tố nguy cơ
-giúp cho bệnh cơ hội. Những bệnh mà bth chỉ gây bệnh nhẹ hoặc không gây
+giúp cho bệnh cơ hội.
+Những bệnh mà bth chỉ gây bệnh nhẹ hoặc không gây
 bệnh thì bây giờ gây bệnh nặng thật sự
 ::
 
@@ -99,17 +100,25 @@ bệnh thì bây giờ gây bệnh nặng thật sự
 #title
 CÂU HỎI CLICKER (1)
 #default
-Bệnh nhân nam, 50 tuổi. Nhập viện vì ho, sốt kéo dài, thỉnh thoảng ho ra máu, không sụt cân. Tiền sử bị lao cách 5 năm, điều trị đúng và đủ liều. Chụp x quang phổi phát hiện thấy một khối u tròn, có liềm hơi phía trên. Bệnh nhân được chẩn đoán là bướu nấm ở phổi do vi nấm Aspergillus sp.
+Bệnh nhân nam, 50 tuổi.
+Nhập viện vì ho, sốt kéo dài, thỉnh thoảng ho ra máu, không sụt cân.
+Tiền sử bị lao cách 5 năm, điều trị đúng và đủ liều.
+Chụp x quang phổi phát hiện thấy một khối u tròn, có liềm hơi phía trên.
+Bệnh nhân được chẩn đoán là bướu nấm ở phổi do vi nấm Aspergillus sp.
 
 Cơ chế bệnh sinh trong trường hợp bệnh này là gì?
 
-A. Vi nấm phát triển xâm nhập nhu mô phổi.
+A.
+Vi nấm phát triển xâm nhập nhu mô phổi.
 
-B. Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
+B.
+Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
 
-C. Vi nấm gây hoại tử nhu mô.
+C.
+Vi nấm gây hoại tử nhu mô.
 
-D. Vi nấm phát triển bên trong hang lao có sẵn.
+D.
+Vi nấm phát triển bên trong hang lao có sẵn.
 
 ĐÁP ÁN: D
 ::
@@ -126,13 +135,13 @@ Tính chất chung:
 Các thể tham gia lây nhiễm:
 
 - Thể hoạt động:
-    - Thể đơn bội
-    - Thể lưỡng bội
+  - Thể đơn bội
+  - Thể lưỡng bội
 - Thể tiền bào nang
 - Thể bào nang
 - Sinh sản: tương tự đơn bào (VD: KST sốt rét) - phân đổi hoặc đơn bội (n)
-    - Hữu tính
-    - Vô tính
+  - Hữu tính
+  - Vô tính
 
 Yếu tố nguy cơ:
 
@@ -177,23 +186,28 @@ Các tổn thương tại phổi:
 #default
 Về mặt lâm sàng, khi điều trị con này ngoài dùng thuốc điều trị vi nấm này
 còn phải sử dụng các thuốc kháng viêm, thuốc ức chế miễn dịch để làm giảm
-phản ứng cơ thể. Nếu điều trị không thì sẽ không thành công vì độ nặng hay
+phản ứng cơ thể.
+Nếu điều trị không thì sẽ không thành công vì độ nặng hay
 nhẹ phụ thuộc vào phản ứng viêm của cơ thể chứ không phải do độc lực của
 vi nấm.
-Vi nấm sau khi xâm nhập vào sẽ gây ra phản ứng viêm ở ký chủ. Chính phản
+Vi nấm sau khi xâm nhập vào sẽ gây ra phản ứng viêm ở ký chủ.
+Chính phản
 ứng viêm ấy sẽ làm cho tổn thương ở phế nang nặng thêm. Đó là sự bong
 tróc, sự phù nề dày mô kẽ, tăng tính thấm, dẫn đến suy hô hấp.
 
 Do đặc điểm sinh học của vi nấm này giống như đơn bào nên thuốc chúng ta
 điều trị vi nấm không phải thuốc kháng nấm mà chúng ta sẽ sử dụng thuốc
-kháng đơn bào. Cụ thể là thuốc cochimocxadon.
+kháng đơn bào.
+Cụ thể là thuốc cochimocxadon.
 ::
 
 ### *Cryptococcus neoformans*
 
-Nấm hạt men có bao nang bao quanh. Bao nang không bị thấm bởi carbon của mực tàu
+Nấm hạt men có bao nang bao quanh.
+Bao nang không bị thấm bởi carbon của mực tàu
 
-Bao nang dày khi ký sinh. Ngoài môi trường hoặc khi nuôi cấy nang sẽ mỏng, kích thước tế bào nấm khi đó < 3μm nên dễ dàng lắng sâu trong phế nang khi hít phải.
+Bao nang dày khi ký sinh.
+Ngoài môi trường hoặc khi nuôi cấy nang sẽ mỏng, kích thước tế bào nấm khi đó < 3μm nên dễ dàng lắng sâu trong phế nang khi hít phải.
 
 Vì xâm nhập qua đường hô hấp nên triệu chứng sẽ xảy ra ở phổi đầu tiên (có thể thoáng qua) -> sau đó mới đến bệnh cảnh màng não
 
@@ -205,7 +219,8 @@ Dựa vào kháng nguyên trên bề mặt bao nang chia ra 5 type huyết thanh
 
 Quá trình xâm nhập và gây bệnh:
 
-1. Bào tử nấm xâm nhập cơ thể từ đường hô hấp. Phải vượt qua hàng rào bảo vệ ở đường hô hấp
+1. Bào tử nấm xâm nhập cơ thể từ đường hô hấp.
+Phải vượt qua hàng rào bảo vệ ở đường hô hấp
 2. Ở phế nang, tế bào nấm sẽ khử nước dần dần và chuyển thành bao nang polysaccharide
     - Glucosylceramide synthase (GCS) là thành phần chính giúp vi nấm tồn tại bên ngoài tế bào
     - Bao nang polysaccharide: kháng thực bào và ức chế bạch cầu di chuyển tới vùng nhiễm nấm -> các cơ chế bệnh đều liên quan đến bao nang
@@ -213,14 +228,15 @@ Quá trình xâm nhập và gây bệnh:
 Kết quả:
 
 - MD bình thường
-    - Không triệu chứng hoặc nhẹ, tự hết
-    - Hoặc tạo thành hang, những nốt không can xi hóa
-trong phổi. Phát hiện tình cờ khi chụp x quang phổi
+  - Không triệu chứng hoặc nhẹ, tự hết
+  - Hoặc tạo thành hang, những nốt không can xi hóa
+trong phổi.
+Phát hiện tình cờ khi chụp x quang phổi
 - SGMD:
-    - Lan tỏa cả phổi rồi phát tán toàn thân, hoặc tới não – màng não
-    - Thâm nhiễm mô kẽ lan tỏa hoặc khu trú
-    - Thâm nhiễm phế nang và nốt trong phổi thì ít gặp
-    - Hạch trung thất và tràn dịch màng phổi hiếm gặp => Không có hình ảnh Xquang đặc trưng
+  - Lan tỏa cả phổi rồi phát tán toàn thân, hoặc tới não – màng não
+  - Thâm nhiễm mô kẽ lan tỏa hoặc khu trú
+  - Thâm nhiễm phế nang và nốt trong phổi thì ít gặp
+  - Hạch trung thất và tràn dịch màng phổi hiếm gặp => Không có hình ảnh Xquang đặc trưng
 
 ### *Histoplasma capsulatum*
 
@@ -232,10 +248,12 @@ Tính chất:
 Quá trình xâm nhập và gây bệnh:
 
 1. Hít phải bào tử nấm (chủ yếu là bào tử đính nhỏ) vào phổi.
-2. Bào tử tới bám dính ở lớp màng nhày đường hô hấp, hoặc đi sâu tới phế nang. Phát triển thành dạng hạt men (< 3 micromet -> dễ xâm nhập sâu).
+2. Bào tử tới bám dính ở lớp màng nhày đường hô hấp, hoặc đi sâu tới phế nang.
+Phát triển thành dạng hạt men (< 3 micromet -> dễ xâm nhập sâu).
 3. Tại phổi, vi nấm sẽ bị thực bào bởi bạch cầu trung tính và đại thực bào phế nang
 4. Cơ chế giúp vi nấm tồn tại trong đại thực bào: tăng pH trong phagolysosome và tăng hấp thu sắt, tiết các protein ức chế sự thực bào,... => tiềm ẩn và sẽ trở lại khi bị SGMD
-5. Vì vậy đại thực bào có hoạt tính chống lại H. capsulatum =a=yếu==, và vi nấm sẽ phát triển trong các đại thực bào này. Sau đó phát tán ra toàn thân
+5. Vì vậy đại thực bào có hoạt tính chống lại H. capsulatum =a=yếu==, và vi nấm sẽ phát triển trong các đại thực bào này.
+Sau đó phát tán ra toàn thân
 6. =r=CD4 đóng vai trò chính loại bỏ vi nấm==, CD8 cũng có đáp ứng phụ CD4
 
 Xét nghiệm chấn đoán => rất chung chung:
@@ -246,8 +264,8 @@ Xét nghiệm chấn đoán => rất chung chung:
 Triệu chứng (biểu hiện bệnh học):
 
 - Miễn dịch bình thường (tương tự như lao):
-    - u hạt, thỉnh thoảng tiến triển thành hoại tử bã đậu. sau khi lành những u hạt này sẽ xơ hóa hoặc đóng vôi.
-    - Phản ứng miễn dịch đối với vi nấm có thể gây viêm khớp, viêm màng ngoài tim, nốt hồng ban.
+  - u hạt, thỉnh thoảng tiến triển thành hoại tử bã đậu. sau khi lành những u hạt này sẽ xơ hóa hoặc đóng vôi.
+  - Phản ứng miễn dịch đối với vi nấm có thể gây viêm khớp, viêm màng ngoài tim, nốt hồng ban.
 - Ở người suy giảm miễn dịch phản ứng viêm nhẹ hơn
 
 Bệnh cảnh viêm phổi cấp tính thường tự hết, không cần điều trị, nhưng tổn thương u hạt vôi hóa vẫn có thể được phát hiện trên x quang phổi.
