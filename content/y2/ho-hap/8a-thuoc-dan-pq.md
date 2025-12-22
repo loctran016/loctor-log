@@ -122,6 +122,7 @@ Nhớ
 - Tên thuốc
 - thuộc nhóm SABA hay LABA
 - Ứng dụng lâm sàng: dùng khi nào?
+::
 
 ### Cơ chế hoạt động
 
