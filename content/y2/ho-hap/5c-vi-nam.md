@@ -1,14 +1,10 @@
 ---
-title: Bài 3 - ĐK-KC hệ hô hấp
+title: Bài 5c - Vi nấm gây bệnh đường hô hấp
 date: 2025-12-01
 tags: ['SL bệnh']
 ---
 
-<!-- ## Vi khuẩn
-
-## Virus -->
-
-## Vi nấm
+## Vi nấm thường gặp
 
 Các vi nấm gây bệnh ở đường hô hấp
 
@@ -27,7 +23,7 @@ miễn dịch bẩm sinh và hệ thống miễn dịch thích nghi chống lạ
 3. Nếu hệ thống miễn dịch không thắng được bảo tử nấm thì nó sẽ nảy mầm, chuyển qua thành dạng sợi và xâm nhập vào nhu mô của chúng ta (nhu mô phổi hoặc các vị trí khác).
 Dạng sợi này bị tấn công bởi các bạch cầu đa nhân trung tính.
 
-### *Aspergillus spp*
+## *Aspergillus spp*
 
 Tính chất:
 
@@ -108,22 +104,18 @@ Bệnh nhân được chẩn đoán là bướu nấm ở phổi do vi nấm Asp
 
 Cơ chế bệnh sinh trong trường hợp bệnh này là gì?
 
-A.
-Vi nấm phát triển xâm nhập nhu mô phổi.
+A. Vi nấm phát triển xâm nhập nhu mô phổi.
 
-B.
-Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
+B. Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
 
-C.
-Vi nấm gây hoại tử nhu mô.
+C. Vi nấm gây hoại tử nhu mô.
 
-D.
-Vi nấm phát triển bên trong hang lao có sẵn.
+D. Vi nấm phát triển bên trong hang lao có sẵn.
 
 ĐÁP ÁN: D
 ::
 
-### *Pneumocystis jirovecii*
+## *Pneumocystis jirovecii*
 
 Tính chất chung:
 
@@ -201,7 +193,7 @@ kháng đơn bào.
 Cụ thể là thuốc cochimocxadon.
 ::
 
-### *Cryptococcus neoformans*
+## *Cryptococcus neoformans*
 
 Nấm hạt men có bao nang bao quanh.
 Bao nang không bị thấm bởi carbon của mực tàu
@@ -238,7 +230,7 @@ Phát hiện tình cờ khi chụp x quang phổi
   - Thâm nhiễm phế nang và nốt trong phổi thì ít gặp
   - Hạch trung thất và tràn dịch màng phổi hiếm gặp => Không có hình ảnh Xquang đặc trưng
 
-### *Histoplasma capsulatum*
+## *Histoplasma capsulatum*
 
 Tính chất:
 
