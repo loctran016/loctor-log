@@ -4,7 +4,7 @@ import defaultLayout from "./default.vue";
 
 <template>
   <defaultLayout>
-    <main class="mx-auto mt-2 lg:mt-4 min-h-screen h-max overflow-x-hidden">
+    <main class="mx-auto mt-2 lg:mt-4 min-h-screen h-max">
       <slot></slot>
     </main>
     <Footer/>

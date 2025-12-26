@@ -1,5 +1,5 @@
 <template>
-  <div :class="container && 'bg-slate-50 dark:bg-zinc-800/50 px-6 py-6 rounded-lg'" v-on-click-outside="() => showDetail = false">
+  <div :class="container && 'bg-slate-50 dark:bg-zinc-800/50 px-6 py-6 rounded-lg'" class="mb-4"   v-on-click-outside="() => showDetail = false">
     <div @click="showDetail = !showDetail"  class="flex items-center gap-1 cursor-pointer" >
         <Icon name="material-symbols-light:arrow-back-2-rounded" class="-rotate-180 text-2xl transform-gpu duration-100" :class="showDetail && '-rotate-90'" ></Icon>
         <p style="margin:0px">

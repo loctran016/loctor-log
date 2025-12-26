@@ -1,7 +1,7 @@
 ---
 title: Bài 5c - Vi nấm gây bệnh đường hô hấp
-date: 2025-12-01
-tags: ['SL bệnh']
+date: 2025-12-21
+tags: ['ĐK-KC']
 ---
 
 ## Vi nấm thường gặp
@@ -104,13 +104,17 @@ Bệnh nhân được chẩn đoán là bướu nấm ở phổi do vi nấm Asp
 
 Cơ chế bệnh sinh trong trường hợp bệnh này là gì?
 
-A. Vi nấm phát triển xâm nhập nhu mô phổi.
+A.
+Vi nấm phát triển xâm nhập nhu mô phổi.
 
-B. Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
+B.
+Vi nấm gây phản ứng dị ứng làm phù mô kẽ.
 
-C. Vi nấm gây hoại tử nhu mô.
+C.
+Vi nấm gây hoại tử nhu mô.
 
-D. Vi nấm phát triển bên trong hang lao có sẵn.
+D.
+Vi nấm phát triển bên trong hang lao có sẵn.
 
 ĐÁP ÁN: D
 ::

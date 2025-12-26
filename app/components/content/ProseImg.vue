@@ -1,5 +1,5 @@
 <template>
-  <figure class="md:-mx-8 lg:-mx-16">
+  <figure class="md:-mx-4 lg:-mx-6">
     <NuxtImg
       class="rounded-md mx-auto shadow-lg max-xl:w-full hover:cursor-zoom-in"
       :src="refinedSrc"

@@ -47,7 +47,7 @@ useSeoMeta({
 </script>
 
 <template>
-    <p class="text-sm lg:text-base dark:text-gray-200 font-bold mb-6 ml-6 xl:ml-8 mt-2 text-slate-900 hover:text-slate-950 hover:dark:text-white group tracking-wide ">
+    <p class="text-sm lg:text-base dark:text-gray-200 font-bold mb-6 ml-6 xl:ml-8 mt-2 text-slate-900 hover:text-slate-950 hover:dark:text-white group tracking-wide sticky top-4">
         <NuxtLink :to="`/${year}/${subject}`" class="flex items-center gap-2 max-w-1/2 w-max cursor-pointer">
             <Icon class="group-hover:-translate-x-1 duration-150 lg:text-lg" name="material-symbols-light:arrow-left-alt-rounded"></Icon>{{ headline }}</NuxtLink></p>
     <div class="mx-auto text-center" v-if="post">
@@ -55,7 +55,7 @@ useSeoMeta({
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
   <!-- Render the content post as Prose & Vue components -->
-   <article class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-700/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]  prose-headings:duration-100 prose-headings:transform-gpu prose-h1:scroll-mt-0 prose-h2:scroll-mt-20 prose-h3:scroll-mt-20" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
+   <article class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-700/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw]  prose-headings:duration-100 prose-headings:transform-gpu" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
        <ContentRenderer v-if="post" :value="post" />
        <NotFound v-else></NotFound>
    </article>

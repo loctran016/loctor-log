@@ -200,7 +200,8 @@ Có 3 nguyên nhân:
 - Dãn cơ trơn mạch máu -> cung lượng tim giảm -> kích thích tim đập nhanh
 => Đây là tác dụng thường gặp ở bệnh nhân sử dụng thuốc này -> tác dụng phụ này rất nguy hiểm.
 
-Bệnh nhân lớn tuổi thường có bệnh tim mạch. Khi sử dùng beta2 agonist cần lưu ý tránh làm bệnh tim mạch nặng thêm và ảnh hưởng đến tính mạng.
+Bệnh nhân lớn tuổi thường có bệnh tim mạch.
+Khi sử dùng beta2 agonist cần lưu ý tránh làm bệnh tim mạch nặng thêm và ảnh hưởng đến tính mạng.
 
 Bệnh nhân vừa bị bệnh tim, vừa bị bệnh suyễn.
 Cho BN uống thuốc Beta2 agonists thì tim đập nhanh mà không cho thì không được.
@@ -302,7 +303,8 @@ Gồm:
 ### Cơ chế tác dụng
 
 Khi có phản ứng viêm -> hoạt hoá men PLA2 -> biến đổi màng phospholipid
-của màng tế bào thành arachidonic acid. Arachidonic acid sẽ biến đổi thành 2 chất dưới tác động
+của màng tế bào thành arachidonic acid.
+Arachidonic acid sẽ biến đổi thành 2 chất dưới tác động
 của 2 cái men là
 
 - Arachidonic acid được hoạt hoá bởi men cyclooxygenase (COX) tạo thành prostaglandin
@@ -320,18 +322,19 @@ chất trung gian khác như histamin, prostaglandin, ...
 ra được Leukotriene A4
 - Ức chế sự gắn kết của thụ thể có thuốc Montelukast, Zafirleukast
 
-
 ::detail
 #title
 Hiệu quả:
 #default
+
 - Ngăn chặn sự co cơ trơn của đường hô hấp phế quản
 - Giảm tiết chất nhầy
 - Giảm tính thấm thành mạch
 - Giảm bạch cầu trung tính và bạch cầu xâm nhập vào phổi, ngăn ngừa viêm nhiễm
 ::
 
-Aspirin và các thuốc NSAIDs khác chống chỉ định trong cơn hen phế quản. Vì Aspirin ức
+Aspirin và các thuốc NSAIDs khác chống chỉ định trong cơn hen phế quản.
+Vì Aspirin ức
 chế men COX -> arachidonic acid bị biến đổi bởi 5-lipoxygenase tăng lên -> bệnh hen sẽ nặng hơn
 
 ### Chỉ định
