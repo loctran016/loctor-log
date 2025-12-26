@@ -108,10 +108,10 @@ Ví dụ: epinephrine -> Hiện nay không còn sử dụng
 
 CHỌN LỌC β2 :
 
-- SABA(thuốc đồng vận beta tác dụng ngắn): albuterol (salbutamol), levalbuterol, metaproterenol (khác metaprolol - chẹn beta), terbutaline, fenoterol, tulobuterol, rimiterol, và pirbuterol.
+- SABA (thuốc đồng vận beta tác dụng ngắn): albuterol (salbutamol), levalbuterol, metaproterenol (khác metaprolol - chẹn beta), terbutaline, fenoterol, tulobuterol, rimiterol, và pirbuterol.
   - Thuốc tác dụng nhanh: sau 3 - 5p sau khi dùng thì có tác dụng dãn phế quản tối đa -> dùng trong cấp cứu cắt cơn hen phế quản
   - Sau khoảng 4h thì hết tác dụng -> phải ghi y lệnh là albuterol 1 ống * 4 lần, mỗi lần cách nhau 4h - 6h trong ngày
-- LABA(thuốc đồng vận beta tác dụng dài):salmeterol , formoterol , indacaterol
+- LABA (thuốc đồng vận beta tác dụng dài):salmeterol , formoterol , indacaterol
   - Khởi phát lâu, tác dụng chậm, dãn yếu, nhưng **hiệu quả lâu** (lợi thế) -> ngăn ngừa cơn hen PQ
 
 ::badge{type="tip"}
@@ -138,7 +138,7 @@ Quá trình:
 3. cAMP hoạt hoá PKA (protein kinase A), gây dãn cơ thông qua các phản ứng
     - Tăng Ca<sup>2+</sup>/Na<sup>+</sup> ATPase, trao đổi Ca<sup>2+</sup>/Na<sup>+</sup> -> Na<sup>+</sup> đi vào, Ca<sup>2+</sup> đi ra -> dãn cơ
     - Tăng hoạt kênh Ca<sup>2+</sup>/K<sup>+</sup> ->  K<sup>+</sup> đi vào, Ca<sup>2+</sup> đi ra -> dãn cơ
-    - Ức chế con đường PLC-==IP<sub>3</sub>==-Ca<sup>2+</sup> -> dãn cơ
+    - Ức chế con đường PLC-=c=IP<sub>3</sub>==-Ca<sup>2+</sup> -> dãn cơ
     - Ức chế MLCK (men xúc tác phosphoryl hoá chuỗi nhẹ myosin) -> ức chế co cơ
 ::
 
