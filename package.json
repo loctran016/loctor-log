@@ -41,7 +41,7 @@
     "markmap-common": "^0.18.9",
     "markmap-lib": "^0.18.12",
     "markmap-view": "^0.18.12",
-    "nuxt": "^4.1.2",
+    "nuxt": "^4.1.0",
     "nuxt-svgo": "^4.2.6",
     "remark-flexible-markers": "^1.3.1",
     "vue": "^3.5.21",
