@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Global */
+
+.prose a {
+    @apply hover:text-fuchsia-800 dark:hover:text-fuchsia-500
+}
+
+/* Marker */
 .flexible-marker {
     @apply px-[1px] rounded mx-0
 }

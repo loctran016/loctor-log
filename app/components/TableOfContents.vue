@@ -1,10 +1,10 @@
 
 
 <template>
-  <nav class="mx-auto mt-2" v-if="links && links.length" v-on-click-outside="() => showDetail = false">
+  <nav class="mx-auto mt-2" v-if="links && links.length">
     <div @click="showDetail = !showDetail"  class="flex items-center gap-1 cursor-pointer" >
-        <Icon name="material-symbols-light:arrow-back-2-rounded" class="-rotate-180 text-2xl transform-gpu duration-100" :class="showDetail && '-rotate-90'" ></Icon>
-        <h2 class="text-xl lg:text-3xl font-[Montserrat]">On this page</h2>
+        <Icon name="material-symbols-light:arrow-back-2-rounded" class="-rotate-180 text-2xl lg:text-4xl transform-gpu duration-100" :class="showDetail && '-rotate-90'" ></Icon>
+        <h2 class="text-2xl lg:text-3xl font-[Montserrat]">On this page</h2>
     </div>
     <Transition name="detail" class="mx-4">
         <!-- <div > -->
@@ -14,7 +14,7 @@
           :href="`#${link.id}`"
           :class="{ active: activeId === link.id }"
           @click. prevent="scrollToHeading(link.id)"
-          class="text-xl hover:font-bold transform-all duration-100 text-black dark:text-white font-[Montserrat] tracking-wide"
+          class="text-xl font-bold transform-all duration-100 text-gray-800 dark:text-gray-200 font-[Montserrat] tracking-wide hover:text-fuchsia-800 dark:hover:text-fuchsia-500"
         >
           {{ link.text }}
         </a>
@@ -25,7 +25,7 @@
               :href="`#${child.id}`"
               :class="{ active: activeId === child.id }"
               @click.prevent="scrollToHeading(child.id)"
-              class="space-y-2 ml-6"
+              class="space-y-2 ml-6 hover:text-fuchsia-800 dark:hover:text-fuchsia-500"
             >
               {{ child.text }}
             </a>
@@ -55,8 +55,6 @@
 
 
 <script setup lang="ts">
-
-import { vOnClickOutside } from '@vueuse/components'
 
 const props = defineProps({
   links: {
