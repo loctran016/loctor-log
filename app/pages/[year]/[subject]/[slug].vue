@@ -43,6 +43,7 @@ useSeoMeta({
 // const article = useTemplateRef<HTMLElement>('article')
 // const { isScrolling } = useScroll(article)
 
+console.log(post.value?.body?.toc?.links)
 
 </script>
 
@@ -54,8 +55,8 @@ useSeoMeta({
         <h1 :class="$device.isTablet ? 'text-3xl lg:text-4xl':'text-2xl lg:text-4xl'" class="font-[Montserrat] max-w-[80vw] font-bold mx-auto">{{ post.title }}</h1>
         <p class="italic text-gray mt-2">{{ useDateFormat(post.date,'ddd, DD MMM YYYY') }}</p>
     </div>
-    <!-- <aside class="mx-auto max-w-[50vw]"> <TableOfContents :links="post?.body?.toc?.links || []" />
-    </aside> -->
+    <aside class="mx-auto lg:max-w-[50vw]"> <TableOfContents :links="post?.body?.toc?.links || []" />
+    </aside>
 
   <!-- Render the content post as Prose & Vue components -->
    <article class="post-wrapper prose-headings:border-b-2 prose-headings:border-slate-500/30 hover:prose-headings:border-slate-500/80 dark:prose-headings:border-slate-700/30 hover:dark:prose-headings:border-slate-300/30 prose prose-headings:font-[Montserrat] dark:prose-invert mx-auto mb-14 dark:text-gray-100 max-md:max-w-[85vw] prose-headings:duration-100 prose-headings:transform-gpu prose-h1:scroll-mt-0 prose-h2:scroll-mt-4 prose-h3:scroll-mt-2" :class="$device.isTablet ? 'prose-xl md:prose-xl':'lg:prose-lg'" >
