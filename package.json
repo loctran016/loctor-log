@@ -65,6 +65,6 @@
     "unocss": "^66.5.1"
   },
   "overrides": {
-    "@nuxtjs/mdc": "^0.17.3"
+    "@nuxtjs/mdc": "^0.23.0"
   }
 }
