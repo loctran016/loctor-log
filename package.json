@@ -54,7 +54,7 @@
     "@unocss/nuxt": "^66.5.1",
     "@unocss/preset-wind4": "^66.5.1",
     "@vueuse/nuxt": "^13.9.0",
-    "markdownlint-cli": "^0.45.0",
+    "markdownlint-cli": "^0.50.0",
     "remark-emoji": "^5.0.2",
     "remark-extended-table": "^2.0.3",
     "remark-gfm": "^4.0.1",
