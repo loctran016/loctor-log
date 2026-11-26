@@ -29,7 +29,7 @@
     "@giscus/vue": "^3.1.1",
     "@nuxt/content": "3.6.3",
     "@nuxt/fonts": "0.11.4",
-    "@nuxt/icon": "1.15.0",
+    "@nuxt/icon": "2.6.3",
     "@nuxt/image": "1.10.0",
     "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/device": "^3.2.4",
